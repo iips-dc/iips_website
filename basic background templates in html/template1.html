@@ -10,9 +10,9 @@
 	<meta name="generator" />
 	
 	<link rel = "stylesheet" href = "css/bootstrap.css" type = "text/css">
-	<link rel = "stylesheet" href = "css/menu2.css" type = "text/css">
+	<link rel = "stylesheet" href = "css/content.css" type = "text/css">
 	
-	<link rel = "stylesheet" href = "css/jquery-ui-1.10.3.custom.min.css" type = "text/css">
+	
 	
 
 	<script src="js/jquery.js"> </script>
@@ -43,84 +43,28 @@ p.link{
 	padding-top:0px;
 }
 
+.quicklinks {
+	cursor:pointer;
+}
+
+
      
 </style>
 
 <script>
-	// script working for accordion menu
-	
-  $(function() {
-    $( ".accordion" ).accordion({
-      event: "click hoverintent"
-    });
-  });
- 
-  /*
-   * hoverIntent | Copyright 2011 Brian Cherne
-   * http://cherne.net/brian/resources/jquery.hoverIntent.html
-   * modified by the jQuery UI team
-   */
-  $.event.special.hoverintent = {
-    setup: function() {
-      $( this ).bind( "mouseover", jQuery.event.special.hoverintent.handler );
-    },
-    teardown: function() {
-      $( this ).unbind( "mouseover", jQuery.event.special.hoverintent.handler );
-    },
-    handler: function( event ) {
-      var currentX, currentY, timeout,
-        args = arguments,
-        target = $( event.target ),
-        previousX = event.pageX,
-        previousY = event.pageY;
- 
-      function track( event ) {
-        currentX = event.pageX;
-        currentY = event.pageY;
-      };
- 
-      function clear() {
-        target
-          .unbind( "mousemove", track )
-          .unbind( "mouseout", clear );
-        clearTimeout( timeout );
-      }
- 
-      function handler() {
-        var prop,
-          orig = event;
- 
-        if ( ( Math.abs( previousX - currentX ) +
-            Math.abs( previousY - currentY ) ) < 7 ) {
-          clear();
- 
-          event = $.Event( "hoverintent" );
-          for ( prop in orig ) {
-            if ( !( prop in event ) ) {
-              event[ prop ] = orig[ prop ];
-            }
-          }
-          // Prevent accessing the original event since the new event
-          // is fired asynchronously and the old event is no longer
-          // usable (#6028)
-          delete event.originalEvent;
- 
-          target.trigger( event );
-        } else {
-          previousX = currentX;
-          previousY = currentY;
-          timeout = setTimeout( handler, 100 );
-        }
-      }
- 
-      timeout = setTimeout( handler, 100 );
-      target.bind({
-        mousemove: track,
-        mouseout: clear
-      });
-    }
-  };
-  </script>
+$(document).ready(function(){
+	$("#accordian h3").click(function(){
+		//slide up all the link lists
+		$("#accordian ul ul").slideUp();
+		//slide down the link list below the h3 clicked - only if its closed
+		if(!$(this).next().is(":visible"))
+		{
+			$(this).next().slideDown();
+		}
+	})
+});
+
+</script>
 
 
 <body>
@@ -133,32 +77,44 @@ p.link{
 			
 
 			<!-- accordion menu -->
-
-			<div class="accordion">
-				<h3>Item 1</h3>
-					<div>
-						<li> hello </li>
-					</div>
+			<div id="accordian">
+				<ul>
+					<li class="active">
+						<h3>Dashboard</h3>
+						<ul>
+							<li><a href="#">Reports</a></li>
+							<li><a href="#">Search</a></li>
+							<li><a href="#">Graphs</a></li>
+							<li><a href="#">Settings</a></li>
+						</ul>
+					</li>
+				
+					<li >
+						<h3><span></span>Tasks</h3>
+						<ul>
+							<li><a href="#">Reports</a></li>
+							<li><a href="#">Search</a></li>
+							<li><a href="#">Graphs</a></li>
+							<li><a href="#">Settings</a></li>
+							<li><a href="#">Graphs</a></li>
+							<li><a href="#">Settings</a></li>
+						</ul>
+					</li>
 					
-				<h3>Item 2</h3>
-					<div>
-						<li> hello </li>
-					</div>
-					
-				<h3>Item 3</h3>
-					<div>
-						<li><a>link 1</a></li>
-						<li ><a>link 2</a></li>
-						<li ><a>link 3</a></li>
-						<li ><a>link 4</a></li>
-						<li ><a>link 5</a></li>
-					</div>
-					
-				<h3>Section 4</h3>
-					<div>
-						<li> hello </li>
-					</div>
+					<li >
+						<h3><span></span>Current</h3>
+						<ul>
+							<li><a href="#">events</a></li>
+							<li><a href="#">about</a></li>
+							<li><a href="#">infrastructure</a></li>
+							<li><a href="#">activity</a></li>
+							<li><a href="#">campus</a></li>
+							<li><a href="#">alumni</a></li>
+						</ul>
+					</li>
+				</ul>
 			</div>
+		
 			
 			<!-- accordion menu end -->
 			
@@ -215,9 +171,9 @@ p.link{
 		
 		<!-- right menu -->
 		<div class= "span2 content" style = "background-color:">
-			<div class= "accordion">
+			<div>
 				<h3>Quick Links</h3>
-				<div>
+				<div class="quicklinks">
 					<li id ="quicklink1"><a>link 1</a></li>
 					<li id ="quicklink2"><a>link 2</a></li>
 					<li id ="quicklink3"><a>link 3</a></li>
@@ -230,10 +186,6 @@ p.link{
 		
 	</div>
 	<!-- span 12 ended -->
-
-	
-		
-	
  
 
  
