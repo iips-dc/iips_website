@@ -15,7 +15,7 @@
     <link href="carousel.css" rel="stylesheet">
 	<style type="text/css">
 		.gateway {
-			margin-left: 80px;
+			margin-left: 70px;
 		
 		}
 		.tab{
