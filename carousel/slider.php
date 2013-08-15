@@ -8,9 +8,18 @@
         	<span>
             IIPS Wallpaper
 	    	</span>
+			<img src="images/iips5.jpg"/>
+	  		<span>
+            IIPS Light-House
+	    	</span>
+			<img src="images/iips6.jpg"/>
+	  		<span>
+            IIPS in Desert
+	    	</span>
 			<img src="images/iips8.jpg" />
 	  		<span>
             IIPS Night-Fury
 	    	</span>
+			
 		</div>
 
