@@ -43,4 +43,28 @@
 		.span_width{
 			width:700px;
 		}
+		 .wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -4em;
+    }
+	/*css for footer*/
+
+	.foot{
+		border:#00CC00;
+		background-color:#333333;
+		color:#FFFFFF;
+		width:100%;
+		height: 80px;;
+ 
+	}
+	#footer{
+		Position: absolute;
+      Width: 100%;
+      Bottom: 0;
+      Height: 75px;
+	}
+	
+
 	</style>
