@@ -18,7 +18,19 @@
   <?php
   	include('header.php');
 	include('slider.php');
+	include('newsEvents.php');
+	include('footer.php');
 	include('jsLinks.php');
   ?>
+  <script>
+  $(function () {
+  	$('#myTab a').click(function (e) {
+    e.preventDefault();
+  $(this).tab('show');
+})
+
+    $('#myTab a:last').tab('show');
+  })
+</script>
   </body>
 </html>
