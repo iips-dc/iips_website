@@ -1,13 +1,19 @@
-<!doctype html>
-<html>
-    <head>
-        <meta charset="utf-8" />
+ <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
         <title>About IIPS</title>
 
        <!-- Include Styles -->
         <link rel="stylesheet" href="css/vtab-style.css" />		
         <!--[if IE 7]><style type="text/css">#v-nav>ul>li.current{border-right:1px solid #fff!important}#v-nav>div.tab-content{z-index:-1!important;left:0}</style><![endif]-->
         <!--[if IE 8]><style type="text/css">#v-nav>ul>li.current{border-right:1px solid #fff!important}#v-nav>div.tab-content{z-index:-1!important;left:0}</style><![endif]-->
+		<?php
+		 include('cssLinks.php');
+		?>
 		<style type="text/css">
 			.iips_logo{
 				float:right;
@@ -66,11 +72,11 @@ Dr.Anand K. Sapre
 Director</td>
 </tr>
 </table><br><br>
-Our innovative academic programmes incorporate a tradition of academic excellence and experimental learning with an emphasis on team-work. The institute’s environment instills the skills needed to succeed in a competitive global environment. We imbibe capabilities of working in diversified fields with creativity, imagination and perseverance in our students. We actively explore and develop new methodologies such as alternative teaching techniques and learning approaches that promote thinking skills and lifelong learning habits.
+Our innovative academic programmes incorporate a tradition of academic excellence and experimental learning with an emphasis on team-work. The instituteï¿½s environment instills the skills needed to succeed in a competitive global environment. We imbibe capabilities of working in diversified fields with creativity, imagination and perseverance in our students. We actively explore and develop new methodologies such as alternative teaching techniques and learning approaches that promote thinking skills and lifelong learning habits.
 
 My belief is that organizations today new socially sensitive managers. We also believe that trough a whole lot of exercises and cases that these students go through at the institute, they develop a set of values that will help them to manage this environmental change and business organization in an ethical manner. I hope you will find the qualities of ethical leadership and management in our students.
 
-You have always supported IIPS in a very big way. Without your support it would not have been possible for us to achieve the current growth. I am confident that the institute will continue to get your support in all its activities. We look forward to receiving each one of you during this year’s placement season.
+You have always supported IIPS in a very big way. Without your support it would not have been possible for us to achieve the current growth. I am confident that the institute will continue to get your support in all its activities. We look forward to receiving each one of you during this yearï¿½s placement season.
 
 I look forward to welcome you here.....
 
@@ -134,7 +140,7 @@ Our mission in the design and conduct of academic programmes is
 
     					<li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
 
-    					<li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5½ Yrs. 93032-30568</li>
+    					<li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5ï¿½ Yrs. 93032-30568</li>
 
     					<li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>
 					</ul>	
@@ -144,9 +150,13 @@ Our mission in the design and conduct of academic programmes is
             </div>
 
 		</section>
+		<?php
+			include('jsLinks.php');
+		?>
 		<!-- Include Scripts for vertical tabs-->
 		<script type="text/javascript" src="js/jQuery-hashchange.js"></script>       
         <script type="text/javascript" src="js/vtab-script.js"></script>
+		
 <!-- container 12 ended -->
 </body>
 </html>

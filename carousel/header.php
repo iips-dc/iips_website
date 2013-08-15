@@ -1,57 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
 
-    <title>Carousel Template for Bootstrap</title>
-
-    <!-- Bootstrap core CSS -->
-    <link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
-
-    <!-- Custom styles for this template -->
-    <link href="carousel.css" rel="stylesheet">
-	<style type="text/css">
-		.logo{
-			background-image:url(images/green-03.jpg);
-			background-repeat:repeat;
-			background-attachment:fixed;
-			width:100%;
-			height:50px;
-			margin-top:-12px;
-			
-		}
-		h1{
-			font-family:"Palatino Linotype";
-			font-size:24px;
-			padding-top:8px;
-			color:#333333;
-		}
-		.gateway {
-			margin-left: 0px;
-			background-color:#333333;
-			height:25px;
-		}
-		.tab{
-			padding: 0 20px; /* Or desired space*/
-		}
-		.topspace{
-			margin-top: -25px; 
-		}
-		.search{
-			margin-left:170px;
-		}
-		.contact{
-			float:right;
-			margin-right:00px;
-		}
-	</style>
-  </head>
-<!-- NAVBAR
-================================================== -->
-  <body>
     <div class="gateway">
     <a href="" class="tab">Student</a>
 	<a href="" class="tab">Faculty</a>
@@ -73,7 +20,7 @@
            
             <div class="nav-collapse collapse">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="#">Home</a></li>
+                <li class="active"><a href="index.php">Home</a></li>
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">About us<b class="caret"></b></a>
                   <ul class="dropdown-menu">
@@ -111,20 +58,3 @@
             </div>
           </div>
         </div>
-
-      </div>
-    </div>
-
-
-
-
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="../assets/js/jquery.js"></script>
-    <script src="../dist/js/bootstrap.js"></script>
-    <script src="../bootstrap/js/bootstrap.min.js"/>
-    <script src="../assets/js/holder.js"></script>
-  </body>
-</html>
