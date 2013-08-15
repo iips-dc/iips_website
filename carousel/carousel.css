@@ -6,6 +6,9 @@
 body {
   padding-bottom: 40px;
   color: #5a5a5a;
+  Min-height: 100%;  /* for all other browsers */
+      height: 100%;  /* for IE */
+      position:relative;
 }
 
 
