@@ -24,6 +24,7 @@
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">About us<b class="caret"></b></a>
                   <ul class="dropdown-menu">
+				  	<li><a href="About_university.php">About University</a></li>
                     <li><a href="About_iips.php">About IIPS</a></li>
                     <li><a href="#2">Director Message</a></li>
                     <li><a href="#3">Infrastructure</a></li>
