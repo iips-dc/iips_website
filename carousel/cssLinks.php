@@ -25,10 +25,25 @@
 		.gateway {
 			margin-left: 0px;
 			background-color:#333333;
-			height:25px;
+			height:35px;
+			text-align: center;
+			
+			
+			
+			
+			
+		}
+		.gateway a {
+			text-align: center;
+			color:white;
+			
+			
 		}
 		.tab{
-			padding: 0 20px; /* Or desired space*/
+			float:left;
+			
+			padding:5px 20px 20px 15px; /* Or desired space*/
+			
 		}
 		.topspace{
 			margin-top: -25px; 
@@ -39,6 +54,7 @@
 		.contact{
 			float:right;
 			margin-right:00px;
+			padding:5px 20px 0px 0px;
 		}
 		.span_width{
 			width:700px;
