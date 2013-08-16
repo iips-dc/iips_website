@@ -43,7 +43,7 @@
 
                 <ul>
 
-                    <li tab="tab1" class="first current">About University</li>
+                    <li tab="tab1" class="first current" style="z-index:0">About University</li>
 
                     <li tab="tab2">Vice Chancellor</li>
 
