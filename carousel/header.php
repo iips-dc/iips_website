@@ -77,21 +77,13 @@
                  <li class="dropdown">
                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Placements<b class="caret"></b></a>
 				   <ul class="dropdown-menu">
-				       <li><a href="#1">MCA</a></li>
-                       <li><a href="#2">MBA</a></li>
-					   <li><a href="#2">Mtech</a></li>
+				       <li><a href="techPlacement.php">MCA/M.Tech</a></li>
+                       <li><a href="mbaMsPlacement.php">MBA-MS</a></li>
+					   <li><a href="#2">MBA-APR</a></li>
                        <li><a href="#3">Companies We Offer</a></li> 
 				   </ul>
 				  </li>
-                 
-					<li style="margin-left:130px;">
-			  		<form class="navbar-form navbar-left" action="" role="search">
-      				<div class="form-group">
-        				<input type="text" class="form-control" placeholder="Search">
-      				</div></li>
-      				<li ><button type="submit" class="btn btn-default">Submit</button>
-   					 </form></li>
-				
+               
               </ul>
 			  
             </div>
