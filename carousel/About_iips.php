@@ -30,7 +30,7 @@
             <div id="v-nav">
 
                 <ul>
-                    <li tab="tab1" class="first current">About IIPS</li>
+                    <li tab="tab1" class="first current" style="z-index:0">About IIPS</li>
                     <li tab="tab2">Director</li>
                     <li tab="tab3">Objectives and Vision</li>
 					<li tab="tab4">Academic Calendar</li>
