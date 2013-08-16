@@ -28,25 +28,59 @@
                     <li><a href="About_iips.php">About IIPS</a></li>
                     <li><a href="#2">Director Message</a></li>
                     <li><a href="#3">Infrastructure</a></li>
+					<li><a href="#3">Gallery</a></li>
                     <li><a href="#4">Reach us</a></li>
                   </ul>
                 </li>
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programs we offer<b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                    <li><a href="#1">MCA 6 years Integrated</a></li>
-                    <li><a href="#2">M.Tech 5 1/2 years Integrated</a></li>
-                    <li><a href="#3">MBA MS 5 years Integrated</a></li>
-                    <li><a href="#4">B.Com Hons 3 years</a></li>
+                    <li><a href="#1">Integrated</a></li>
+                    <li><a href="#2">Post Graduate</a></li>
+                    <li><a href="#3">Under Graduate</a></li>
                   </ul>
                 </li>
-                
-                <li><a href="#contact">Admission</a></li>
-                <li><a href="#contact">Academics</a></li>
-                <li><a href="#contact">Events</a></li>
-                <li><a href="#contact">Placements</a></li>
+                 <li class="dropdown">
+                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Admission<b class="caret"></b></a>
+				   <ul class="dropdown-menu">
+				       <li><a href="#1">Entrance Exam - CET</a></li>
+                       <li><a href="#2">Integrated</a></li>
+                       <li><a href="#3">Under Graduate</a></li>
+					   <li><a href="#4">Post Graduate</a></li>
+					   <li><a href="#5">How to apply</a></li>
+					   <li><a href="#6">Fees structure</a></li> 
+				   </ul>
+				  </li> 
+                 <li class="dropdown">
+                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Academics<b class="caret"></b></a>
+				   <ul class="dropdown-menu">
+				       <li><a href="#1">Academic Calender</a></li>
+                       <li><a href="#2">Syllabus</a></li>
+                       <li><a href="#3">News and Announcements</a></li>
+					   <li><a href="#4">Notices</a></li>
+					   <li><a href="#5">Development Center</a></li>
+					   <li><a href="#6">Research Cell</a></li> 
+				   </ul>
+				  </li>
+                 <li class="dropdown">
+                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<b class="caret"></b></a>
+				   <ul class="dropdown-menu">
+				       <li><a href="#1">Expression</a></li>
+                       <li><a href="#2">Synergy</a></li>
+                       <li><a href="#3">Tourista</a></li> 
+				   </ul>
+				  </li>
+                 <li class="dropdown">
+                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Placements<b class="caret"></b></a>
+				   <ul class="dropdown-menu">
+				       <li><a href="#1">MCA</a></li>
+                       <li><a href="#2">MBA</a></li>
+					   <li><a href="#2">Mtech</a></li>
+                       <li><a href="#3">Companies We Offer</a></li> 
+				   </ul>
+				  </li>
                  
-					<li style="margin-left:160px;">
+					<li style="margin-left:130px;">
 			  		<form class="navbar-form navbar-left" action="" role="search">
       				<div class="form-group">
         				<input type="text" class="form-control" placeholder="Search">
