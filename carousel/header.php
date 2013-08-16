@@ -11,19 +11,18 @@
 <!-- Top nav bar end -->
 
 <!-- header Start -->
-    <div class="navbar-wrapper topspace" style="width:100%">
+<div class="logo"><h1><span class="container">International Institute of Professional Studies - DAVV</span></h1></div>
+<!-- header End -->
+<div class = "container">
+	<div class="span12">
+	<div class="navbar-wrapper topspace" style="width:100% ; margin-top:0px;">
      <!-- <div class="container topspace">-->
 		<!-- label label-default -->
-			<div class="logo"><h1><span class="container">International Institute of Professional Studies - DAVV</span></h1></div>
+			
         <div class="navbar navbar-inverse navbar-static-top" style="width:100%">
           
-    	    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
-    	      <span class="icon-bar"></span>
-    	      <span class="icon-bar"></span>
-    	      <span class="icon-bar"></span>
-    	    </button>
-           
-            <div class="nav-collapse collapse">
+   
+           <div class="nav-collapse collapse">
               <ul class="nav navbar-nav">
                 <li class="active"><a href="index.php">Home</a></li>
                 <li class="dropdown">
@@ -98,3 +97,11 @@
             </div>
           </div>
         </div>
+
+	</div>
+	<!-- span12 div end" -->
+	
+</div>
+<!-- container end -->
+
+    
