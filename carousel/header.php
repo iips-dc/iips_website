@@ -1,11 +1,16 @@
+<!-- Top nav bar -->
 
-    <div class="gateway">
-    <a href="" class="tab">Student</a>
-	<a href="" class="tab">Faculty</a>
-	<a href="#" class="tab">Alumni</a>
-    <a href="#" class="tab">Staff</a>
-	<a href="#" class="contact">Contact Us</a>
+     <div class="gateway">
+		<div class="tab"> <a href=" ">Student</a> </div>
+		<div class="tab"> <a href="" >Faculty</a></div>
+		<div class="tab"> <a href="#">Alumni</a></div>
+		<div class="tab"> <a href="#">Staff</a></div>
+		<div class="contact"> <a href="#" >Contact us</a></div>	
 	</div>
+	
+<!-- Top nav bar end -->
+
+<!-- header Start -->
     <div class="navbar-wrapper topspace" style="width:100%">
      <!-- <div class="container topspace">-->
 		<!-- label label-default -->
