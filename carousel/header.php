@@ -70,8 +70,8 @@
                  <li class="dropdown">
                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<b class="caret"></b></a>
 				   <ul class="dropdown-menu">
-				       <li><a href="#1">Expression</a></li>
-                       <li><a href="#2">Synergy</a></li>
+				       <li><a href="Expression.php">Expression</a></li>
+                       <li><a href="synergy.php">Synergy</a></li>
                        <li><a href="#3">Tourista</a></li> 
 				   </ul>
 				  </li>
