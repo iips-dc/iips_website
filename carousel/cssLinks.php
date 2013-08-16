@@ -12,8 +12,9 @@
 			background-repeat:repeat;
 			background-attachment:fixed;
 			width:100%;
-			height:50px;
-			margin-top:-12px;
+			height:80px;
+			
+			margin-top:-20px;
 			
 		}
 		h1{
@@ -27,11 +28,6 @@
 			background-color:#333333;
 			height:35px;
 			text-align: center;
-			
-			
-			
-			
-			
 		}
 		.gateway a {
 			text-align: center;
@@ -82,5 +78,34 @@
       Height: 75px;
 	}
 	
+/* css for quicklinks on homepage : start*/
+	
+.quicklinklist a{
+	cursor :pointer;
+	color:white;
+	line-height:25px;	
+}
 
+.quicklinklist a:hover{
+	font-size:15px;
+	color:white;
+}
+
+.quicklist {
+	background-color: black;
+	height:180px;	
+}
+
+.quicklinklist h4{
+	color:white;
+	padding:0px 0px 0px 20px;
+	
+}
+
+.quicklinklist ul{
+	list-style-type: none;
+	
+}
+
+/* css for quicklinks on homepage : End*/
 	</style>
