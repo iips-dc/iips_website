@@ -26,8 +26,8 @@
                   <ul class="dropdown-menu">
 				  	<li><a href="About_university.php">About University</a></li>
                     <li><a href="About_iips.php">About IIPS</a></li>
-                    <li><a href="#2">Director Message</a></li>
-                    <li><a href="#3">Infrastructure</a></li>
+                    <li><a href="#2">Life @campus</a></li>
+                    <li><a href="infrastructure.php">Infrastructure</a></li>
 					<li><a href="#3">Gallery</a></li>
                     <li><a href="#4">Reach us</a></li>
                   </ul>
