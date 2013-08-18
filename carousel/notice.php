@@ -1,7 +1,7 @@
 <div id="notice" style="float:right; margin-top:-320px; width:230px; ">
 	<div class="panel panel-primary" style="height:300px;">
   		<div class="panel-heading">
-   			 <h3 class="panel-title">Notices</h3>
+   			 <h3 class="panel-title">Notices/Announcements</h3>
  	    </div>
         <div class="panel-body">
           <ul style="margin-left:-10px;">
