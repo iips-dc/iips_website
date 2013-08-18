@@ -78,34 +78,5 @@
       Height: 75px;
 	}
 	
-/* css for quicklinks on homepage : start*/
-	
-.quicklinklist a{
-	cursor :pointer;
-	color:white;
-	line-height:25px;	
-}
 
-.quicklinklist a:hover{
-	font-size:15px;
-	color:white;
-}
-
-.quicklist {
-	background-color: black;
-	height:180px;	
-}
-
-.quicklinklist h4{
-	color:white;
-	padding:0px 0px 0px 20px;
-	
-}
-
-.quicklinklist ul{
-	list-style-type: none;
-	
-}
-
-/* css for quicklinks on homepage : End*/
 	</style>
