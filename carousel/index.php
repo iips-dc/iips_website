@@ -11,6 +11,8 @@
 	<?php
 		include('cssLinks.php');
 	?>
+	<!--CSS For Testimonial-->
+
   </head>
   <!-- NAVBAR
 ================================================== -->
@@ -18,10 +20,13 @@
   <?php
   	include('header.php');
 	include('slider.php');
+	include('notice.php');
 	include('newsEvents.php');
+	
 	include('footer.php');
 	include('jsLinks.php');
   ?>
+  <script src="js/jquery.quote_rotator.js" type="text/javascript" charset="utf-8"></script>
   <script>
   $(function () {
   	$('#myTab a').click(function (e) {
@@ -31,6 +36,14 @@
 
     $('#myTab a:last').tab('show');
   })
+  
+  
+</script>
+<script><!-- Script for testimonial-->
+	$(document).ready(function() {
+            $('ul#quotes').quote_rotator();
+            $('ul#button_quotes').quote_rotator();
+        });
 </script>
   </body>
 </html>

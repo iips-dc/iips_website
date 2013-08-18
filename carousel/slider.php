@@ -1,5 +1,5 @@
 
-		<div id='coin-slider' style="margin-left:100px">
+		<div id='coin-slider' >
    			<img src="images/iips1.jpg">
    			<span>
             IIPS Animation

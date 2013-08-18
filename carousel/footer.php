@@ -1,10 +1,10 @@
 
       <!-- FOOTER -->
-<footer>
-<div id="footer" class="foot" >
-  <div class="wrapper">
-  		<div>
-		  <table width="100%" height="75">
+
+	<div id="footer" class="foot" >
+ 	 <div class="wrapper">
+  		
+		  <table width="100%" height="75px">
 		    <tr>
 			<td>IIPS ,DAVV<br />
 			    Takshashila Campus, Khandwa Road<br />
@@ -20,6 +20,7 @@
 			 </tr>
 			</table> 
 			<!--<p class="pull-right"><a href="#">Back to top</a></p> -->
+        </div>
+	</div>
 </div>
-</div>
-</footer>
+<!-- container end -->

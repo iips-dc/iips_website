@@ -49,6 +49,8 @@ body
     color: #333;
     cursor:pointer;
     font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+	width:750px;
+	float:left;
 }
 
 #v-nav >ul
