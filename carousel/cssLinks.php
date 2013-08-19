@@ -7,6 +7,9 @@
     <link href="carousel.css" rel="stylesheet">
 	<link  href="css/coin-slider-styles.css" rel="stylesheet" >
 	<style type="text/css">
+		body{
+			color:#000000;
+		}
 		.logo{
 			background-image:url(images/green-03.jpg);
 			background-repeat:repeat;
@@ -71,15 +74,15 @@
 		border:#00CC00;
 		background-color:#333333;
 		color:#FFFFFF;
-		width:100%;
-		height: 80px;;
+
  
 	}
 	#footer{
 		Position: absolute;
-      Width: 100%;
+      Width: 83%;
       Bottom: 0;
       Height: 75px;
+
 	}
 	
 
