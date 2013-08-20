@@ -49,14 +49,13 @@ Due to its central Indian location, it has a moderately extreme climate with col
 		   <b>Reach Us</b><br><br>
 
 			<h3>International Institute Of Professional Studies</h3>
-<pre>Devi Ahilya University
-Takshashila Campus, Khandwa Road
-Indore - 452001, INDIA
-Phone: 91-731-2461888, 2462087, 2461332, 2760101
-Fax - 91-731-2467888
-admin@iips.edu.in
-
-  *for more details go through our virtual tour.</pre>
+				<pre>Devi Ahilya University
+					Takshashila Campus, Khandwa Road
+					Indore - 452001, INDIA
+					Phone: 91-731-2461888, 2462087, 2461332, 2760101
+					Fax - 91-731-2467888
+					admin@iips.edu.in
+					*for more details go through our virtual tour.</pre>
 
 
 
@@ -67,9 +66,12 @@ admin@iips.edu.in
 					<!-- Google Maps iframe link -->
 					<iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=International+Institute+of+Professional+Studies,+Indore,+Madhya+Pradesh,+India&amp;aq=0&amp;oq=International+Institue+of+professional+studies+Indore+Madh&amp;sll=37.0625,-95.677068&amp;sspn=38.775203,86.748047&amp;t=m&amp;ie=UTF8&amp;hq=International+Institute+of+Professional+Studies,+Indore,+Madhya+Pradesh,+India&amp;ll=22.688485,75.876688&amp;spn=0.020589,0.032015&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=International+Institute+of+Professional+Studies,+Indore,+Madhya+Pradesh,+India&amp;aq=0&amp;oq=International+Institue+of+professional+studies+Indore+Madh&amp;sll=37.0625,-95.677068&amp;sspn=38.775203,86.748047&amp;t=m&amp;ie=UTF8&amp;hq=International+Institute+of+Professional+Studies,+Indore,+Madhya+Pradesh,+India&amp;ll=22.688485,75.876688&amp;spn=0.020589,0.032015" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 					<center>
-					<input type="button" name="">Guide Me</input>
-					<input type="button" name="">Manual Navigation</input>
-					<input type="button" name=""></input>
+					<input type="button" value="Guide Me" onClick=""></input>
+					<input type="button" value="Pause" onClick=""></input>
+					<input type="button" value="Manual Navigation" onClick=""></input>
+					<input type="button" value="Previous" onClick=""></input>
+					<input type="button" value="Next" onClick=""></input>
+					
 					</center>
                 </div>
 				
