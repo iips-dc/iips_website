@@ -213,7 +213,7 @@ table {
   border-spacing: 0;
 }
 
-[class*="span"]{float:left;min-height:1px;margin-left:20px;}
+[class*="span"]{float:left;min-height:1px;margin-left:0px;}
 
 .span12{width:940px;}
 .span11{width:860px;}
@@ -233,7 +233,8 @@ table {
 .offset9{margin-left:740px;}
 .offset8{margin-left:660px;}
 .offset7{margin-left:580px;}
-.offset6{margin-left:500px;}
+.offset6{margin-left
+:500px;}
 .offset5{margin-left:420px;}
 .offset4{margin-left:340px;}
 .offset3{margin-left:260px;}
