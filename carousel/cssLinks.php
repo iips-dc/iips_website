@@ -10,6 +10,9 @@
 		body{
 			color:#000000;
 		}
+		.container {
+		width:960px;	
+		}
 		.logo{
 			background-image:url(images/green-03.jpg);
 			background-repeat:repeat;
