@@ -13,6 +13,10 @@
 		.container {
 		width:960px;	
 		}
+		
+		.wrapper {
+			width:100%;
+		}
 		.logo{
 			background-image:url(images/green-03.jpg);
 			background-repeat:repeat;
@@ -67,6 +71,40 @@
     height: 100%;
     margin: 0 auto -4em;
     }
+    
+    /* css for quicklinks frontpage start */
+   .quicklinklist a{
+	cursor :pointer;
+	color:white;
+	line-height:25px;
+	
+}
+.quicklinklist a:hover{
+	font-size:15px;
+	color:white;
+	
+	
+}
+
+.quicklist {
+	background-color:#333333;
+	height:180px;
+	padding-left:40px;
+	
+}
+.quicklinklist h4{
+	color:white;
+	padding:0px 0px 0px 20px;
+	
+}
+
+.quicklinklist ul{
+	list-style-type: none;
+	
+}
+   
+   /*css for quicklinks frontpage end */
+  
 	/*css for footer*/
 
 	.foot{
