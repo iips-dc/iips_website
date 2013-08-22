@@ -116,6 +116,7 @@
 	}
 	#footer{
 		Position: absolute;
+		
       Width: 83%;
       Bottom: 0;
       Height: 75px;
