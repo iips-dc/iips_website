@@ -1,8 +1,10 @@
 
       <!-- FOOTER -->
 
+
+
 	<div id="footer" class="foot" >
- 	 <div class="wrapper">
+ 	 
   		
 		  <table width="100%" height="75px">
 		    <tr>
@@ -21,6 +23,7 @@
 			</table> 
 			<!--<p class="pull-right"><a href="#">Back to top</a></p> -->
         </div>
-	</div>
+	
 </div>
 <!-- container end -->
+
