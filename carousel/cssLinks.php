@@ -14,9 +14,7 @@
 		width:960px;	
 		}
 		
-		.wrapper {
-			width:100%;
-		}
+		
 		.logo{
 			background-image:url(images/green-03.jpg);
 			background-repeat:repeat;
