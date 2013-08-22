@@ -19,12 +19,17 @@
   <body>
   <?php
   	include('header.php');
-	include('slider.php');
-	include('notice.php');
-	include('newsEvents.php');
+	include('content.php');
+	#include('slider.php');
+	#include('notice.php');
+	#include('newsEvents.php');
+	include('quicklinks.php');
+	?>
 	
-	include('footer.php');
-	include('jsLinks.php');
+	<div style="width:1030px;background-color:blue;">
+	<?php include('footer.php'); ?>
+	</div>
+	<?php include('jsLinks.php');
   ?>
   <script src="js/jquery.quote_rotator.js" type="text/javascript" charset="utf-8"></script>
   <script>
