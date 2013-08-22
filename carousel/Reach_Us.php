@@ -5,6 +5,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
+    <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDY0kkJiTPVd2U7aTOAwhc9ySH6oHxOIYM&sensor=false">
+	</script>
+
+	<script>
+	var myCenter=new google.maps.LatLng(22.68849,75.87669);
+	var marker;
+
+	function initialize()
+	{
+	var mapProp = {
+	center:myCenter,
+	zoom: 15,
+	mapTypeId:google.maps.MapTypeId.ROADMAP
+	};
+
+	var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+
+	marker=new google.maps.Marker({
+	position:myCenter,
+	animation:google.maps.Animation.BOUNCE
+	});
+
+	marker.setMap(map);
+	}
+
+	google.maps.event.addDomListener(window, 'load', initialize);
+
+
+</script>
+
         <title>Reach Us</title>
 
        <!-- Include Styles -->
@@ -64,7 +94,7 @@ Due to its central Indian location, it has a moderately extreme climate with col
                 <div class="tab-content">
                    <b>Virtual Tour</b><br><br>
 					<!-- Google Maps iframe link -->
-					<iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=International+Institute+of+Professional+Studies,+Indore,+Madhya+Pradesh,+India&amp;aq=0&amp;oq=International+Institue+of+professional+studies+Indore+Madh&amp;sll=37.0625,-95.677068&amp;sspn=38.775203,86.748047&amp;t=m&amp;ie=UTF8&amp;hq=International+Institute+of+Professional+Studies,+Indore,+Madhya+Pradesh,+India&amp;ll=22.688485,75.876688&amp;spn=0.020589,0.032015&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=International+Institute+of+Professional+Studies,+Indore,+Madhya+Pradesh,+India&amp;aq=0&amp;oq=International+Institue+of+professional+studies+Indore+Madh&amp;sll=37.0625,-95.677068&amp;sspn=38.775203,86.748047&amp;t=m&amp;ie=UTF8&amp;hq=International+Institute+of+Professional+Studies,+Indore,+Madhya+Pradesh,+India&amp;ll=22.688485,75.876688&amp;spn=0.020589,0.032015" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+					<div id="googleMap" style="width:500px;height:380px;"></div>
 					<center>
 					<input type="button" value="Guide Me" onClick=""></input>
 					<input type="button" value="Pause" onClick=""></input>
