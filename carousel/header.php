@@ -14,7 +14,7 @@
 <div class="logo"><h1><span class="container">International Institute of Professional Studies - DAVV</span></h1></div>
 <!-- header End -->
 <!-- menu start -->
-<div class="wrapper" style ="background-color:#222222 ;">
+<div  style ="background-color:#222222 ; width:100%;">
 	<div class ="container">
 	<div class="span12">
 	<div class="navbar-wrapper topspace" style="width:100% ; margin-top:0px;">
@@ -95,8 +95,8 @@
 	</div>
 	<!-- span12 div end" -->
 	</div>
-	</div>
-	<div class="span12"><br><br><br><br></div>
+</div>
+	<div class="span12"><br><br></div>
 
 
     
