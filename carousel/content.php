@@ -8,9 +8,9 @@
 	}
 	
 </style>
-<div class="container">
+<div class="container" style="background-color:#FFFFFF;">
 	<!-- 1st span12 started "slider + notices" ended -->
-	<div class="span12" style="background-color: ">
+	<div class="span12" style="background-color:">
 		<div class="span9 slider" style="background-color: ">
 
 			<div id='coin-slider' >
