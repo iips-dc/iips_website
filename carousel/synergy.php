@@ -24,18 +24,18 @@
 		<?php
 			include('header.php');
 		?>
-<div style="width:960px; margin-left:100px">
-<b>Synergy</b> <br /><br />
-<pre>Synergy is the annual sports event conducted at 'IIPS' since last few years. It provides the students with a podium to showcase their team spirit hone their leadership qualities and inculcates sportsman spirit in them. It not only helps to crack the ice between the students of different courses but also helps the new students to overcome their inhibition and gel along with the rest of the college. 'Synergy' provides an opportunity to break the monotonous academic schedule and test other life skills.The three day event shall include cricket, football, badminton, volleyball, basketball, athletics, table tennis; at the end of which everyone emerges a winner, some with medals some without. As a tradition synergy is organized by the students of third year with the support from the rest of the college in event management which shall further come to their avail in organizing the other major events in IIPS, viz, 'X!pressions'(organized mainly by the students of fourth year) and 'Samvardhan'(organized by the students of fifth year).The tears shed, the sweat dropped,the giggles,the occasional frowns, all make the event memorable and instills in the participants a new zeal to excel and reach the zenith.
+ <div class="container" style="background-color:#FFFFFF;">
+<br><h1>Synergy<h1> <br />
+<div style="width:700px; font-family:'Palatino Linotype'; font-size:16px;">Synergy is the annual sports event conducted at 'IIPS' since last few years. It provides the students with a podium to showcase their team spirit hone their leadership qualities and inculcates sportsman spirit in them. It not only helps to crack the ice between the students of different courses but also helps the new students to overcome their inhibition and gel along with the rest of the college. 'Synergy' provides an opportunity to break the monotonous academic schedule and test other life skills.The three day event shall include cricket, football, badminton, volleyball, basketball, athletics, table tennis; at the end of which everyone emerges a winner, some with medals some without. As a tradition synergy is organized by the students of third year with the support from the rest of the college in event management which shall further come to their avail in organizing the other major events in IIPS, viz, 'X!pressions'(organized mainly by the students of fourth year) and 'Samvardhan'(organized by the students of fifth year).The tears shed, the sweat dropped,the giggles,the occasional frowns, all make the event memorable and instills in the participants a new zeal to excel and reach the zenith.
 
 			
 
+<br><br>
+<b>Proposed Date</b><br><br>
 
-<b>Proposed Date</b>
+    Last week of January or first week of February<br><br>
 
-    Last week of January or first week of February
-
-<b>Events</b>
+<b>Events</b><br><br>
 	<ul type="disc">
     <li>Cricket (for boys and girls)</li>
     <li>Football (only for boys)</li>
@@ -53,10 +53,11 @@
     <li>Gymnasium</li>
     <li>IIPS Hostel ground</li>
     </ul>	
-</pre>
-</div>
+  </div>
 
-<?php
+</div><!-- End of container class -->
+       <?php
+	        include('footer.php');
 			include('jsLinks.php');
 		?>
 		<!-- Include Scripts for vertical tabs-->

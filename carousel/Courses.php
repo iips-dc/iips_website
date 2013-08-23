@@ -20,9 +20,10 @@
 	<?php
 			include('header.php');
 	?>
-	<section id="wrapper" class="wrapper">
+	 <div class="container" style="background-color:#FFFFFF;">
+	   <section id="wrapper" class="wrapper">
 
-			<h1> Reach Us </h1><br>
+			<br><h1> Programs We Offer </h1><br>
             <div id="v-nav">
 
                 <ul>
@@ -132,7 +133,9 @@ The widely coveted B.Com. (Hons.) course aims at providing comprehensive insight
             </div>
 
 		</section>
+	</div><!-- End of container class -->		
 		<?php
+		    include('footer.php');
 			include('jsLinks.php');
 		?>
 		<!-- Include Scripts for vertical tabs-->

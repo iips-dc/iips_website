@@ -24,9 +24,11 @@
 		<?php
 			include('header.php');
 		?>
-		<section id="wrapper" class="wrapper">
+		<div class="container" style="background-color:#FFFFFF;">
+		<div id="wrapper" class="wrapper">
 
 			<br><h1> About IIPS </h1><br>
+			
             <div id="v-nav">
 
                 <ul>
@@ -145,10 +147,12 @@ Our mission in the design and conduct of academic programmes is
                    
                 </div>
 
-            </div>
+             </div><!-- vertical tabs ended-->
 
-		</section>
+		</div>
+	</div>
 		<?php
+		     include('footer.php');
 			include('jsLinks.php');
 		?>
 		<!-- Include Scripts for vertical tabs-->
@@ -156,5 +160,6 @@ Our mission in the design and conduct of academic programmes is
         <script type="text/javascript" src="js/vtab-script.js"></script>
 		
 <!-- container 12 ended -->
+
 </body>
 </html>

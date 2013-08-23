@@ -2,8 +2,8 @@
       <!-- FOOTER -->
 
 
-
-	<div id="footer" class="foot" >
+<div class="container">
+	<div id="footer" class="foot">
  	 
   		
 		  <table width="100%" height="75px">

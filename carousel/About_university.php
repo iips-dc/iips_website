@@ -6,7 +6,7 @@
 
         <meta charset="utf-8" />
 
-        <title>Create an Awesome Vertical Tabbed Content Area using CSS3 & jQuery | FarDesign.net</title>
+        <title>About University</title>
 	
  		
 
@@ -28,12 +28,14 @@
 			include('header.php');
 		?>
  
+        <div class="container" style="background-color:#FFFFFF;">
+		
 
         <section id="wrapper" class="wrapper">
 
  
 
-            <h1 class="title"></h1>
+            <br><h1 class="title">About University</h1>
 
  
 
@@ -155,11 +157,12 @@ On behalf of the DAVV family, I look forward to welcome you here. </p>
 
         </section>
 
- 
+   </div><!-- End of container class -->
 
         <!-- Include Scripts -->
 
       <?php
+	        include('footer.php');
 			include('jsLinks.php');
 		?>
 		<!-- Include Scripts for vertical tabs-->

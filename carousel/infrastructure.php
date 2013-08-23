@@ -20,6 +20,7 @@
 	<?php
 			include('header.php');
 	?>
+	<div class="container" style="background-color:#FFFFFF;">
 	<section id="wrapper" class="wrapper">
 
 			<h1> Infrastructure </h1><br>
@@ -134,7 +135,9 @@ C.V. Raman Girls Hostel
             </div>
 
 		</section>
+	 </div><!-- End of container class -->	
 		<?php
+		    include('footer.php');
 			include('jsLinks.php');
 		?>
 		<!-- Include Scripts for vertical tabs-->

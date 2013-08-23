@@ -34,7 +34,7 @@
 
 
 </script>
-
+       
         <title>Reach Us</title>
 
        <!-- Include Styles -->
@@ -50,15 +50,16 @@
 	<?php
 			include('header.php');
 	?>
-	<section id="wrapper" class="wrapper">
+	<div class="container" style="background-color:#FFFFFF;">
+	   <section id="wrapper" class="wrapper">
 
-			<h1> Reach Us </h1><br>
+			<br><h1> Reach Us </h1><br>
             <div id="v-nav">
 
                 <ul>
                     <li tab="tab1" class="first current" style="z-index:0">About Indore</li>
-                    <li tab="tab2">Reaching IIPS</li>
-					<li tab="tab4">Virtual Tour</li>
+                    <li tab="tab2" style="z-index:0">Reaching IIPS</li>
+					<li tab="tab4" style="z-index:0">Virtual Tour</li>
 
                 </ul>
 
@@ -112,7 +113,9 @@ Due to its central Indian location, it has a moderately extreme climate with col
             </div>
 
 		</section>
+	</div><!-- End of container class -->		
 		<?php
+		include('footer.php');
 			include('jsLinks.php');
 		?>
 		<!-- Include Scripts for vertical tabs-->

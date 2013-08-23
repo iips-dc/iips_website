@@ -19,16 +19,17 @@
 		<?php
 			include('header.php');
 		?>
-		<section id="wrapper" class="wrapper">
+		 <div class="container" style="background-color:#FFFFFF;">
+		   <section id="wrapper" class="wrapper">
 
-			<h1> Events </h1>
+			<br><h1> MCA/Mtech Placement </h1><br>
             <div id="v-nav">
 
                 <ul>
                     <li tab="tab1" class="first current" style="z-index:0">Placement Officer</li>
-                    <li tab="tab2">Batch Profile</li>
-                    <li tab="tab3">Last Year Placement</li>
-					<li tab="tab4" class="last">Corporate Recruiter</li>
+                    <li tab="tab2" style="z-index:0">Batch Profile</li>
+                    <li tab="tab3" style="z-index:0">Last Year Placement</li>
+					<li tab="tab4" class="last" style="z-index:0">Corporate Recruiter</li>
                 </ul>
 
                 <div class="tab-content">
@@ -126,7 +127,7 @@ Mail id - imroz@iips.edu.in</pre>
                 <div class="tab-content">
                    <div class="panel panel-success">
   						<div class="panel-heading">
-    						<h3 class="panel-title">Panel title</h3>
+    						<h3 class="panel-title">Last Year Placements</h3>
   						</div>
   						<div class="panel-body">
   
@@ -152,7 +153,7 @@ Mail id - imroz@iips.edu.in</pre>
                 </div>
 				
 				<div class="tab-content">
-					<div class="panel">
+					<div class="panel panel-success">
   						<div class="panel-heading">
     						<h3 class="panel-title">They Believe in IIPS</h3>
   						</div>
@@ -168,7 +169,9 @@ Mail id - imroz@iips.edu.in</pre>
          
 
 		</section>
+	</div><!-- End of container class -->	
 		<?php
+			include('footer.php');
 			include('jsLinks.php');
 		?>
 		<!-- Include Scripts for vertical tabs-->

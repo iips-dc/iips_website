@@ -117,7 +117,7 @@
 		Position: absolute;
 		
       Width: 83%;
-      Bottom: 0;
+      Bottom: -35px;
       Height: 75px;
 
 	}

@@ -19,9 +19,10 @@
 		<?php
 			include('header.php');
 		?>
-		<section id="wrapper" class="wrapper">
+		 <div class="container" style="background-color:#FFFFFF;">
+		   <section id="wrapper" class="wrapper">
 
-			<h1> Events </h1>
+			<br><h1> Xpressions </h1>
             <div id="v-nav">
 
                 <ul>
@@ -162,7 +163,9 @@ The event contain games from different fields. </pre>
          
 
 		</section>
+	</div><!-- End of container class -->		
 		<?php
+		    include('footer.php');
 			include('jsLinks.php');
 		?>
 		<!-- Include Scripts for vertical tabs-->

@@ -20,32 +20,33 @@
 		<?php
 			include('header.php');
 	    ?>
-		<section id="wrapper" class="wrapper">
+		<div class="container" style="background-color:#FFFFFF;">
+		  <section id="wrapper" class="wrapper">
 
-			<h1>IIPS Gallery </h1><br>
+			<br><h1>IIPS Gallery </h1><br>
             <div id="v-nav">
 
                 <ul>
                     <li tab="tab1" class="first current" style="z-index:0">Photos</li>
-                    <li tab="tab2">Logos</li>
+                    <li tab="tab2" style="z-index:0">Logos</li>
 
                 </ul>
 
                 <div class="tab-content">
 					<b>Photos</b><br><br />
-					<img src="images/lab.jpg">
-					<img src="images/iips7.jpg">
+					<img src="images/lab.jpg" width="500">
+					<img src="images/iips7.jpg" width="500">
 					<img src="images/iips.jpg">
  
                 </div>
 
                 <div class="tab-content" style="text-align:justify; padding:0px 20px 0px 20px; margin-top:0px; line-height:1.5;">
 		   <b>Logos</b><br><br>
-			<img src="images/iips6.jpg">
-			<img src="images/iips1.jpg">
-			<img src="images/iips2.jpg">
-			<img src="images/iips8.jpg">
-			<img src="images/iips5.jpg">
+			<img src="images/iips6.jpg" width="500">
+			<img src="images/iips1.jpg" width="500">
+			<img src="images/iips2.jpg" width="500">
+			<img src="images/iips8.jpg" width="500">
+			<img src="images/iips5.jpg" width="500">
 			<img src="images/iipslogo.jpg">
 
           </div>
@@ -57,7 +58,9 @@
             </div>
 
 		</section>
+	</div><!-- End of container class -->	
 		<?php
+		    include('footer.php');
 			include('jsLinks.php');
 		?>
 		<!-- Include Scripts for vertical tabs-->

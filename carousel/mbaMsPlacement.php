@@ -19,17 +19,18 @@
 		<?php
 			include('header.php');
 		?>
-		<section id="wrapper" class="wrapper">
+		  <div class="container" style="background-color:#FFFFFF;"> 
+		    <section id="wrapper" class="wrapper">
 
-			<h1> Events </h1>
+			<br><h1> MBA-MS Placements </h1>
             <div id="v-nav">
 
                 <ul>
                     <li tab="tab1" class="first current" style="z-index:0">Placement Officer</li>
-                    <li tab="tab2">Batch Profile</li>
-                    <li tab="tab3">Last Year Placement</li>
-					<li tab="tab4">Corporate Recruiter</li>
-					<li tab="tab5" class="last">Recruitment Procedure</li>
+                    <li tab="tab2" style="z-index:0">Batch Profile</li>
+                    <li tab="tab3" style="z-index:0">Last Year Placement</li>
+					<li tab="tab4" style="z-index:0">Corporate Recruiter</li>
+					<li tab="tab5" class="last" style="z-index:0">Recruitment Procedure</li>
                 </ul>
 
                 <div class="tab-content">
@@ -198,7 +199,9 @@ TeleFax: +91 (731) 2468507</pre>
          
 
 		</section>
+	</div><!-- End of container class -->	
 		<?php
+			include('footer.php');
 			include('jsLinks.php');
 		?>
 		<!-- Include Scripts for vertical tabs-->
