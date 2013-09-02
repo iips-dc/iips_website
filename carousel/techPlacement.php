@@ -38,22 +38,23 @@
 							<h3 class="panel-title">MCA - Placement Officer's Message</h3>
   						</div>
  				        <div class="panel-body">
-    					     
-<pre>
-I feel honoured to invite you to this world of professionalism and commitment.
-
-The world progresses ahead with new technologies mushrooming almost everyday. In such a scenario someone should take responsibility to train the young generation in the right direction, so that they are at par with the latest technologies. I take pride in announcing that IIPS is one such institution, which has not only taken the above responsibility but is also handling it proficiently. Our latest batch of young professionals is working hard to be an essential part of this dynamic software industry. The intensive training and the encouraging learning environment of our institute has grilled in them not only an extensive subject knowledge but also a sense of commitment, diligence and the value of hard work.
-
-I am confident that after having an inside glimpse of IIPS through this brochure you would definitely be interested in testing our students by coming for the On-Campus recruitment. Furthermore I would like to express my gratitude towards those companies which have shown confidence in our students and have come in the past years for the On-Campus placements. They have become an eternal part of the lIPS family and have always received much more than their expectations from us.
--- 
-
-Please feel free to contact us at any point of time for any information or queries.
-
-Imroz Khan
-Mob.No.-919425351233
-Off -91-0731-2468507
-Mail id - imroz@iips.edu.in</pre>
-
+								<?php 
+									$path_placementOfficer ="textFiles/Placements/placementOfficer.txt";  
+									if (file_exists($path_placementOfficer))   
+									{  
+										$open_placementOfficer = fopen("textFiles/Placements/placementOfficer.txt", "r");  
+		 								while (!feof($open_placementOfficer))   
+ 										{  
+ 			 								$display = fgets($open_placementOfficer, filesize($path_placementOfficer));  
+  											echo $display . "  ";  
+ 										}  
+ 										fclose($open_placementOfficer);  
+						 			}   
+						 			else   
+						 			{  
+ 		 								echo "Error occured ! ! ! Try again or report it to us";  
+						 			}  
+				   				?>				
   				        </div>
                     </div>
                 </div>
@@ -65,60 +66,24 @@ Mail id - imroz@iips.edu.in</pre>
   						</div>
  				        <div class="panel-body">
     					     <table border="1px" bordercolor="#000000" style="background-color:#FFFFFF" width="100%" cellpadding="3" cellspacing="3">
-	<tr bgcolor="#0066FF">
-		<td>Name</td>
-		<td>Age</td>
-		<td>Area of Interest</td>
-	</tr>
-	<tr>
-		<td>Aayush Shrimal</td>
-		<td>22</td>
-		<td>C,,Database</td>
-	</tr>
-	<tr>
-		<td>Abhishek Parihar</td>
-		<td>22</td>
-		<td>C,RDBMS-Oracle</td>
-	</tr>
-	<tr>
-		<td>Akash Gupta</td>
-		<td>22</td>
-		<td>C , HTML 5, Ethical Hacking, Internet Marketing</td>
-	</tr>
-	<tr>
-		<td>Amber jain</td>
-		<td>22</td>
-		<td>Computational Intelligence, Cryptography, Unix, C/Python/Octave/MATLAB/HTML/CSS</td>
-	</tr>
-	<tr>
-		<td>Ambesh Kukreja</td>
-		<td>20</td>
-		<td>c, c++ and database management</td>
-	</tr>
-	<tr>
-		<td>Anchal Nema</td>
-		<td>23</td>
-		<td>C,JAVA,Operating System,RDBMS</td>
-	</tr>
-	<tr>
-		<td>Anirudh Rawat</td>
-		<td>22</td>
-		<td>Software Engineering and System Analysis and Design
-</td>
-	</tr>
-	<tr>
-		<td>Arun mehra</td>
-		<td>24</td>
-		<td>JAVA , DBMS,PL/SQL</td>
-	</tr>
-	<tr>
-		<td>Arundyuti Mishra</td>
-		<td>22</td>
-		<td>C,DBMS</td>
-	</tr>
-</table>
-
-
+								<?php 
+									$path_batchProfile ="textFiles/placements/batchProfile.txt";  
+									if (file_exists($path_batchProfile))   
+									{  
+										$open_batchProfile = fopen("textFiles/placements/batchProfile.txt", "r");  
+		 								while (!feof($open_batchProfile))   
+ 										{  
+ 			 								$display = fgets($open_batchProfile, filesize($path_batchProfile));  
+  											echo $display . "  ";  
+ 										}  
+ 										fclose($open_batchProfile);  
+						 			}   
+						 			else   
+						 			{  
+ 		 								echo "Error occured ! ! ! Try again or report it to us";  
+						 			}  
+				   				?>	
+                            </table>
   				        </div>
                     </div>
 
@@ -130,23 +95,25 @@ Mail id - imroz@iips.edu.in</pre>
     						<h3 class="panel-title">Last Year Placements</h3>
   						</div>
   						<div class="panel-body">
-  
-<table border="1px">
-<tr bgcolor="#0066CC" ><td>Students(IC-2K6 & IT-2K7)</td> <td>Placement </td></tr>
-<tr><td>Honey Verma </td> <td>ATOS  </td></tr>
-<tr><td>Bhoopendra Singh Kushwah </td>Fiserv.  <td></td></tr>
-<tr><td>Arpit Saxena </td> <td> Infosys</td></tr>
-<tr><td>Mayank Raghuwanshi </td> <td> Infosys</td></tr>
-<tr><td>Amit Singh Hora</td> <td>Infosys</td></tr>
-<tr><td>Chetali Kekre </td> <td>Infosys</td></tr>
-<tr><td>Avnish Shukla </td> <td>Infosys</td></tr>
-<tr><td>Harshal Rane </td> <td>Infosys</td></tr>
-<tr><td>Ashwani Tomar </td> <td>Infosys</td></tr>
-<tr><td>Shruti Badnagarkar </td> <td>Accenture/Infosys </td></tr>
-<tr><td>Sumit Kumar Singh </td> <td>Infosys</td></tr>
-<tr><td>Ruchika Rao </td> <td></td>Infosys</tr>
-<tr><td>Charu Panwar</td> <td>Infosys</td></tr>
-</table>
+							<table border="1px">
+								<?php 
+									$path_lastYearBatch ="textFiles/placements/lastYearBatch.txt";  
+									if (file_exists($path_lastYearBatch))   
+									{  
+										$open_lastYearBatch = fopen("textFiles/placements/lastYearBatch.txt", "r");  
+		 								while (!feof($open_lastYearBatch))   
+ 										{  
+ 			 								$display = fgets($open_lastYearBatch, filesize($path_lastYearBatch));  
+  											echo $display . "  ";  
+ 										}  
+ 										fclose($open_lastYearBatch);  
+						 			}   
+						 			else   
+						 			{  
+ 		 								echo "Error occured ! ! ! Try again or report it to us";  
+						 			}  
+				   				?>	
+							</table>
 					    </div>
 				     </div>
                   
