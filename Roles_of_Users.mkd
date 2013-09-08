@@ -1,0 +1,30 @@
+# Roles of Users
+
+## Student 
+
+1. ### Past Student
+    - Alumini Portal Access
+
+    - can access email
+     
+    - can see the results
+
+
+	
+2. ### Currrent Student
+    - can access email, results, fees, bonafied, profile info, placement data
+    - can participate in events
+    - can access course materials
+    - can access video and guest lectures
+    - can access library.
+    - can register a complaint.
+    - can issue a request to AO/Director.
+    - can access syllabus, academic calender , faculty profiles
+ 
+
+3. ### Future Student
+    - can access the admissions.
+    - virtual tour, Reach Us, Course Info.
+    - Event info, Placement info overview.
+    - can access faculty profiles.
+
