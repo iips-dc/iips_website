@@ -1,0 +1,36 @@
+<h4>Various Departments</h4> 
+                    <p> 
+                School of Advanced Liberal Studies (SALS)<br> 
+		School of Biochemistry (BIOCHEM)<br> 
+		School of Biotechnology (BIOTECH)<br>
+		School of Chemical Sciences (CHEMICAL)<br> 
+		School of Commerce (COMMERCE)<br> 
+		School of Comparative Language & Culture (SCLC)<br>
+		School of Computer Science (SCS)<br> 
+		School of Economics (ECON)<br> 
+		School of Education (EDU)<br>
+		School of Electronics (ELEX)<br> 
+		School of Energy & Environmental Studies (SEES)<br> 
+		School of Future Studies & Planning (SFSP)<br> 
+		School of Instrumentation (INST)<br> 
+		School of Journalism & Mass Communication (SJMC)<br> 
+		School of Law (LAW)<br>
+		School of Life Sciences (SLS)<br> 
+		School of Mathematics (MATH)<br> 
+		School of Pharmacy (PHARMACY)<br> 
+		School of Physical Education (SPEDU)<br> 
+		School of Physics (PHYSICS)<br> 
+		School of Statistics (STAT)<br>
+		Institute of Engineering & Technology (IET)<br> 
+		Institute of Management Studies (IMS)<br>
+		International Institute of Professional Studies (IIPS)<br> 
+		Information Technology Centre (ITC)<br> 
+		Academic Staff College (ASC)<br> 
+		B'hai Chair for Studies in Development (BCHAIR)<br> 
+		Central Library (CLIB)<br> 
+		Centre for Science Communication (CSC )<br> 
+		Centre for e-Business (CeB)<br> 
+		Department of Adult / Continuing Education & Extension (DACEE)<br>
+		Educational Multimedia Research Centre (EMRC)<br> 
+		University Minority Cell (UMC)<br>
+                    </p>

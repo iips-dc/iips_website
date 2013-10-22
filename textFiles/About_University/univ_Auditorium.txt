@@ -1,0 +1,16 @@
+<h4>University Auditorium</h4>                   
+      <p> The University has a well-equipped air-conditioned auditorium for
+different academic activities with 1200 seating capacity.This auditorium has been 
+hosting one of the biggest Seminars and Conventions of India. Its equipped with high
+ bandwidth Wi-Fi that can be accessed by anybody inside auditorium. Through this one
+ can have access to internet while attending. </p><br><br>
+
+              <p> The auditorium has 
+                 <ul>
+			<li>LCD - Multimedia Projector</li>
+			<li>Fully Centralized Air-Conditioning</li>
+			<li>Audio-Video recording facility</li>
+			<li>Sound-Proof environment</li>
+		 </ul>
+                    
+             </p>
