@@ -1,6 +1,6 @@
-<b>  MCA - 6 Years  </b><br /><br>
+<b>  MCA (6 Years) [3 Year BCA + 3 Year MCA]  </b><br /><br>
 
-	The MCA ( 6 years ) is the only Programme of its kind in India. The 
+The MCA ( 6 years ) is the only Programme of its kind in India. The 
 students undergo rigorous training, which moulds them into highly competent and 
 focused professionals. In a period of five and a half years a student studies a total
  of 57 subjects. The course structure is designed keeping in mind the overall development
@@ -25,4 +25,38 @@ Entrepreneurial Mindset Being able to think out of the box is essential in today
 In the MCA programme, students also learn how to manage change and solve problems beyond 
 the limitations of traditional paradigms. Equipped with this entrepreneurial tool kit, 
 MCA professionals can organize and manage new ventures or provide added value to their 
-employers. 
+employers.<br/><br/> 
+
+<b>Objectives:</b><br/> 
+The programme has primary Emphasis on studying information system of various
+originations such as bank, insurance companies, hotels, hospitals etc. Development
+of application software in diverse area where computers are used will be main
+function of MCA graduates. The focus of the course is to prepare the professionals
+who are competent to choose from various methods when facing a particular
+development challenge.<br/><br/>
+
+<b>Learning Outcomes:</b><br/><br/>
+
+<b>I. Fundamental knowledge in </b><br/>
+The major thrust is on giving the students a sound background in three components
+namely, computing, business functioning and mathematics fields, relevant to
+information technology.
+A strong laboratory component as a part of the curriculum, along with theory
+enables the students to learn concepts of Data base management system,
+Programming languages, computer network, Data structure, Artificial intelligence,
+System programming, Computer architecture etc<br/><br/>
+
+<b>II. Advanced knowledge in</b><br/>
+Enterprises resource planning, Enterprises computing technique, network security,
+Compiler design, Soft-computing, Bioinformatics, Managerial economics, Cloud
+computing, design Pattern etc.<br/><br/>
+
+<b>III. Ability for employment in</b><br/>
+Information technology professionals in IT Industry, Banks,
+Government originations etc<br/>
+- Higher education as teacher and scientist.<br/><br/>
+
+<b>IV. Ability for higher education and research in the areas of</b><br/>
+Students have ability to do research in different area of computer
+science such as VLSI, Mobile computing, Artificial intelligence,
+networks etc.
