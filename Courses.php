@@ -44,10 +44,10 @@
 					<div class="tab-content">
 					  <div class="tab-pane active" id="mca">
 					       <?php 
-								$path_mca ="textFiles/programsWeoffer/mca.txt";  
+								$path_mca ="textFiles/ProgramsWeOffer/mca.txt";  
 								if (file_exists($path_mca))   
 								{  
-									$open_mca = fopen("textFiles/ProgramsWeoffer/mca.txt", "r");  
+									$open_mca = fopen("textFiles/ProgramsWeOffer/mca.txt", "r");  
 		 							while (!feof($open_mca))   
  									{  
  			 							$display = fgets($open_mca, filesize($path_mca));  
@@ -63,10 +63,10 @@
 					  </div>
  					  <div class="tab-pane" id="mba"></b>
 					     <?php 
-								$path_mba ="textFiles/programsWeoffer/mba.txt";  
+								$path_mba ="textFiles/ProgramsWeOffer/mba.txt";  
 								if (file_exists($path_mba))   
 								{  
-									$open_mba = fopen("textFiles/programsWeoffer/mba.txt", "r");  
+									$open_mba = fopen("textFiles/ProgramsWeOffer/mba.txt", "r");  
 		 							while (!feof($open_mba))   
  									{  
  			 							$display = fgets($open_mba, filesize($path_mba));  
@@ -82,10 +82,10 @@
 					  </div>
  					  <div class="tab-pane" id="mtech">
 					          <?php 
-								$path_mtech ="textFiles/programsWeoffer/mtech.txt";  
+								$path_mtech ="textFiles/ProgramsWeOffer/mtech.txt";  
 								if (file_exists($path_mtech))   
 								{  
-									$open_mtech = fopen("textFiles/programsWeoffer/mtech.txt", "r");  
+									$open_mtech = fopen("textFiles/ProgramsWeOffer/mtech.txt", "r");  
 		 							while (!feof($open_mtech))   
  									{  
  			 							$display = fgets($open_mtech, filesize($path_mtech));  
@@ -114,10 +114,10 @@
 					<div class="tab-content">
   						<div class="tab-pane active" id="mbams">
 						    <?php 
-								$path_mba_ms ="textFiles/programsWeoffer/mba_ms.txt";  
+								$path_mba_ms ="textFiles/ProgramsWeOffer/mba_ms.txt";  
 								if (file_exists($path_mba_ms))   
 								{  
-									$open_mba_ms = fopen("textFiles/programsWeoffer/mba_ms.txt", "r");  
+									$open_mba_ms = fopen("textFiles/ProgramsWeOffer/mba_ms.txt", "r");  
 		 							while (!feof($open_mba_ms))   
  									{  
  			 							$display = fgets($open_mba_ms, filesize($path_mba_ms));  
@@ -134,10 +134,10 @@
 						</div>
   						<div class="tab-pane" id="mbata">
 						      <?php 
-								$path_mba_ta ="textFiles/programsWeoffer/mba_ta.txt";  
+								$path_mba_ta ="textFiles/ProgramsWeOffer/mba_ta.txt";  
 								if (file_exists($path_mba_ta))   
 								{  
-									$open_mba_ta = fopen("textFiles/programsWeoffer/mba_ta.txt", "r");  
+									$open_mba_ta = fopen("textFiles/ProgramsWeOffer/mba_ta.txt", "r");  
 		 							while (!feof($open_mba_ta))   
  									{  
  			 							$display = fgets($open_mba_ta, filesize($path_mba_ta));  
@@ -154,10 +154,10 @@
 						</div>
  					    <div class="tab-pane" id="mbaapr">
 								<?php 
-									$path_mba_apr ="textFiles/programsWeoffer/mba_apr.txt";  
+									$path_mba_apr ="textFiles/ProgramsWeOffer/mba_apr.txt";  
 									if (file_exists($path_mba_apr))   
 									{  
-										$open_mba_apr = fopen("textFiles/programsWeoffer/mba_apr.txt", "r");  
+										$open_mba_apr = fopen("textFiles/ProgramsWeOffer/mba_apr.txt", "r");  
 		 								while (!feof($open_mba_apr))   
  										{  
  			 								$display = fgets($open_mba_apr, filesize($path_mba_apr));  
@@ -177,10 +177,10 @@
 
                 <div class="tab-content">
 				    <?php 
-							$path_bcom_hons ="textFiles/programsWeoffer/bcom_hons.txt";  
+							$path_bcom_hons ="textFiles/ProgramsWeOffer/bcom_hons.txt";  
 							if (file_exists($path_bcom_hons))   
 							{  
-								$open_bcom_hons = fopen("textFiles/programsWeoffer/bcom_hons.txt", "r");  
+								$open_bcom_hons = fopen("textFiles/ProgramsWeOffer/bcom_hons.txt", "r");  
 		 						while (!feof($open_bcom_hons))   
  								{  
  			 						$display = fgets($open_bcom_hons, filesize($path_bcom_hons));  
