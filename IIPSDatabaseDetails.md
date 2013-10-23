@@ -154,10 +154,13 @@
 		* Course ID
 
 
+** Publications **
+	* UserID(Fk to master table)
+	* Pub_Title
+	* Pub_Org
+	* Co-Authors
+	* link
 
-
-** Table **
-	* Fields
 ** Table **
 	* Fields
 ** Table **
