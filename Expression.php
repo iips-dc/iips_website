@@ -20,24 +20,26 @@
 			include('header.php');
 		?>
 		 <div class="container" style="background-color:#FFFFFF;">
-		   <section id="wrapper" class="wrapper">
 
-			<br><h1> Xpressions </h1>
-            <div id="v-nav">
+			<br><h3> Xpressions </h3>
+            <div id="row">
+ 			   <div class="col-md-2">
+                  <ul class="nav">
+                    <li><a class="icon-chevron-sign-right" href="#">  The Event</a></li>
+                    <li><a class="icon-chevron-sign-right" href="#">  Winners</a></li>
+                    <li><a class="icon-chevron-sign-right" href="#">  Last Year Team</a></li>
+					<li><a class="icon-chevron-sign-right" href="#">  Expression Album</a></li>
+					<li><a class="icon-chevron-sign-right" href="#">  Expression Videos</a></li>
+                    <li><a class="icon-chevron-sign-right" href="#">  Sponsors</a></li>
+					<li><a class="icon-chevron-sign-right" href="#">  Register Your Team</a></li>
+                  </ul>
+				</div>
+				
+				<div class="col-md-10">
 
-                <ul>
-                    <li tab="tab1" class="first current" style="z-index:0">The Event</li>
-                    <li tab="tab2" style="z-index:0">Winners</li>
-                    <li tab="tab3" style="z-index:0">Last Year Team</li>
-					<li tab="tab4" style="z-index:0">Expression Album</li>
-					<li tab="tab5">Expression Videos</li>
-                    <li tab="tab6">Sponsors</li>
-					<li tab="tab7" class="last">Register Your Team</li>
-                </ul>
-
-                <div class="tab-content">
-					<img class="iips_logo" src="images/xptest.jpg" align="middle">
-                    <?php 
+                  <div class="tab-content">
+					  <img class="iips_logo" src="images/xptest.jpg" align="middle">
+                        <?php 
 								$path_theEvent ="textFiles/events/theEvent.txt";  
 								if (file_exists($path_theEvent))   
 								{  
@@ -139,9 +141,8 @@
 
 				
                 </div>
-         
-
-		</section>
+			 </div><!--.col-md-10 ended-->
+		</div><!--.row class ended -->
 	</div><!-- End of container class -->		
 		<?php
 		    include('footer.php');

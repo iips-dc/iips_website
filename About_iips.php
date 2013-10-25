@@ -25,20 +25,21 @@
 		?>
 		<div class="container" style="background-color:#FFFFFF;">
 		   
-			  <br><h1> About IIPS </h1><br>
-			  <div class="row">
-            	  <div class="col-sm-3">
+		   <br><h3> About IIPS </h3><br>
+		   <div class="row">
+              <div class="col-sm-2">
 					
-                	<ul class="nav nav-list">
-                   	 	<li class="nav-header">About IIPS</li>
-                    	<li>Director</li>
-                    	<li>Objectives and Vision</li>
-						<li>Academic Calendar</li>
-						<li>IIPS @ Wikipedia</li>
-                    	<li>Anti-Ragging Committee</li>
+                  <ul class="nav">
+                   	 <li class="nav-header"><a class="icon-chevron-sign-right" href="#">  About IIPS</a></li>
+                     <li><a class="icon-chevron-sign-right" href="#">  Director</a></li>
+                     <li><a class="icon-chevron-sign-right" href="#">  Objectives and Vision</a></li>
+					  <li><a class="icon-chevron-sign-right" href="#">  Academic Calendar</a></li>
+					  <li><a class="icon-chevron-sign-right" href="#">  IIPS @ Wikipedia</a></li>
+                      <li><a class="icon-chevron-sign-right" href="#">  Anti-Ragging Committee</a></li>
                	   </ul>
 			  </div>
-			  </div>
+			  
+			  <div class="col-sm-10">
 
                 <div class="tab-content">
 					<img class="iips_logo" src="images/iipslogo.jpg">
@@ -142,9 +143,9 @@
                    
                 </div>
 
-             </div><!-- vertical tabs ended-->
+             </div><!-- .col-sm-9 ended-->
 
-		</div>
+		</div><!--.container ended -->
 		
 	</div>
 		<?php

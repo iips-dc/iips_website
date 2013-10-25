@@ -21,18 +21,18 @@
 			include('header.php');
 	?>
 	 <div class="container" style="background-color:#FFFFFF;">
-	   <section id="wrapper" class="wrapper">
 
-			<br><h1> Programs We Offer </h1><br>
-            <div id="v-nav">
-
-                <ul>
-                    <li id="int" tab="tab1" class="first current" style="z-index:0">Integrated</li>
-                    <li id="pg" tab="tab2" style="z-index:0">Post Graduate</li>
-					<li id="ug" tab="tab4" style="z-index:0">Under Graduate</li>
-
-                </ul>
-
+		<br><h3> Programs We Offer </h3><br>
+         <div id="row">
+		   <div class="col-md-2">
+            <ul class="nav">
+                <li><a class="icon-chevron-sign-right" href="#">  Integrated</a></li>
+                <li><a class="icon-chevron-sign-right" href="#">  Post Graduate</a></li>
+				<li><a class="icon-chevron-sign-right" href="#">  Under Graduate</a></li>
+            </ul>
+		   </div>
+			
+		   <div class="col-md-10">
                 <div class="tab-content">
 				<b>Integrated Courses</b><br /><br />
 					<ul class="nav nav-tabs" id="myTab">
@@ -59,7 +59,7 @@
 								{  
  		 							echo "Error occured ! ! ! Try again or report it to us";  
 								}  
-				    		?>
+				    		?><br><br><br>
 					  </div>
  					  <div class="tab-pane" id="mba"></b>
 					     <?php 
@@ -78,7 +78,7 @@
 								{  
  		 							echo "Error occured ! ! ! Try again or report it to us";  
 								}  
-				    		?>
+				    		?><br><br><br>
 					  </div>
  					  <div class="tab-pane" id="mtech">
 					          <?php 
@@ -97,7 +97,7 @@
 								{  
  		 							echo "Error occured ! ! ! Try again or report it to us";  
 								}  
-				    		?>
+				    		?><br><br><br>
 					  		
 					  </div>
 					</div>
@@ -129,7 +129,7 @@
 								{  
  		 							echo "Error occured ! ! ! Try again or report it to us";  
 								}  
-				    		?>
+				    		?><br><br><br>
 						    
 						</div>
   						<div class="tab-pane" id="mbata">
@@ -149,7 +149,7 @@
 								{  
  		 							echo "Error occured ! ! ! Try again or report it to us";  
 								}  
-				    		?>
+				    		?><br><br><br>
 								
 						</div>
  					    <div class="tab-pane" id="mbaapr">
@@ -169,7 +169,7 @@
 									{  
  		 								echo "Error occured ! ! ! Try again or report it to us";  
 									}  
-				    			?>
+				    			?><br><br><br>
 								
 						</div>
 					</div>
@@ -192,18 +192,12 @@
 							{  
  		 						echo "Error occured ! ! ! Try again or report it to us";  
 							}  
-				    ?>
-                   
+				    ?><br><br><br>
 
                 </div>
-				
-				
-				
-                </div>
+            </div><!--.col-md-10 -->
+         </div><!--.row class ended -->
 
-            </div>
-
-		</section>
 	</div><!-- End of container class -->		
 		<?php
 		    include('footer.php');

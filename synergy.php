@@ -26,7 +26,7 @@
 		?>
         <div class="container" style="background-color:#FFFFFF;">
 		
-            <div style="width:700px; font-family:Arial, Helvetica, sans-serif;">
+            <div >
                    <?php 
 						$path_synergy ="textFiles/events/synergy.txt";  
 						if (file_exists($path_synergy))   

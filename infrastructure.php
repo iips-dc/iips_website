@@ -21,19 +21,20 @@
 			include('header.php');
 	?>
 	<div class="container" style="background-color:#FFFFFF;">
-	<section id="wrapper" class="wrapper">
 
-			<h1> Infrastructure </h1><br>
-            <div id="v-nav">
-
-                <ul>
-                    <li tab="tab1" class="first current" style="z-index:0">Lecture Theaters</li>
-                    <li tab="tab2">Computer Labs</li>
-                    <li tab="tab3">Libraries</li>
-					<li tab="tab4">Hostels</li>
+		<br><h3> Infrastructure </h1><br>
+        <div id="row">
+			<div class="col-md-2">
+                <ul class="nav">
+                    <li><a class="icon-chevron-sign-right" href="#">  Lecture Theaters</a></li>
+                    <li><a class="icon-chevron-sign-right" href="#">  Computer Labs</a></li>
+                    <li><a class="icon-chevron-sign-right" href="#">  Libraries</a></li>
+					<li><a class="icon-chevron-sign-right" href="#">  Hostels</a></li>
 
                 </ul>
-
+			</div>
+			
+			<div class="col-md-10">
                 <div class="tab-content">
 					
 					<?php 
@@ -52,7 +53,7 @@
 						{  
  		 					echo "Error occured ! ! ! Try again or report it to us";  
 						}  
-				    ?>
+				    ?><br><br>
  
                 </div>
 
@@ -73,7 +74,7 @@
 						{  
  		 					echo "Error occured ! ! ! Try again or report it to us";  
 						}  
-				    ?>
+				    ?><br><br>
  
 
                </div>
@@ -96,7 +97,7 @@
 						{  
  		 					echo "Error occured ! ! ! Try again or report it to us";  
 						}  
-				    ?>
+				    ?><br><br>
                 </div>
 				
 				<div class="tab-content">
@@ -119,14 +120,10 @@
 				    ?>
 
 				</div>
-				
-				
-                </div>
-
-            </div>
-
-		</section>
-	 </div><!-- End of container class -->	
+             </div><!--col-md-10 -->
+        </div><!--.row class ended -->
+	 </div><!-- End of container class -->
+	 	
 		<?php
 		    include('footer.php');
 			include('jsLinks.php');
