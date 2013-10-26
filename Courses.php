@@ -20,20 +20,21 @@
 	<?php
 			include('header.php');
 	?>
-	 <div class="container" style="background-color:#FFFFFF;">
+	 <div id="wrap">
+	  <div class="container" style="background-color:#FFFFFF;">
 
 		<br><h3> Programs We Offer </h3><br>
          <div id="row">
 		   <div class="col-md-2">
-            <ul class="nav">
-                <li><a class="icon-chevron-sign-right" href="#">  Integrated</a></li>
-                <li><a class="icon-chevron-sign-right" href="#">  Post Graduate</a></li>
-				<li><a class="icon-chevron-sign-right" href="#">  Under Graduate</a></li>
+            <ul class="nav side-tabs">
+                <li><a class="icon-chevron-sign-right" href="#tab1">  Integrated</a></li>
+                <li><a class="icon-chevron-sign-right" href="#tab2">  Post Graduate</a></li>
+				<li><a class="icon-chevron-sign-right" href="#tab3">  Under Graduate</a></li>
             </ul>
 		   </div>
 			
 		   <div class="col-md-10">
-                <div class="tab-content">
+              <div id="tab1"  class="tab-content active">
 				<b>Integrated Courses</b><br /><br />
 					<ul class="nav nav-tabs" id="myTab">
   						<li class="active"><a href="#mca" data-toggle="tab">MCA</a></li>
@@ -103,7 +104,7 @@
 					</div>
                 </div>
 
-                <div class="tab-content" style="text-align:justify; padding:0px 20px 0px 20px; margin-top:0px; line-height:1.5;">
+                <div id="tab2" class="tab-content hide" style="text-align:justify; padding:0px 20px 0px 20px; margin-top:0px; line-height:1.5;">
 		   			<b>Post Graduate Courses</b><br><br>
 
 					<ul class="nav nav-tabs" id="myTab">
@@ -175,7 +176,7 @@
 					</div>
           	  </div>
 
-                <div class="tab-content">
+                <div id="tab3" class="tab-content hide">
 				    <?php 
 							$path_bcom_hons ="textFiles/ProgramsWeOffer/bcom_hons.txt";  
 							if (file_exists($path_bcom_hons))   
@@ -198,7 +199,8 @@
             </div><!--.col-md-10 -->
          </div><!--.row class ended -->
 
-	</div><!-- End of container class -->		
+	</div><!-- End of container class -->
+   </div><!--End of Wrap id -->		
 		<?php
 		    include('footer.php');
 			include('jsLinks.php');

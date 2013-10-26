@@ -20,22 +20,23 @@
 	<?php
 			include('header.php');
 	?>
-	<div class="container" style="background-color:#FFFFFF;">
+	<div id="wrap">
+	  <div class="container" style="background-color:#FFFFFF;">
 
 		<br><h3> Infrastructure </h1><br>
         <div id="row">
 			<div class="col-md-2">
-                <ul class="nav">
-                    <li><a class="icon-chevron-sign-right" href="#">  Lecture Theaters</a></li>
-                    <li><a class="icon-chevron-sign-right" href="#">  Computer Labs</a></li>
-                    <li><a class="icon-chevron-sign-right" href="#">  Libraries</a></li>
-					<li><a class="icon-chevron-sign-right" href="#">  Hostels</a></li>
+                <ul class="nav side-tabs">
+                    <li><a class="icon-chevron-sign-right" href="#tab1">  Lecture Theaters</a></li>
+                    <li><a class="icon-chevron-sign-right" href="#tab2">  Computer Labs</a></li>
+                    <li><a class="icon-chevron-sign-right" href="#tab3">  Libraries</a></li>
+					<li><a class="icon-chevron-sign-right" href="#tab4">  Hostels</a></li>
 
                 </ul>
 			</div>
 			
 			<div class="col-md-10">
-                <div class="tab-content">
+                <div id="tab1"  class="tab-content active">
 					
 					<?php 
 						$path_lecTheatre ="textFiles/Infrastructure/lectureTheaters.txt";  
@@ -57,7 +58,7 @@
  
                 </div>
 
-                <div class="tab-content" style="text-align:justify; padding:0px 20px 0px 20px; margin-top:0px; line-height:1.5;">
+                <div id="tab2" class="tab-content hide" style="text-align:justify; padding:0px 20px 0px 20px; margin-top:0px; line-height:1.5;">
 		          <?php 
 						$path_compLab ="textFiles/Infrastructure/computerLab.txt";  
 						if (file_exists($path_compLab))   
@@ -79,7 +80,7 @@
 
                </div>
 
-                <div class="tab-content">
+                <div id="tab3" class="tab-content hide">
                    
 					<?php 
 						$path_libraries ="textFiles/Infrastructure/libraries.txt";  
@@ -100,7 +101,7 @@
 				    ?><br><br>
                 </div>
 				
-				<div class="tab-content">
+				<div id="tab4" class="tab-content hide">
 					<?php 
 						$path_hostels ="textFiles/Infrastructure/hostels.txt";  
 						if (file_exists($path_hostels))   
@@ -123,6 +124,7 @@
              </div><!--col-md-10 -->
         </div><!--.row class ended -->
 	 </div><!-- End of container class -->
+	</div><!-- End of wrap id -->
 	 	
 		<?php
 		    include('footer.php');

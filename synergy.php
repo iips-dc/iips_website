@@ -24,14 +24,15 @@
 		<?php
 			include('header.php');
 		?>
+	 <div id="wrap">
         <div class="container" style="background-color:#FFFFFF;">
 		
             <div >
                    <?php 
-						$path_synergy ="textFiles/events/synergy.txt";  
+						$path_synergy ="textFiles/Events/synergy.txt";  
 						if (file_exists($path_synergy))   
 						{  
-							$open_synergy = fopen("textFiles/events/synergy.txt", "r");  
+							$open_synergy = fopen("textFiles/Events/synergy.txt", "r");  
 		 					while (!feof($open_synergy))   
  							{  
  			 					$display = fgets($open_synergy, filesize($path_synergy));  
@@ -46,6 +47,7 @@
 				   ?>
            </div>
         </div><!-- End of container class -->
+	</div>
        <?php
 	        include('footer.php');
 			include('jsLinks.php');

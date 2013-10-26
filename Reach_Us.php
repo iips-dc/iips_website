@@ -50,49 +50,24 @@
 	<?php
 			include('header.php');
 	?>
-	<div class="container" style="background-color:#FFFFFF;">
-	   <section id="wrapper" class="wrapper">
+	 <div id="wrap">
+	  <div class="container" style="background-color:#FFFFFF;">
+	   	  <h4>Reach Us</h4><br><br>
+		  
+ 		  <div class="row">
+		     <div class="col-md-4" style="background-color:#333333; color:#FFFFFF">
+	 
+				<b>IIPS Address : </b><br><br>
+				Devi Ahilya University<br>
+					Takshashila Campus, Khandwa Road<br>
+					Indore - 452001, INDIA<br>
+					Phone: 91-731-2461888, 2462087, 2461332, 2760101<br>
+					Fax - 91-731-2467888<br>
+					admin@iips.edu.in<br>
+					*for more details go through our virtual tour.<br>
+             </div>
 
-			<br><h1> Reach Us </h1><br>
-            <div id="v-nav">
-
-                <ul>
-                    <li tab="tab1" class="first current" style="z-index:0">About Indore</li>
-                    <li tab="tab2" style="z-index:0">Reaching IIPS</li>
-					<li tab="tab4" style="z-index:0">Virtual Tour</li>
-
-                </ul>
-
-                <div class="tab-content">
-					<b> About Indore</b><br><br />
-                   
-
-Indore is called the ' Mini Mumbai ' of India, situated on the banks of the rivers Saraswati and Khan, and is the largest city in Madhya Pradesh. This bustling and vibrant city derives its name from the 18th century Indreshwar temple and was the seat of the Holkars - the former rulers of this erstwhile state. The place has long been a home of cricketers producing international legends like the celebrated C.K.Naidu.<br /><br />
-
-Indore is the commercial capital of the state of Madhya Pradesh. It has become one of the busiest and most advanced business hubs in India. It also has some of the best shopping destinations in the country. Over the years Indore has also grown as one of the major education centers in the country. Some of the best management and engineering institutes are in Indore, like the Indian Institute of Management, Indore. Some of the places worth seeing in Indore are Lalbagh, an ancient palace of the Holkar era, which has now been transferred to a museum. Another place worth seeing is the Rajwada palace. The Mhow Cantonment, which has some of the premier training institutes of the Indian army, is also located in Indore.<br /><br />
-
-
-Due to its central Indian location, it has a moderately extreme climate with cold winters, sometimes as low as 10? C and very hot summers, sometimes reaching up to 45 degrees C.. 
- 
-                </div>
-
-                <div class="tab-content" style="text-align:justify; padding:0px 20px 0px 20px; margin-top:0px; line-height:1.5;">
-		   <b>Reach Us</b><br><br>
-
-			<h3>International Institute Of Professional Studies</h3>
-				<pre>Devi Ahilya University
-					Takshashila Campus, Khandwa Road
-					Indore - 452001, INDIA
-					Phone: 91-731-2461888, 2462087, 2461332, 2760101
-					Fax - 91-731-2467888
-					admin@iips.edu.in
-					*for more details go through our virtual tour.</pre>
-
-
-
-          </div>
-
-                <div class="tab-content">
+             <div class="col-md-8">
                    <b>Virtual Tour</b><br><br>
 					<!-- Google Maps iframe link -->
 					<div id="googleMap" style="width:500px;height:380px;"></div>
@@ -104,16 +79,10 @@ Due to its central Indian location, it has a moderately extreme climate with col
 					<input type="button" value="Next" onClick=""></input>
 					
 					</center>
-                </div>
-				
-				
-				
-                </div>
-
-            </div>
-
-		</section>
-	</div><!-- End of container class -->		
+             </div>
+		  </div><!--row class Ended -->
+       </div><!--container class Ended -->
+	</div><!-- End of wrap class -->		
 		<?php
 		include('footer.php');
 			include('jsLinks.php');

@@ -5,7 +5,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-        <title>Gallery</title>
+    <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDY0kkJiTPVd2U7aTOAwhc9ySH6oHxOIYM&sensor=false">
+	</script>
+
+	<script>
+	var myCenter=new google.maps.LatLng(22.68849,75.87669);
+	var marker;
+
+	function initialize()
+	{
+	var mapProp = {
+	center:myCenter,
+	zoom: 15,
+	mapTypeId:google.maps.MapTypeId.ROADMAP
+	};
+
+	var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+
+	marker=new google.maps.Marker({
+	position:myCenter,
+	animation:google.maps.Animation.BOUNCE
+	});
+
+	marker.setMap(map);
+	}
+
+	google.maps.event.addDomListener(window, 'load', initialize);
+
+
+</script>
+       
+        <title>Reach Us</title>
 
        <!-- Include Styles -->
         <link rel="stylesheet" href="css/vtab-style.css" />		
@@ -17,33 +47,44 @@
 </head>
 
 <body>
-		<?php
+	<?php
 			include('header.php');
-	    ?>
-		<div class="container" style="background-color:#FFFFFF;">
-			<br><h3>IIPS Gallery </h3><br>
-            <div id="row">
- 			  <div class="col-md-2">
-                <ul class="nav">
-                    <li><a class="icon-chevron-sign-right" href="#">Photos</a></li>
-                    <li><a class="icon-chevron-sign-right" href="#">Logos</a></li>
-                </ul>
-			  </div>
-			  
-			  <div class="col-md-10">
-                <div class="tab-content">
-					<b>Photos</b><br><br />
-					<img class="img-responsive" src="images/lab.jpg">
-					<img class="img-responsive" src="images/iips7.jpg">
-					<img class="img-responsive" src="images/slider/iips2.jpg"><br>
- 
-                </div>
+	?>
+	 <div id="wrap">
+	  <div class="container" style="background-color:#FFFFFF;">
+	   	  <h4>Reach Us</h4><br><br>
+		  
+ 		  <div class="row">
+		     <div class="col-md-4" style="background-color:#333333; color:#FFFFFF">
+	 
+				<b>IIPS Address : </b><br><br>
+				Devi Ahilya University<br>
+					Takshashila Campus, Khandwa Road<br>
+					Indore - 452001, INDIA<br>
+					Phone: 91-731-2461888, 2462087, 2461332, 2760101<br>
+					Fax - 91-731-2467888<br>
+					admin@iips.edu.in<br>
+					*for more details go through our virtual tour.<br>
+             </div>
 
-            </div><!--.col-md-10 -->
-        </div><!--.row class ended -->
-	</div><!-- End of container class -->	
+             <div class="col-md-8">
+                   <b>Virtual Tour</b><br><br>
+					<!-- Google Maps iframe link -->
+					<div id="googleMap" style="width:500px;height:380px;"></div>
+					<center>
+					<input type="button" value="Guide Me" onClick=""></input>
+					<input type="button" value="Pause" onClick=""></input>
+					<input type="button" value="Manual Navigation" onClick=""></input>
+					<input type="button" value="Previous" onClick=""></input>
+					<input type="button" value="Next" onClick=""></input>
+					
+					</center>
+             </div>
+		  </div><!--row class Ended -->
+       </div><!--container class Ended -->
+	</div><!-- End of wrap class -->		
 		<?php
-		    include('footer.php');
+		include('footer.php');
 			include('jsLinks.php');
 		?>
 		<!-- Include Scripts for vertical tabs-->

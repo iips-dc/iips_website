@@ -1,5 +1,5 @@
 <b>2012 Winners</b><br><br>
-              <table border="1px" >
+              <table border="1px" class="table">
 			  
 			    <tr><td>Runners up :</td>	<td>Ek Tarfa</td> <td></td></tr>
 <tr><td>No</td> <td> 	Student Name </td>	<td>Course </td> <td>	Batch</td></tr>
@@ -20,7 +20,7 @@
 <tr><td>15</td> <td> 	Sarthak Pandit </td>	<td>	MCA </td> <td>	2010</td></tr>
 <tr><td>16</td> <td> 	Paras Soni </td>	<td> 	B.COM </td> <td>	2011</td></tr></table>
 <br>
-<table border="1px">
+<table border="1px" class="table">
 <tr><td>Winners : </td> <td>	Dhinka Chika</td> <td></td></tr>
 <tr><td>No</td> <td> 	Student Name </td> <td>	Course </td> <td>	Batch</td></tr>
 <tr><td>1</td> <td> 	Hitesh Kukreja </td> <td>	MMS </td> <td>	2007</td></tr>

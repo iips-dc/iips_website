@@ -19,31 +19,32 @@
 		<?php
 			include('header.php');
 		?>
+		<div id="wrap">
 		 <div class="container" style="background-color:#FFFFFF;">
 
 			<br><h3> Xpressions </h3>
             <div id="row">
  			   <div class="col-md-2">
-                  <ul class="nav">
-                    <li><a class="icon-chevron-sign-right" href="#">  The Event</a></li>
-                    <li><a class="icon-chevron-sign-right" href="#">  Winners</a></li>
-                    <li><a class="icon-chevron-sign-right" href="#">  Last Year Team</a></li>
-					<li><a class="icon-chevron-sign-right" href="#">  Expression Album</a></li>
-					<li><a class="icon-chevron-sign-right" href="#">  Expression Videos</a></li>
-                    <li><a class="icon-chevron-sign-right" href="#">  Sponsors</a></li>
-					<li><a class="icon-chevron-sign-right" href="#">  Register Your Team</a></li>
+                  <ul class="nav side-tabs">
+                    <li><a class="icon-chevron-sign-right" href="#tab1">  The Event</a></li>
+                    <li><a class="icon-chevron-sign-right" href="#tab2">  Winners</a></li>
+                    <li><a class="icon-chevron-sign-right" href="#tab3">  Last Year Team</a></li>
+					<li><a class="icon-chevron-sign-right" href="#tab4">  Expression Album</a></li>
+					<li><a class="icon-chevron-sign-right" href="#tab5">  Expression Videos</a></li>
+                    <li><a class="icon-chevron-sign-right" href="#tab6">  Sponsors</a></li>
+					<li><a class="icon-chevron-sign-right" href="#tab7">  Register Your Team</a></li>
                   </ul>
 				</div>
 				
 				<div class="col-md-10">
 
-                  <div class="tab-content">
+                  <div id="tab1"  class="tab-content active">
 					  <img class="iips_logo" src="images/xptest.jpg" align="middle">
                         <?php 
-								$path_theEvent ="textFiles/events/theEvent.txt";  
+								$path_theEvent ="textFiles/Events/theEvent.txt";  
 								if (file_exists($path_theEvent))   
 								{  
-									$open_theEvent = fopen("textFiles/events/theEvent.txt", "r");  
+									$open_theEvent = fopen("textFiles/Events/theEvent.txt", "r");  
 		 							while (!feof($open_theEvent))   
  									{  
  			 							$display = fgets($open_theEvent, filesize($path_theEvent));  
@@ -58,12 +59,12 @@
 				     ?>
                 </div>
 
-                <div class="tab-content" style="text-align:justify; padding:0px 20px 0px 20px; margin-top:0px; line-height:1.5;">
+                <div id="tab2" class="tab-content hide" style="text-align:justify; padding:0px 20px 0px 20px; margin-top:0px; line-height:1.5;">
 				<?php 
-						$path_winners ="textFiles/events/winners.txt";  
+						$path_winners ="textFiles/Events/winners.txt";  
 						if (file_exists($path_winners))   
 						{  
-							$open_winners = fopen("textFiles/events/winners.txt", "r");  
+							$open_winners = fopen("textFiles/Events/winners.txt", "r");  
 		 					while (!feof($open_winners))   
  							{  
  			 					$display = fgets($open_winners, filesize($path_winners));  
@@ -79,15 +80,15 @@
 
                 </div>
 
-                <div class="tab-content">
+                <div id="tab3" class="tab-content hide">
                    <b> Teams</b><br><br>
 				   <img src="images/xptest2.jpg" align="middle">
 				   
 				   <br><br><?php 
-						$path_lastYearTeam ="textFiles/events/lastYearTeam.txt";  
+						$path_lastYearTeam ="textFiles/Events/lastYearTeam.txt";  
 						if (file_exists($path_lastYearTeam))   
 						{  
-							$open_lastYearTeam = fopen("textFiles/events/lastYearTeam.txt", "r");  
+							$open_lastYearTeam = fopen("textFiles/Events/lastYearTeam.txt", "r");  
 		 					while (!feof($open_lastYearTeam))   
  							{  
  			 					$display = fgets($open_lastYearTeam, filesize($path_lastYearTeam));  
@@ -102,30 +103,30 @@
 				 ?>
                 </div>
 				
-				<div class="tab-content">
+				<div id="tab4" class="tab-content hide">
 					<b>Photos</b><br><br>
 					<img src="images/exp/govinda.JPG">
 					 
 				</div>
 				
-				<div class="tab-content">
+				<div id="tab5" class="tab-content hide">
 					<b>Xpression's Videos</b><br><br>
 					<ul type="disc">
 					<li><a href="http://www.youtube.com/watch?feature=player_embedded&v=F12bBO_owfI"> cool dance at xpressions dus bahne</a></li>
 					</ul>
 				</div>
 				
-                <div class="tab-content">
+                <div id="tab6" class="tab-content hide">
                     <b>Sponsors</b><br><br>
 				
                 </div>
-				<div class="tab-content">
+				<div id="tab7" class="tab-content hide">
                     
 					<?php 
-						$path_registration ="textFiles/events/registration.txt";  
+						$path_registration ="textFiles/Events/registration.txt";  
 						if (file_exists($path_registration))   
 						{  
-							$open_registration = fopen("textFiles/events/registration.txt", "r");  
+							$open_registration = fopen("textFiles/Events/registration.txt", "r");  
 		 					while (!feof($open_registration))   
  							{  
  			 					$display = fgets($open_registration, filesize($path_registration));  
@@ -143,7 +144,8 @@
                 </div>
 			 </div><!--.col-md-10 ended-->
 		</div><!--.row class ended -->
-	</div><!-- End of container class -->		
+	</div><!-- End of container class -->	
+   </div>	<!-- End of wrap -->
 		<?php
 		    include('footer.php');
 			include('jsLinks.php');

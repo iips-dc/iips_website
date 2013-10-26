@@ -4,14 +4,14 @@
 	<script src="jsLibrary/jquery.quote_rotator.js"></script>
 	<script>
 		$(document).ready(function() {
-			$('.nav-tabs > li > a').click(function(event){
+			$('.side-tabs > li > a').click(function(event){
 			event.preventDefault();//stop browser to take action for clicked anchor
 	 
 			//get displaying tab content jQuery selector
-			var active_tab_selector = $('.nav-tabs > li.active > a').attr('href');					
+			var active_tab_selector = $('.side-tabs > li.active > a').attr('href');					
 	 
 			//find actived navigation and remove 'active' css
-			var actived_nav = $('.nav-tabs > li.active');
+			var actived_nav = $('.side-tabs > li.active');
 			actived_nav.removeClass('active');
 	 
 			//add 'active' css into clicked navigation
