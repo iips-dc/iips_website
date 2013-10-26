@@ -12,10 +12,10 @@
 	  </div>
 	</div>
 	<!-- Top nav bar end -->
-	<div class="logo">
-	   <div class="container">
-	      <div class="span12 text-center">
-	       <h2 style="color:#FFFFFF; font-family:Algerian;">International Institute of Professional Studies - DAVV</h2>
+	<div  align="center">
+	   <div class="container" align="center">
+	      <div class="span9 centred">
+	       <img src="images/iipsHeader6.png" class="img-responsive">
 		  </div>
 		</div>
 	</div>
