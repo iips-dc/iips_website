@@ -23,25 +23,26 @@
 		<?php
 			include('header.php');
 		?>
-		<div class="container" style="background-color:#FFFFFF;">
+	   <div id="wrap">
+		 <div class="container" style="background-color:#FFFFFF;">
 		   
 		   <br><h3> About IIPS </h3><br>
 		   <div class="row">
               <div class="col-sm-2">
 					
-                  <ul class="nav">
-                   	 <li class="nav-header"><a class="icon-chevron-sign-right" href="#">  About IIPS</a></li>
-                     <li><a class="icon-chevron-sign-right" href="#">  Director</a></li>
-                     <li><a class="icon-chevron-sign-right" href="#">  Objectives and Vision</a></li>
-					  <li><a class="icon-chevron-sign-right" href="#">  Academic Calendar</a></li>
-					  <li><a class="icon-chevron-sign-right" href="#">  IIPS @ Wikipedia</a></li>
-                      <li><a class="icon-chevron-sign-right" href="#">  Anti-Ragging Committee</a></li>
+                  <ul class="nav side-tabs">
+                   	 <li class="active"><a class="icon-chevron-sign-right" href="#tab1">  About IIPS</a></li>
+                     <li><a class="icon-chevron-sign-right" href="#tab2">  Director</a></li>
+                     <li><a class="icon-chevron-sign-right" href="#tab3">  Objectives and Vision</a></li>
+					  <li><a class="icon-chevron-sign-right" href="#tab4">  Academic Calendar</a></li>
+					  <li><a class="icon-chevron-sign-right" href="#tab5">  IIPS @ Wikipedia</a></li>
+                      <li><a class="icon-chevron-sign-right" href="#tab6">  Anti-Ragging Committee</a></li>
                	   </ul>
 			  </div>
 			  
 			  <div class="col-sm-10">
 
-                <div class="tab-content">
+                <div id="tab1"  class="tab-content active">
 					<img class="iips_logo" src="images/iipslogo.jpg">
                     <?php 
 						$file1="textFiles/About_IIPS/About_IIPS.txt";  
@@ -62,7 +63,7 @@
 				  ?>
                 </div>
 
-                <div class="tab-content" style="text-align:justify; padding:0px 20px 0px 20px; margin-top:0px; line-height:1.5;">
+                <div id="tab2" class="tab-content hide" style="text-align:justify; padding:0px 20px 0px 20px; margin-top:0px; line-height:1.5;">
 				<b>Meet the Director</b>
                <table style="background-color:#eeeeee; border:1px solid gray;" > <tr>  <td> <i>
 
@@ -86,7 +87,7 @@
 
                 </div>
 
-                <div class="tab-content">
+                <div id="tab3" class="tab-content hide">
                    <b> What we Think</b><br><br>
 
 					<div style="background-color:#eeeeee;"><b>Objectives</b></div>
@@ -110,15 +111,15 @@
 				  			  ?>
                 </div>
 				
-				<div class="tab-content">
+				<div id="tab4" class="tab-content hide">
 					<b>Academic calender</b>
 				</div>
 				
-				<div class="tab-content">
+				<div id="tab5" class="tab-content hide">
 					Wikipedia : <a href="http://en.wikipedia.org/wiki/International_Institute_of_Professional_Studies">IIPS WikiPage</a>
 				</div>
 				
-                <div class="tab-content">
+                <div id="tab6" class="tab-content hide">
                     <b>IIPS Anti-Ragging Committee</b><br><br>
 					
 					<ul type="disc" style="margin-left:50px;">
@@ -141,13 +142,14 @@
 				  	  ?>
 					</ul>	
                    
-                </div>
+                </div><!--.tab-content Ended -->
 
-             </div><!-- .col-sm-9 ended-->
+             </div><!-- .col-md-10 ended-->
 
-		</div><!--.container ended -->
+		</div><!--.row ended -->
 		
-	</div>
+	</div><!--.container ended -->
+   </div><!--wrap id ended -->
 		<?php
 		     include('footer.php');
 			include('jsLinks.php');

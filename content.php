@@ -1,7 +1,8 @@
 <div class="container text-center">
+	<br>
 	<!-- 1st span12 started "slider + notices" ended -->
 	<div class="row">
-        <div class="col-md-12">
+        <div class="col-md-9">
 		  <div id="myCarousel" class="carousel slide">
           <!-- Indicators -->
       		<ol class="carousel-indicators">
@@ -51,13 +52,37 @@
       			<a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
       			<a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
     	</div><!-- /.myCarousel -->
+    	
+
+
      </div>
+     <!-- notice  block start -->
+     <div class="col-md-3 notices">
+        <div id="notice">
+     	   <div class="panel panel-primary" style="height:323px;margin-top:-20px;">
+     		   <div class="panel-heading">
+     			   <h3 class="panel-title">Notices/Announcements</h3>
+     		    </div>
+     			<div class="panel-body">
+     			   <ul style="margin-left:-10px;">
+     				  <li>
+     					  NAAC : Coming Soon !
+     				   </li>
+     				   <li>
+     						Internal Exam : Next Week
+     					</li>
+     				</ul>
+     			</div><!--Panel-body End -->
+     		</div><!--Panel End -->
+     	</div>
+     </div><!--Col-md-3 End -->
+     <!-- Notice block end -->
    </div>
 		<!-- span9 "slider" part ended -->
-
+		<!-- news/event section started -->
 	<div class="row">
-		 
-		<div class="col-md-9">
+			 
+		<div class="col-md-12">
 		   <div class="panel panel-primary" style="height:300px; overflow:hidden;">
 			  <div class="panel-heading">
 				 <h3 class="panel-title">News & Events</h3>
@@ -97,28 +122,9 @@
 				   </div><!--.tab-content -->
 				</div><!--Panel body -->
 			</div><!--End of Panel -->
-		</div><!--End of col-md-8 -->
-		
-		<div class="col-md-3 notices">
-		   <div id="notice">
-			   <div class="panel panel-primary" style="height:300px;">
-				   <div class="panel-heading">
-					   <h3 class="panel-title">Notices/Announcements</h3>
-				    </div>
-					<div class="panel-body">
-					   <ul style="margin-left:-10px;">
-						  <li>
-							  NAAC : Coming Soon !
-						   </li>
-						   <li>
-								Internal Exam : Next Week
-							</li>
-						</ul>
-					</div><!--Panel-body End -->
-				</div><!--Panel End -->
-			</div>
-		</div><!--Col-md-4 End -->
+		</div><!--End of col-md-12 -->
 	</div><!--End of Row -->
+	<!-- News/event section end -->
 
 	<div class="row">
    	   <div class="col-md-9 quicklist">

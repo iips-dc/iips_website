@@ -13,7 +13,7 @@ The institute offers unique integrated post-graduate courses in the fields of
 computer and management which students join directly after schooling. Addition to 
 that institute serves specialized courses in tourism and public relations 
 management as well.<br><br>
-	<table align="center" border="1px" >
+	<table align="center" border="1px" class="table" >
 	<tr style="color:#FFFFFF; background-color:#333333"> <td>Directors</td>	<td>Working Period</td>	 </tr>
         <tr> <td>Dr. M.S Sodha 	</td>	<td>29/11/1991 to 05/08/1992</td>	 </tr>
 	<tr> <td>Mr. R.D Agrawal 	</td>	<td>06/08/1992 to 14/05/1993</td>	 </tr>
