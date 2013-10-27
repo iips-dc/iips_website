@@ -40,7 +40,8 @@
  		 })
 	</script>
 
-	<script><!-- Script for testimonial-->
+  <!-- Script for testimonial -->
+	<script>
 	$(document).ready(function() {
             $('ul#quotes').quote_rotator();
             $('ul#button_quotes').quote_rotator();
