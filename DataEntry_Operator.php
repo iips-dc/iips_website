@@ -14,7 +14,7 @@
 		include('cssLinks.php');
 	?>
 	<link rel="stylesheet" href="carousel.css">
-  <link rel="stylesheet" href="css/jquery-progress-bubbles.css">
+  <link rel="stylesheet" href="css/progress_trackers.css">
   </head>
 
   <body>
@@ -39,12 +39,46 @@
       
        <div class="col-md-10">
           <div id="tab1"  class="tab-content active">
-            Add User  
-            <div id="bubbles"></div>
-              <p>
-                  <button id="regress" class="btn btn-primary">Previous Step</button>
-                  <button id="progress" class="btn btn-success">Next Step</button>
-              </p>
+            <div id="rootwizard">
+                <ul>
+                    <li><a href="#tab1" data-toggle="tab"><span class="label">1</span> First</a></li>
+                  <li><a href="#tab2" data-toggle="tab"><span class="label">2</span> Second</a></li>
+                  <li><a href="#tab3" data-toggle="tab"><span class="label">3</span> Third</a></li>
+                  <li><a href="#tab4" data-toggle="tab"><span class="label">4</span> Forth</a></li>
+                  <li><a href="#tab5" data-toggle="tab"><span class="label">5</span> Fifth</a></li>
+                  <li><a href="#tab6" data-toggle="tab"><span class="label">6</span> Sixth</a></li>
+                  <li><a href="#tab7" data-toggle="tab"><span class="label">7</span> Seventh</a></li>
+                </ul>
+                <div class="tab-content">
+                    <div class="tab-pane" id="tab1">
+                      1
+                    </div>
+                    <div class="tab-pane" id="tab2">
+                      2
+                    </div>
+                  <div class="tab-pane" id="tab3">
+                    3
+                    </div>
+                  <div class="tab-pane" id="tab4">
+                    4
+                    </div>
+                  <div class="tab-pane" id="tab5">
+                    5
+                    </div>
+                  <div class="tab-pane" id="tab6">
+                    6
+                    </div>
+                  <div class="tab-pane" id="tab7">
+                    7
+                    </div>
+                  <ul class="pager wizard">
+                    <li class="previous first" style="display:none;"><a href="#">First</a></li>
+                    <li class="previous"><a href="#">Previous</a></li>
+                    <li class="next last" style="display:none;"><a href="#">Last</a></li>
+                      <li class="next"><a href="#">Next</a></li>
+                  </ul>
+                </div>  
+              </div>
           </div>
 
           <div id="tab2" class="tab-content hide" style="text-align:justify; padding:0px 20px 0px 20px; margin-top:0px; line-height:1.5;">
@@ -82,24 +116,9 @@
     	    $('#myTab a:last').tab('show');
  		 })
 
-     $(function(){
- 
-                  $('#bubbles').progressBubbles( {
-                      bubbles : [
-                           {'title' : 'Add User'},
-                           {'title' : 'Select Type'},
-                          ]
-                    });
- 
-                    $('#bubbles').progressBubbles('progress');
-                    $('#bubbles').progressBubbles('regress');
-                    $('#progress').on('click', function(event){
-                    $('#bubbles').progressBubbles('progress');
-                   });
-                    $('#regress').on('click', function(event){
-                    $('#bubbles').progressBubbles('regress');
-                    });
-    });
+     $(document).ready(function() {
+       $('#rootwizard').bootstrapWizard({'tabClass': 'bwizard-steps'});
+     });
 	</script>
 
 	<script><!-- Script for testimonial-->
@@ -108,6 +127,6 @@
             $('ul#button_quotes').quote_rotator();
         });
    </script>
-   <script src="js/jquery-progress-bubbles.js"></script>
+   <script src="js/jquery.bootstrap.wizard.js"></script>
   </body>
 </html>
