@@ -38,39 +38,53 @@
        </div>
       
        <div class="col-md-10">
+          <!-- Add User Side Tab and its Progress Trackers -->
           <div id="tab1"  class="tab-content active">
-            <div id="rootwizard">
+            <div id="adduser_rootwizard">
                 <ul>
-                    <li><a href="#tab1" data-toggle="tab"><span class="label">1</span> First</a></li>
-                  <li><a href="#tab2" data-toggle="tab"><span class="label">2</span> Second</a></li>
-                  <li><a href="#tab3" data-toggle="tab"><span class="label">3</span> Third</a></li>
-                  <li><a href="#tab4" data-toggle="tab"><span class="label">4</span> Forth</a></li>
-                  <li><a href="#tab5" data-toggle="tab"><span class="label">5</span> Fifth</a></li>
-                  <li><a href="#tab6" data-toggle="tab"><span class="label">6</span> Sixth</a></li>
-                  <li><a href="#tab7" data-toggle="tab"><span class="label">7</span> Seventh</a></li>
+                    <li><a href="#atab1" data-toggle="tab"><span class="label">1</span> Add User</a></li>
+                  <li><a href="#atab2" data-toggle="tab"><span class="label">2</span> Select Type</a></li>
+                  
                 </ul>
                 <div class="tab-content">
-                    <div class="tab-pane" id="tab1">
+                    <div class="tab-pane" id="atab1">
                       1
                     </div>
-                    <div class="tab-pane" id="tab2">
+                    <div class="tab-pane" id="atab2">
                       2
                     </div>
-                  <div class="tab-pane" id="tab3">
-                    3
+                  
+                  <ul class="pager wizard">
+                    <li class="previous first" style="display:none;"><a href="#">First</a></li>
+                    <li class="previous"><a href="#">Previous</a></li>
+                    <li class="next last" style="display:none;"><a href="#">Last</a></li>
+                      <li class="next"><a href="#">Next</a></li>
+                  </ul>
+                </div>  
+              </div> 
+          </div>
+
+          <!-- Edit User Side Tab and its Progress Tracker -->
+
+          <div id="tab2" class="tab-content hide">
+            <div id="edituser_rootwizard">
+                <ul>
+                  <li><a href="#btab1" data-toggle="tab"><span class="label">1</span> Edit User</a></li>
+                  <li><a href="#btab2" data-toggle="tab"><span class="label">2</span> Select Type </a></li>
+                  <li><a href="#btab3" data-toggle="tab"><span class="label">3</span> Transaction ID or Name</a></li> 
+                  
+                </ul>
+                <div class="tab-content">
+                    <div class="tab-pane" id="btab1">
+                      1
                     </div>
-                  <div class="tab-pane" id="tab4">
-                    4
+                    <div class="tab-pane" id="btab2">
+                      2
                     </div>
-                  <div class="tab-pane" id="tab5">
-                    5
+                    <div class="tab-pane" id="btab3">
+                      3
                     </div>
-                  <div class="tab-pane" id="tab6">
-                    6
-                    </div>
-                  <div class="tab-pane" id="tab7">
-                    7
-                    </div>
+                  
                   <ul class="pager wizard">
                     <li class="previous first" style="display:none;"><a href="#">First</a></li>
                     <li class="previous"><a href="#">Previous</a></li>
@@ -81,20 +95,83 @@
               </div>
           </div>
 
-          <div id="tab2" class="tab-content hide" style="text-align:justify; padding:0px 20px 0px 20px; margin-top:0px; line-height:1.5;">
-            Edit User
-          </div>
-
           <div id="tab3" class="tab-content hide">
-              Add Alumini
+              <div id="addalumini_rootwizard">
+                <ul>
+                  <li><a href="#ctab1" data-toggle="tab"><span class="label">1</span> Course</a></li>
+                  <li><a href="#ctab2" data-toggle="tab"><span class="label">2</span> Batch</a></li>
+                  <li><a href="#ctab3" data-toggle="tab"><span class="label">3</span> Student</a></li>
+                  
+                </ul>
+                <div class="tab-content">
+                    <div class="tab-pane" id="ctab1">
+                      1
+                    </div>
+                    <div class="tab-pane" id="ctab2">
+                      2
+                    </div>
+                    <div class="tab-pane" id="ctab3">
+                      3
+                    </div>
+                  
+                  <ul class="pager wizard">
+                    <li class="previous first" style="display:none;"><a href="#">First</a></li>
+                    <li class="previous"><a href="#">Previous</a></li>
+                    <li class="next last" style="display:none;"><a href="#">Last</a></li>
+                      <li class="next"><a href="#">Next</a></li>
+                  </ul>
+                </div>  
+              </div>
           </div>
 
           <div id="tab4" class="tab-content hide">
-              View Transaction
+              <div id="viewtransactionid_rootwizard">
+                <ul>
+                  <li><a href="#dtab1" data-toggle="tab"><span class="label">1</span> User Type</a></li>
+                  
+                  
+                </ul>
+                <div class="tab-content">
+                    <div class="tab-pane" id="dtab1">
+                      1
+                    </div>
+                    
+                  
+                  <ul class="pager wizard">
+                    <li class="previous first" style="display:none;"><a href="#">First</a></li>
+                    <li class="previous"><a href="#">Previous</a></li>
+                    <li class="next last" style="display:none;"><a href="#">Last</a></li>
+                      <li class="next"><a href="#">Next</a></li>
+                  </ul>
+                </div>  
+              </div>
           </div>
 
           <div id="tab5" class="tab-content hide" style="text-align:justify; padding:0px 20px 0px 20px; margin-top:0px; line-height:1.5;">
-              Activate and Deactivate Account
+              <div id="activate_deactivate_rootwizard">
+                <ul>
+                  <li><a href="#etab1" data-toggle="tab"><span class="label">1</span> User Type</a></li>
+                  <li><a href="#etab2" data-toggle="tab"><span class="label">2</span> Transaction ID or Name</a></li>
+                  
+                  
+                </ul>
+                <div class="tab-content">
+                    <div class="tab-pane" id="etab1">
+                      1
+                    </div>
+                    <div class="tab-pane" id="etab2">
+                      2
+                    </div>
+                    
+                  
+                  <ul class="pager wizard">
+                    <li class="previous first" style="display:none;"><a href="#">First</a></li>
+                    <li class="previous"><a href="#">Previous</a></li>
+                    <li class="next last" style="display:none;"><a href="#">Last</a></li>
+                      <li class="next"><a href="#">Next</a></li>
+                  </ul>
+                </div>  
+              </div>
           </div>
             </div><!--.col-md-10 -->
          </div><!--.row class ended -->
@@ -117,8 +194,13 @@
  		 })
 
      $(document).ready(function() {
-       $('#rootwizard').bootstrapWizard({'tabClass': 'bwizard-steps'});
+       $('#adduser_rootwizard').bootstrapWizard({'tabClass': 'bwizard-steps'});
+       $('#edituser_rootwizard').bootstrapWizard({'tabClass': 'bwizard-steps'});
+       $('#addalumini_rootwizard').bootstrapWizard({'tabClass': 'bwizard-steps'});
+       $('#viewtransactionid_rootwizard').bootstrapWizard({'tabClass': 'bwizard-steps'});
+       $('#activate_deactivate_rootwizard').bootstrapWizard({'tabClass': 'bwizard-steps'});
      });
+
 	</script>
 
 	<script><!-- Script for testimonial-->
@@ -127,6 +209,7 @@
             $('ul#button_quotes').quote_rotator();
         });
    </script>
+   <!-- <script src="js/progress_trackers.js"></script> -->
    <script src="js/jquery.bootstrap.wizard.js"></script>
   </body>
 </html>
