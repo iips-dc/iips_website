@@ -51,6 +51,7 @@
 		* Discipline
 		* Post
 		* Responsibility
+		* Date of Joining
 		* Area of Interest
 		* Previous Job
 		* Web Url
