@@ -47,5 +47,10 @@
 		.tab-content.active{
 		    display: block;
 		}
+
+		.leftSpaceForm {
+			margin-left:20px;
+			padding:5px 10px 15px 5px;
+		}
 		
 	</style>
