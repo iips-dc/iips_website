@@ -17,7 +17,7 @@
   <link rel="stylesheet" href="css/progress_trackers.css">
   </head>
 
-  <body>
+  <body>++
      <?php
 	 	include('header.php');
 	 ?>
@@ -42,17 +42,133 @@
           <div id="tab1"  class="tab-content active">
             <div id="adduser_rootwizard">
                 <ul>
-                    <li><a href="#atab1" data-toggle="tab"><span class="label">1</span> Add User</a></li>
-                  <li><a href="#atab2" data-toggle="tab"><span class="label">2</span> Select Type</a></li>
+                    <li><a href="#atab1" data-toggle="tab"><span class="label">1</span> Select Course</a></li>
+                  <li><a href="#atab2" data-toggle="tab"><span class="label">2</span> Select Batch</a></li>
+                  <li><a href="#atab3" data-toggle="tab"><span class="label">2</span> Add User</a></li>
                   
                 </ul>
                 <div class="tab-content">
                     <div class="tab-pane" id="atab1">
-                      1
+                      <div class="row">
+                        <div class="col-md-4"></div>
+                        <!-- dropdown div started -->
+                        <div class="col-md-4">
+                          <br><br>
+                          <label>Select the Course Name</label><br>
+                          <select class="form-control">
+                            <option>MCA 6 years </option>
+                            <option>MBA 5 years</option>
+                            <option>Bcom</option>
+                            <option>MBA TA</option>
+                            <option>MBA APR</option>
+                            <option>Mtech</option>
+
+                          </select>
+
+                        </div>
+                        <!-- dropdown div end -->
+
+                        <div class="col-md-4"></div>
+
+                      </div>
+                      <!-- row ended -->
+
+
+
                     </div>
+                    <!-- tab pane id=atab1 end -->
+
                     <div class="tab-pane" id="atab2">
-                      2
+                    
+
+                    <div class="row">
+                      <div class="col-md-4"></div>
+                      <!-- dropdown div started -->
+                      <div class="col-md-4">
+                        <br><br>
+                        <label>Select the Batch</label><br>
+                        <select class="form-control">
+                          <option>batch 1</option>
+                          <option>batch 2</option>
+                          
+
+                        </select>
+
+                      </div>
+                      <!-- dropdown div end -->
+
+                      <div class="col-md-4"></div>
+
                     </div>
+                    <!-- row ended -->
+
+
+                    </div>
+
+                    <!-- tab 3 start -->
+                    <div class="tab-pane" id="atab3">
+                      
+                      <div class="row">
+                        
+                        <!-- form div started -->
+                        <div class="col-md-11">
+                          <br>
+                        <fieldset style="border:3px solid #007ACC; padding :5px 5px 5px 5px;">
+                          <div class="">
+                            <div class="row form-inline">
+                              <label class="leftSpaceForm"> First Name </label>  <input class="form-control " style= "width:200px;" type ="text" name="firstName" placeholder="First Name"  autofocus />
+                              <label class="leftSpaceForm"> Last Name</label>  <input class="form-control " style= "width:200px;" type ="text" name="lastName" placeholder="Last Name"   />
+                              <br>
+
+                              <label class="leftSpaceForm"> Gender </label>  <select class="form-control" name="gender" style= "width:200px;" ><option>Select</option> <option>M</option><option>F</option> </select>
+                              <label class="leftSpaceForm"> Date of Birth </label><input style= "width:200px;" type="date" class="form-control" placeholder="date of birth">
+                              <br>
+
+
+                              <label class="leftSpaceForm">Email </label><input style= "width:200px;" type="email" class="form-control" placeholder="system.default@gmail.com">
+                              <label class="leftSpaceForm"> Mobile Number (+91) </label><input style= "width:200px;" type="text" class="form-control" placeholder="Mobile Number">
+                              <br>
+
+                              <label class="leftSpaceForm">Land Line </label>  <input class="form-control " style= "width:85px;" type ="text" name="stdCode" placeholder="Std Code"   />
+                              <input class="form-control " style= "width:200px;" type ="text" name="landline" placeholder="Telephone Number"   />
+                              
+                              <br>
+                              <label class="leftSpaceForm">Local Address </label>  <textarea class="form-control " style= "width:200px;" type ="text" name="localAddress" placeholder="Local address"   ></textarea>
+                              <br>
+                              <label class="leftSpaceForm"> Permanent Address </label>  <textarea class="form-control " style= "width:200px;" type ="text" name="permanentAddress" placeholder="Permanent Address"   ></textarea>
+                              <button>Same as local Address</button>
+
+                              <br>
+
+                              <label class="leftSpaceForm"> Last Institute </label>  <input class="form-control " style= "width:200px;" type ="text" name="lastInstitute" placeholder="Last Institute Attended"   />
+                              <label class="leftSpaceForm"> % in Institute</label>  <input class="form-control " style= "width:200px;" type ="text" name="lastPercentage" placeholder="% in Last Institute"   />
+                              
+
+                              <br>
+                              <div class="pull-right " style="margin-right:40px;">
+                                <button class="btn btn-primary ">Save & Next</button>
+                                <button class="btn btn-primary ">Next</button>
+                              </div>
+                              
+                              
+
+                            </div>
+
+                          </div>
+                        </fieldset>
+
+                        </div>
+                        <!-- form div end -->
+
+                        <div class="col-md-1"></div>
+
+                      </div>
+                      <!-- row ended -->
+
+
+                    </div>
+                    <!-- tab 3 end -->
+
                   
                   <ul class="pager wizard">
                     <li class="previous first" style="display:none;"><a href="#">First</a></li>
