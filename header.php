@@ -3,10 +3,10 @@
 	<div class="gateway">
 	  <div class="container">
 	     <div class="span12">
-			<div class="tab"> <a href=" ">Student</a> </div>
-			<div class="tab"> <a href="" >Faculty</a></div>
-			<div class="tab"> <a href="#">Alumni</a></div>
-			<div class="tab"> <a href="#">Staff</a></div>
+			<div class="tab"> <a href="student_portal.php">Student</a> </div>
+			<div class="tab"> <a href="faculty_portal.php" >Faculty</a></div>
+			<div class="tab"> <a href="alumni_portal.php">Alumni</a></div>
+			<div class="tab"> <a href="staff_portal.php">Staff</a></div>
 			<div class="pull-right"> <a href="#" >Contact us</a></div>
 		  </div>
 	  </div>
@@ -50,9 +50,12 @@
 						   <li class="dropdown">
                   			  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programs we offer<b class="caret"></b></a>
                   			  <ul class="dropdown-menu">
-                 				<li><a href="Courses.php">Integrated</a></li>
+                 				<li><a href="Courses.php#tab4">Under Graduate</a></li>
+                 				<li><a href="Courses.php">Integrated (UG+PG) Masters</a></li>
                     			<li><a href="Courses.php#tab2">Post Graduate</a></li>
-                    			<li><a href="Courses.php#tab4">Under Graduate</a></li>
+                    			<li> <a href="#">M.Phil Ph.D</a> </li>
+                    			<li> <a href="#">Ph.D</a> </li>
+
                   			  </ul>
                 		   </li>
 						  <li class="dropdown">
@@ -85,6 +88,16 @@
                       		 <li><a href="#3">Tourista</a></li> 
 				   			</ul>
 						 </li>
+
+						 <li class="dropdown">
+                  		   <a href="#" class="dropdown-toggle" data-toggle="dropdown">RTI<b class="caret"></b></a>
+				   		   <ul class="dropdown-menu">
+				       		  <li><a href="#">View online</a></li>
+                       		  <li><a href="#">Download IQAC Report</a></li>
+                      		  
+				   			</ul>
+						 </li>
+
           			  </ul>
 		       	 </div><!--/.nav-collapse -->
           	</div><!--.container -->
