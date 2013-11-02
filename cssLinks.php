@@ -11,8 +11,12 @@
 		}
 		.gateway {
 			margin-left: 0px;
+			padding: 5px 5px 5px 5px;
 			background-color:#333333;
-			text-align: center;
+			text-align:center;
+			position: fixed;
+			width: 100%;
+			z-index: 2000;
 		}
 		.gateway a {
 			text-align: center;
@@ -20,8 +24,8 @@
 		}
 		.tab{
 			float:left;
-			
-			padding:5px 20px 20px 15px; /* Or desired space*/
+				
+			padding:0px 20px 5px 15px; /* Or desired space*/
 			
 		}
 		.logo{
@@ -33,6 +37,10 @@
 			
 			margin-top:-20px;
 			
+		}
+
+		.pads {
+			padding-top: 30px;
 		}
 		
 		.wrapper123 {
