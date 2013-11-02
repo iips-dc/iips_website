@@ -1,5 +1,5 @@
 " Welcome to International institute of professional studies- a Premier B-School in Central India which has been providing exceptional opportunities to the students since past 21 years. They have left an indelible mark that will guide subsequent developments, not only at the institution, but hopefully also in management education in our country. The new age consumer, industry and trade have always guided the plan and programmes of the institute. Our belief is that, holistic management education has to provide young graduates the necessary sensitivity skills which would help them to relate to their social environment. The institutes like ours have much larger role than just providing management education, to aspiring potential managers. The purpose of our institute is to induce change and manage socio-economic development in our country. "</i></td>
-<td style="text-align:center;">
+<td style="text-align:center; padding-left : 10px;color:red;">
 Feel Free to contact me on director@iips.edu.in 	
 Dr.Anand K. Sapre
 Director</td>
@@ -12,3 +12,4 @@ My belief is that organizations today new socially sensitive managers. We also b
 You have always supported IIPS in a very big way. Without your support it would not have been possible for us to achieve the current growth. I am confident that the institute will continue to get your support in all its activities. We look forward to receiving each one of you during this year?s placement season.
 
 I look forward to welcome you here.....
+<br><br>
