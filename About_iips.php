@@ -16,6 +16,7 @@
 		<style type="text/css">
 			.iips_logo{
 				float:right;
+				padding-left: 10px;
 			}
 		</style>
     </head>
@@ -93,10 +94,10 @@
 					<div style="background-color:#eeeeee;"><b>Objectives</b></div>
 						<ul type="disc" style="margin-left:50px;">
                               <?php 
-									$file_objective="textFiles/About_IIPS/objective.txt";  
+									$file_objective="textFiles/About_IIPS/Objective.txt";  
 									if (file_exists($file_objective))   
 									{  
-										$file_ob = fopen("textFiles/About_IIPS/objective.txt", "r");  
+										$file_ob = fopen("textFiles/About_IIPS/Objective.txt", "r");  
 		 								while (!feof($file_ob))   
  										{  
  			 								$display = fgets($file_ob, filesize($file_objective));  
@@ -106,7 +107,7 @@
 									}   
 									else   
 									{		  
- 		 								echo "Error occured ! ! ! Try again or report it to us";  
+ 		 								echo "Error occured  objectives! ! ! Try again or report it to us";  
 									}  
 				  			  ?>
                 </div>
