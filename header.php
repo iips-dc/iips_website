@@ -1,8 +1,8 @@
 	
 	<!-- Top nav bar -->
 	<div class="gateway">
-	  <div class="container">
-	     <div class="span12">
+	  <div class="container" >
+	     <div class="col-md-12">
 			<div class="tab"> <a href="student_portal.php">Student</a> </div>
 			<div class="tab"> <a href="faculty_portal.php" >Faculty</a></div>
 			<div class="tab"> <a href="alumni_portal.php">Alumni</a></div>
@@ -13,7 +13,7 @@
 	</div>
 	<!-- Top nav bar end -->
 	<div  align="center">
-	   <div class="container" align="center">
+	   <div class="container pads" align="center">
 	      <div class="span9 centred">
 	       <img src="images/iipsHeader6.png" class="img-responsive">
 		  </div>
