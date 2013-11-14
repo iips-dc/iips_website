@@ -23,6 +23,7 @@
     <body>
 		<?php
 			include('header.php');
+			include('readTextFilesScript.php');
 		?>
 	 <div id="wrap">
         <div class="container" style="background-color:#FFFFFF;">
@@ -30,20 +31,7 @@
             <div >
                    <?php 
 						$path_synergy ="textFiles/Events/synergy.txt";  
-						if (file_exists($path_synergy))   
-						{  
-							$open_synergy = fopen("textFiles/Events/synergy.txt", "r");  
-		 					while (!feof($open_synergy))   
- 							{  
- 			 					$display = fgets($open_synergy, filesize($path_synergy));  
-  								echo $display . "  ";  
- 							}  
- 							fclose($open_synergy);  
-						 }   
-						 else   
-						 {  
- 		 					echo "Error occured ! ! ! Try again or report it to us";  
-						 }  
+						readTextFiles($path_synergy);  
 				   ?>
            </div>
         </div><!-- End of container class -->

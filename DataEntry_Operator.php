@@ -15,9 +15,10 @@
 	?>
 	<link rel="stylesheet" href="carousel.css">
   <link rel="stylesheet" href="css/progress_trackers.css">
+  
   </head>
 
-  <body>++
+  <body>
      <?php
 	 	include('header.php');
 	 ?>
@@ -28,8 +29,8 @@
     <br><h3> Programs We Offer </h3><br>
          <div id="row">
        <div class="col-md-2">
-            <ul class="nav side-tabs">
-                <li><a class="icon-chevron-sign-right" href="#tab1">Add User</a></li>
+            <ul class="nav side-tabs nav-pills">
+                <li class="active"><a class="icon-chevron-sign-right" href="#tab1">Add User</a></li>
                 <li><a class="icon-chevron-sign-right" href="#tab2">Edit User</a></li>
                 <li><a class="icon-chevron-sign-right" href="#tab3">Add Alumini</a></li>
                 <li><a class="icon-chevron-sign-right" href="#tab4">View Transaction ID</a></li>
@@ -79,28 +80,27 @@
                     <!-- tab pane id=atab1 end -->
 
                     <div class="tab-pane" id="atab2">
-                    
 
-                    <div class="row">
-                      <div class="col-md-4"></div>
-                      <!-- dropdown div started -->
-                      <div class="col-md-4">
-                        <br><br>
-                        <label>Select the Batch</label><br>
-                        <select class="form-control">
-                          <option>batch 1</option>
-                          <option>batch 2</option>
-                          
+						<div class="row">
+						  <div class="col-md-4"></div>
+							  <!-- dropdown div started -->
+							  <div class="col-md-4">
+									<br><br>
+									<label>Select the Batch</label><br>
+									<select class="form-control">
+									  <option>batch 1</option>
+									  <option>batch 2</option>
+									  
 
-                        </select>
+									</select>
 
-                      </div>
-                      <!-- dropdown div end -->
+							  </div>
+						  <!-- dropdown div end -->
 
-                      <div class="col-md-4"></div>
+						  <div class="col-md-4"></div>
 
-                    </div>
-                    <!-- row ended -->
+						</div>
+						<!-- row ended -->
 
 
                     </div>
@@ -190,9 +190,18 @@
                   <li><a href="#btab3" data-toggle="tab"><span class="label">3</span> Transaction ID or Name</a></li> 
                   
                 </ul>
-                <div class="tab-content">
-                    <div class="tab-pane" id="btab1">
-                      1
+                <div class="tab-content " style="padding :5px 5px 5px 5px;"> 
+                    <div class="tab-pane" id="btab1"> <br><br>
+						<!-- Form for selecting student's name -->
+						<form class="form-inline" role="form">
+							<div class="form-group leftSpaceForm">
+								<label class="">First Name</label>   <input type="text" class="form-control" name="firstName" placeholder="Enter First Name">
+							</div>
+							<div class="form-group">
+								<label class="">Last Name</label>   <input type="text" class="form-control" name="lastName" placeholder="Enter Last Name">
+							</div>
+						</form>
+						<!-- End Form -->
                     </div>
                     <div class="tab-pane" id="btab2">
                       2
@@ -210,7 +219,9 @@
                 </div>  
               </div>
           </div>
-
+		  
+		  <!-- Add Alumni Side Tab and its Progress Tracker -->
+		  
           <div id="tab3" class="tab-content hide">
               <div id="addalumini_rootwizard">
                 <ul>
@@ -221,14 +232,94 @@
                 </ul>
                 <div class="tab-content">
                     <div class="tab-pane" id="ctab1">
-                      1
+                      <div class="row">
+                        <div class="col-md-4"></div>
+                        <!-- dropdown div started -->
+                        <div class="col-md-4">
+                          <br><br>
+                          <label>Select the Course Name</label><br>
+                          <select class="form-control">
+                            <option>MCA 6 years </option>
+                            <option>MBA 5 years</option>
+                            <option>Bcom</option>
+                            <option>MBA TA</option>
+                            <option>MBA APR</option>
+                            <option>Mtech</option>
+
+                          </select>
+
+                        </div>
+                        <!-- dropdown div end -->
+
+                        <div class="col-md-4"></div>
+
+                      </div>
+                      <!-- row ended -->
+					 
+					  
                     </div>
                     <div class="tab-pane" id="ctab2">
-                      2
+                      <div class="row">
+						 <div class="col-md-4"></div>
+							<!-- dropdown div started -->
+							<div class="col-md-4"><br><br>
+								<label>Select the Batch</label><br>
+								<select class="form-control">
+									<option>batch 1</option>
+									<option>batch 2</option>
+								</select>
+							</div><br>
+							<!-- dropdown div end -->
+
+						 <div class="col-md-4"></div>
+                      </div>
+                      <!-- row ended -->
                     </div>
-                    <div class="tab-pane" id="ctab3">
-                      3
-                    </div>
+                    <div class="tab-pane" id="ctab3"><br>
+                        <h4 class="text-center">Student Information</h4><br>
+						<!-- row started for select/deselect students for alumni -->
+						<div class="row">
+						  <div class="col-md-10">
+							<table class="table table-hover">
+								<tr>
+									<th><input type="checkbox" id="selectall"/></th>
+									<th>Student Name</th>
+									<th>Remark</th>
+								</tr>
+								<tr>
+									<td align="center"><input type="checkbox" class="case" name="case" value="1"/></td>
+									<td>Rahul Sagore</td>
+									<td>Passed</td>
+								</tr>
+								<tr>
+									<td align="center"><input type="checkbox" class="case" name="case" value="2"/></td>
+									<td>Chitrank Dixit</td>
+									<td>Passed</td>
+								</tr>
+								<tr>
+									<td align="center"><input type="checkbox" class="case" name="case" value="3"/></td>
+									<td>Ankit Kulkarni</td>
+									<td>Passed</td>
+								</tr>
+								<tr>
+									<td align="center"><input type="checkbox" class="case" name="case" value="4"/></td>
+									<td>Sunny Raikwar</td>
+									<td>Passed</td>
+								</tr>
+								<tr>
+									<td align="center"><input type="checkbox" class="case" name="case" value="5"/></td>
+									<td>Juniors</td>
+									<td>Passed</td>
+								</tr>
+							</table>
+							<button class="btn btn-sm btn-primary">Add To Alumni</button>
+							<button class="btn btn-sm btn-primary">Add To Alumni & Next</button>
+							<button class="btn btn-sm btn-primary">Back</button>
+						  </div>
+						  <div class="col-md-2"></div>
+					   </div>
+					   <!-- row ended -->
+                    </div><br><br>
                   
                   <ul class="pager wizard">
                     <li class="previous first" style="display:none;"><a href="#">First</a></li>
@@ -239,17 +330,68 @@
                 </div>  
               </div>
           </div>
-
+			
+			<!-- Code for "View Transaction Id" side-tab -->
           <div id="tab4" class="tab-content hide">
               <div id="viewtransactionid_rootwizard">
                 <ul>
-                  <li><a href="#dtab1" data-toggle="tab"><span class="label">1</span> User Type</a></li>
-                  
-                  
+                  <li><a href="#dtab1" data-toggle="tab"><span class="label">1</span> User Type</a></li>      
                 </ul>
+				
                 <div class="tab-content">
                     <div class="tab-pane" id="dtab1">
-                      1
+					    <!-- Selecting user type section -->
+						<div class="row">
+						  <div class="col-md-4"></div>
+							<!-- dropdown div started -->
+							<div class="col-md-4"><br><br>
+								<label>Select User Type</label><br>
+								<select class="form-control">
+									<option>Student</option>
+									<option>Faculty</option>
+									<option>Alumni</option>
+									<option>Staff</option>
+								</select>
+							</div><br>
+							<!-- dropdown div end -->
+
+						  <div class="col-md-4"></div>
+						</div>
+					    <!-- row ended --><br><br>
+						<table class="table table-hover">
+							<tr>
+								<th>Name</th>
+								<th>Transaction Id</th>
+								<th>Type Of User</th>
+							</tr>
+							
+							<tr>
+								<td align="center">Rahul Sagore</td>
+								<td>IC2K97412312154454</td>
+								<td>Student</td>
+							</tr>
+							<tr>
+								<td align="center">Ankit Kulkarni</td>
+								<td>IC2K97812345775498</td>
+								<td>Student</td>
+							</tr>
+							<tr>
+								<td align="center">Amber Jain</td>
+								<td>IC2K54645656665655</td>
+								<td>Alumni</td>
+							</tr>
+							<tr>
+								<td align="center">Shaligram Prajapat</td>
+								<td>FAC454545484787874</td>
+								<td>Faculty</td>
+							</tr>
+							
+							<tr>
+								<td align="center">Staff Name</td>
+								<td>STF457835445693454</td>
+								<td>Staff</td>
+							</tr>
+						</table>
                     </div>
                     
                   
@@ -273,10 +415,46 @@
                 </ul>
                 <div class="tab-content">
                     <div class="tab-pane" id="etab1">
-                      1
+                      <!-- Selecting user type section -->
+						<div class="row">
+						  <div class="col-md-4"></div>
+							<!-- dropdown div started -->
+							<div class="col-md-4"><br><br>
+								<label>Select User Type</label><br>
+								<select class="form-control">
+									<option>Student</option>
+									<option>Faculty</option>
+									<option>Alumni</option>
+									<option>Staff</option>
+								</select>
+							</div><br>
+							<!-- dropdown div end -->
+
+						  <div class="col-md-4"></div>
+						</div>
+					    <!-- row ended --><br><br>
                     </div>
-                    <div class="tab-pane" id="etab2">
-                      2
+                    <div class="tab-pane" id="etab2"><br>
+                      <!-- selecting Name or Transaction Id for Deactivating/Activating Account -->
+						<form class="form-inline" role="form">
+							<div class="form-group leftSpaceForm">
+								<label class="">First Name</label>   <input type="text" class="form-control" name="firstName" placeholder="Enter First Name">
+							</div>
+							<div class="form-group">
+								<label class="">Last Name</label>   <input type="text" class="form-control" name="lastName" placeholder="Enter Last Name">
+							</div>
+						</form>
+						<div class="text-center"><b>Or</b></div><br>
+						  <div class="center-block">
+							<form class="form-inline" role="form">
+								<label>Transaction Id</label>
+								<input type="text" style= "width:200px;" class="form-control" name="transactionId" placeholder="Enter Transaction Id"><br><br>
+								<button class="btn btn-sm btn-primary">Save</button>
+								<button class="btn btn-sm btn-primary">Save & Next</button>
+								<button class="btn btn-sm btn-primary">Exit</button>
+							</form><br>
+						  </div>
+						<!-- End Form -->
                     </div>
                     
                   
@@ -327,5 +505,28 @@
    </script>
    <!-- <script src="js/progress_trackers.js"></script> -->
    <script src="js/jquery.bootstrap.wizard.js"></script>
+   
+   <!-- Script For select/deselect checkbox for Add-to-admin side-tab-->
+   <SCRIPT language="javascript">
+		$(function(){
+		 
+			// add multiple select / deselect functionality
+			$("#selectall").click(function () {
+				  $('.case').attr('checked', this.checked);
+			});
+		 
+			// if all checkbox are selected, check the selectall checkbox
+			// and viceversa
+			$(".case").click(function(){
+		 
+				if($(".case").length == $(".case:checked").length) {
+					$("#selectall").attr("checked", "checked");
+				} else {
+					$("#selectall").removeAttr("checked");
+				}
+		 
+			});
+		});
+	</SCRIPT>
   </body>
 </html>

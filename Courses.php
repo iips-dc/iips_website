@@ -19,6 +19,7 @@
 <body>
 	<?php
 			include('header.php');
+			include('readTextFilesScript.php');
 	?>
 	 <div id="wrap">
 	  <div class="container" style="background-color:#FFFFFF;">
@@ -45,59 +46,20 @@
 					<div class="tab-content">
 					  <div class="tab-pane active" id="mca">
 					       <?php 
-								$path_mca ="textFiles/ProgramsWeOffer/mca.txt";  
-								if (file_exists($path_mca))   
-								{  
-									$open_mca = fopen("textFiles/ProgramsWeOffer/mca.txt", "r");  
-		 							while (!feof($open_mca))   
- 									{  
- 			 							$display = fgets($open_mca, filesize($path_mca));  
-  										echo $display . "  ";  
- 									}  
- 									fclose($open_mca);  
-								}   
-								else   
-								{  
- 		 							echo "Error occured ! ! ! Try again or report it to us";  
-								}  
+								$mca ="textFiles/ProgramsWeOffer/mca.txt";  
+								readTextFiles($mca);  
 				    		?><br><br><br>
 					  </div>
  					  <div class="tab-pane" id="mba"></b>
 					     <?php 
-								$path_mba ="textFiles/ProgramsWeOffer/mba.txt";  
-								if (file_exists($path_mba))   
-								{  
-									$open_mba = fopen("textFiles/ProgramsWeOffer/mba.txt", "r");  
-		 							while (!feof($open_mba))   
- 									{  
- 			 							$display = fgets($open_mba, filesize($path_mba));  
-  										echo $display . "  ";  
- 									}  
- 									fclose($open_mba);  
-								}   
-								else   
-								{  
- 		 							echo "Error occured ! ! ! Try again or report it to us";  
-								}  
+								$mba ="textFiles/ProgramsWeOffer/mba.txt";  
+								readTextFiles($mba);  
 				    		?><br><br><br>
 					  </div>
  					  <div class="tab-pane" id="mtech">
 					          <?php 
-								$path_mtech ="textFiles/ProgramsWeOffer/mtech.txt";  
-								if (file_exists($path_mtech))   
-								{  
-									$open_mtech = fopen("textFiles/ProgramsWeOffer/mtech.txt", "r");  
-		 							while (!feof($open_mtech))   
- 									{  
- 			 							$display = fgets($open_mtech, filesize($path_mtech));  
-  										echo $display . "  ";  
- 									}  
- 									fclose($open_mtech);  
-								}   
-								else   
-								{  
- 		 							echo "Error occured ! ! ! Try again or report it to us";  
-								}  
+								$mTech ="textFiles/ProgramsWeOffer/mtech.txt";  
+								readTextFiles($mTech);  
 				    		?><br><br><br>
 					  		
 					  </div>
@@ -115,61 +77,22 @@
 					<div class="tab-content">
   						<div class="tab-pane active" id="mbams">
 						    <?php 
-								$path_mba_ms ="textFiles/ProgramsWeOffer/mba_ms.txt";  
-								if (file_exists($path_mba_ms))   
-								{  
-									$open_mba_ms = fopen("textFiles/ProgramsWeOffer/mba_ms.txt", "r");  
-		 							while (!feof($open_mba_ms))   
- 									{  
- 			 							$display = fgets($open_mba_ms, filesize($path_mba_ms));  
-  										echo $display . "  ";  
- 									}  
- 									fclose($open_mba_ms);  
-								}   
-								else   
-								{  
- 		 							echo "Error occured ! ! ! Try again or report it to us";  
-								}  
+								$mbMS ="textFiles/ProgramsWeOffer/mba_ms.txt";  
+								readTextFiles($mbMS); 
 				    		?><br><br><br>
 						    
 						</div>
   						<div class="tab-pane" id="mbata">
 						      <?php 
-								$path_mba_ta ="textFiles/ProgramsWeOffer/mba_ta.txt";  
-								if (file_exists($path_mba_ta))   
-								{  
-									$open_mba_ta = fopen("textFiles/ProgramsWeOffer/mba_ta.txt", "r");  
-		 							while (!feof($open_mba_ta))   
- 									{  
- 			 							$display = fgets($open_mba_ta, filesize($path_mba_ta));  
-  										echo $display . "  ";  
- 									}  
- 									fclose($open_mba_ta);  
-								}   
-								else   
-								{  
- 		 							echo "Error occured ! ! ! Try again or report it to us";  
-								}  
+								$mbaTA ="textFiles/ProgramsWeOffer/mba_ta.txt";  
+								readTextFiles($mbaTA); 
 				    		?><br><br><br>
 								
 						</div>
  					    <div class="tab-pane" id="mbaapr">
 								<?php 
-									$path_mba_apr ="textFiles/ProgramsWeOffer/mba_apr.txt";  
-									if (file_exists($path_mba_apr))   
-									{  
-										$open_mba_apr = fopen("textFiles/ProgramsWeOffer/mba_apr.txt", "r");  
-		 								while (!feof($open_mba_apr))   
- 										{  
- 			 								$display = fgets($open_mba_apr, filesize($path_mba_apr));  
-  											echo $display . "  ";  
- 										}  
- 										fclose($open_mba_apr);  
-									}   
-									else   
-									{  
- 		 								echo "Error occured ! ! ! Try again or report it to us";  
-									}  
+									$mbaAPR ="textFiles/ProgramsWeOffer/mba_apr.txt";  
+									readTextFiles($mbaAPR);  
 				    			?><br><br><br>
 								
 						</div>
@@ -178,21 +101,8 @@
 
                 <div id="tab3" class="tab-content hide">
 				    <?php 
-							$path_bcom_hons ="textFiles/ProgramsWeOffer/bcom_hons.txt";  
-							if (file_exists($path_bcom_hons))   
-							{  
-								$open_bcom_hons = fopen("textFiles/ProgramsWeOffer/bcom_hons.txt", "r");  
-		 						while (!feof($open_bcom_hons))   
- 								{  
- 			 						$display = fgets($open_bcom_hons, filesize($path_bcom_hons));  
-  									echo $display . "  ";  
- 								}  
- 								fclose($open_bcom_hons);  
-							}   
-							else   
-							{  
- 		 						echo "Error occured ! ! ! Try again or report it to us";  
-							}  
+							$bcomHons ="textFiles/ProgramsWeOffer/bcom_hons.txt";  
+							readTextFiles($bcomHons);  
 				    ?><br><br><br>
 
                 </div>

@@ -2,7 +2,7 @@
 slider, notice, news_events box, Link to quicklink file
 and testimonial section -->
 
-<div class="container text-center">
+<div class="container">
 	<br>
 	<!-- 1st span12 started "slider + notices" ended -->
 	<div class="row">
@@ -61,24 +61,25 @@ and testimonial section -->
 
      </div>
      <!-- notice  block start -->
-     <div class="col-md-3 notices">
-        <div id="notice">
-     	   <div class="panel panel-primary" style="height:323px;margin-top:-20px;">
-     		   <div class="panel-heading">
-     			   <h3 class="panel-title">Notices/Announcements</h3>
-     		    </div>
-     			<div class="panel-body">
-     			   <ul style="margin-left:-10px;">
-     				  <li>
-     					  NAAC : Coming Soon !
-     				   </li>
-     				   <li>
-     						Internal Exam : Next Week
-     					</li>
-     				</ul>
-     			</div><!--Panel-body End -->
-     		</div><!--Panel End -->
-     	</div>
+     <div class="col-md-3 text-center">
+     	   <div class="panel panel-primary" style="margin-top:-20px; font-size:15px;">
+				<div class="panel-heading">
+					<h3 class="panel-title">Notice/Announcements</h3>
+				</div>
+				<div class="panel-body">
+				   <span class="glyphicon glyphicon-hand-right"></span>   <a href="#">NAAC Coming Soon </a><br>
+				   <span class="glyphicon glyphicon-hand-right"></span> <a href="#">End Semester Exam : December 2013 </a> <br>
+				   <span class="glyphicon glyphicon-hand-right"></span> <a href="#">Online Fees Last Date</a> <br>
+				   <span class="glyphicon glyphicon-hand-right"></span> <a href="#">Elections</a> <br>
+				   <span class="glyphicon glyphicon-hand-right"></span> <a href="#">WorkShop</a><br>
+				   <span class="glyphicon glyphicon-hand-right"></span> <a href="#">Guest Lecture</a><br>
+				   <span class="glyphicon glyphicon-hand-right"></span> <a href="#">Meeting</a><br>
+				   <span class="glyphicon glyphicon-hand-right"></span> <a href="#">Fill Feedback Form</a><br>
+				</div>
+				<div class="panel-footer">
+					<a href="allNotices.php"><b>View All &raquo;</b></a>
+				</div>
+		  </div><!--Panel for Annoucements End -->
      </div><!--Col-md-3 End -->
      <!-- Notice block end -->
    </div>
@@ -129,6 +130,7 @@ and testimonial section -->
 		</div><!--End of col-md-12 -->
 	</div><!--End of Row -->
 	<!-- News/event section end -->
+	
 
 	<div class="row">
    	   <div class="col-md-9 quicklist">

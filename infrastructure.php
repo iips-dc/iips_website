@@ -19,6 +19,7 @@
 <body>
 	<?php
 			include('header.php');
+			include('readTextFilesScript.php');
 	?>
 	<div id="wrap">
 	  <div class="container" style="background-color:#FFFFFF;">
@@ -39,42 +40,16 @@
                 <div id="tab1"  class="tab-content active">
 					
 					<?php 
-						$path_lecTheatre ="textFiles/Infrastructure/lectureTheaters.txt";  
-						if (file_exists($path_lecTheatre))   
-						{  
-							$open_lecTheatre = fopen("textFiles/Infrastructure/lectureTheaters.txt", "r");  
-		 					while (!feof($open_lecTheatre))   
- 							{  
- 			 					$display = fgets($open_lecTheatre, filesize($path_lecTheatre));  
-  								echo $display . "  ";  
- 							}  
- 							fclose($open_lecTheatre);  
-						}   
-						else   
-						{  
- 		 					echo "Error occured ! ! ! Try again or report it to us";  
-						}  
+						$lecTheatre ="textFiles/Infrastructure/lectureTheaters.txt";  
+						readTextFiles($lecTheatre);
 				    ?><br><br>
  
                 </div>
 
                 <div id="tab2" class="tab-content hide" style="text-align:justify; padding:0px 20px 0px 20px; margin-top:0px; line-height:1.5;">
 		          <?php 
-						$path_compLab ="textFiles/Infrastructure/computerLab.txt";  
-						if (file_exists($path_compLab))   
-						{  
-							$open_compLab = fopen("textFiles/Infrastructure/computerLab.txt", "r");  
-		 					while (!feof($open_compLab))   
- 							{  
- 			 					$display = fgets($open_compLab, filesize($path_compLab));  
-  								echo $display . "  ";  
- 							}  
- 							fclose($open_compLab);  
-						}   
-						else   
-						{  
- 		 					echo "Error occured ! ! ! Try again or report it to us";  
-						}  
+						$compLab ="textFiles/Infrastructure/computerLab.txt";  
+						readTextFiles($compLab);  
 				    ?><br><br>
  
 
@@ -83,41 +58,15 @@
                 <div id="tab3" class="tab-content hide">
                    
 					<?php 
-						$path_libraries ="textFiles/Infrastructure/libraries.txt";  
-						if (file_exists($path_libraries))   
-						{  
-							$open_libraries = fopen("textFiles/Infrastructure/libraries.txt", "r");  
-		 					while (!feof($open_libraries))   
- 							{  
- 			 					$display = fgets($open_libraries, filesize($path_libraries));  
-  								echo $display . "  ";  
- 							}  
- 							fclose($open_libraries);  
-						}   
-						else   
-						{  
- 		 					echo "Error occured ! ! ! Try again or report it to us";  
-						}  
+						$libraries ="textFiles/Infrastructure/libraries.txt";  
+						readTextFiles($libraries);
 				    ?><br><br>
                 </div>
 				
 				<div id="tab4" class="tab-content hide">
 					<?php 
-						$path_hostels ="textFiles/Infrastructure/hostels.txt";  
-						if (file_exists($path_hostels))   
-						{  
-							$open_hostels = fopen("textFiles/Infrastructure/hostels.txt", "r");  
-		 					while (!feof($open_hostels))   
- 							{  
- 			 					$display = fgets($open_hostels, filesize($path_hostels));  
-  								echo $display . "  ";  
- 							}  
- 							fclose($open_hostels);  
-						}   
-						else   
-						{  
- 		 					echo "Error occured ! ! ! Try again or report it to us";  
-						}  
+						$hostels ="textFiles/Infrastructure/hostels.txt";  
+						readTextFiles($hostels);  
 				    ?>
 
 				</div>

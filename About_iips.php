@@ -16,13 +16,14 @@
 		<style type="text/css">
 			.iips_logo{
 				float:right;
-				padding-left: 10px;
 			}
 		</style>
     </head>
     <body>
 		<?php
 			include('header.php');
+			include('readTextFilesScript.php');
+				
 		?>
 	   <div id="wrap">
 		 <div class="container" style="background-color:#FFFFFF;">
@@ -46,21 +47,8 @@
                 <div id="tab1"  class="tab-content active">
 					<img class="iips_logo" src="images/iipslogo.jpg">
                     <?php 
-						$file1="textFiles/About_IIPS/About_IIPS.txt";  
-						if (file_exists($file1))   
-						{  
-							$file = fopen("textFiles/About_IIPS/About_IIPS.txt", "r");  
-		 					while (!feof($file))   
- 							{  
- 			 					$display = fgets($file, filesize($file1));  
-  								echo $display . "  ";  
- 							}  
- 							fclose($file);  
-						}   
-						else   
-						{  
- 		 					echo "Error occured ! ! ! Try again or report it to us";  
-						}  
+						$aboutIIPS = "textFiles/About_IIPS/About_IIPS.txt";  
+						 readTextFiles($aboutIIPS);
 				  ?>
                 </div>
 
@@ -69,21 +57,8 @@
                <table style="background-color:#eeeeee; border:1px solid gray;" > <tr>  <td> <i>
 
 					<?php 
-						$file_director="textFiles/About_IIPS/Director.txt";  
-						if (file_exists($file_director))   
-						{  
-							$file2 = fopen("textFiles/About_IIPS/Director.txt", "r");  
-		 					while (!feof($file2))   
- 							{  
- 			 					$display = fgets($file2, filesize($file_director));  
-  								echo $display . "  ";  
- 							}  
- 							fclose($file2);  
-						}   
-						else   
-						{  
- 		 					echo "Error occured ! ! ! Try again or report it to us";  
-						}  
+						$director="textFiles/About_IIPS/Director.txt";  
+						readTextFiles($director);
 				  ?>
 
                 </div>
@@ -94,21 +69,8 @@
 					<div style="background-color:#eeeeee;"><b>Objectives</b></div>
 						<ul type="disc" style="margin-left:50px;">
                               <?php 
-									$file_objective="textFiles/About_IIPS/Objective.txt";  
-									if (file_exists($file_objective))   
-									{  
-										$file_ob = fopen("textFiles/About_IIPS/Objective.txt", "r");  
-		 								while (!feof($file_ob))   
- 										{  
- 			 								$display = fgets($file_ob, filesize($file_objective));  
-  											echo $display . "  ";  
- 										}  
- 										fclose($file_ob);  
-									}   
-									else   
-									{		  
- 		 								echo "Error occured  objectives! ! ! Try again or report it to us";  
-									}  
+									$objectives="textFiles/About_IIPS/objective.txt";  
+									readTextFiles($objectives);
 				  			  ?>
                 </div>
 				
@@ -125,21 +87,8 @@
 					
 					<ul type="disc" style="margin-left:50px;">
     					<?php 
-							$file_antiRagging="textFiles/About_IIPS/antiRaggingCommittee.txt";  
-							if (file_exists($file_antiRagging))   
-							{  
-								$file_antiRag = fopen("textFiles/About_IIPS/antiRaggingCommittee.txt", "r");  
-		 						while (!feof($file_antiRag))   
- 								{  
- 			 						$display = fgets($file_antiRag, filesize($file_antiRagging));  
-  									echo $display . "  ";  
- 								}  
- 								fclose($file_antiRag);  
-							}   
-							else   
-							{		  
- 		 						echo "Error occured ! ! ! Try again or report it to us";  
-							}  
+							$antiRagging="textFiles/About_IIPS/antiRaggingCommittee.txt";  
+							readTextFiles($antiRagging); 
 				  	  ?>
 					</ul>	
                    
