@@ -60,5 +60,9 @@
 			margin-left:20px;
 			padding:5px 10px 15px 5px;
 		}
+
+		.quickLinkList {
+			list-style-type: none;
+		}
 		
 	</style>
