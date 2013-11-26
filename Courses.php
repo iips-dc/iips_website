@@ -28,7 +28,7 @@
          <div id="row">
 		   <div class="col-md-2">
             <ul class="nav side-tabs">
-                <li><a class="icon-chevron-sign-right" href="#tab1">  Integrated</a></li>
+                <li class="active"><a class="icon-chevron-sign-right" href="#tab1">  Integrated</a></li>
                 <li><a class="icon-chevron-sign-right" href="#tab2">  Post Graduate</a></li>
 				<li><a class="icon-chevron-sign-right" href="#tab3">  Under Graduate</a></li>
             </ul>
