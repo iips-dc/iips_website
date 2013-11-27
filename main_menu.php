@@ -28,11 +28,11 @@
 						   <li class="dropdown">
                   			  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programs we offer<b class="caret"></b></a>
                   			  <ul class="dropdown-menu">
-                 				<li><a href="Courses.php#tab4">Under Graduate</a></li>
-                 				<li><a href="Courses.php">Integrated (UG+PG) Masters</a></li>
-                    			<li><a href="Courses.php#tab2">Post Graduate</a></li>
-                    			<li> <a href="#">M.Phil Ph.D</a> </li>
-                    			<li> <a href="#">Ph.D</a> </li>
+                 				  <li><a href="Courses.php?t=1">Under Graduate</a></li>
+                          <li><a href="Courses.php?t=2">Integrated (UG+PG) Masters</a></li>
+                          <li><a href="Courses.php?t=3">Post Graduate</a></li>
+                          <li> <a href="Courses.php?t=4">M.Phil Ph.D</a> </li>
+                          <li> <a href="Courses.php?t=5">Ph.D</a> </li>
 
                   			  </ul>
                 		   </li>
