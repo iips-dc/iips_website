@@ -2,6 +2,7 @@
 	<div class="gateway">
 	  <div class="container" >
 	     <div class="col-md-12">
+			<div class="tab"> <a href="index.php">Home</a> </div>
 			<div class="tab"> <a href="student_portal.php">Student</a> </div>
 			<div class="tab"> <a href="faculty_portal.php" >Faculty</a></div>
 			<div class="tab"> <a href="alumni_portal.php">Alumni</a></div>

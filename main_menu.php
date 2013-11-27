@@ -48,6 +48,22 @@
 				   			</ul>
 				  		  </li>
 						<li class="dropdown">
+                   			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Research<b class="caret"></b></a>
+				   			<ul class="dropdown-menu">
+				      			 <li><a href="#1">Development Cennter</a></li>
+                       			<li><a href="#2">Research Center</a></li>
+                       			<li><a href="#3">Publications</a></li>
+				   			</ul>
+				  		</li>
+						<li class="dropdown">
+                  		   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<b class="caret"></b></a>
+				   		   <ul class="dropdown-menu">
+				       		  <li><a href="Xpressions.php">Expression</a></li>
+                       		  <li><a href="synergy.php">Synergy</a></li>
+                      		 <li><a href="#3">Tourista</a></li> 
+				   			</ul>
+						 </li>
+						<li class="dropdown">
                    			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Academics<b class="caret"></b></a>
 				   			<ul class="dropdown-menu">
 				       			<li><a href="#1">Academic Calender</a></li>
@@ -58,15 +74,14 @@
 					  			 <li><a href="#6">Research Cell</a></li> 
 				   			</ul>
 				  		</li>
+						
 						<li class="dropdown">
-                  		   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<b class="caret"></b></a>
-				   		   <ul class="dropdown-menu">
-				       		  <li><a href="Xpression.php">Expression</a></li>
-                       		  <li><a href="synergy.php">Synergy</a></li>
-                      		 <li><a href="#3">Tourista</a></li> 
+                   			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Recruitments<b class="caret"></b></a>
+				   			<ul class="dropdown-menu">
+				      			 <li><a href="#1">Faculty</a></li>
+                       			<li><a href="#2">Staff</a></li>
 				   			</ul>
-						 </li>
-
+				  		</li>
 						 <li class="dropdown">
                   		   <a href="#" class="dropdown-toggle" data-toggle="dropdown">RTI<b class="caret"></b></a>
 				   		   <ul class="dropdown-menu">
@@ -83,7 +98,6 @@
 
 	</div>
 	<!-- navbar-wrapper end" -->
-	</div>
-</div>
+
 	
 
