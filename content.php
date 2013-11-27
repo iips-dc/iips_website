@@ -66,8 +66,8 @@ and testimonial section -->
 				<div class="panel-heading">
 					<h3 class="panel-title">Notice/Announcements</h3>
 				</div>
-				<div class="panel-body">
-				   <span class="glyphicon glyphicon-hand-right"></span>   <a href="#">NAAC Coming Soon </a><br>
+				<div class="panel-body" align="left">
+				   <span class="glyphicon glyphicon-hand-right"></span> <a href="#">NAAC Coming Soon </a><br>
 				   <span class="glyphicon glyphicon-hand-right"></span> <a href="#">End Semester Exam : December 2013 </a> <br>
 				   <span class="glyphicon glyphicon-hand-right"></span> <a href="#">Online Fees Last Date</a> <br>
 				   <span class="glyphicon glyphicon-hand-right"></span> <a href="#">Elections</a> <br>
