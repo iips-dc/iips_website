@@ -19,11 +19,12 @@
     * Staff
 9. RTI
     * Press release
-    * Download Reports
+    * Downloads
         * IQAC
         * Ordinance 
         * Guidelines for Admission
         * Syllabus
+		* Forms
     * Faculty
     * Student
     * Library
@@ -41,9 +42,11 @@
     * Bonafied
     * Complaints
 9. Downloads
-    * Forms
-    * Syllabus
-    * RTI
+	* IQAC
+	* Ordinance 
+	* Guidelines for Admission
+	* Syllabus
+	* Forms
 
 # Faculty
 1. Faculty_home
@@ -59,6 +62,11 @@
     * Request
 8. Recruitments
 9. Downloads
+	* IQAC
+	* Ordinance 
+	* Guidelines for Admission
+	* Syllabus
+	* Forms
 
 # Staff
 1. staff_home
@@ -71,4 +79,9 @@
     * Requests
 7. Recruitments    
 8. Downloads
+	* IQAC
+	* Ordinance 
+	* Guidelines for Admission
+	* Syllabus
+	* Forms
 
