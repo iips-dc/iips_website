@@ -12,7 +12,17 @@
        			</div>
        			<div class="navbar-collapse collapse">
          			<ul class="nav navbar-nav">
-          		  		  <li class="active"><a class="navbar-brand menu-top" href="index.php">Student Home</a></li>
+         			  <!-- profile only to show when user is logged in  -->
+          			  <li class="dropdown">
+             			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Profile<b class="caret"></b></a>
+			   			<ul class="dropdown-menu">
+			       				<li><a href="#1">Edit Profile</a></li>
+                       			<li><a href="#2">View Profile</a></li>
+			   			</ul>
+			  		   </li>
+
+
+          		  	
             			  <li class="dropdown">
                    			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Academics<b class="caret"></b></a>
 				   			<ul class="dropdown-menu">
