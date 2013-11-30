@@ -1,4 +1,4 @@
-<!-- This page is used to serve content in the student_portal.php -->
+<!-- This page is used to serve content in the student_portal.php  -->
 <div class="container text-center">
 	<br>
 	
@@ -61,8 +61,103 @@
    </div>
 		<!-- col12 "slider" part ended -->
 
-      <!-- row class start -->
-      <div class="row">    
+      <!-- 1strow class start -->
+      <div class="row">
+               <div class="col-lg-3 col-md-6 hero-feature">
+                 
+                   <div class="caption">
+                     <h3>Feature Label 1</h3>
+                     <p>This would be a great spot to feature some brand new products!</p>
+                     <p><a href="#" class="btn btn-primary">More >></a> </p>
+                   </div>
+                 
+               </div>
+
+                <div class="col-lg-3 col-md-6 hero-feature">
+                  
+                    <div class="caption">
+                      <h3>Feature Label 2</h3>
+                      <p>This would be a great spot to feature some brand new products!</p>
+                      <p><a href="#" class="btn btn-primary">More >></a> </p>
+                    </div>
+                  
+                </div>
+
+                <div class="col-lg-3 col-md-6 hero-feature">
+                  
+                    <div class="caption">
+                      <h3>Feature Label 3</h3>
+                      <p>This would be a great spot to feature some brand new products!</p>
+                      <p><a href="#" class="btn btn-primary">More >></a> </p>
+                    </div>
+              
+                </div>
+
+
+                <div class="col-lg-3 col-md-6 hero-feature">
+                  
+                    <div class="caption">
+                      <h3>Feature Label 4</h3>
+                      <p>This would be a great spot to feature some brand new products!</p>
+                      <p><a href="#" class="btn btn-primary">More >></a> </p>
+                    </div>
+                  
+                </div>
+      </div> <!-- 1st row end -->
+<br><br>
+      <!-- 2nd row start -->
+      <div class="row">
+
+        <div class="col-lg-3 col-md-6 hero-feature">
+          
+            <div class="caption">
+              <h3>Feature Label 4</h3>
+              <p>This would be a great spot to feature some brand new products!</p>
+              <p><a href="#" class="btn btn-primary">More >></a> </p>
+            </div>
+          
+        </div>
+
+        <div class="col-lg-3 col-md-6 hero-feature">
+          
+            <div class="caption">
+              <h3>Feature Label 4</h3>
+              <p>This would be a great spot to feature some brand new products!</p>
+              <p><a href="#" class="btn btn-primary">More >></a> </p>
+            </div>
+          
+        </div>
+
+        <div class="col-lg-3 col-md-6 hero-feature">
+          
+            <div class="caption">
+              <h3>Feature Label 4</h3>
+              <p>This would be a great spot to feature some brand new products!</p>
+              <p><a href="#" class="btn btn-primary">More >></a> </p>
+            </div>
+          
+        </div>
+
+        <div class="col-lg-3 col-md-6 hero-feature">
+          
+            <div class="caption">
+              <h3>Feature Label 4</h3>
+              <p>This would be a great spot to feature some brand new products!</p>
+              <p><a href="#" class="btn btn-primary">More >></a> </p>
+            </div>
+          
+        </div>
+
+
+      </div> <!-- 2nd row end -->
+
+      <!-- row start -->
+      <div class="row">
+
+
+
+
+
        <p style="text-align:justify">      
         Student<br>
 
@@ -126,4 +221,4 @@
 
 	
 </div>
-<!-- container class ended -->
+<!-- container class ended
