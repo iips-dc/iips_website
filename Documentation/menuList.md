@@ -24,14 +24,26 @@
         * Ordinances 
         * Guidelines for Admissions
         * Syllabus
+		* Forms
+        * Miscellaneous
     * Faculty
     * Student
     * Library
 
 # Student Page
-1. Profile     
+1. Profile
+    * View Profile
+    * Edit Profile   
 2. Academics
+    * Syllabus
+    * Calender
+    * Notices
+    * Achievements and Awards
+    * Announcements & News
 3. Research
+    * DC
+    * RC
+    * Publications
 4. Result
 5. Faculty
 6. Events
@@ -41,15 +53,26 @@
     * Bonafied
     * Complaints
 9. Downloads
-    * Forms
-    * Syllabus
-    * RTI
+	* IQAC
+	* Ordinance 
+	* Guidelines for Admission
+	* Syllabus
+	* Forms
 
 # Faculty
-1. Faculty_home
+1. Profile
+    * View Profile
+    * Edit Profile
 2. Academics
-    * includes all above points and Results
+    * Syllabus
+    * Calender
+    * Notices
+    * Achievements and Awards
+    * Announcements & News
 3. Research
+    * DC
+    * RC
+    * Publications
 4. Faculties
 5. Events
 6. Placements
@@ -58,10 +81,17 @@
     * Library
     * Request
 8. Recruitments
+    * Faculty
+    * Staff
 9. Downloads
+	* IQAC
+	* Ordinance 
+	* Guidelines for Admission
+	* Syllabus
+	* Forms
 
 # Staff
-1. staff_home
+1. Profile
 2. Student
 3. Faculty
 4. Events
@@ -69,6 +99,13 @@
 6. Services
     * Library
     * Requests
-7. Recruitments    
+7. Recruitments
+    * Faculty
+    * Staff 
 8. Downloads
+	* IQAC
+	* Ordinance 
+	* Guidelines for Admission
+	* Syllabus
+	* Forms
 
