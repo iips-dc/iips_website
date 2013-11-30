@@ -1,7 +1,7 @@
 #Front page menu
 1. About us
-2. Programs we offer
-3. Admission
+2. Programs
+3. Admissions
 4. Research
     * DC
     * RC
@@ -9,27 +9,27 @@
 5. Events
 6. Placement
 7. Academics
-    * Achievements and Awards
     * Syllabus
     * Calender
     * Notices
+    * Achievements and Awards
     * Announcements & News
 8. Recruitments
     * Faculty
     * Staff
 9. RTI
     * Press release
-    * Download Reports
-        * IQAC
-        * Ordinance 
-        * Guidelines for Admission
+    * Downloads
+        * IQAC Report
+        * Ordinances 
+        * Guidelines for Admissions
         * Syllabus
     * Faculty
     * Student
     * Library
 
 # Student Page
-1. student_home     
+1. Profile     
 2. Academics
 3. Research
 4. Result
