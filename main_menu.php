@@ -13,7 +13,7 @@
        			  </div>
        			  <div class="navbar-collapse collapse">
          			  <ul class="nav navbar-nav">
-          		  		  <li class="active"><a class="navbar-brand menu-top" href="index.php">Home</a></li>
+          		  		
             			  <li class="dropdown">
                              <a href="#" class="dropdown-toggle" data-toggle="dropdown">About us<b class="caret"></b></a>
                              <ul class="dropdown-menu">
@@ -26,7 +26,7 @@
                   			  </ul>
                 		   </li>
 						   <li class="dropdown">
-                  			  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programs we offer<b class="caret"></b></a>
+                  			  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programs<b class="caret"></b></a>
                   			  <ul class="dropdown-menu">
                  				  <li><a href="Courses.php?t=1">Under Graduate</a></li>
                           <li><a href="Courses.php?t=2">Integrated (UG+PG) Masters</a></li>
@@ -82,6 +82,17 @@
                        			<li><a href="#2">Staff</a></li>
 				   			</ul>
 				  		</li>
+
+            <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"> Placements<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                     <li><a href="#1">MCA</a></li>
+                            <li><a href="#2">Mtech</a></li>
+                            <li><a href="#3">MBA</a></li>
+                </ul>
+            </li>
+
+
 						 <li class="dropdown">
                   		   <a href="#" class="dropdown-toggle" data-toggle="dropdown">RTI<b class="caret"></b></a>
 				   		   <ul class="dropdown-menu">
