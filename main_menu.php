@@ -47,7 +47,22 @@
 					  			 <li><a href="#6">Fees structure</a></li> 
 				   			</ul>
 				  		  </li>
-						<li class="dropdown">
+						<!-- academics -->
+            <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Academics<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                    <li><a href="#1">Academic Calender</a></li>
+                            <li><a href="#2">Syllabus</a></li>
+                            <li><a href="#3">News and Announcements</a></li>
+                   <li><a href="#4">Notices</a></li>
+                   <li><a href="#5">Development Center</a></li>
+                   <li><a href="#6">Research Cell</a></li> 
+                </ul>
+              </li>
+
+            <!-- research -->
+
+            <li class="dropdown">
                    			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Research<b class="caret"></b></a>
 				   			<ul class="dropdown-menu">
 				      			 <li><a href="#1">Development Cennter</a></li>
@@ -55,6 +70,8 @@
                        			<li><a href="#3">Publications</a></li>
 				   			</ul>
 				  		</li>
+
+            <!-- events -->
 						<li class="dropdown">
                   		   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<b class="caret"></b></a>
 				   		   <ul class="dropdown-menu">
@@ -63,25 +80,7 @@
                       		 <li><a href="#3">Tourista</a></li> 
 				   			</ul>
 						 </li>
-						<li class="dropdown">
-                   			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Academics<b class="caret"></b></a>
-				   			<ul class="dropdown-menu">
-				       			<li><a href="#1">Academic Calender</a></li>
-                       			<li><a href="#2">Syllabus</a></li>
-                       			<li><a href="#3">News and Announcements</a></li>
-					  			 <li><a href="#4">Notices</a></li>
-					  			 <li><a href="#5">Development Center</a></li>
-					  			 <li><a href="#6">Research Cell</a></li> 
-				   			</ul>
-				  		</li>
-						
-						<li class="dropdown">
-                   			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Recruitments<b class="caret"></b></a>
-				   			<ul class="dropdown-menu">
-				      			 <li><a href="#1">Faculty</a></li>
-                       			<li><a href="#2">Staff</a></li>
-				   			</ul>
-				  		</li>
+						<!-- placements -->
 
             <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown"> Placements<b class="caret"></b></a>
@@ -91,13 +90,27 @@
                             <li><a href="#3">MBA</a></li>
                 </ul>
             </li>
+						
+            <!-- recruitments -->
 
+						<li class="dropdown">
+                   			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Recruitments<b class="caret"></b></a>
+				   			<ul class="dropdown-menu">
+				      			 <li><a href="#1">Faculty</a></li>
+                       			<li><a href="#2">Staff</a></li>
+				   			</ul>
+				  		</li>
+
+            <!-- RTI -->
 
 						 <li class="dropdown">
                   		   <a href="#" class="dropdown-toggle" data-toggle="dropdown">RTI<b class="caret"></b></a>
 				   		   <ul class="dropdown-menu">
-				       		  <li><a href="#">View online</a></li>
-                       		  <li><a href="#">Download IQAC Report</a></li>
+				       		  <li><a href="#">Press Release</a></li>
+                    <li><a href="#">Downloads</a></li>
+                    <li><a href="#">Faculty</a></li>
+                    <li><a href="#">Student</a></li>
+                    <li><a href="#">Library</a></li>
                       		  
 				   			</ul>
 						 </li>
