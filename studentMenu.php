@@ -88,9 +88,11 @@
 						<li class="dropdown">
                    			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Downloads<b class="caret"></b></a>
 				   			<ul class="dropdown-menu">
-				      			 <li><a href="#1">Forms</a></li>
+				      			<li><a href="#1">IQAC report </a></li>
+				      			<li><a href="#1">Ordinance</a></li>
+				      			<li><a href="#1">Guidelines for admission</a></li>
                        			<li><a href="#2">Syllabus</a></li>
-								<li><a href="#2">RTI</a></li>
+								<li><a href="#2">Forms</a></li>
 				   			</ul>
 				  		</li>
           			</ul>
