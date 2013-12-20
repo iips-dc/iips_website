@@ -1,31 +1,57 @@
 #Front page menu
 1. About us
+    * About University
+    * About IIPS
+    * Life @campus
+    * Infrastructure
+    * Gallery
+    * Reach Us
 2. Programs
+    * Undergraduate
+    * Integrated(UG + PG) Masters
+    * Post Graduate
+    * M.phil
+    * Ph.D
+
+
 3. Admissions
-4. Research
-    * DC
-    * RC
-    * Publications
-5. Events
-6. Placement
-7. Academics
+    * Entrance Exam- CET
+    * Integrated
+    * UG
+    * PG
+    * How to apply
+    * Fees structure
+
+4. Academics
     * Syllabus
     * Calender
     * Notices
     * Achievements and Awards
     * Announcements & News
+
+
+5. Research
+    * DC
+    * RC
+    * Publications
+
+6. Events
+    * Xpressions
+    * Synergy
+    * Tourista
+
+7. Placements
+    * MBA
+    * MCA
+    * MTECH
+
 8. Recruitments
     * Faculty
     * Staff
+
 9. RTI
     * Press release
     * Downloads
-        * IQAC Report
-        * Ordinances 
-        * Guidelines for Admissions
-        * Syllabus
-		* Forms
-        * Miscellaneous
     * Faculty
     * Student
     * Library
@@ -45,9 +71,16 @@
     * RC
     * Publications
 4. Result
+    * MBA
+    * MCA
+    * M.TECH
+    * B.com
 5. Faculty
 6. Events
 7. Placements
+    * MBA
+    * MCA
+    * MTECH
 8. Services
     * Moodle
     * Bonafied
@@ -76,6 +109,9 @@
 4. Faculties
 5. Events
 6. Placements
+    * MBA
+    * MCA
+    * MTECH
 7. Services
     * PBAS
     * Library
@@ -96,6 +132,9 @@
 3. Faculty
 4. Events
 5. Placements
+    * MBA
+    * MCA
+    * MTECH
 6. Services
     * Library
     * Requests
