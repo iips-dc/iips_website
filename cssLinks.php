@@ -3,11 +3,13 @@
 	<link rel="stylesheet" href="dist/css/bootstrap.css">
 	<link rel="stylesheet" href="css/sticky-footer.css" />
 	<link rel="stylesheet" href="css/font-awesome.css" />
+	<link rel="stylesheet" href="css/custom_bootstrap_menu.css" />
 	
 	<!--Custom CSS -->
 	<style type="text/css">
 		body{
 			color:#000000;
+			background-color:#AFAFAF;
 		}
 		.gateway {
 			margin-left: 0px;
@@ -17,6 +19,12 @@
 			position: fixed;
 			width: 100%;
 			z-index: 2000;
+		}
+		.boxShadow{
+			box-shadow: 5px 5px 5px #888888;
+		}
+		.downShadow{
+			box-shadow: 5px 3px 5px #888888;
 		}
 		.gateway a {
 			text-align: center;

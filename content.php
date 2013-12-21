@@ -2,12 +2,12 @@
 slider, notice, news_events box, Link to quicklink file
 and testimonial section -->
 
-<div class="container">
-	<br>
+<div class="container boxShadow" style=" background-color:#FFFFFF; ">
+	<br><br>
 	<!-- 1st span12 started "slider + notices" ended -->
 	<div class="row">
         <div class="col-md-9">
-		  <div id="myCarousel" class="carousel slide">
+		  <div id="myCarousel" class="carousel slide boxShadow" >
           <!-- Indicators -->
       		<ol class="carousel-indicators">
         		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -62,7 +62,7 @@ and testimonial section -->
      </div>
      <!-- notice  block start -->
      <div class="col-md-3 text-center">
-     	   <div class="panel panel-primary" style="margin-top:-20px; font-size:15px;">
+     	   <div class="panel panel-primary boxShadow" style="margin-top:-20px; font-size:15px">
 				<div class="panel-heading">
 					<h3 class="panel-title">Notice/Announcements</h3>
 				</div>
@@ -88,7 +88,7 @@ and testimonial section -->
 	<div class="row">
 			 
 		<div class="col-md-12">
-		   <div class="panel panel-primary" style="height:300px; overflow:hidden;">
+		   <div class="panel panel-primary boxShadow" style="height:300px; overflow:hidden;">
 			  <div class="panel-heading">
 				 <h3 class="panel-title">News & Events</h3>
 			  </div>
@@ -133,19 +133,19 @@ and testimonial section -->
 	
 
 	<div class="row">
-   	   <div class="col-md-9 quicklist">
-     	 <?php include('quicklinks.php') ?>
+   	   <div class="col-md-9 quicklist boxShadow">
+     	 <?php include('quicklinks.php') ?><br>
   	 </div><!--col-md-8 class ended -->
   
   	 <div class="col-md-3 testimonial text-center">
   		<!-- testimonial started -->
-		<div class="panel panel-primary" style="height:180px;">
+		<div class="panel panel-primary  boxShadow" style="height:180px;">
 			<div class="panel-heading">
 				<h3 class="panel-title">Testimonials</h3>
 			</div>
 			<div class="panel-body">
 
-			  <ul id="button_quotes" style=" list-style-type:none;">
+			  <ul id="button_quotes" style=" list-style-type:none;  margin-left:-20px;">
 				<li>
 					" We Can't wait to see this
 					Website on internet "<br><br>
@@ -168,6 +168,6 @@ and testimonial section -->
 		    </div><!--panel body Ended -->
   	    </div><!--Panel Ended -->
 	  </div><!--col-md-4 ended -->
-  </div><!--row Class ended -->
+  </div><!--row Class ended --><br>
 </div>
 <!-- container class ended -->
