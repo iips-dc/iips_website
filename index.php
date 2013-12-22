@@ -12,6 +12,7 @@
     <!-- Bootstrap core CSS -->
     <?php
 		include('cssLinks.php');
+		include('slider_cssLinks.php');
 	?>
 	<link rel="stylesheet" href="carousel.css">
   </head>
@@ -29,6 +30,16 @@
 		include('footer.php');
 		include('jsLinks.php');
 	 ?>
+	 
+	<!-- Script for slider -->
+	<script type="text/javascript" src="jsLibrary/jquery.nivo.slider.js"></script>
+	<script type="text/javascript">
+		$(window).load(function() {
+			$('#slider').nivoSlider();
+		});
+    </script>
+	
+	<!-- Script for "News/Events" tab -->
 	<script>
  		 $(function () {
   			$('#myTab a').click(function (e) {
