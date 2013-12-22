@@ -2,10 +2,11 @@
 1. About us
     * About University
     * About IIPS
-    * Life @campus
+    * Life @campus (Reserved for next version)
     * Infrastructure
     * Gallery
     * Reach Us
+
 2. Programs
     * Undergraduate
     * Integrated(UG + PG) Masters
@@ -25,14 +26,14 @@
 4. Academics
     * Syllabus
     * Calender
-    * Notices
-    * Achievements and Awards
-    * Announcements & News
+    * Notices and Announcements
+    * Achievements and Awards(Reserved for next version)
+    * News
 
 
 5. Research
-    * DC
-    * RC
+    * Development Center
+    * Recearch Cell
     * Publications
 
 6. Events
@@ -41,9 +42,6 @@
     * Tourista
 
 7. Placements
-    * MBA
-    * MCA
-    * MTECH
 
 8. Recruitments
     * Faculty
@@ -63,12 +61,12 @@
 2. Academics
     * Syllabus
     * Calender
-    * Notices
-    * Achievements and Awards
-    * Announcements & News
+    * Notices and Announcements
+    * Achievements and Awards(Reserved for next version)
+    * News
 3. Research
-    * DC
-    * RC
+    * Development Center
+    * Recearch Cell
     * Publications
 4. Result
     * MBA
@@ -78,9 +76,7 @@
 5. Faculty
 6. Events
 7. Placements
-    * MBA
-    * MCA
-    * MTECH
+    
 8. Services
     * Moodle
     * Bonafied
@@ -97,21 +93,19 @@
     * View Profile
     * Edit Profile
 2. Academics
-    * Syllabus
-    * Calender
-    * Notices
-    * Achievements and Awards
-    * Announcements & News
+   * Syllabus
+   * Calender
+   * Notices and Announcements
+   * Achievements and Awards(Reserved for next version)
+   * News
 3. Research
-    * DC
-    * RC
+    * Development Center
+    * Recearch Cell
     * Publications
-4. Faculties
+4. Faculty
 5. Events
 6. Placements
-    * MBA
-    * MCA
-    * MTECH
+
 7. Services
     * PBAS
     * Library
@@ -132,9 +126,7 @@
 3. Faculty
 4. Events
 5. Placements
-    * MBA
-    * MCA
-    * MTECH
+
 6. Services
     * Library
     * Requests
