@@ -1,3 +1,4 @@
+<div style=" background-color:#FFFFFF">
 	<div  align="center">
 	   <div class="container pads" align="center">
 	      <div class="span9 centred">
@@ -5,3 +6,4 @@
 		  </div>
 		</div>
 	</div>
+</div>

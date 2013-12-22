@@ -2,67 +2,32 @@
 slider, notice, news_events box, Link to quicklink file
 and testimonial section -->
 
-<div class="container">
-	<br>
-	<!-- 1st span12 started "slider + notices" ended -->
+<div class="container boxShadow" style=" background-color:#FFFFFF; ">
+	<br><br>
+	<!-- 1st span12 started "slider + notices" ended 
+	-->
 	<div class="row">
         <div class="col-md-9">
-		  <div id="myCarousel" class="carousel slide">
-          <!-- Indicators -->
-      		<ol class="carousel-indicators">
-        		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        		<li data-target="#myCarousel" data-slide-to="1"></li>
-        		<li data-target="#myCarousel" data-slide-to="2"></li>
-				<li data-target="#myCarousel" data-slide-to="3"></li>
-				<li data-target="#myCarousel" data-slide-to="4"></li>
-      		</ol>
-      		<div class="carousel-inner">
-        		<div class="item active">
-         		   <img src="images/slider/iips2.jpg" alt="First slide">
-          			<div class="container">
-            			<div class="carousel-caption">
-            			</div><!-- .carousel-caption-->
-          		   </div><!--.container -->
-       		    </div>
-        		<div class="item">
-          			<img src="images/slider/iips6.jpg" alt="Second slide">
-         			 <div class="container">
-            			<div class="carousel-caption">
-           				 </div>
-          			</div>
-        		</div>
-        		<div class="item">
-          			<img src="images/slider/iips8.jpg" alt="Third slide">
-          			<div class="container">
-            			<div class="carousel-caption">
-            			</div>
-          			</div>
-        		</div>
-				<div class="item">
-          			<img src="images/slider/iips1.jpg"  alt="Third slide">
-          			<div class="container">
-            			<div class="carousel-caption">
-            			</div>
-          			</div>
-        		</div>
-				<div class="item">
-          			<img src="images/slider/iips5.jpg"  alt="Third slide">
-          			<div class="container">
-            			<div class="carousel-caption">
-            			</div>
-          			</div>
-        		</div>
-      		</div><!--carousel-inner -->
-      			<a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
-      			<a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
-    	</div><!-- /.myCarousel -->
-    	
+		  <div id="wrapper">
 
-
-     </div>
+			<div class="slider-wrapper theme-bar boxShadow">
+				<div id="slider" class="nivoSlider">
+					<img src="images/slider/iips2.jpg" />
+					<img src="images/slider/iips8.jpg" title="This is an example of a caption" /></a>
+					<img src="images/slider/iips6.jpg" data-transition="slideInLeft" />
+					<img src="images/slider/iips1.jpg" title="#htmlcaption" />
+					<img src="images/slider/iips5.jpg" title="#htmlcaption" />
+				</div>
+				<div id="htmlcaption" class="nivo-html-caption">
+					<strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>. 
+				</div>
+			</div>
+			<br><br>
+		   </div>
+        </div>
      <!-- notice  block start -->
      <div class="col-md-3 text-center">
-     	   <div class="panel panel-primary" style="margin-top:-20px; font-size:15px;">
+     	   <div class="panel panel-primary boxShadow" style="margin-top:-20px; font-size:15px">
 				<div class="panel-heading">
 					<h3 class="panel-title">Notice/Announcements</h3>
 				</div>
@@ -88,7 +53,7 @@ and testimonial section -->
 	<div class="row">
 			 
 		<div class="col-md-12">
-		   <div class="panel panel-primary" style="height:300px; overflow:hidden;">
+		   <div class="panel panel-primary boxShadow" style="height:300px; overflow:hidden;">
 			  <div class="panel-heading">
 				 <h3 class="panel-title">News & Events</h3>
 			  </div>
@@ -133,19 +98,19 @@ and testimonial section -->
 	
 
 	<div class="row">
-   	   <div class="col-md-9 quicklist">
-     	 <?php include('quicklinks.php') ?>
+   	   <div class="col-md-9 quicklist boxShadow">
+     	 <?php include('quicklinks.php') ?><br>
   	 </div><!--col-md-8 class ended -->
   
   	 <div class="col-md-3 testimonial text-center">
   		<!-- testimonial started -->
-		<div class="panel panel-primary" style="height:180px;">
+		<div class="panel panel-primary  boxShadow" style="height:180px;">
 			<div class="panel-heading">
 				<h3 class="panel-title">Testimonials</h3>
 			</div>
 			<div class="panel-body">
 
-			  <ul id="button_quotes" style=" list-style-type:none;">
+			  <ul id="button_quotes" style=" list-style-type:none;  margin-left:-20px;">
 				<li>
 					" We Can't wait to see this
 					Website on internet "<br><br>
@@ -168,6 +133,6 @@ and testimonial section -->
 		    </div><!--panel body Ended -->
   	    </div><!--Panel Ended -->
 	  </div><!--col-md-4 ended -->
-  </div><!--row Class ended -->
+  </div><!--row Class ended --><br>
 </div>
 <!-- container class ended -->
