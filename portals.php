@@ -1,5 +1,5 @@
 	<!-- Top nav bar -->
-	<div class="gateway boxShadow" style="background-color:#F77002;">
+	<div class="gateway">
 	  <div class="container" >
 	     <div class="col-md-12">
 			<div class="tab"> <a href="index.php">Home</a> </div>
