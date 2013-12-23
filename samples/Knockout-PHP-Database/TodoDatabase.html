@@ -1,0 +1,219 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		.name {
+		  width: 218px;
+		}
+		.inputWidth{
+			width:270px;
+		}
+
+	</style>
+</head>
+
+<body>
+	
+	<!--In markup section we have this data-bind attribute. This is basically used for binding data 
+			  that is used by knockout.js to do its magic. Take the time to read the values in the data-bind attributes -->
+			  
+	<!-- The first data binding is in the container to call the function loadData() which loads the 
+	existing student records from the server. -->
+	<div class="container" data-bind="load: loadData()">
+		<center><h4>Registration Using Knockout/Php<h4></center><br><br>
+	    <div class="row">
+		
+			<div class="col-md-4"></div>
+			
+			<div class="col-md-6">
+			  
+			  <!--The value of this text field will be whatever is stored on the person_name variable and
+			  it will have focus on it if person_name_focus stores a truthy value.-->
+			  <input type="text" data-bind="value: person_name, hasfocus: person_name_focus()" class="form-control inputWidth" placeholder="Name" >
+			  <br><input type="text" data-bind="value: person_age" class="form-control inputWidth" placeholder="Enter Age"><br>
+			  
+			  <!--Next is the button that the user will click to create a new student.
+			  This will just call the createPerson method when user clicks it. -->
+			  <button data-bind="click: createPerson" class="btn btn-md btn-primary">Create</button> <br><br> 
+			  
+			  <!-- Next is the table where we will list all the student data that were fetched from the database. 
+			  Here I've used the visible property to make the table visible if there are actually records 
+			  which are stored in the people variable -->
+			  <table data-bind="visible: people().length > 0" class="table">
+			  
+			      <!-- thead contains table header, no need to bind anything. -->
+				  <thead>
+					  <tr>
+						  <th>Name</th>
+						  <th>Age</th>
+						  <th>Remove</th>
+						  <th>Update</th>
+					  </tr>
+				  </thead>
+				  
+				  <!--Next we have the foreach property binded to tbody. 
+				  This is used to iterate over the contents of an array.-->
+				  <tbody data-bind="foreach: people">
+					  <tr>
+						  <td>
+						      <!--The input is hidden by default and it only becomes visible when the user clicks on the span 
+							  at that point the span will also be hidden. When you click on the span it executes the nameUpdating
+							  method which simply changes the value of nameUpdate to true.-->
+							  <span data-bind="text: name, click: nameUpdating, visible: !nameUpdate()"></span>
+							  <input type="text" class="name" data-bind="value: name, visible: nameUpdate, hasfocus: nameUpdate">
+						  </td>
+						  <td>
+							  <span data-bind="text: age, click: ageUpdating, visible: !ageUpdate()"></span>
+							  <input type="text" class="age" data-bind="value: age, visible: ageUpdate, hasfocus: ageUpdate">
+						  </td>
+						  <!-- Next is the binding for when the user clicks on the remove link. This simply calls the removePerson
+						  method which deletes the selected student from the array. -->
+						  <td data-bind="click: $root.removePerson"><a href="#">remove</a></td>
+						  <td data-bind="click: $root.updatePerson"><a href="#">update</a></td>
+					  </tr>
+				  </tbody>
+				  
+			  </table> 
+			</div>
+	    </div>
+	</div>
+
+	<!-- scripts to include for this example -->
+	<script src="js/knockout-2.3.0.js"></script>
+	<script src="js/jquery-1.7.2.min.js"></script>
+	
+	<!-- read the knockout.readme.md file to understand this code-->
+	<script>
+	
+		<!-- First we need to have a model that represents the data available for each student -->
+		var personModel = function(id, name, age){
+			var self = this; //caching so that it can be accessed later in a different context
+			  this.id = ko.observable(id); //unique id for the student (auto increment primary key from the database)
+			  this.name = ko.observable(name); //name of the student
+			  this.age = ko.observable(age);
+
+			  this.nameUpdate = ko.observable(false); //if the name is currently updated
+			  this.ageUpdate = ko.observable(false); //if the age is currently updated
+
+			  //executed if the user clicks on the span for the student name
+			  this.nameUpdating = function(){
+				  self.nameUpdate(true); //make nameUpdate equal to true
+			  };
+			  
+			  //executed if the user clicks on the span for the student age
+			  this.ageUpdating = function(){
+				  self.ageUpdate(true); //make ageUpdate equal to true
+			  };
+		};
+		
+		<!--Next is the model in which the knockout.js bindings will be applied-->
+		var model = function(){
+			var self = this; //cache the current context
+			this.person_name = ko.observable(""); //default value for the student name
+			this.person_age = ko.observable("");
+			this.person_name_focus = ko.observable(true); //if the student name text field has focus
+			this.people = ko.observableArray([]); //this will store all the students
+			
+			this.createPerson = function(){
+			  if(self.validatePerson()){ //if the validation succeeded
+			  
+				  //build the data to be submitted to the server
+				  var person = {'name' : this.person_name(), 'age' : this.person_age()};
+				  
+				  //submit the data to the server        
+				  $.ajax(
+					  {
+						  url: 'refresher_save.php',
+						  type: 'POST',
+						  data: {'student' : person, 'action' : 'insert'},
+						  success: function(id){//id is returned from the server
+						  
+							  //push a new record to the student array
+							  self.people.push(new personModel(id, self.person_name(), self.person_age()));
+							  
+							  self.person_name(""); //empty the text field for the student name
+							  self.person_age("");
+						  }
+					  }
+				  );           
+				  
+			  }else{ //if the validation fails
+				  alert("Name and age are required and age should be a number!");
+			  }
+			};
+			
+			this.validatePerson = function(){
+			  if(self.person_name() !== "" && self.person_age() != "" && Number(self.person_age()) + 0 == self.person_age()){
+				  return true;
+			  }
+			  return false;
+			};
+			
+			this.loadData = function(){
+
+			  //fetch existing student data from database
+			 $.ajax({
+				  url : 'refresher_save.php',
+				  dataType: 'json',
+				  success: function(data){ //json string of the student records returned from the server
+					  
+					  for(var x in data){
+
+						  //student details
+						  var id = data[x]['id'];
+						  var name = data[x]['name'];
+						  var age = data[x]['age'];
+
+						  //push each of the student record to the observable array for 
+						  //storing student data
+						  self.people.push(new personModel(id, name, age));
+					  }
+					  
+				  }
+			  });  
+
+			};
+			
+			this.removePerson = function(person){
+  
+			    $.post(
+				    'refresher_save.php',
+				    {'action' : 'delete', 'student_id' : person.id()},
+				    function(response){
+					  
+					    //remove the currently selected student from the array
+					    self.people.remove(person);
+				  }
+			    );
+			};
+			
+			this.updatePerson = function(person){
+			  //get the student details
+			  var id = person.id();
+			  var name = person.name();
+			  var age = person.age();
+
+			  //build the data
+			  var student = {'id' : id, 'name' : name, 'age' : age};
+			  
+			  //submit to server via POST
+			  $.post(
+				  'refresher_save.php',
+				  {'action' : 'update', 'student' : student}
+			  );
+			};
+
+
+		};
+		
+		//Then we just apply the knockout.js bindings to the model. This simply means that we're binding the UI to the model
+		//so that any changes to the model will also update the UI.
+		ko.applyBindings(new model());
+		
+	</script>
+
+</body>
+</html>
