@@ -69,12 +69,8 @@
 						 </li>
 						
 						<li class="dropdown">
-                  		   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Placements<b class="caret"></b></a>
-				   		   <ul class="dropdown-menu">
-				       		  <li><a href="#">MCA & M.Tech.</a></li>
-                       		  <li><a href="#">MBA</a></li>
-                      		 <li><a href="#">B.com Hons</a></li> 
-				   			</ul>
+                  		   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Placements</a>
+				   		   
 						 </li>
 						<li class="dropdown">
                    			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Services<b class="caret"></b></a>

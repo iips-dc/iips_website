@@ -41,12 +41,7 @@
 						 </li>
 						
 						<li class="dropdown">
-                  		   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<b class="caret"></b></a>
-				   		   <ul class="dropdown-menu">
-				       		  <li><a href="Xpressions.php">Expression</a></li>
-                       		  <li><a href="synergy.php">Synergy</a></li>
-                      		 <li><a href="#3">Tourista</a></li> 
-				   			</ul>
+                  		   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events</a>
 						 </li>
 						
 						<li class="dropdown">

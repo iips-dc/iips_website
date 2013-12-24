@@ -81,7 +81,7 @@
 						<!-- placements -->
 
             <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"> Placements<b class="caret"></b></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"> Placements</a>
               
             </li>
 						

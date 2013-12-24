@@ -9,7 +9,6 @@
 	<style type="text/css">
 		body{
 			color:#000000;
-			background-color:#AFAFAF;
 		}
 		.gateway {
 			margin-left: 0px;
