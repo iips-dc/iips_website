@@ -29,15 +29,10 @@
 	 <?php
 		include('footer.php');
 		include('jsLinks.php');
+		include('slider_jsLinks.php');
 	 ?>
 	 
-	<!-- Script for slider -->
-	<script type="text/javascript" src="jsLibrary/jquery.nivo.slider.js"></script>
-	<script type="text/javascript">
-		$(window).load(function() {
-			$('#slider').nivoSlider();
-		});
-    </script>
+	
 	
 	<!-- Script for "News/Events" tab -->
 	<script>

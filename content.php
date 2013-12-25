@@ -2,7 +2,7 @@
 slider, notice, news_events box, Link to quicklink file
 and testimonial section -->
 
-<div class="container boxShadow" style=" background-color:#FFFFFF; ">
+<div class="container" style=" background-color:#FFFFFF; ">
 	<br><br>
 	<!-- 1st span12 started "slider + notices" ended 
 	-->
@@ -10,7 +10,7 @@ and testimonial section -->
         <div class="col-md-9">
 		  <div id="wrapper">
 
-			<div class="slider-wrapper theme-bar boxShadow">
+			<div class="slider-wrapper theme-default">
 				<div id="slider" class="nivoSlider">
 					<img src="images/slider/iips2.jpg" />
 					<img src="images/slider/iips8.jpg" title="This is an example of a caption" /></a>

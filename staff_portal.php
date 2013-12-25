@@ -14,6 +14,7 @@
     <!-- Bootstrap core CSS -->
     <?php
 		include('cssLinks.php');
+		include('slider_cssLinks.php');
 	?>
 	<link rel="stylesheet" href="carousel.css">
   </head>
@@ -30,6 +31,7 @@
 	 <?php
 		include('footer.php');
 		include('jsLinks.php');
+		include('slider_jsLinks.php');
 	 ?>
 	<script>
  		 $(function () {
