@@ -35,6 +35,7 @@
 	
 	
 	<!-- Script for "News/Events" tab -->
+	<script src="assets/js/holder.js"></script>
 	<script>
  		 $(function () {
   			$('#myTab a').click(function (e) {
@@ -42,7 +43,7 @@
   				$(this).tab('show');
 			})
 
-    	    $('#myTab a:last').tab('show');
+    	    $('#myTab a:first').tab('show');
  		 })
 	</script>
 
