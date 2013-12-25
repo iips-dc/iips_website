@@ -3,7 +3,6 @@
 	<link rel="stylesheet" href="dist/css/bootstrap.css">
 	<link rel="stylesheet" href="css/sticky-footer.css" />
 	<link rel="stylesheet" href="css/font-awesome.css" />
-	<link rel="stylesheet" href="css/custom_bootstrap_menu.css" />
 	
 	<!--Custom CSS -->
 	<style type="text/css">
