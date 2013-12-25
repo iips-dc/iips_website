@@ -26,8 +26,8 @@
 			<br><h3> Xpressions </h3>
             <div id="row">
  			   <div class="col-md-2">
-                  <ul class="nav side-tabs">
-                    <li><a class="icon-chevron-sign-right" href="#tab1">  The Event</a></li>
+                  <ul class="nav side-tabs nav-pills">
+                    <li class="active"><a class="icon-chevron-sign-right" href="#tab1">  The Event</a></li>
                     <li><a class="icon-chevron-sign-right" href="#tab2">  Winners</a></li>
                     <li><a class="icon-chevron-sign-right" href="#tab3">  Last Year Team</a></li>
 					<li><a class="icon-chevron-sign-right" href="#tab4">  Expression Album</a></li>

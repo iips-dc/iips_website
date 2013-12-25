@@ -28,7 +28,7 @@
 		<br><h3> Programs We Offer </h3><br>
          <div id="row">
 		   <div class="col-md-2">
-            <ul class="nav side-tabs">
+            <ul class="nav side-tabs nav-pills">
                 <li id="tlink1"><a class="icon-chevron-sign-right" href="#tab1">  Under Graduate</a></li>
                 <li id="tlink2"><a class="icon-chevron-sign-right" href="#tab2">  Integrated</a></li>
                 <li  id="tlink3"><a class="icon-chevron-sign-right" href="#tab3">  Post Graduate</a></li>

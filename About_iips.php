@@ -32,7 +32,7 @@
 		   <div class="row">
               <div class="col-sm-2">
 					
-                  <ul class="nav side-tabs">
+                  <ul class="nav side-tabs nav-pills">
                    	 <li class="active"><a class="icon-chevron-sign-right" href="#tab1">  About IIPS</a></li>
                      <li><a class="icon-chevron-sign-right" href="#tab2">  Director</a></li>
                      <li><a class="icon-chevron-sign-right" href="#tab3">  Objectives and Vision</a></li>
