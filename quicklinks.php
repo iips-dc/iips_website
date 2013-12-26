@@ -1,59 +1,34 @@
 <!-- this file is the quicklinks at the bottom of each page -->
 <!-- edit the options below to add the quick links -->
-     	 <div class="row">
-	        <div class= "col-md-2">
-			    <h4> Option 1</h4>
-				<ul class="quickLinkList">
-					<li><a>Item 1</a></li>
-					<li><a>Item 2</a></li>
-					<li><a>Item 3</a></li>
-					<li><a>Item 4</a></li>
-					<li><a>Item 5</a></li>	
-				</ul>
-	   	   	</div>  
-		  	<div class= "col-md-2 ">
-				<h4> Option 2</h4>
-				<ul class="quickLinkList">
-					<li><a href = "#">Item 1</a></li>
-					<li><a href = "#">Item 2</a></li>
-					<li><a href = "#">Item 3</a></li>
-					<li><a href = "#">Item 4</a></li>
-					<li><a href = "#">Item 5</a></li>
-				</ul>
-		 	</div>
-		
-			<div class= "col-md-2 ">
-		   	 	<h4> Option 3</h4>
-				<ul class="quickLinkList">
-					<li><a href = "#">Item 1</a></li>
-					<li><a href = "#">Item 2</a></li>
-					<li><a href = "#">Item 3</a></li>
-					<li><a href = "#">Item 4</a></li>
-					<li><a href = "#">Item 5</a></li>
-				</ul>
-			</div>
-		
-			<div class= "col-md-2 ">
-				<h4> Option 4</h4>
-				<ul class="quickLinkList">
-					<li><a href = "#">Item 1</a></li>
-					<li><a href = "#">Item 2</a></li>
-					<li><a href = "#">Item 3</a></li>
-					<li><a href = "#">Item 4</a></li>
-					<li><a href = "#">Item 5</a></li>
-				</ul>
-			</div>
-		
-			<div class= "col-md-2 ">
-				<h4> Option 5</h4>
-				<ul class="quickLinkList">
-					<li><a href = "#">Item 1</a></li>
-					<li><a href = "#">Item 2</a></li>
-					<li><a href = "#">Item 3</a></li>
-					<li><a href = "#">Item 4</a></li>
-					<li><a href = "#">Item 5</a></li>
-				</ul>
-			</div>
-	  	</div><!--Inner Row  ended -->
+	        <!-- testimonial started -->
+			<div class="panel panel-primary  boxShadow" style="height:180px;">
+				<div class="panel-heading">
+					<h3 class="panel-title">Quick Links</h3>
+				</div>
+				<div class="panel-body">
+					<div class="row">
+						<div class="col-md-2">
+							<i class="icon-circle-arrow-right"></i> <a href="courses.php">Courses</a>
+						</div>
+						<div class="col-md-2">
+							<i class="icon-circle-arrow-right"></i> <a href="#">How to Apply</a>
+						</div>
+						<div class="col-md-2">
+							<i class="icon-circle-arrow-right"></i> <a href="#">About CET</a>
+						</div>
+						<div class="col-md-2">
+							<i class="icon-circle-arrow-right"></i> <a href="#">Fees Structure</a>
+						</div>
+						<div class="col-md-2">
+							<i class="icon-circle-arrow-right"></i> <a href="Reach_Us.php">Reach Us</a>
+						</div>
+						<div class="col-md-2">
+							<i class="icon-circle-arrow-right"></i> <a href="#">Press Release</a>
+						</div>
+						
+					</div>
+				  
+				</div><!--panel body Ended -->
+			</div><!--Panel Ended -->
   	 
   
