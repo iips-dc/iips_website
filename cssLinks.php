@@ -6,9 +6,27 @@
 	
 	<!--Custom CSS -->
 	<style type="text/css">
-		body{
+		html body{
 			color:#000000;
 		}
+		
+		/* Custom CSS for Menu */
+		
+		.navbar-default{
+			background-color: white;
+			  background-image: linear-gradient(top, #E8EFF7, #428BCA);
+			  background-image: -webkit-linear-gradient(top, #E8EFF7, #428BCA);
+			  background-image: -moz-linear-gradient(top, #E8EFF7, #428BCA);
+			  background-image: -ms-linear-gradient(top, #E8EFF7, #428BCA);
+			  background-image: -o-linear-gradient(top, #E8EFF7, #428BCA);
+			  background-image: linear-gradient(top, #E8EFF7, #428BCA);
+		}
+		ul.nav li.dropdown:hover ul.dropdown-menu{
+			display: block;
+		}
+		
+		/* End of Custom CSS for Menu */
+
 		.gateway {
 			margin-left: 0px;
 			padding: 5px 5px 5px 5px;
@@ -17,8 +35,20 @@
 			position: fixed;
 			width: 100%;
 			z-index: 2000;
+			  background-image: linear-gradient(top, #8F959B, #0D0F11);
+			  background-image: -webkit-linear-gradient(top,#8F959B, #0D0F11);
+			  background-image: -moz-linear-gradient(top, #8F959B, #0D0F11);
+			  background-image: -ms-linear-gradient(top, #8F959B, #0D0F11);
+			  background-image: -o-linear-gradient(top, #8F959B, #0D0F11);
+			  background-image: linear-gradient(top, #8F959B, #0D0F11);
 		}
-		.boxShadow{
+		.form-control{
+			color: #000000;
+		}
+		ul.nav li.dropdown a{
+			color: #000000;
+		}
+		.boxShadow{ 
 			box-shadow: 5px 5px 5px #888888;
 		}
 		.downShadow{
@@ -32,16 +62,6 @@
 			float:left;
 				
 			padding:0px 20px 5px 15px; /* Or desired space*/
-			
-		}
-		.logo{
-			background-image:url(images/blue-energysmall.jpg);
-			background-repeat:repeat;
-			background-attachment:fixed;
-			width:100%;
-
-			
-			margin-top:-20px;
 			
 		}
 
@@ -69,6 +89,9 @@
 
 		.quickLinkList {
 			list-style-type: none;
+		}
+		.inputWidth{
+			width:150px;
 		}
 		
 	</style>

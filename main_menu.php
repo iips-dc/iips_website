@@ -15,7 +15,7 @@
          			  <ul class="nav navbar-nav">
           		  		
             			  <li class="dropdown">
-                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">About us<b class="caret"></b></a>
+                             <a href="#" class="dropdown-toggle">About us<b class="caret"></b></a>
                              <ul class="dropdown-menu">
 				  				<li><a href="About_university.php">About University</a></li>
                     			<li><a href="About_iips.php">About IIPS</a></li>
@@ -26,7 +26,7 @@
                   			  </ul>
                 		   </li>
 						   <li class="dropdown">
-                  			  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programs<b class="caret"></b></a>
+                  			  <a href="#" class="dropdown-toggle">Programs<b class="caret"></b></a>
                   			  <ul class="dropdown-menu">
                  				  <li><a href="Courses.php?t=1">Under Graduate</a></li>
                           <li><a href="Courses.php?t=2">Integrated (UG+PG) Masters</a></li>
@@ -37,7 +37,7 @@
                   			  </ul>
                 		   </li>
 						  <li class="dropdown">
-                   			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Admission<b class="caret"></b></a>
+                   			<a href="#" class="dropdown-toggle">Admission<b class="caret"></b></a>
 				   			<ul class="dropdown-menu">
 				      			 <li><a href="#1">Entrance Exam - CET</a></li>
                        			<li><a href="#2">Integrated</a></li>
@@ -49,7 +49,7 @@
 				  		  </li>
 						<!-- academics -->
             <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Academics<b class="caret"></b></a>
+                        <a href="#" class="dropdown-toggle">Academics<b class="caret"></b></a>
                 <ul class="dropdown-menu">
                     <li><a href="#1">Academic Calender</a></li>
                     <li><a href="#2">Syllabus</a></li>
@@ -61,7 +61,7 @@
             <!-- research -->
 
             <li class="dropdown">
-                   			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Research<b class="caret"></b></a>
+                   			<a href="#" class="dropdown-toggle">Research<b class="caret"></b></a>
 				   			<ul class="dropdown-menu">
 				      			 <li><a href="#1">Development Center</a></li>
                      <li><a href="#2">Research Center</a></li>
@@ -71,7 +71,7 @@
 
             <!-- events -->
 						<li class="dropdown">
-                  		   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<b class="caret"></b></a>
+                  		   <a href="#" class="dropdown-toggle">Events<b class="caret"></b></a>
 				   		   <ul class="dropdown-menu">
 				       		  <li><a href="Xpressions.php">Xpression</a></li>
                        		  <li><a href="synergy.php">Synergy</a></li>
@@ -81,14 +81,14 @@
 						<!-- placements -->
 
             <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"> Placements</a>
+                        <a href="#" class="dropdown-toggle"> Placements</a>
               
             </li>
 						
             <!-- recruitments -->
 
 						<li class="dropdown">
-                   			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Recruitments<b class="caret"></b></a>
+                   			<a href="#" class="dropdown-toggle">Recruitments<b class="caret"></b></a>
 				   			<ul class="dropdown-menu">
 				      			 <li><a href="#1">Faculty</a></li>
                        			<li><a href="#2">Staff</a></li>
@@ -98,7 +98,7 @@
             <!-- RTI -->
 
 						 <li class="dropdown">
-                  		   <a href="#" class="dropdown-toggle" data-toggle="dropdown">RTI<b class="caret"></b></a>
+                  		   <a href="#" class="dropdown-toggle">RTI<b class="caret"></b></a>
 				   		   <ul class="dropdown-menu">
 				       		  <li><a href="#">Press Release</a></li>
                     <li><a href="#">Downloads</a></li>
