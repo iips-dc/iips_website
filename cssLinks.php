@@ -2,7 +2,7 @@
 	<!--Bootrstrap css link -->
 	<link rel="stylesheet" href="dist/css/bootstrap.css">
 	<link rel="stylesheet" href="css/sticky-footer.css" />
-	<link rel="stylesheet" href="css/font-awesome.css" />
+	<link rel="stylesheet" href="css/font-awesome.min.css" />
 	
 	<!--Custom CSS -->
 	<style type="text/css">
@@ -17,6 +17,12 @@
 			position: fixed;
 			width: 100%;
 			z-index: 2000;
+		}
+		.boxShadow{
+			box-shadow: 5px 5px 5px #888888;
+		}
+		.downShadow{
+			box-shadow: 5px 3px 5px #888888;
 		}
 		.gateway a {
 			text-align: center;
@@ -59,6 +65,10 @@
 		.leftSpaceForm {
 			margin-left:20px;
 			padding:5px 10px 15px 5px;
+		}
+
+		.quickLinkList {
+			list-style-type: none;
 		}
 		
 	</style>

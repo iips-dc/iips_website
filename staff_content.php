@@ -4,58 +4,24 @@
 	<!-- 1st span12 started "slider + notices" ended -->
 	<div class="row">
         <div class="col-md-12">
-		  <div id="myCarousel" class="carousel slide">
-          <!-- Indicators -->
-      		<ol class="carousel-indicators">
-        		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        		<li data-target="#myCarousel" data-slide-to="1"></li>
-        		<li data-target="#myCarousel" data-slide-to="2"></li>
-				<li data-target="#myCarousel" data-slide-to="3"></li>
-				<li data-target="#myCarousel" data-slide-to="4"></li>
-      		</ol>
-      		<div class="carousel-inner">
-        		<div class="item active">
-         		   <img src="images/slider/iips2.jpg" alt="First slide">
-          			<div class="container">
-            			<div class="carousel-caption">
-            			</div><!-- .carousel-caption-->
-          		   </div><!--.container -->
-       		    </div>
-        		<div class="item">
-          			<img src="images/slider/iips6.jpg" alt="Second slide">
-         			 <div class="container">
-            			<div class="carousel-caption">
-           				 </div>
-          			</div>
-        		</div>
-        		<div class="item">
-          			<img src="images/slider/iips8.jpg" alt="Third slide">
-          			<div class="container">
-            			<div class="carousel-caption">
-            			</div>
-          			</div>
-        		</div>
-				<div class="item">
-          			<img src="images/slider/iips1.jpg"  alt="Third slide">
-          			<div class="container">
-            			<div class="carousel-caption">
-            			</div>
-          			</div>
-        		</div>
-				<div class="item">
-          			<img src="images/slider/iips5.jpg"  alt="Third slide">
-          			<div class="container">
-            			<div class="carousel-caption">
-            			</div>
-          			</div>
-        		</div>
-      		</div><!--carousel-inner -->
-      			<a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
-      			<a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
-    	</div><!-- /.myCarousel -->
-    	
+		  <div class="col-md-12">
+		    <div id="wrapper">
 
-
+				<div class="slider-wrapper theme-default">
+					<div id="slider" class="nivoSlider">
+						<img src="images/slider/iips2.jpg" />
+						<img src="images/slider/iips8.jpg" title="This is an example of a caption" /></a>
+						<img src="images/slider/iips6.jpg" data-transition="slideInLeft" />
+						<img src="images/slider/iips1.jpg" title="#htmlcaption" />
+						<img src="images/slider/iips5.jpg" title="#htmlcaption" />
+					</div>
+					<div id="htmlcaption" class="nivo-html-caption">
+						<strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>. 
+					</div>
+				</div>
+				<br><br>
+			</div>
+        </div>
      </div>
      
    </div>

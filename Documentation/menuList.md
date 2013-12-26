@@ -1,74 +1,142 @@
 #Front page menu
 1. About us
-2. Programs we offer
-3. Admission
-4. Research
-    * DC
-    * RC
-    * Publications
-5. Events
-6. Placement
-7. Academics
-    * Achievements and Awards
+    * About University
+    * About IIPS
+    * Life @campus (Reserved for next version)
+    * Infrastructure
+    * Gallery
+    * Reach Us
+
+2. Programs
+    * Undergraduate
+    * Integrated(UG + PG) Masters
+    * Post Graduate
+    * M.phil
+    * Ph.D
+
+
+3. Admissions
+    * Entrance Exam- CET
+    * Integrated
+    * UG
+    * PG
+    * How to apply
+    * Fees structure
+
+4. Academics
     * Syllabus
     * Calender
-    * Notices
-    * Announcements & News
+    * Notices and Announcements
+    * Achievements and Awards(Reserved for next version)
+    * News
+
+
+5. Research
+    * Development Center
+    * Recearch Cell
+    * Publications
+
+6. Events
+    * Xpressions
+    * Synergy
+    * Tourista
+
+7. Placements
+
 8. Recruitments
     * Faculty
     * Staff
+
 9. RTI
     * Press release
-    * Download Reports
-        * IQAC
-        * Ordinance 
-        * Guidelines for Admission
-        * Syllabus
+    * Downloads
     * Faculty
     * Student
     * Library
 
 # Student Page
-1. student_home     
+1. Profile
+    * View Profile
+    * Edit Profile   
 2. Academics
+    * Syllabus
+    * Calender
+    * Notices and Announcements
+    * Achievements and Awards(Reserved for next version)
+    * News
 3. Research
+    * Development Center
+    * Recearch Cell
+    * Publications
 4. Result
+    * MBA
+    * MCA
+    * M.TECH
+    * B.com
 5. Faculty
 6. Events
 7. Placements
+    
 8. Services
     * Moodle
     * Bonafied
     * Complaints
 9. Downloads
-    * Forms
-    * Syllabus
-    * RTI
+	* IQAC
+	* Ordinance 
+	* Guidelines for Admission
+	* Syllabus
+	* Forms
 
 # Faculty
-1. Faculty_home
+1. Profile
+    * View Profile
+    * Edit Profile
 2. Academics
-    * includes all above points and Results
+   * Syllabus
+   * Calender
+   * Notices and Announcements
+   * Achievements and Awards(Reserved for next version)
+   * News
 3. Research
-4. Faculties
+    * Development Center
+    * Recearch Cell
+    * Publications
+4. Faculty
 5. Events
 6. Placements
+
 7. Services
     * PBAS
     * Library
     * Request
 8. Recruitments
+    * Faculty
+    * Staff
 9. Downloads
+	* IQAC
+	* Ordinance 
+	* Guidelines for Admission
+	* Syllabus
+	* Forms
 
 # Staff
-1. staff_home
+1. Profile
 2. Student
 3. Faculty
 4. Events
 5. Placements
+
 6. Services
     * Library
     * Requests
-7. Recruitments    
+7. Recruitments
+    * Faculty
+    * Staff 
 8. Downloads
+	* IQAC
+	* Ordinance 
+	* Guidelines for Admission
+	* Syllabus
+	* Forms
 

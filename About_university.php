@@ -33,7 +33,7 @@
 			   <div class="row">
 			      <br><h3 class="title">Devi Ahilya University</h3><br>
 			   	  <div class="col-md-2">
-					<ul class="nav side-tabs">
+					<ul class="nav side-tabs nav-pills">
 	   					<li class="active"><a class="icon-chevron-sign-right" href="#tab1"> About University</a></li>
 	    				<li><a class="icon-chevron-sign-right" href="#tab2"> Vice Chancellor</a></li>
 	    				<li><a class="icon-chevron-sign-right" href="#tab3"> Department</a></li>

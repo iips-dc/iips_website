@@ -1,0 +1,12 @@
+Changes: 
+
+Date : 27 November 2013, Time 3.28 PM
+
+	1) changed href from Xpression.php to Xpressions.php.
+	2) created menu file for student portal -> studentMenu.php.
+	3) Included studentMenu.php in studentHeader.php file.
+	4) Created menu file for student portal -> FacultyMenu.php.
+	5) changed faculty_header.php and faculty_portal.php for updating menu.
+	6) Created Menu file for staff portal -> staffMenu.php.
+	7) Updated staff_header.php file (including staffMenu.php).
+	8) Added a link to index.php on portals.php

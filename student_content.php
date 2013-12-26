@@ -1,68 +1,127 @@
-<!-- This page is used to serve content in the student_portal.php -->
+<!-- This page is used to serve content in the student_portal.php  -->
 <div class="container text-center">
 	<br>
 	
 	<div class="row">
         <div class="col-md-12">
-		  <div id="myCarousel" class="carousel slide">
-          <!-- Indicators -->
-      		<ol class="carousel-indicators">
-        		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        		<li data-target="#myCarousel" data-slide-to="1"></li>
-        		<li data-target="#myCarousel" data-slide-to="2"></li>
-				<li data-target="#myCarousel" data-slide-to="3"></li>
-				<li data-target="#myCarousel" data-slide-to="4"></li>
-      		</ol>
-      		<div class="carousel-inner">
-        		<div class="item active">
-         		   <img src="images/slider/iips2.jpg" alt="First slide">
-          			<div class="container">
-            			<div class="carousel-caption">
-            			</div><!-- .carousel-caption-->
-          		   </div><!--.container -->
-       		    </div>
-        		<div class="item">
-          			<img src="images/slider/iips6.jpg" alt="Second slide">
-         			 <div class="container">
-            			<div class="carousel-caption">
-           				 </div>
-          			</div>
-        		</div>
-        		<div class="item">
-          			<img src="images/slider/iips8.jpg" alt="Third slide">
-          			<div class="container">
-            			<div class="carousel-caption">
-            			</div>
-          			</div>
-        		</div>
-				<div class="item">
-          			<img src="images/slider/iips1.jpg"  alt="Third slide">
-          			<div class="container">
-            			<div class="carousel-caption">
-            			</div>
-          			</div>
-        		</div>
-				<div class="item">
-          			<img src="images/slider/iips5.jpg"  alt="Third slide">
-          			<div class="container">
-            			<div class="carousel-caption">
-            			</div>
-          			</div>
-        		</div>
-      		</div><!--carousel-inner -->
-      			<a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
-      			<a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
-    	</div><!-- /.myCarousel -->
-    	
+		    <div id="wrapper">
 
-
-     </div>
+				<div class="slider-wrapper theme-default">
+					<div id="slider" class="nivoSlider">
+						<img src="images/slider/iips2.jpg" />
+						<img src="images/slider/iips8.jpg" title="This is an example of a caption" /></a>
+						<img src="images/slider/iips6.jpg" data-transition="slideInLeft" />
+						<img src="images/slider/iips1.jpg" title="#htmlcaption" />
+						<img src="images/slider/iips5.jpg" title="#htmlcaption" />
+					</div>
+					<div id="htmlcaption" class="nivo-html-caption">
+						<strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>. 
+					</div>
+				</div>
+				<br><br>
+			</div>
+        </div>
      
    </div>
 		<!-- col12 "slider" part ended -->
 
-      <!-- row class start -->
-      <div class="row">    
+      <!-- 1strow class start -->
+      <div class="row">
+               <div class="col-lg-3 col-md-6 hero-feature">
+                 
+                   <div class="caption">
+                     <h3>Feature Label 1</h3>
+                     <p>This would be a great spot to feature some brand new products!</p>
+                     <p><a href="#" class="btn btn-primary">More >></a> </p>
+                   </div>
+                 
+               </div>
+
+                <div class="col-lg-3 col-md-6 hero-feature">
+                  
+                    <div class="caption">
+                      <h3>Feature Label 2</h3>
+                      <p>This would be a great spot to feature some brand new products!</p>
+                      <p><a href="#" class="btn btn-primary">More >></a> </p>
+                    </div>
+                  
+                </div>
+
+                <div class="col-lg-3 col-md-6 hero-feature">
+                  
+                    <div class="caption">
+                      <h3>Feature Label 3</h3>
+                      <p>This would be a great spot to feature some brand new products!</p>
+                      <p><a href="#" class="btn btn-primary">More >></a> </p>
+                    </div>
+              
+                </div>
+
+
+                <div class="col-lg-3 col-md-6 hero-feature">
+                  
+                    <div class="caption">
+                      <h3>Feature Label 4</h3>
+                      <p>This would be a great spot to feature some brand new products!</p>
+                      <p><a href="#" class="btn btn-primary">More >></a> </p>
+                    </div>
+                  
+                </div>
+      </div> <!-- 1st row end -->
+<br><br>
+      <!-- 2nd row start -->
+      <div class="row">
+
+        <div class="col-lg-3 col-md-6 hero-feature">
+          
+            <div class="caption">
+              <h3>Feature Label 4</h3>
+              <p>This would be a great spot to feature some brand new products!</p>
+              <p><a href="#" class="btn btn-primary">More >></a> </p>
+            </div>
+          
+        </div>
+
+        <div class="col-lg-3 col-md-6 hero-feature">
+          
+            <div class="caption">
+              <h3>Feature Label 4</h3>
+              <p>This would be a great spot to feature some brand new products!</p>
+              <p><a href="#" class="btn btn-primary">More >></a> </p>
+            </div>
+          
+        </div>
+
+        <div class="col-lg-3 col-md-6 hero-feature">
+          
+            <div class="caption">
+              <h3>Feature Label 4</h3>
+              <p>This would be a great spot to feature some brand new products!</p>
+              <p><a href="#" class="btn btn-primary">More >></a> </p>
+            </div>
+          
+        </div>
+
+        <div class="col-lg-3 col-md-6 hero-feature">
+          
+            <div class="caption">
+              <h3>Feature Label 4</h3>
+              <p>This would be a great spot to feature some brand new products!</p>
+              <p><a href="#" class="btn btn-primary">More >></a> </p>
+            </div>
+          
+        </div>
+
+
+      </div> <!-- 2nd row end -->
+
+      <!-- row start -->
+      <div class="row">
+
+
+
+
+
        <p style="text-align:justify">      
         Student<br>
 
@@ -126,4 +185,4 @@
 
 	
 </div>
-<!-- container class ended -->
+<!-- container class ended

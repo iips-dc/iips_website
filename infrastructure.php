@@ -27,8 +27,8 @@
 		<br><h3> Infrastructure </h1><br>
         <div id="row">
 			<div class="col-md-2">
-                <ul class="nav side-tabs">
-                    <li><a class="icon-chevron-sign-right" href="#tab1">  Lecture Theaters</a></li>
+                <ul class="nav side-tabs nav-pills">
+                    <li class="active"><a class="icon-chevron-sign-right" href="#tab1">  Lecture Theaters</a></li>
                     <li><a class="icon-chevron-sign-right" href="#tab2">  Computer Labs</a></li>
                     <li><a class="icon-chevron-sign-right" href="#tab3">  Libraries</a></li>
 					<li><a class="icon-chevron-sign-right" href="#tab4">  Hostels</a></li>

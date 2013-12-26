@@ -16,6 +16,7 @@ top nav bar of the page -->
     <!-- Bootstrap core CSS -->
     <?php
 		include('cssLinks.php');
+		include('slider_cssLinks.php');
 	?>
 	<link rel="stylesheet" href="carousel.css">
   </head>
@@ -32,6 +33,7 @@ top nav bar of the page -->
 	 <?php
 		include('footer.php');
 		include('jsLinks.php');
+		include('slider_jsLinks.php');
 	 ?>
 	<script>
  		 $(function () {

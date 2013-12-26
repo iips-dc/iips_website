@@ -18,7 +18,8 @@
 
 <body>
 	<?php
-			include('header.php');
+			include 'header.php';
+			
 			include('readTextFilesScript.php');
 	?>
 	 <div id="wrap">
@@ -27,15 +28,28 @@
 		<br><h3> Programs We Offer </h3><br>
          <div id="row">
 		   <div class="col-md-2">
-            <ul class="nav side-tabs">
-                <li><a class="icon-chevron-sign-right" href="#tab1">  Integrated</a></li>
-                <li><a class="icon-chevron-sign-right" href="#tab2">  Post Graduate</a></li>
-				<li><a class="icon-chevron-sign-right" href="#tab3">  Under Graduate</a></li>
+            <ul class="nav side-tabs nav-pills">
+                <li id="tlink1"><a class="icon-chevron-sign-right" href="#tab1">  Under Graduate</a></li>
+                <li id="tlink2"><a class="icon-chevron-sign-right" href="#tab2">  Integrated</a></li>
+                <li  id="tlink3"><a class="icon-chevron-sign-right" href="#tab3">  Post Graduate</a></li>
+                <li  id="tlink4"><a class="icon-chevron-sign-right" href="#tab4">M.Phil Ph.D.</a></li>
+                <li  id="tlink5"><a class="icon-chevron-sign-right" href="#tab5">Ph.D.</a></li>
+				
             </ul>
 		   </div>
+
+
 			
 		   <div class="col-md-10">
-              <div id="tab1"  class="tab-content active">
+		   		<div id="tab1" class="tab-content  hide">
+				    <?php 
+							$bcomHons ="textFiles/ProgramsWeOffer/bcom_hons.txt";  
+							readTextFiles($bcomHons);  
+				    ?><br><br><br>
+
+                </div>
+
+              <div id="tab2"  class="tab-content hide">
 				<b>Integrated Courses</b><br /><br />
 					<ul class="nav nav-tabs" id="myTab">
   						<li class="active"><a href="#mca" data-toggle="tab">MCA</a></li>
@@ -66,7 +80,7 @@
 					</div>
                 </div>
 
-                <div id="tab2" class="tab-content hide" style="text-align:justify; padding:0px 20px 0px 20px; margin-top:0px; line-height:1.5;">
+                <div id="tab3" class="tab-content hide" style="text-align:justify; padding:0px 20px 0px 20px; margin-top:0px; line-height:1.5;">
 		   			<b>Post Graduate Courses</b><br><br>
 
 					<ul class="nav nav-tabs" id="myTab">
@@ -99,13 +113,7 @@
 					</div>
           	  </div>
 
-                <div id="tab3" class="tab-content hide">
-				    <?php 
-							$bcomHons ="textFiles/ProgramsWeOffer/bcom_hons.txt";  
-							readTextFiles($bcomHons);  
-				    ?><br><br><br>
-
-                </div>
+                
             </div><!--.col-md-10 -->
          </div><!--.row class ended -->
 
@@ -123,6 +131,35 @@
   			e.preventDefault()
   			$(this).tab('show')
 			});
+			//make all tab hidden
+				//code to get parameter(start)
+					var $_GET = {},
+					    args = location.search.substr(1).split(/&/);
+					for (var i=0; i<args.length; ++i) {
+					    var tmp = args[i].split(/=/);
+					    if (tmp[0] != "") {
+					        $_GET[decodeURIComponent(tmp[0])] = decodeURIComponent(tmp.slice(1).join("").replace("+", " "));
+					    }
+					}
+					//alert(args);
+					arg_string='';
+					arg_string=arg_string+args;
+					par=arg_string.substr(2);
+					//alert(par);
+					//par=parameter
+				//code to get parameter(end)
+				tab_id_to_active='tab'+par;
+				//alert('tab:'+tab_id_to_active)
+				link_to_active='tlink'+par;
+				//alert('link:'+link_to_active);
+
+				document.getElementById(link_to_active).setAttribute("class","active");
+				//alert('link activated');
+				document.getElementById(tab_id_to_active).setAttribute("class","tab-content active");
+				//alert('tab activated');
+				
+				//document.getElementById('tab_id_to_active').className="tab-content active";
+				
 		</script>
 		
 </body>

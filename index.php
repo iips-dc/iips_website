@@ -12,6 +12,7 @@
     <!-- Bootstrap core CSS -->
     <?php
 		include('cssLinks.php');
+		include('slider_cssLinks.php');
 	?>
 	<link rel="stylesheet" href="carousel.css">
   </head>
@@ -28,7 +29,13 @@
 	 <?php
 		include('footer.php');
 		include('jsLinks.php');
+		include('slider_jsLinks.php');
 	 ?>
+	 
+	
+	
+	<!-- Script for "News/Events" tab -->
+	<script src="assets/js/holder.js"></script>
 	<script>
  		 $(function () {
   			$('#myTab a').click(function (e) {
@@ -36,7 +43,7 @@
   				$(this).tab('show');
 			})
 
-    	    $('#myTab a:last').tab('show');
+    	    $('#myTab a:first').tab('show');
  		 })
 	</script>
 
