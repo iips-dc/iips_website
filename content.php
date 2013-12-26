@@ -62,21 +62,40 @@ and testimonial section -->
 					<li class="active">
 					   <a href="#news">News</a>
 					</li>
-					<li>
-						<a href="#events">Events</a>
+					<li class="disabled">
+						<a href="#">Events</a><!-- insert '#events' in href to enable event tab -->
 					</li>
 				  </ul>
 				  <div class="tab-content">
 					 <div class="tab-pane active" id="news" >
 						<ul class="media-list">
 						   <li class="media">
-							  <a class="pull-left" href="#"> <img class="media-object" src="..." alt="..."> </a>
-							  <div class="media-body">
-								  <br /><h4 class="media-heading">Best in Computer Science</h4>
-								  IIPS is awarded as the Best Institute of Computer Science
+							  <div class="media-body"><br>
+							  
+								    <div class="row">
+										<div class="col-md-1">
+										  <img class="featurette-image img-responsive" src="data:image/png;base64," data-src="holder.js/60x60/auto" alt="Generic placeholder image">
+										</div>
+										<div class="col-md-11">
+											<h5>IIPS Organizing Music Concert <span class="text-muted"><a href="news.php#music">Click Here</a> for details</span> <span class="pull-right">Posted - 31st Dec 2013</span></h5>	
+										</div>
+									</div><br><!-- end of row class -->
+									
+									<div class="row">
+										<div class="col-md-1">
+										  <img class="featurette-image img-responsive" src="data:image/png;base64," data-src="holder.js/60x60/auto" alt="Generic placeholder image">
+										</div>
+										<div class="col-md-11">
+											<h5>Students Preparing for Synergy 2014 Event <span class="text-muted"><a href="news.php#synergy">Click Here</a> for details</span><span class="postDate pull-right">Posted - 28th Dec 2013</span></h5>	
+										</div>
+									</div><br><!-- end of row class -->
+									
 							   </div>
 							</li>
 						</ul>
+						<div class="panel-footer  text-center">
+							<a href="news.php"><b>View All &raquo;</b></a>
+						</div>
 	                  </div>
 				      <div class="tab-pane" id="events">
 						<ul class="media-list">
