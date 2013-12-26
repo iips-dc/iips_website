@@ -53,8 +53,8 @@
                 <ul class="dropdown-menu">
                     <li><a href="#1">Academic Calender</a></li>
                     <li><a href="#2">Syllabus</a></li>
-                    <li><a href="#4">Notices and Announcements</a></li> 
-                    <li><a href="#3">News</a></li>
+                    <li><a href="allNotices.php">Notices and Announcements</a></li> 
+                    <li><a href="news.php">News</a></li>
                 </ul>
               </li>
 
