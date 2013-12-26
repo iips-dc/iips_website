@@ -75,7 +75,7 @@
 				   		   <ul class="dropdown-menu">
 				       		  <li><a href="Xpressions.php">Xpression</a></li>
                        		  <li><a href="synergy.php">Synergy</a></li>
-                      		 <li><a href="#3">Tourista</a></li> 
+                      		 <li><a href="Tourista.php">Tourista</a></li> 
 				   			</ul>
 						 </li>
 						<!-- placements -->
@@ -98,7 +98,7 @@
             <!-- RTI -->
 
 						 <li class="dropdown">
-                  		   <a href="#" class="dropdown-toggle">RTI<b class="caret"></b></a>
+                  		   <a href="downloads.php" class="dropdown-toggle">RTI<b class="caret"></b></a>
 				   		   <ul class="dropdown-menu">
 				       		  <li><a href="#">Press Release</a></li>
                     <li><a href="#">Downloads</a></li>

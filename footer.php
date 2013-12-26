@@ -3,7 +3,7 @@
 		<div class="row">
 			<div class="col-md-4">
 				IIPS, Davv, Takshila Campus<br />
-				Khadwa Road, Indore<br />
+				Khandwa Road, Indore<br />
 				Indore, India, 452001
 			</div>
 			<div class="col-md-4">
