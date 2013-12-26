@@ -22,7 +22,6 @@ and testimonial section -->
 					<strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>. 
 				</div>
 			</div>
-			<br><br>
 		   </div>
         </div>
      <!-- notice  block start -->
@@ -32,14 +31,12 @@ and testimonial section -->
 					<h3 class="panel-title">Notice/Announcements</h3>
 				</div>
 				<div class="panel-body" align="left">
-				   <span class="glyphicon glyphicon-hand-right"></span> <a href="#">NAAC Coming Soon </a><br>
-				   <span class="glyphicon glyphicon-hand-right"></span> <a href="#">End Semester Exam : December 2013 </a> <br>
-				   <span class="glyphicon glyphicon-hand-right"></span> <a href="#">Online Fees Last Date</a> <br>
-				   <span class="glyphicon glyphicon-hand-right"></span> <a href="#">Elections</a> <br>
-				   <span class="glyphicon glyphicon-hand-right"></span> <a href="#">WorkShop</a><br>
-				   <span class="glyphicon glyphicon-hand-right"></span> <a href="#">Guest Lecture</a><br>
-				   <span class="glyphicon glyphicon-hand-right"></span> <a href="#">Meeting</a><br>
-				   <span class="glyphicon glyphicon-hand-right"></span> <a href="#">Fill Feedback Form</a><br>
+				  <a href="#"> <i class="icon-pushpin"></i> NAAC - Arrival in New Year 2014 !  </a><br>
+				  <a href="#"> <i class="icon-pushpin"></i> College reopen date has been decided ! </a><br>
+				  <a href="#"> <i class="icon-pushpin"></i> Guest Lecture on "Artificial Intelligence" </a><br>
+				  <a href="#"> <i class="icon-pushpin"></i> Download admit card from MPOnline </a><br>
+				  <a href="#"> <i class="icon-pushpin"></i> Last Date of Scholarship Form is 22nd Sept 2013 </a><br>
+				  <a href="#"> <i class="icon-pushpin"></i> NAAC Coming Soon </a>
 				</div>
 				<div class="panel-footer">
 					<a href="allNotices.php"><b>View All &raquo;</b></a>
@@ -117,7 +114,7 @@ and testimonial section -->
 	
 
 	<div class="row">
-   	   <div class="col-md-9 quicklist boxShadow">
+   	   <div class="col-md-9 quicklist">
      	 <?php include('quicklinks.php') ?><br>
   	 </div><!--col-md-8 class ended -->
   
