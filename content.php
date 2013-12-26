@@ -50,7 +50,7 @@ and testimonial section -->
 	<div class="row">
 			 
 		<div class="col-md-12">
-		   <div class="panel panel-primary boxShadow" style="height:300px; overflow:hidden;">
+		   <div class="panel panel-primary boxShadow" style="overflow:hidden;">
 			  <div class="panel-heading">
 				 <h3 class="panel-title">News & Events</h3>
 			  </div>
@@ -85,15 +85,12 @@ and testimonial section -->
 										<div class="col-md-11">
 											<h5>Students Preparing for Synergy 2014 Event <span class="text-muted"><a href="news.php#synergy">Click Here</a> for details</span><span class="postDate pull-right">Posted - 28th Dec 2013</span></h5>	
 										</div>
-									</div><br><!-- end of row class -->
-									
+									</div><!-- end of row class -->
 							   </div>
 							</li>
 						</ul>
-						<div class="panel-footer  text-center">
-							<a href="news.php"><b>View All &raquo;</b></a>
-						</div>
 	                  </div>
+	
 				      <div class="tab-pane" id="events">
 						<ul class="media-list">
 						   <li class="media">
@@ -107,6 +104,9 @@ and testimonial section -->
 					   </div>
 				   </div><!--.tab-content -->
 				</div><!--Panel body -->
+				<div class="panel-footer  text-center">
+					<a href="news.php"><b>View All &raquo;</b></a>
+				</div>
 			</div><!--End of Panel -->
 		</div><!--End of col-md-12 -->
 	</div><!--End of Row -->
