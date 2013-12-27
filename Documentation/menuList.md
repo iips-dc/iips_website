@@ -17,9 +17,8 @@
 
 3. Admissions
     * Entrance Exam- CET
-    * Integrated
-    * UG
-    * PG
+    * Eligibility
+    * Couseling
     * How to apply
     * Fees structure
 
