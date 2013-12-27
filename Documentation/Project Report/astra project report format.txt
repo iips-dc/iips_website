@@ -1,0 +1,61 @@
+
+Author table
+
+Revision History
+
+Project Description - Section
+	Project overview
+		Intorduction
+		Purpose of the project
+		Scope of the work
+		Scope of the product
+		Stackholders
+		
+	Asuumptions and conventions:
+		Naming convention
+		Relevant facts
+		
+
+Requirement analysis - section
+	Functional Requirement
+	Data Requirement
+	Performance 
+	Dependency
+	Maintainability
+	Security
+	Usability
+	Look and Feel
+	
+Design - section  
+
+	Product specification and design
+	Development Model
+	Technology stack
+	UML Diagrams
+	Database schema
+	Database migration
+	
+Implemetation- section
+	Project implementation details
+	Deployment issues
+	Project issues
+	Miscelleneous
+	
+Testing- section
+
+Samples
+
+Glossary
+
+Reference and Bibilography
+
+Appendix
+
+	
+	
+	
+
+		
+		
+	
+		
