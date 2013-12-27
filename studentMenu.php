@@ -29,9 +29,8 @@
 				       			<li><a href="#1">Academic Calender</a></li>
                        			<li><a href="#2">Syllabus</a></li>
                        			<li><a href="#3">News and Announcements</a></li>
-					  			 <li><a href="#4">Notices</a></li>
-					  			 <li><a href="#5">Development Center</a></li>
-					  			 <li><a href="#6">Research Cell</a></li> 
+					  			 <li><a href="#4">Notices</a></li> 
+					  			 <li class="disabled"><a href="#5">Achievements and Awards</a></li> 
 				   			</ul>
 				  		   </li>
 						 <li class="dropdown">
