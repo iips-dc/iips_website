@@ -33,7 +33,7 @@
 	?>
 	<div id="wrap">
 	
-		<div class="container boxShadow" style="background-color:#42484C; border: solid 10px grey">
+		<div class="container">
 		    <h3 class="text-center"><b class="label label-primary icon-bullhorn"> Notices & Annoucement Board</b></h3>
 			
 			<!-- Notice Section --><br><br>

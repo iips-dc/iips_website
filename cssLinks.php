@@ -7,7 +7,7 @@
 	<!--Custom CSS -->
 	<style type="text/css">
 		html body{
-			color:#000000;
+	
 		}
 		
 		/* Custom CSS for Menu */
