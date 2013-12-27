@@ -8,7 +8,7 @@
         <title>Programs We Offer</title>
 
        <!-- Include Styles -->
-        <link rel="stylesheet" href="css/vtab-style.css" />		
+        
         <!--[if IE 7]><style type="text/css">#v-nav>ul>li.current{border-right:1px solid #fff!important}#v-nav>div.tab-content{z-index:-1!important;left:0}</style><![endif]-->
         <!--[if IE 8]><style type="text/css">#v-nav>ul>li.current{border-right:1px solid #fff!important}#v-nav>div.tab-content{z-index:-1!important;left:0}</style><![endif]-->
 		<?php
@@ -22,6 +22,7 @@
 			
 			include('readTextFilesScript.php');
 	?>
+
 	 <div id="wrap">
 	  <div class="container" style="background-color:#FFFFFF;">
 
