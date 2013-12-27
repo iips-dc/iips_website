@@ -37,7 +37,7 @@
 					<ul class="nav side-tabs nav-pills">
 	   					<li class="active"><a class="icon-chevron-sign-right" href="#tab1"> Entrance Exam- CET</a></li>
 	    				<li><a class="icon-chevron-sign-right" href="#tab2">Eligibility</a></li>
-	    				<li><a class="icon-chevron-sign-right" href="#tab3"> Counselling </a></li>
+	    				<li><a class="icon-chevron-sign-right" href="#tab3"> Counseling </a></li>
 	   					<li><a class="icon-chevron-sign-right" href="#tab4"> How to apply</a></li>
 	   					<li><a class="icon-chevron-sign-right" href="#tab5"> Fees Structure</a></li>
 	    			

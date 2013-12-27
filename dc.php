@@ -8,10 +8,7 @@
     <meta name="author" content="">
         <title>Admissions</title>
 
-       <!-- Include Styles -->
-        <link rel="stylesheet" href="css/vtab-style.css" />		
-        <!--[if IE 7]><style type="text/css">#v-nav>ul>li.current{border-right:1px solid #fff!important}#v-nav>div.tab-content{z-index:-1!important;left:0}</style><![endif]-->
-        <!--[if IE 8]><style type="text/css">#v-nav>ul>li.current{border-right:1px solid #fff!important}#v-nav>div.tab-content{z-index:-1!important;left:0}</style><![endif]-->
+      
 		<?php
 		 include('cssLinks.php');
 		?>
@@ -32,18 +29,44 @@
 				<div id = "row">
 					<div class="col-md-2">
 						<ul class="nav side-tabs">
-							<li ><a class="icon-chevron-sign-right" href="#tab1">1</a></li>
-			                <li ><a class="icon-chevron-sign-right" href="#tab2">2</a></li>
-			                <li ><a class="icon-chevron-sign-right" href="#tab3">3</a></li>
-			                <li ><a class="icon-chevron-sign-right" href="#tab4">4</a></li>
-			                <li ><a class="icon-chevron-sign-right" href="#tab5">5</a></li>
-
+							<li ><a class="icon-chevron-sign-right" href="#tab1">About DC</a></li>
+			                <li ><a class="icon-chevron-sign-right" href="#tab2">Current Projects</a></li>
+			                <li ><a class="icon-chevron-sign-right" href="#tab3">Open Projects</a></li>
+			                <li ><a class="icon-chevron-sign-right" href="#tab4">Past Projects</a></li>
+			                <li ><a class="icon-chevron-sign-right" href="#tab5">Team</a></li>
+			                
 						</ul>
 					</div>
 
 
 					<div class="col-md-10">
-						Details here
+						<div id="tab1"  class="tab-content active">
+	                      <?php 
+							$aboutDC ="textFiles/DC/aboutDC.txt";  
+							readTextFiles($aboutDC);
+					     ?>
+	                   </div>
+
+	                   <div id="tab2"  class="tab-content active">
+	                      <?php 
+							$currentProjects ="textFiles/DC/currentProjects.txt";  
+							readTextFiles($currentProjects);
+					     ?>
+	                   </div>
+
+	                   <div id="tab3"  class="tab-content active">
+	                      <?php 
+							$pastProjects ="textFiles/DC/pastProjects.txt";  
+							readTextFiles($pastProjects);
+					     ?>
+	                   </div>
+
+	                   <div id="tab4"  class="tab-content active">
+	                      <?php 
+							$team ="textFiles/DC/team.txt";  
+							readTextFiles($team);
+					     ?>
+	                   </div>
 
 					</div>
 				</div>
