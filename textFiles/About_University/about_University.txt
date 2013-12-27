@@ -1,5 +1,5 @@
  <h4>Devi Ahilya University</h4>
-<p> DAVV Indore (formerly, university of Indore) was established in 1964 by an
+<p align="justify"> DAVV Indore (formerly, university of Indore) was established in 1964 by an
 Act of legislature of Madhya Pradesh. The University is supported by both the 
 State Government and the University Grants Commission, New Delhi. 
 The University has been cited in the Commonwealth Year Book (Volume 3, pp. 1740-42, 1990). 
