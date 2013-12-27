@@ -39,12 +39,12 @@
 						  <li class="dropdown">
                    			<a href="#" class="dropdown-toggle">Admission<b class="caret"></b></a>
 				   			<ul class="dropdown-menu">
-				      			 <li><a href="#1">Entrance Exam - CET</a></li>
-                       			<li><a href="#2">Integrated</a></li>
-                       			<li><a href="#3">Under Graduate</a></li>
-					   			<li><a href="#4">Post Graduate</a></li>
-					  			 <li><a href="#5">How to apply</a></li>
-					  			 <li><a href="#6">Fees structure</a></li> 
+				      			 <li><a href="admission.php">Entrance Exam - CET</a></li>
+                       			<li><a href="admission.php">Integrated</a></li>
+                       			<li><a href="admission.php">Under Graduate</a></li>
+					   			<li><a href="admission.php">Post Graduate</a></li>
+					  			 <li><a href="admission.php">How to apply</a></li>
+					  			 <li><a href="admission.php">Fees structure</a></li> 
 				   			</ul>
 				  		  </li>
 						<!-- academics -->
@@ -63,8 +63,8 @@
             <li class="dropdown">
                    			<a href="#" class="dropdown-toggle">Research<b class="caret"></b></a>
 				   			<ul class="dropdown-menu">
-				      			 <li><a href="#1">Development Center</a></li>
-                     <li><a href="#2">Research Center</a></li>
+				      			 <li><a href="dc.php">Development Center</a></li>
+                     <li><a href="researchcell.php">Research Center</a></li>
                      <li><a href="#3">Publications</a></li>
 				   			</ul>
 				  		</li>
