@@ -15,6 +15,9 @@
 		include('slider_cssLinks.php');
 	?>
 	<link rel="stylesheet" href="carousel.css">
+	<style type="text/css">
+
+	</style>
   </head>
 
   <body>

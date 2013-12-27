@@ -43,12 +43,7 @@
 				   			</ul>
 				  		</li>
 						<li class="dropdown">
-                  		   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Result<b class="caret"></b></a>
-				   		   <ul class="dropdown-menu">
-				       		  <li><a href="Xpressions.php">MCA & M.Tech</a></li>
-                       		  <li><a href="synergy.php">MBA</a></li>
-                      		 <li><a href="#3">B.com</a></li> 
-				   			</ul>
+                  		   <a href="result.php">Result</b></a>
 						 </li>
 						
 						<li class="dropdown">
