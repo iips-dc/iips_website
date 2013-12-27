@@ -78,36 +78,38 @@
                       		 <li><a href="Tourista.php">Tourista</a></li> 
 				   			</ul>
 						 </li>
-						<!-- placements -->
+						 
+			<!-- RTI -->
 
-            <li class="dropdown">
-                        <a href="#" class="dropdown-toggle"> Placements</a>
-              
-            </li>
+						 <li class="dropdown">
+                  		   <a href="#" class="dropdown-toggle">RTI<b class="caret"></b></a>
+				   		   <ul class="dropdown-menu">
+				       		  <li><a href="downloads.php">Press Release</a></li>
+								<li><a href="downloads.php">Downloads</a></li>
+								<li><a href="downloads.php">Faculty</a></li>
+								<li><a href="downloads.php">Student</a></li>
+								<li><a href="downloads.php">Library</a></li>
+										  
+				   			</ul>
+						 </li>
+						
 						
             <!-- recruitments -->
 
 						<li class="dropdown">
                    			<a href="#" class="dropdown-toggle">Recruitments<b class="caret"></b></a>
 				   			<ul class="dropdown-menu">
-				      			 <li><a href="#1">Faculty</a></li>
+				      			<li><a href="#1">Faculty</a></li>
                        			<li><a href="#2">Staff</a></li>
 				   			</ul>
 				  		</li>
 
-            <!-- RTI -->
+           <!-- placements -->
 
-						 <li class="dropdown">
-                  		   <a href="downloads.php" class="dropdown-toggle">RTI<b class="caret"></b></a>
-				   		   <ul class="dropdown-menu">
-				       		  <li><a href="#">Press Release</a></li>
-                    <li><a href="#">Downloads</a></li>
-                    <li><a href="#">Faculty</a></li>
-                    <li><a href="#">Student</a></li>
-                    <li><a href="#">Library</a></li>
-                      		  
-				   			</ul>
-						 </li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle"> Placements</a>
+						  
+						</li>
 
           			  </ul>
 		       	 </div><!--/.nav-collapse -->
