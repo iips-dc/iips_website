@@ -23,7 +23,7 @@ top nav bar of the page -->
 
   <body>
      <?php
-	 	include('header.php');
+	 	include('faculty_header.php');
 	 ?>
 	 <div id="wrap">
 	 <?php
