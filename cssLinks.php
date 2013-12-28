@@ -7,45 +7,52 @@
 	<!--Custom CSS -->
 	<style type="text/css">
 		html body{
-			
+			color:#000000;
+			font-family:Andalus;
 		}
 		
-		/* Custom CSS for Menu */
+		// Custom CSS for Menu
 		
 		.text-justify {
 			text-align: justify;
 
 		}
 
-		.navbar-default{
-			background-color: white;
-			  background-image: linear-gradient(top, #E8EFF7, #428BCA);
-			  background-image: -webkit-linear-gradient(top, #E8EFF7, #428BCA);
-			  background-image: -moz-linear-gradient(top, #E8EFF7, #428BCA);
-			  background-image: -ms-linear-gradient(top, #E8EFF7, #428BCA);
-			  background-image: -o-linear-gradient(top, #E8EFF7, #428BCA);
-			  background-image: linear-gradient(top, #E8EFF7, #428BCA);
+		.navbar-default
+		{
+			background: #2F54CE;
+			border-color:#e7e7e7;
+			box-shadow:0px 15px 20px rgba(121,121,121,0.7);
 		}
+		.navbar-default .navbar-nav>li>a{color:#FFF}
+		.navbar-default .navbar-nav>li>a:focus{color:#000}
+
+		.navbar-nav > li.dropdown > a,
+		.navbar-nav > li.dropdown > a:hover,
+		.navbar-nav > li.dropdown > a:focus{
+			color: #FFFFFF;  
+		} 
 		ul.nav li.dropdown:hover ul.dropdown-menu{
 			display: block;
 		}
 		
-		/* End of Custom CSS for Menu */
-
+		/*Custom css for Panel-primary*/
+		.panel-primary .panel-heading{
+			background: #2F54CE;
+		}
+		
+		a {
+			color: #2F54CE;
+		}
 		.gateway {
 			margin-left: 0px;
 			padding: 5px 5px 5px 5px;
-			background-color:#333333;
+			background-color:#2F54CE;
 			text-align:center;
 			position: fixed;
 			width: 100%;
 			z-index: 3000;
-			  background-image: linear-gradient(top, #8F959B, #0D0F11);
-			  background-image: -webkit-linear-gradient(top,#8F959B, #0D0F11);
-			  background-image: -moz-linear-gradient(top, #8F959B, #0D0F11);
-			  background-image: -ms-linear-gradient(top, #8F959B, #0D0F11);
-			  background-image: -o-linear-gradient(top, #8F959B, #0D0F11);
-			  background-image: linear-gradient(top, #8F959B, #0D0F11);
+			
 		}
 		.form-control{
 			color: #000000;
