@@ -11,16 +11,13 @@
        			</div>
        			<div class="navbar-collapse collapse">
          			<ul class="nav navbar-nav">
-          		  		  <li class="active"><a class="navbar-brand menu-top" href="index.php">Staff</a></li>
-            			  <li class="dropdown">
-                   			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Student<b class="caret"></b></a>
-				   			<ul class="dropdown-menu">
-				       			<li><a href="#1">SubMenu 1</a></li>
-                       			<li><a href="#2">SubMenu 2</a></li>
-                       			<li><a href="#3">SubMenu 3</a></li>
-					  			 <li><a href="#4">SubMenu 4</a></li>
-				   			</ul>
-				  		   </li>
+          		  		<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Profile<b class="caret"></b></a>
+							<ul class="dropdown-menu">
+			       				<li><a href="#1">Edit Profile</a></li>
+                       			<li><a href="#2">View Profile</a></li>
+							</ul>
+						</li>
+            			  
 						
 						<li class="dropdown">
                   		   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Faculty<b class="caret"></b></a>
