@@ -10,5 +10,5 @@
 		</div>
 	</div>
 
-	<?php include('studentMenu.php');
+	<?php include('student_menu.php');
 

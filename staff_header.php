@@ -5,6 +5,6 @@
 	<?php include 'header_image.php'; ?>
 
 
-	<?php include('staffMenu.php'); ?>
+	<?php include('staff_menu.php'); ?>
 	
 

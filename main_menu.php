@@ -17,8 +17,8 @@
             			  <li class="dropdown">
                              <a href="#" class="dropdown-toggle">About us<b class="caret"></b></a>
                              <ul class="dropdown-menu">
-				  				<li><a href="About_university.php">About University</a></li>
-                    			<li><a href="About_iips.php">About IIPS</a></li>
+				  				<li><a href="about_university.php">About University</a></li>
+                    			<li><a href="about_iips.php">About IIPS</a></li>
                     			<li><a href="#2">Life @campus</a></li>
                     			<li><a href="infrastructure.php">Infrastructure</a></li>
 								<li><a href="gallery.php">Gallery</a></li>
@@ -28,11 +28,11 @@
 						   <li class="dropdown">
                   			  <a href="#" class="dropdown-toggle">Programs<b class="caret"></b></a>
                   			  <ul class="dropdown-menu">
-                 				  <li><a href="Courses.php?t=1">Under Graduate</a></li>
-                          <li><a href="Courses.php?t=2">Integrated (UG+PG) Masters</a></li>
-                          <li><a href="Courses.php?t=3">Post Graduate</a></li>
-                          <li> <a href="Courses.php?t=4">M.Phil Ph.D</a> </li>
-                          <li> <a href="Courses.php?t=5">Ph.D</a> </li>
+                 				  <li><a href="courses.php?t=1">Under Graduate</a></li>
+                          <li><a href="courses.php?t=2">Integrated (UG+PG) Masters</a></li>
+                          <li><a href="courses.php?t=3">Post Graduate</a></li>
+                          <li> <a href="courses.php?t=4">M.Phil Ph.D</a> </li>
+                          <li> <a href="courses.php?t=5">Ph.D</a> </li>
 
                   			  </ul>
                 		   </li>
@@ -53,7 +53,7 @@
                 <ul class="dropdown-menu">
                     <li><a href="#1">Academic Calender</a></li>
                     <li><a href="#2">Syllabus</a></li>
-                    <li><a href="allNotices.php">Notices and Announcements</a></li> 
+                    <li><a href="notice_announcement.php">Notices and Announcements</a></li> 
                     <li><a href="news.php">News</a></li>
                 </ul>
               </li>
