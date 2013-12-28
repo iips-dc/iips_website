@@ -7,11 +7,16 @@
 	<!--Custom CSS -->
 	<style type="text/css">
 		html body{
-			text-align: justify;
+			
 		}
 		
 		/* Custom CSS for Menu */
 		
+		.text-justify {
+			text-align: justify;
+
+		}
+
 		.navbar-default{
 			background-color: white;
 			  background-image: linear-gradient(top, #E8EFF7, #428BCA);
