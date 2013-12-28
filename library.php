@@ -34,7 +34,9 @@
                   <ul class="nav side-tabs nav-pills">
                    	 <li class="active"><a class="icon-chevron-sign-right" href="#tab1"> About Library</a></li>
                      <li><a class="icon-chevron-sign-right" href="#tab2">  e-library</a></li>
-                    
+                     <li><a class="icon-chevron-sign-right" href="#tab3">  Central Library</a></li>
+                     <li><a class="icon-chevron-sign-right" href="#tab4"> EPOC</a></li>
+                     <li><a class="icon-chevron-sign-right" href="#tab5">  intranet</a></li>
                	   </ul>
 			  </div>
 			  
@@ -42,7 +44,7 @@
                 <div id="tab1"  class="tab-content active">
 				<h4><b>About Library</b></h4>
                     <?php 
-						$aboutLibrary = "textFiles/Library/About_Library.txt";  
+						$aboutLibrary = "textFiles/Library/about_library.txt";  
 						 readTextFiles($aboutLibrary);
 				  ?>
                 </div>
@@ -50,7 +52,32 @@
                 <div id="tab2" class="tab-content hide" style="text-align:justify; padding:0px 20px 0px 20px; margin-top:0px; line-height:1.5;">
 				<h4> <b>e-library</b></h4>
               
-					
+					<?php 
+						$eLibrary = "textFiles/Library/e_library.txt";  
+						 readTextFiles($eLibrary);
+				  ?>
+
+                </div>
+
+                <div id ="tab3" class="tab-content hide">
+                	<h4> <b>Central Library</b></h4>
+
+
+
+                </div>
+
+                <div id ="tab4" class="tab-content hide">
+                	<h4> <b>EPOC</b></h4>
+
+                </div>
+
+                <div id ="tab5" class="tab-content hide">
+                	<h4> <b> something here</b></h4>
+
+                </div>
+
+                <div id ="tab6" class="tab-content hide">
+                	<h4> <b> something there</b></h4>
 
                 </div>
 
