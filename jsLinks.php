@@ -28,7 +28,6 @@
 			$('.side-tabs > li > a').click(function(event){
 			
 				//event.preventDefault();//stop browser to take action for clicked anchor
-
 				//get displaying tab content jQuery selector
 				var active_tab_selector = $('.side-tabs > li.active > a').attr('href');					
 		 
@@ -47,6 +46,7 @@
 				var target_tab_selector = $(this).attr('href');
 				$(target_tab_selector).removeClass('hide');
 				$(target_tab_selector).addClass('active');
+				$("html, body").animate({ scrollTop: 0 }, 600);
 		     });
 		  });
 	
