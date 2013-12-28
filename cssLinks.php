@@ -34,7 +34,7 @@
 			text-align:center;
 			position: fixed;
 			width: 100%;
-			z-index: 2000;
+			z-index: 3000;
 			  background-image: linear-gradient(top, #8F959B, #0D0F11);
 			  background-image: -webkit-linear-gradient(top,#8F959B, #0D0F11);
 			  background-image: -moz-linear-gradient(top, #8F959B, #0D0F11);
