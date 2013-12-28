@@ -30,7 +30,7 @@
          <div id="row">
 		   <div class="col-md-2">
             <ul class="nav side-tabs nav-pills">
-                <li><a class="icon-chevron-sign-right" href="#tab1">  Under Graduate</a></li>
+                <li class="active"><a class="icon-chevron-sign-right" href="#tab1">  Under Graduate</a></li>
                 <li><a class="icon-chevron-sign-right" href="#tab2">  Integrated</a></li>
                 <li><a class="icon-chevron-sign-right" href="#tab3">  Post Graduate</a></li>
                 <li><a class="icon-chevron-sign-right" href="#tab4">M.Phil </a></li>
@@ -126,7 +126,7 @@
 		?>
 		<!-- Include Scripts for vertical tabs-->
 		<script type="text/javascript" src="js/jQuery-hashchange.js"></script>       
-        <script type="text/javascript" src="js/vtab-script.js"></script>
+        
 		<script>
 		
 		</script>

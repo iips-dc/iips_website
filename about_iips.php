@@ -47,7 +47,7 @@
                 <div id="tab1"  class="tab-content active">
 					<img class="iips_logo" src="images/iipslogo.jpg">
                     <?php 
-						$aboutIIPS = "textFiles/About_IIPS/About_IIPS.txt";  
+						$aboutIIPS = "textFiles/About_IIPS/about_IIPS.txt";  
 						 readTextFiles($aboutIIPS);
 				  ?>
                 </div>
@@ -57,7 +57,7 @@
                <table style="background-color:#eeeeee; border:1px solid gray;" > <tr>  <td> <i>
 
 					<?php 
-						$director="textFiles/About_IIPS/Director.txt";  
+						$director="textFiles/About_IIPS/director.txt";  
 						readTextFiles($director);
 				  ?>
 
@@ -87,7 +87,7 @@
 					
 					<ul type="disc" style="margin-left:50px;">
     					<?php 
-							$antiRagging="textFiles/About_IIPS/antiRaggingCommittee.txt";  
+							$antiRagging="textFiles/About_IIPS/antiragging_committee.txt";  
 							readTextFiles($antiRagging); 
 				  	  ?>
 					</ul>	

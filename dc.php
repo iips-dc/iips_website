@@ -42,26 +42,30 @@
 					<div class="col-md-10">
 						<div id="tab1"  class="tab-content active">
 	                      <?php 
-							$aboutDC ="textFiles/DC/aboutDC.txt";  
+							$aboutDC ="textFiles/DC/about_dc.txt";  
 							readTextFiles($aboutDC);
 					     ?>
 	                   </div>
 
 	                   <div id="tab2"  class="tab-content active">
 	                      <?php 
-							$currentProjects ="textFiles/DC/currentProjects.txt";  
+							$currentProjects ="textFiles/DC/current_projects.txt";  
 							readTextFiles($currentProjects);
 					     ?>
 	                   </div>
 
 	                   <div id="tab3"  class="tab-content active">
+	                      
+	                   </div>
+
+	                   <div id="tab4"  class="tab-content active">
 	                      <?php 
-							$pastProjects ="textFiles/DC/pastProjects.txt";  
+							$pastProjects ="textFiles/DC/past_projects.txt";  
 							readTextFiles($pastProjects);
 					     ?>
 	                   </div>
 
-	                   <div id="tab4"  class="tab-content active">
+	                   <div id="tab5"  class="tab-content active">
 	                      <?php 
 							$team ="textFiles/DC/team.txt";  
 							readTextFiles($team);
