@@ -107,7 +107,7 @@
            <!-- placements -->
 
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle"> Placements</a>
+							<a href="placements.php" class="dropdown-toggle"> Placements</a>
 						  
 						</li>
 
