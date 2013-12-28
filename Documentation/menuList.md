@@ -121,18 +121,19 @@
 
 # Staff
 1. Profile
-2. Student
-3. Faculty
-4. Events
-5. Placements
+	* View Profile
+    * Edit Profile
+2. Faculty
+3. Events
+4. Placements
 
-6. Services
+5. Services
     * Library
     * Requests
-7. Recruitments
+6. Recruitments
     * Faculty
     * Staff 
-8. Downloads
+7. Downloads
 	* IQAC
 	* Ordinance 
 	* Guidelines for Admission
