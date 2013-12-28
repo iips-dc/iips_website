@@ -7,7 +7,7 @@
 	<!--Custom CSS -->
 	<style type="text/css">
 		html body{
-	
+			text-align: justify;
 		}
 		
 		/* Custom CSS for Menu */
