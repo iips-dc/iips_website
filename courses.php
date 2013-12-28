@@ -44,7 +44,7 @@
 		   <div class="col-md-10">
 		   		<div id="tab1" class="tab-content active">
 				    <?php 
-							$bcomHons ="textFiles/ProgramsWeOffer/bcom_hons.txt";  
+							$bcomHons ="textFiles/Programs_We_Offer/bcom_hons.txt";  
 							readTextFiles($bcomHons);  
 				    ?><br><br><br>
 
@@ -61,19 +61,19 @@
 					<div class="tab-content">
 					  <div class="tab-pane active" id="mca">
 					       <?php 
-								$mca ="textFiles/ProgramsWeOffer/mca.txt";  
+								$mca ="textFiles/Programs_We_Offer/mca.txt";  
 								readTextFiles($mca);  
 				    		?><br><br><br>
 					  </div>
  					  <div class="tab-pane" id="mba"></b>
 					     <?php 
-								$mba ="textFiles/ProgramsWeOffer/mba.txt";  
+								$mba ="textFiles/Programs_We_Offer/mba.txt";  
 								readTextFiles($mba);  
 				    		?><br><br><br>
 					  </div>
  					  <div class="tab-pane" id="mtech">
 					          <?php 
-								$mTech ="textFiles/ProgramsWeOffer/mtech.txt";  
+								$mTech ="textFiles/Programs_We_Offer/mtech.txt";  
 								readTextFiles($mTech);  
 				    		?><br><br><br>
 					  		
@@ -92,21 +92,21 @@
 					<div class="tab-content">
   						<div class="tab-pane active" id="mbams">
 						    <?php 
-								$mbMS ="textFiles/ProgramsWeOffer/mba_ms.txt";  
+								$mbMS ="textFiles/Programs_We_Offer/mba_ms.txt";  
 								readTextFiles($mbMS); 
 				    		?><br><br><br>
 						    
 						</div>
   						<div class="tab-pane" id="mbata">
 						      <?php 
-								$mbaTA ="textFiles/ProgramsWeOffer/mba_ta.txt";  
+								$mbaTA ="textFiles/Programs_We_Offer/mba_ta.txt";  
 								readTextFiles($mbaTA); 
 				    		?><br><br><br>
 								
 						</div>
  					    <div class="tab-pane" id="mbaapr">
 								<?php 
-									$mbaAPR ="textFiles/ProgramsWeOffer/mba_apr.txt";  
+									$mbaAPR ="textFiles/Programs_We_Offer/mba_apr.txt";  
 									readTextFiles($mbaAPR);  
 				    			?><br><br><br>
 								
