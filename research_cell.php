@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-        <title>Admissions</title>
+        <title>Research Cell | IIPS </title>
 
        <!-- Include Styles -->
         <link rel="stylesheet" href="css/vtab-style.css" />		
@@ -24,15 +24,15 @@
 	?>
 
 	<!-- wrapper start-->
-		<div class="wrap">
+		<div id="wrap">
 			<!-- container start below -->
 			<div class="container" style="background-color:#FFFFFF;">
 				<br><h3> Heading here </h3><br>
 				<!-- row start below-->
-				<div id = "row">
+				<div class = "row">
 					<div class="col-md-2">
-						<ul class="nav side-tabs">
-							<li ><a class="icon-chevron-sign-right" href="#tab1">1</a></li>
+						<ul class="nav side-tabs nav-pills">
+							<li class="active" ><a class="icon-chevron-sign-right" href="#tab1">1</a></li>
 			                <li ><a class="icon-chevron-sign-right" href="#tab2">2</a></li>
 			                <li ><a class="icon-chevron-sign-right" href="#tab3">3</a></li>
 			                <li ><a class="icon-chevron-sign-right" href="#tab4">4</a></li>
@@ -43,7 +43,27 @@
 
 
 					<div class="col-md-10">
-						Details here
+						<br/>
+                        <div id="tab1"  class="tab-content active">
+                          a
+                       </div>
+                       <div id="tab2"  class="tab-content hide">
+                          b
+                       </div>
+                       <div id="tab3"  class="tab-content hide">
+                          c
+                       </div>
+                       <div id="tab4"  class="tab-content hide">
+                          d
+                       </div>
+                       <div id="tab5"  class="tab-content hide">
+                          <?php 
+                            $researchCenter ="textFiles/Research_Cell/research_center.txt";  
+                            readTextFiles($researchCenter);
+                         ?>
+                       </div>
+
+		
 
 					</div>
 				</div>
@@ -54,7 +74,14 @@
 
 		</div>
 	<!-- wrapper end -->
-
+    <!-- wrapper end -->
+    <?php
+            include('footer.php');
+            include('jsLinks.php');
+    ?>
+    <!-- Include Scripts for vertical tabs-->
+        <script type="text/javascript" src="js/jQuery-hashchange.js"></script>       
+        <script type="text/javascript" src="js/vtab-script.js"></script>
 
 </body>
 
