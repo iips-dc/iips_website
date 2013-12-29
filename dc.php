@@ -56,8 +56,8 @@
 
 	                   <div id="tab3"  class="tab-content hide">
 	                      <?php 
-							$currentProjects ="textFiles/DC/open_projects.txt";  
-							readTextFiles($currentProjects);
+							$openProjects ="textFiles/DC/open_projects.txt";  
+							readTextFiles($openProjects);
 					     ?>
 	                   </div>
 
@@ -87,7 +87,11 @@
 	<?php
 	        include('footer.php');
 			include('jsLinks.php');
-		?>
+	?>
+	<!-- Include Scripts for vertical tabs-->
+		<script type="text/javascript" src="js/jQuery-hashchange.js"></script>       
+        <script type="text/javascript" src="js/vtab-script.js"></script>
+
 
 </body>
 
