@@ -31,7 +31,7 @@
 				<br><h3> Placements </h3><br>
 				<!-- row start below-->
 				<div class = "row">
-					<div class="col-md-2">
+					<div class="col-md-3">
 						<ul class="nav side-tabs nav-pills">
 							<li class="active"><a class="icon-chevron-sign-right" href="#tab1"> About Placement Cell</a></li>
 							<li ><a class="icon-chevron-sign-right" href="#tab2"> Placements</a></li>
@@ -41,18 +41,23 @@
 					</div>
 
 
-					<div class="col-md-10">
+					<div class="col-md-9">
 						<div id="tab1"  class="tab-content active">
-	                      <?php 
-							$aboutPlacements ="textFiles/Placements/about_placements.txt";  
-							readTextFiles($aboutPlacements);
-					     ?>
+
+								                      <?php 
+														$aboutPlacements ="textFiles/Placements/about_placements.txt";  
+														readTextFiles($aboutPlacements);
+												     ?>
+
+
+							
+	                      
 	                   </div>
 
 	                   <div id = "tab2" class="tab-content hide">
 
 	                   	<?php 
-	                   		$placement = "textFiles/Placements/placements.txt" ;
+	                   		$placements = "textFiles/Placements/placements.txt" ;
 	                   		readTextFiles($placements) ;
 
 	                   	?>

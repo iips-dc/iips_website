@@ -1,6 +1,6 @@
 <p style="text-align:justify" >
 
-<img class="noborder" src="images/companies/Deloitte.jpg" alt="Deloitte">
+<img class="noborder" src="images/faculty/Mr.Imroz Khan.jpg" alt="Deloitte">
 I feel honoured to invite you to this world of professionalism and commitment.<br><br>
 
 The world progresses ahead with new technologies mushrooming almost everyday. In such a 
@@ -22,10 +22,10 @@ always received much more than their expectations from us.<br><br>
 -- 
 
 Please feel free to contact us at any point of time for any information or queries.<br><br>
-
+<b>
 Imroz Khan                     <br><br>
 Mob.No.-919425351233           <br><br>     
 Off -91-0731-2468507             <br><br>
 Mail id - imroz@iips.edu.in     <br><br>
-
+</b>
 </p>
