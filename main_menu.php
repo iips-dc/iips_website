@@ -64,7 +64,7 @@
                    			<a href="#" class="dropdown-toggle">Research<b class="caret"></b></a>
 				   			<ul class="dropdown-menu">
 				      			 <li><a href="dc.php">Development Center</a></li>
-                     <li><a href="researchcell.php">Research Center</a></li>
+                     <li><a href="research_cell.php">Research Center</a></li>
                      <li><a href="#3">Publications</a></li>
 				   			</ul>
 				  		</li>

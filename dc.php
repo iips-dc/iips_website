@@ -24,7 +24,7 @@
 		<div id="wrap">
 			<!-- container start below -->
 			<div class="container" style="background-color:#FFFFFF;">
-				<br><h3> Heading here </h3><br>
+				<br><h3> Development Center </h3><br>
 				<!-- row start below-->
 				<div class = "row">
 					<div class="col-md-2">
@@ -46,7 +46,7 @@
 							readTextFiles($aboutDC);
 					     ?>
 	                   </div>
-
+ 						
 	                   <div id="tab2"  class="tab-content hide">
 	                      <?php 
 							$currentProjects ="textFiles/DC/current_projects.txt";  
