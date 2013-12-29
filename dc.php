@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-        <title>Admissions</title>
+        <title>Developer Center | IIPS </title>
 
       
 		<?php
@@ -39,7 +39,7 @@
 					</div>
 
 
-					<div class="col-md-10">
+					<div class="col-md-10 text-justify">
 						<div id="tab1"  class="tab-content active">
 	                      <?php 
 							$aboutDC ="textFiles/DC/about_dc.txt";  
@@ -55,7 +55,10 @@
 	                   </div>
 
 	                   <div id="tab3"  class="tab-content hide">
-	                      Hello 
+	                      <?php 
+							$currentProjects ="textFiles/DC/open_projects.txt";  
+							readTextFiles($currentProjects);
+					     ?>
 	                   </div>
 
 	                   <div id="tab4"  class="tab-content hide">
