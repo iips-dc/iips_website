@@ -14,7 +14,6 @@
 		include('cssLinks.php');
 	?>
 	<style type="text/css">
-		
 		.postDate{
 			font-size:14px; 
 			color:green;
@@ -37,7 +36,7 @@
 		    <h3 class="text-center"><b class="label label-primary icon-globe"> IIPS News Section</b></h3>
 			
 			<!-- News Section --><br><br>
-			<div id="music" class="row featurette notice boxShadow">
+			<div id="music" class="row featurette notice">
 				<div class="col-md-2">
 				  <img class="featurette-image img-responsive" src="data:image/png;base64," data-src="holder.js/120x100/auto" alt="Generic placeholder image">
 				</div>
@@ -51,7 +50,7 @@
 				</div>
 			</div><br>
 			
-			<div id="synergy" class="row featurette notice boxShadow">
+			<div id="synergy" class="row featurette notice">
 				<div class="col-md-2">
 				  <img class="featurette-image img-responsive" src="data:image/png;base64," data-src="holder.js/120x100/auto" alt="Generic placeholder image">
 				</div>
@@ -65,7 +64,7 @@
 				</div>
 			</div><br>
 			
-			<div class="row featurette notice boxShadow">
+			<div class="row featurette notice">
 				<div class="col-md-2">
 				  <img class="featurette-image img-responsive" src="data:image/png;base64," data-src="holder.js/120x100/auto" alt="Generic placeholder image">
 				</div>
@@ -79,7 +78,7 @@
 				</div>
 			</div><br>
 			
-			<div class="row featurette notice boxShadow">
+			<div class="row featurette notice">
 				<div class="col-md-2">
 				  <img class="featurette-image img-responsive" src="data:image/png;base64," data-src="holder.js/120x100/auto" alt="Generic placeholder image">
 				</div>
@@ -93,7 +92,7 @@
 				</div>
 			</div><br>
 			
-			<div class="row featurette notice boxShadow">
+			<div class="row featurette notice">
 				<div class="col-md-2">
 				  <img class="featurette-image img-responsive" src="data:image/png;base64," data-src="holder.js/120x100/auto" alt="Generic placeholder image">
 				</div>
@@ -132,6 +131,5 @@
 
 
 	</script>
-	
   </body>
 </html>

@@ -27,17 +27,15 @@
 		<div id="wrap">
 			<!-- container start below -->
 			<div class="container" style="background-color:#FFFFFF;">
-				<br><h3> Heading here </h3><br>
+				<br><h3> Research Cell </h3><br>
 				<!-- row start below-->
 				<div class = "row">
 					<div class="col-md-2">
 						<ul class="nav side-tabs nav-pills">
-							<li class="active" ><a class="icon-chevron-sign-right" href="#tab1">1</a></li>
-			                <li ><a class="icon-chevron-sign-right" href="#tab2">2</a></li>
-			                <li ><a class="icon-chevron-sign-right" href="#tab3">3</a></li>
-			                <li ><a class="icon-chevron-sign-right" href="#tab4">4</a></li>
-			                <li ><a class="icon-chevron-sign-right" href="#tab5">5</a></li>
-
+							<li class="active" ><a class="icon-chevron-sign-right" href="#tab1"> About Research cell</a></li>
+			                <li ><a class="icon-chevron-sign-right" href="#tab2"> Research Scholar</a></li>
+			                <li ><a class="icon-chevron-sign-right" href="#tab3"> Faculty List</a></li>
+			            
 						</ul>
 					</div>
 
@@ -48,15 +46,13 @@
                           a
                        </div>
                        <div id="tab2"  class="tab-content hide">
-                          b
+                        <?php 
+                            $researchCenter ="textFiles/Research_Cell/research_scholar.txt";  
+                            readTextFiles($researchCenter);
+                         ?>
                        </div>
+                     
                        <div id="tab3"  class="tab-content hide">
-                          c
-                       </div>
-                       <div id="tab4"  class="tab-content hide">
-                          d
-                       </div>
-                       <div id="tab5"  class="tab-content hide">
                           <?php 
                             $researchCenter ="textFiles/Research_Cell/research_center.txt";  
                             readTextFiles($researchCenter);
