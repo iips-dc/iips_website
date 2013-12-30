@@ -12,6 +12,16 @@
 		<?php
 		 include('cssLinks.php');
 		?>
+
+	<style type"text/css">
+		.dcMembers{
+			background-color:white;
+			padding: 10px 10px 10px 10px;
+			margin-left:15px;
+			margin-right:15px;
+			margin-bottom: 20px;
+		}
+	</style>
 </head>
 <body>
 	<?php
