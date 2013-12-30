@@ -37,7 +37,7 @@
 		    <h3 class="text-center"><b class="label label-primary icon-bullhorn"> Notices & Annoucement Board</b></h3>
 			
 			<!-- Notice Section --><br><br>
-			<div class="row notice boxShadow">
+			<div class="row notice">
 				  <h5><b>&raquo; NAAC - Arrival in New Year 2014 ! </b><span class="text-center postDate pull-right">Posted - 22nd Dec 2013 <i class="icon-pushpin"></i></span></h5>
 				  
 				  <div class="content">
@@ -50,7 +50,7 @@
 				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
 			</div><br>
 			
-			<div class="row notice boxShadow">
+			<div class="row notice">
 			    <h5><b>&raquo; College reopen date has been decided !</b><span class="text-center postDate pull-right"> Posted - 30st Dec 2013  <i class="icon-pushpin"></i></span></h5>
 			    <div class="content">
 				    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor
@@ -61,7 +61,7 @@
 			   <button class="btn btn-primary toggleContent" href="#" role="button">View Details &raquo;</button>
 			</div><br>
 			
-			<div class="row notice boxShadow">
+			<div class="row notice">
 			  <h5><b>&raquo; Guest Lecture on "Artificial Intelligence" @Auditorium ! </b><span class="text-center postDate pull-right">Posted - 25th Dec 2013 <i class="icon-pushpin"></i></span></h5>
 			  <div class="content">
 				<p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id
@@ -72,7 +72,7 @@
 			  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
 			</div><br>
 			
-			<div class="row notice boxShadow">
+			<div class="row notice">
 			  <h5><b>&raquo; Download your admit card from MPOnline ! </b><span class="text-center postDate pull-right">Posted - 1st Dec 2013 <i class="icon-pushpin"></i></span></h5>
 			  <div class="content">
 				<p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id
@@ -83,7 +83,7 @@
 			  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
 			</div><br>
 			
-			<div class="row notice boxShadow">
+			<div class="row notice">
 			  <h5><b>&raquo; Last Date of Scholarship Form is 22nd Sept 2013 ! </b><span class="text-center postDate pull-right">Posted - 2nd Jan 2013 <i class="icon-pushpin"></i></span></h5>
 			  <div class="content">
 				<p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id
