@@ -1,1 +1,40 @@
-Team
+<h4>Mentor</h4><br><br>
+
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/> Shaligram Prajapat<br></div><br><br>
+
+<h4>Current Members</h4><br><br>
+
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/> Adisha Porwal<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/> Ajeet Khan<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Akanksha Rathore<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Amber Jain<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Ankit Kulkarni<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Ankit Mehra<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Ayushi Jain<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Bedi Singh Yadav<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Chitrank Dixit<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Devendra malviya<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Gaurav Parmar<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Komal Rathore<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Mentor<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Misha P Mathai<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Nikita Das<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Nitesh Mishra<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Nitin Sharma<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Palash Joshi<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Prashant Yadav<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Pulkit Vaishnav<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Rahul Lohar<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Rahul Sagore<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Rajat Garg<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Ruchika Mandora<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Sachin Tanwar<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Sanskriti Yadav<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Shaifali Agrawal<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Shiv kumar mourya<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Shlok Agrawal<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Sunny Raikwar<br></div>
+<div class="dcMembers boxShadow"><img src="" class="img-circle"/>Varsha Karandikar<br></div><br><br>
+
+
+
