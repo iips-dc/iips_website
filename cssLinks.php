@@ -20,7 +20,7 @@
 
 		.navbar-default
 		{
-			background: #2F54CE;
+			background: rgb(66,139,202);
 			border-color:#e7e7e7;
 			box-shadow:0px 15px 20px rgba(121,121,121,0.7);
 		}
@@ -38,16 +38,16 @@
 		
 		/*Custom css for Panel-primary*/
 		.panel-primary .panel-heading{
-			background: #2F54CE;
+			background: rgb(66,139,202);
 		}
 		
 		a {
-			color: #2F54CE;
+			color: rgb(66,139,202);
 		}
 		.gateway {
 			margin-left: 0px;
 			padding: 5px 5px 5px 5px;
-			background-color:#2F54CE;
+			background-color:rgb(66,139,202);
 			text-align:center;
 			position: fixed;
 			width: 100%;
