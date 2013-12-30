@@ -34,11 +34,9 @@
 			      <br><h3 class="title">Devi Ahilya University</h3><br>
 			   	  <div class="col-md-2">
 					<ul class="nav side-tabs nav-pills">
-	   					<li class="active"><a class="icon-chevron-sign-right" href="#tab1"> 1</a></li>
-	    				<li><a class="icon-chevron-sign-right" href="#tab2"> 2</a></li>
-	    				<li><a class="icon-chevron-sign-right" href="#tab3"> 3</a></li>
-	    				<li><a class="icon-chevron-sign-right" href="#tab4"> 4</a></li>
-	   					<li><a class="icon-chevron-sign-right" href="#tab5"> 5</a></li>
+	   					<li class="active"><a class="icon-chevron-sign-right" href="#tab1"> Management</a></li>
+	    				<li><a class="icon-chevron-sign-right" href="#tab2"> Technical</a></li>
+	    				
 	    			
 					</ul>
 	         		
@@ -47,33 +45,22 @@
 
 	                <div class="col-md-10">
 						<div id="tab1"  class="tab-content active">
-	                      
+							<?php 
+								$management ="textFiles/Publication/management.txt";  
+								readTextFiles($management);
+							 ?>
 	                   </div>
 
 	              <div id="tab2" class="tab-content hide">
 						
-	                  
+	                  <?php 
+								$technical ="textFiles/Publication/technical.txt";  
+								readTextFiles($technical);
+							 ?>
 
 	                </div>
 
              
-	                <div id="tab3" class="tab-content hide">
-
-	                                
-
-	                </div>
-
-	 				
-	                <div  id="tab4" class="tab-content hide">
-
-	                    
-	                    
-	                </div>
-
-					<div  id="tab5" class="tab-content hide">
-						
-	                    
-	                </div>
 				</div><!--.col-md-9 end -->
 			  </div><!--.row class ended -->
 			</div>  
