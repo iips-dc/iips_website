@@ -21,6 +21,14 @@
 			margin-right:15px;
 			margin-bottom: 20px;
 		}
+
+		.blocks{
+			background-color:white;
+			padding: 10px 10px 10px 10px;
+			margin-left:15px;
+			margin-right:15px;
+			margin-bottom: 20px;
+		}
 	</style>
 </head>
 <body>
@@ -37,19 +45,21 @@
 				<br><h3> Development Center </h3><br>
 				<!-- row start below-->
 				<div class = "row">
-					<div class="col-md-2">
+					<div class="col-md-3">
 						<ul class="nav side-tabs nav-pills">
-							<li class="active"><a class="icon-chevron-sign-right" href="#tab1"> About DC</a></li>
-			                <li ><a class="icon-chevron-sign-right" href="#tab2"> Current Projects</a></li>
-			                <li ><a class="icon-chevron-sign-right" href="#tab3"> Open Projects</a></li>
-			                <li ><a class="icon-chevron-sign-right" href="#tab4"> Past Projects</a></li>
-			                <li ><a class="icon-chevron-sign-right" href="#tab5"> Team</a></li>
+							<li class="active btn-block"><a class="icon-chevron-sign-right" href="#tab1"> About DC</a></li>
+			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab2"> Current Projects</a></li>
+			                <!-- <li ><a class="icon-chevron-sign-right" href="#tab3"> Open Projects</a></li> -->
+			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab3"> Open Source Initiatives</a></li>
+			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab4"> Past Projects</a></li>
+			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab5"> Team</a></li>
+			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab6"> Entrance</a></li>
 			                
 						</ul>
 					</div>
 
 
-					<div class="col-md-10 text-justify">
+					<div class="col-md-9 text-justify">
 						<div id="tab1"  class="tab-content active">
 	                      <?php 
 							$aboutDC ="textFiles/DC/about_dc.txt";  
@@ -64,9 +74,16 @@
 					     ?>
 	                   </div>
 
+	                   <!-- <div id="tab3"  class="tab-content hide">
+	                      <?php 
+							$openInitiatives /*="textFiles/DC/open_projects.txt"*/;  
+							readTextFiles($openInitiatives);
+					     ?>
+	                   </div> -->
+
 	                   <div id="tab3"  class="tab-content hide">
 	                      <?php 
-							$openProjects ="textFiles/DC/open_projects.txt";  
+							$openProjects ="textFiles/DC/open_initiatives.txt";  
 							readTextFiles($openProjects);
 					     ?>
 	                   </div>
@@ -82,6 +99,13 @@
 	                      <?php 
 							$team ="textFiles/DC/team.txt";  
 							readTextFiles($team);
+					     ?>
+	                   </div>
+
+	                   <div id="tab6"  class="tab-content hide">
+	                      <?php 
+							$entrance ="textFiles/DC/entrance.txt";  
+							readTextFiles($entrance);
 					     ?>
 	                   </div>
 

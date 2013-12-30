@@ -30,19 +30,19 @@
 		   
 		   <br><h3> About IIPS </h3><br>
 		   <div class="row">
-              <div class="col-sm-2">
+              <div class="col-sm-3">
 					
                   <ul class="nav side-tabs nav-pills">
-                   	 <li class="active"><a class="icon-chevron-sign-right" href="#tab1">  About IIPS</a></li>
-                     <li><a class="icon-chevron-sign-right" href="#tab2">  Director</a></li>
-                     <li><a class="icon-chevron-sign-right" href="#tab3">  Objectives and Vision</a></li>
-					  <li><a class="icon-chevron-sign-right" href="#tab4">  Academic Calendar</a></li>
-					  <li><a class="icon-chevron-sign-right" href="#tab5">  IIPS @ Wikipedia</a></li>
-                      <li><a class="icon-chevron-sign-right" href="#tab6">  Anti-Ragging Committee</a></li>
+                   	 <li class="active btn-block"><a class="icon-chevron-sign-right" href="#tab1">  About IIPS</a></li>
+                     <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab2">  Director</a></li>
+                     <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab3">  Objectives and Vision</a></li>
+					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab4">  Academic Calendar</a></li>
+					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab5">  IIPS @ Wikipedia</a></li>
+                     <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab6">  Anti-Ragging Committee</a></li>
                	   </ul>
 			  </div>
 			  
-			  <div class="col-sm-10">
+			  <div class="col-sm-9">
 
                 <div id="tab1"  class="tab-content active">
 					<img class="iips_logo" src="images/iipslogo.jpg">

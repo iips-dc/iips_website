@@ -33,9 +33,9 @@
 				<div class = "row">
 					<div class="col-md-3">
 						<ul class="nav side-tabs nav-pills">
-							<li class="active"><a class="icon-chevron-sign-right" href="#tab1"> About Placement Cell</a></li>
-							<li ><a class="icon-chevron-sign-right" href="#tab2"> Placements</a></li>
-							<li ><a class="icon-chevron-sign-right" href="#tab3"> Companies</a></li>
+							<li class="active btn-block"><a class="icon-chevron-sign-right" href="#tab1"> About Placement Cell</a></li>
+							<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab2"> Placements</a></li>
+							<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab3"> Companies</a></li>
 			                
 						</ul>
 					</div>
@@ -44,10 +44,10 @@
 					<div class="col-md-9">
 						<div id="tab1"  class="tab-content active">
 
-								                      <?php 
-														$aboutPlacements ="textFiles/Placements/about_placements.txt";  
-														readTextFiles($aboutPlacements);
-												     ?>
+							<?php
+								$aboutPlacements ="textFiles/Placements/about_placements.txt";  
+								readTextFiles($aboutPlacements);
+							?>
 
 
 							

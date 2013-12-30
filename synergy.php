@@ -28,7 +28,7 @@
 	 <div id="wrap">
         <div class="container" style="background-color:#FFFFFF;">
 		
-            <div >
+            <div class="row">
                    <?php 
 						$path_synergy ="textFiles/Events/synergy.txt";  
 						readTextFiles($path_synergy);  
@@ -36,6 +36,7 @@
            </div>
         </div><!-- End of container class -->
 	</div>
+	
        <?php
 	        include('footer.php');
 			include('jsLinks.php');

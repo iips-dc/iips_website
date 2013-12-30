@@ -20,7 +20,7 @@
 			color:green;
 		}
 		.notice{
-			background-color: #859EBC;
+			background-color: white;
 			padding: 10px 10px 10px 10px;
 			margin-left:15px;
 			margin-right:15px;

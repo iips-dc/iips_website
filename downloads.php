@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-        <title>About IIPS</title>
+        <title>Downloads | IIPS</title>
 
        <!-- Include Styles -->
         <link rel="stylesheet" href="css/vtab-style.css" />		
@@ -28,14 +28,14 @@
 	 <div id="wrap">
         <div class="container" style="background-color:#FFFFFF;">
 			<div id="row">
-		    <div class="col-md-2">
+		    <div class="col-md-3">
             <ul class="nav side-tabs nav-pills">
-                <li id="tlink1" class="active"><a class="icon-chevron-sign-right" href="#tab1"> Downloads</a></li>
-                <li id="tlink2"><a class="icon-chevron-sign-right" href="#tab2">  RTI</a></li>
+                <li id="tlink1" class="active btn-block"><a class="icon-chevron-sign-right" href="#tab1"> Downloads</a></li>
+                <li id="tlink2" class="btn-block"><a class="icon-chevron-sign-right" href="#tab2">  RTI</a></li>
  
             </ul>
 		   </div>
-			<div class="col-md-10">
+			<div class="col-md-9">
 			<!-- Start of Downloads tab-->
 				<div id="tab1" class="tab-content Active">
 				<div class="panel-group" id="accordion">
