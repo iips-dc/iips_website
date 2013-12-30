@@ -18,6 +18,7 @@
 3. Admissions
     * Entrance Exam- CET
     * Eligibility
+	* Criteria
     * Couseling
     * How to apply
     * Fees structure
