@@ -65,7 +65,7 @@
 				   			<ul class="dropdown-menu">
 				      			 <li><a href="dc.php">Development Center</a></li>
                      <li><a href="research_cell.php">Research Center</a></li>
-                     <li><a href="#3">Publications</a></li>
+                     <li><a href="publication.php">Publications</a></li>
 				   			</ul>
 				  		</li>
 
