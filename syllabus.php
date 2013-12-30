@@ -305,7 +305,7 @@
 				</div>
 				
                 <div id="bCom" class="tab-content hide">
-                    
+						<h5 class="alert alert-danger text-center">No Syllabus Has Been Uploaded Yet !</h5>
                 </div><!--.tab-content Ended -->
 
              </div><!-- .col-md-10 ended-->
