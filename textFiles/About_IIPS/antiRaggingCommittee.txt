@@ -1,0 +1,17 @@
+<li>Dr. B.K. Tripathi, Director 98270-48326</li>
+
+    					<li>Dr. A.K. Sapre, Professor 94250-78013</li>
+
+   					    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+
+    					<li>Dr. Manish Sitlani, Reader 93016-16888</li>
+
+    					<li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+
+    					<li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+
+    					<li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+
+    					<li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5? Yrs. 93032-30568</li>
+
+    					<li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>

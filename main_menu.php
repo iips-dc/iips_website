@@ -52,7 +52,7 @@
                         <a href="#" class="dropdown-toggle">Academics<b class="caret"></b></a>
                 <ul class="dropdown-menu">
                     <li><a href="#1">Academic Calender</a></li>
-                    <li><a href="#2">Syllabus</a></li>
+                    <li><a href="syllabus.php">Syllabus</a></li>
                     <li><a href="notice_announcement.php">Notices and Announcements</a></li> 
                     <li><a href="news.php">News</a></li>
                 </ul>
@@ -65,7 +65,7 @@
 				   			<ul class="dropdown-menu">
 				      			 <li><a href="dc.php">Development Center</a></li>
                      <li><a href="research_cell.php">Research Center</a></li>
-                     <li><a href="#3">Publications</a></li>
+                     <li><a href="publication.php">Publications</a></li>
 				   			</ul>
 				  		</li>
 
