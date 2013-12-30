@@ -1,0 +1,21 @@
+How to ask question the smart way
+
+I want to do project tell me what to do
+
+Intro to Computer Science CS101 - Udacity.com
+
+<h4>Recommended Courses</h4> <br><br>
+
+<ol>
+
+	<li><a href="https://www.udacity.com/course/cs101">Intro to Computer Science CS101 - Udactiy.com</a></li>
+	<li><a href="https://class.coursera.org/db">Intro to Databases - Coursera.org</a></li>
+	<li><a href="https://www.coursera.org/course/ml">Machine Learning - Coursera.org</a></li>
+	<li><a href="https://www.udacity.com/course/cs271">Intro to AI - Udacity.com</a></li>
+	<li><a href="https://www.edx.org/course/harvardx/harvardx-cs50x-introduction-computer-1022">Intro to Computer Science CS50x - Edx.org</a></li>
+
+</ol>
+
+
+
+

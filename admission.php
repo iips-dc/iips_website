@@ -33,20 +33,20 @@
 	        <div class="container" style="background-color:#FFFFFF;">
 			   <div class="row">
 			      <br><h3 class="title">Admissions</h3><br>
-			   	  <div class="col-md-2">
+			   	  <div class="col-md-3">
 					<ul class="nav side-tabs nav-pills">
-	   					<li class="active"><a class="icon-chevron-sign-right" href="#tab1"> Entrance Exam- CET</a></li>
-	    				<li><a class="icon-chevron-sign-right" href="#tab2">Eligibility</a></li>
-	    				<li><a class="icon-chevron-sign-right" href="#tab3"> Counseling </a></li>
-	   					<li><a class="icon-chevron-sign-right" href="#tab4"> How to apply</a></li>
-	   					<li><a class="icon-chevron-sign-right" href="#tab5"> Fees Structure</a></li>
+	   					<li class="active btn-block"><a class="icon-chevron-sign-right" href="#tab1"> Entrance Exam- CET</a></li>
+	    				<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab2"> Eligibility</a></li>
+	    				<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab3"> Counseling </a></li>
+	   					<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab4"> How to apply</a></li>
+	   					<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab5"> Fees Structure</a></li>
 	    			
 					</ul>
 	         		
 				  </div><!--.col-md-3 End -->
 	 
 
-	                <div class="col-md-10">
+	                <div class="col-md-9">
 						<div id="tab1"  class="tab-content active">
 	                      <?php 
 							$cet ="textFiles/Admission/entrance_exam_cet.txt";  

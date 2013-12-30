@@ -30,19 +30,19 @@
 		   
 		   <br><h3> Syllabus </h3><br>
 		   <div class="row">
-              <div class="col-sm-2">
+              <div class="col-sm-3">
 					
                   <ul class="nav side-tabs nav-pills">
-                   	 <li class="active"><a class="icon-chevron-sign-right" href="#mca">  MCA-6Year</a></li>
-                     <li><a class="icon-chevron-sign-right" href="#mtech">  M.Tect(IT)</a></li>
-                     <li><a class="icon-chevron-sign-right" href="#mbaMS">  MBA(MS)</a></li>
-					  <li><a class="icon-chevron-sign-right" href="#mbaAPR">  MBA(APR)</a></li>
-					  <li><a class="icon-chevron-sign-right" href="#mbaTA">  MBA(TA)</a></li>
-                      <li><a class="icon-chevron-sign-right" href="#bCom">  B.Com(hons)</a></li>
+                   	 <li class="active btn-block"><a class="icon-chevron-sign-right" href="#mca">  MCA-6Year</a></li>
+                     <li class="btn-block"><a class="icon-chevron-sign-right" href="#mtech">  M.Tect(IT)</a></li>
+                     <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaMS">  MBA(MS)</a></li>
+					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaAPR">  MBA(APR)</a></li>
+					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaTA">  MBA(TA)</a></li>
+                     <li class="btn-block"><a class="icon-chevron-sign-right" href="#bCom">  B.Com(hons)</a></li>
                	   </ul>
 			  </div>
 			  
-			  <div class="col-sm-10">
+			  <div class="col-sm-9">
 
                 <div id="mca"  class="tab-content active">
 					<div class="text-center text-primary"><h4 ><b>MCA - 6Year Syllabus</b></h4></div>

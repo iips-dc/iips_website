@@ -25,19 +25,19 @@
 
 			<br><h3> Xpressions </h3>
             <div id="row">
- 			   <div class="col-md-2">
+ 			   <div class="col-md-3">
                   <ul class="nav side-tabs nav-pills">
-                    <li class="active"><a class="icon-chevron-sign-right" href="#tab1">  The Event</a></li>
-                    <li><a class="icon-chevron-sign-right" href="#tab2">  Winners</a></li>
-                    <li><a class="icon-chevron-sign-right" href="#tab3">  Last Year Team</a></li>
-					<li><a class="icon-chevron-sign-right" href="#tab4">  Expression Album</a></li>
-					<li><a class="icon-chevron-sign-right" href="#tab5">  Expression Videos</a></li>
-                    <li><a class="icon-chevron-sign-right" href="#tab6">  Sponsors</a></li>
-					<li><a class="icon-chevron-sign-right" href="#tab7">  Register Your Team</a></li>
+                    <li class="active btn-block"><a class="icon-chevron-sign-right" href="#tab1">  The Event</a></li>
+                    <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab2">  Winners</a></li>
+                    <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab3">  Last Year Team</a></li>
+					<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab4">  Expression Album</a></li>
+					<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab5">  Expression Videos</a></li>
+                    <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab6">  Sponsors</a></li>
+					<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab7">  Register Your Team</a></li>
                   </ul>
 				</div>
 				
-				<div class="col-md-10">
+				<div class="col-md-9">
 
                   <div id="tab1"  class="tab-content active">
 					  <img class="iips_logo" src="images/xptest.jpg" align="middle">

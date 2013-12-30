@@ -32,20 +32,20 @@
 	        <div class="container" style="background-color:#FFFFFF;">
 			   <div class="row">
 			      <br><h3 class="title">Devi Ahilya University</h3><br>
-			   	  <div class="col-md-2">
+			   	  <div class="col-md-3">
 					<ul class="nav side-tabs nav-pills">
-	   					<li class="active"><a class="icon-chevron-sign-right" href="#tab1"> About University</a></li>
-	    				<li><a class="icon-chevron-sign-right" href="#tab2"> Vice Chancellor</a></li>
-	    				<li><a class="icon-chevron-sign-right" href="#tab3"> Department</a></li>
-	    				<li><a class="icon-chevron-sign-right" href="#tab4"> University Auditorium</a></li>
-	   					<li><a class="icon-chevron-sign-right" href="#tab5"> IT Center</a></li>
+	   					<li class="active btn-block"><a class="icon-chevron-sign-right" href="#tab1"> About University</a></li>
+	    				<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab2"> Vice Chancellor</a></li>
+	    				<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab3"> Department</a></li>
+	    				<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab4"> University Auditorium</a></li>
+	   					<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab5"> IT Center</a></li>
 	    			
 					</ul>
 	         		
 				  </div><!--.col-md-3 End -->
 	 
 
-	                <div class="col-md-10">
+	                <div class="col-md-9">
 						<div id="tab1"  class="tab-content active">
 	                      <?php 
 							$abtUniv ="textFiles/About_University/about_University.txt";  

@@ -28,20 +28,20 @@
 
 		<br><h3> Programs We Offer </h3><br>
          <div id="row">
-		   <div class="col-md-2">
+		   <div class="col-md-3">
             <ul class="nav side-tabs nav-pills">
-                <li class="active"><a class="icon-chevron-sign-right" href="#tab1">  Under Graduate</a></li>
-                <li><a class="icon-chevron-sign-right" href="#tab2">  Integrated</a></li>
-                <li><a class="icon-chevron-sign-right" href="#tab3">  Post Graduate</a></li>
-                <li><a class="icon-chevron-sign-right" href="#tab4">M.Phil </a></li>
-                <li><a class="icon-chevron-sign-right" href="#tab5">Ph.D.</a></li>
+                <li class="active btn-block"><a class="icon-chevron-sign-right" href="#tab1">  Under Graduate</a></li>
+                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab2">  Integrated</a></li>
+                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab3">  Post Graduate</a></li>
+                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab4">M.Phil </a></li>
+                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab5">Ph.D.</a></li>
 				
             </ul>
 		   </div>
 
 
 			
-		   <div class="col-md-10">
+		   <div class="col-md-9">
 		   		<div id="tab1" class="tab-content active">
 				    <?php 
 							$bcomHons ="textFiles/Programs_We_Offer/bcom_hons.txt";  

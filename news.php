@@ -14,12 +14,12 @@
 		include('cssLinks.php');
 	?>
 	<style type="text/css">
-		
 		.postDate{
 			font-size:14px; 
 			color:green;
 		}
 		.notice{
+			background-color: white;
 			padding: 10px 10px 10px 10px;
 			margin-left:15px;
 			margin-right:15px;
@@ -131,6 +131,5 @@
 
 
 	</script>
-	
   </body>
 </html>

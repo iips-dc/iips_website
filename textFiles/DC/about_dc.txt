@@ -1,5 +1,5 @@
 
-<h4>About Developer Center </h4>
+<p><strong>"We learn most , When we want to invent - <a href="http://en.wikipedia.org/wiki/Jean_Piaget">Jean Piaget</a> "</strong></p>
 
 IIPS D.C. is driven by the enthusiastic, committed .strongly motivated IIPS students and expertise of its industrious team and Mentor. </br></br>
  
