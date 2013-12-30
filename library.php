@@ -35,8 +35,8 @@
                    	 <li class="active"><a class="icon-chevron-sign-right" href="#tab1"> About Library</a></li>
                      <li><a class="icon-chevron-sign-right" href="#tab2">  e-library</a></li>
                      <li><a class="icon-chevron-sign-right" href="#tab3">  Central Library</a></li>
-                     <li><a class="icon-chevron-sign-right" href="#tab4"> EPOC</a></li>
-                     <li><a class="icon-chevron-sign-right" href="#tab5">  intranet</a></li>
+                     <li><a class="icon-chevron-sign-right" href="#tab4"> EJ-Server</a></li>
+                     <li><a class="icon-chevron-sign-right" href="#tab5"> ERMSS</a></li>
                	   </ul>
 			  </div>
 			  
@@ -62,17 +62,28 @@
                 <div id ="tab3" class="tab-content hide">
                 	<h4> <b>Central Library</b></h4>
 
+                    <?php 
+                        $centralLibrary = "textFiles/Library/central_library.txt";  
+                         readTextFiles($centralLibrary);
+                    ?>
 
 
                 </div>
 
                 <div id ="tab4" class="tab-content hide">
-                	<h4> <b>EPOC</b></h4>
-
+                	<h4> <b>EJ-Server</b></h4>
+                    <?php 
+                        $ejServer = "textFiles/Library/ej_server.txt";  
+                         readTextFiles($ejServer);
+                    ?>
                 </div>
 
                 <div id ="tab5" class="tab-content hide">
-                	<h4> <b> something here</b></h4>
+                	<h4> <b>  ELECTRONIC RESOURCES MANAGEMENT &amp; SEARCH SOLUTION</b></h4>
+                    <?php 
+                        $ermss = "textFiles/Library/ermss.txt";  
+                         readTextFiles($ermss);
+                    ?>
 
                 </div>
 

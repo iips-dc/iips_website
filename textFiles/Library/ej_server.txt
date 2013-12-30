@@ -1,0 +1,66 @@
+
+<p><a href="http://www.ejserver.com">click here</a> to access the original page</p>
+<strong>
+    Web based e-Content Search &amp; Linking Portal
+    <br/>
+</strong>
+<br/>
+<p>
+    It is a web based search engine with superior technology to deliver knowledge and information to meet the needs of the researchers and information seekers.
+    It is an integrated Web Based Search Engine, which we have indigenously developed to provide "single window search interface" and enable seamless web based
+    linking to Table of Contents (TOC) and abstracting information of over 13,000 Journals, 2870 full Text Journals available in various subjects like medical
+    sciences, agriculture, life &amp; Physical sciences, computer &amp; engineering, Business economy &amp; Management, arts &amp; humanities and many more
+    subject disciplines.
+</p>
+<br/>
+<strong>
+    <br/>
+    Advantages / Benefits of EJ-Server
+</strong>
+<ul>
+    <li>
+        Link to TOC &amp; abstracting information of more than 13000 + E-Journals, 20 E-Databases.
+    </li>
+</ul>
+<ul>
+    <li>
+        Full Text Access to 3734 E-Contents, out of which 2200+ are E-Journals.
+    </li>
+</ul>
+<ul>
+    <li>
+        Fastest &amp; Direct links to Publisher Sites.
+        <br/>
+    </li>
+</ul>
+<ul>
+    <li>
+        Direct Link Between the Users &amp; Publishers.
+        <br/>
+    </li>
+</ul>
+<ul>
+    <li>
+        Links to access all the E-Resources i.e. E-Journals, E-Books and other online products subscribed by the library for an Individual client / client's
+        under Consortium Agreement.
+        <br/>
+        <br/>
+    </li>
+    <li>
+        <strong>Search Categories -</strong>
+        Basic and Advance Search categories makes search more precise and specific.
+        <br/>
+        <br/>
+    </li>
+    <li>
+        12 Search Parameters, helps in searching and makes it less time consuming.
+        <br/>
+        <br/>
+    </li>
+    <li>
+        Full Text Access to 3734 e-contents in which there are 2200+ E- Journals
+    </li>
+</ul>
+
+<p><a href="http://www.ejserver.com">click here</a> to access the original page</p>
+
