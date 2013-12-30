@@ -46,7 +46,7 @@
 				var target_tab_selector = $(this).attr('href');
 				$(target_tab_selector).removeClass('hide');
 				$(target_tab_selector).addClass('active');
-				$("html, body").animate({ scrollTop: 0 }, 600);
+				//$("html, body").animate({ scrollTop: 0 }, 100);
 		     });
 		  });
 	
