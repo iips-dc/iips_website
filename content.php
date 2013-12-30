@@ -39,7 +39,7 @@ and testimonial section -->
 				  <a href="#"> <i class="icon-pushpin"></i> NAAC Coming Soon </a>
 				</div>
 				<div class="panel-footer">
-					<a href="allNotices.php"><b>View All &raquo;</b></a>
+					<a href="notice_announcement.php"><b>View All &raquo;</b></a>
 				</div>
 		  </div><!--Panel for Annoucements End -->
      </div><!--Col-md-3 End -->
