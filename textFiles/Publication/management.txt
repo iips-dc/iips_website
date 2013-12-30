@@ -1,0 +1,848 @@
+
+<p align="center">
+    <strong>RESEARCH, PUBLICATION AND ACADEMIC CONTRIBUTION</strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong>MANAGEMENT:</strong>
+</p>
+<ol start="1" type="1">
+    <li>
+        <strong>Published Papers in Journals .</strong>
+        <strong></strong>
+    </li>
+</ol>
+<p>
+    <strong> </strong>
+</p>
+<table border="1" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <td valign="top" width="64">
+                <p>
+                    <strong>S.No. </strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+            <td valign="top" width="181">
+                <p>
+                    <strong>Title with page </strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>no.</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="195">
+                <p>
+                    <strong>Journal</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="118">
+                <p>
+                    <strong>ISSN/ISBN </strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>No. </strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+            <td valign="top" width="84">
+                <p>
+                    <strong>Date</strong>
+                    <strong></strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="64">
+                <p>
+                    <strong>1.</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="181">
+                <p>
+                    <strong>Impact of Locus of Control on Decision Making</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="195">
+                <p>
+                    <strong>An International Journal of Business and Technology Research</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="118">
+                <p>
+                    <strong>ISSN-</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>1941-9414</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="84">
+                <p>
+                    <strong> Jul 2011</strong>
+                    <strong></strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="64">
+                <p>
+                    <strong>2.</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="181">
+                <p>
+                    <strong>Emotions: The balancing power in Public Relations. Pg. 433-436</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="195">
+                <p>
+                    <strong>Prabandhan &amp; Takniki</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>Management Research Journal </strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="118">
+                <p>
+                    <strong>ISSN-</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong> 0974-8563</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>Vol No. 5</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="84">
+                <p>
+                    <strong>Aug</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>2011</strong>
+                    <strong></strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="64">
+                <p>
+                    <strong>3.</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="181">
+                <p>
+                    <strong>Corruption as a barrier to Educational Growth in India</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="195">
+                <p>
+                    <strong> </strong>
+                </p>
+                <p>
+                    <strong>Accepted for Publication </strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="118">
+                <p>
+                    <strong>National Seminar on </strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>Corruption: Society and Governance</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="84">
+                <p>
+                    <strong> </strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+                <p>
+                    <strong>Feb</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>2012</strong>
+                    <strong></strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="64">
+                <p>
+                    <strong>4.</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="181">
+                <p>
+                    <strong>2011 Indian Anti-Corruption Campaign:</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>An Overview </strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="195">
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+            <td valign="top" width="118">
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+            <td valign="top" width="84">
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="64">
+                <p>
+                    <strong>5.</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="181">
+                <p>
+                    <strong>Organizational Climate and Job Stress- An Exploratory Study</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="195">
+                <p>
+                    <strong>Oorja – International Journal of Management and IT</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="118">
+                <p>
+                    <strong>ISSN- 0974-7869</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>Vol. 9/No. 3</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="84">
+                <p>
+                    <strong>Sept Dec</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>2011</strong>
+                    <strong></strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="64">
+                <p>
+                    <strong>6.</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="181">
+                <p>
+                    <strong>Impact of Training on Job Satisfaction</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="195">
+                <p>
+                    <strong>Journal of Management &amp; Science (JMS)</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="118">
+                <p>
+                    <strong>ISSN- 2249-1260</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="84">
+                <p>
+                    <strong>May 2012</strong>
+                    <strong></strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="64">
+                <p>
+                    <strong>7.</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="181">
+                <p>
+                    <strong>Emotional Intelligence and Conflict Management among employees</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="195">
+                <p>
+                    <strong>Indo Asian Journal of advance Management</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>(IAJAM)</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="118">
+                <p>
+                    <strong>ISSN- 2250-1266</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="84">
+                <p>
+                    <strong>May 2012</strong>
+                    <strong></strong>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<ol start="2" type="1">
+    <li>
+        <strong>Presented Papers in National and International Conferences</strong>
+        <strong></strong>
+    </li>
+</ol>
+<p>
+    <strong> </strong>
+</p>
+<table border="1" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <td valign="top" width="43">
+                <p>
+                    <strong>S.No. </strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+            <td valign="top" width="200">
+                <p>
+                    <strong>Title with page </strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>no.</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="193">
+                <p>
+                    <strong>Conference</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="124">
+                <p>
+                    <strong>Organized by</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="83">
+                <p>
+                    <strong>Date</strong>
+                    <strong></strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+                <p>
+                    <strong>1.</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="200">
+                <p>
+                    <strong>Impact of Locus of Control on Decision Making</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="193">
+                <p>
+                    <strong>An International Conference on Managing Excellence for Emerging Global Paradigm in Business and Technology</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="124">
+                <p>
+                    <strong>CH Institute of Mgmt. and Commerce</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>&amp;</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>Modern Technology and Mgmt. Institute Inc., USA </strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>&amp; CII, Indore</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+            <td valign="top" width="83">
+                <p>
+                    <strong> Jul 2011</strong>
+                    <strong></strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+                <p>
+                    <strong>2.</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="200">
+                <p>
+                    <strong>Enhancing Mental Health and Life Satisfaction through Positive Emotions</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="193">
+                <p>
+                    <strong> </strong>
+                </p>
+                <p>
+                    <strong>National Conference on “Positive Psychology” Sponsored by UGC, New Delhi</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="124">
+                <p>
+                    <strong> </strong>
+                </p>
+                <p>
+                    <strong>Govt. Maharani Laxmi Bai Post-Graduate College, Fort, Indore</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="83">
+                <p>
+                    <strong>3 &amp; 4 Nov</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+                <p>
+                    <strong>2011</strong>
+                    <strong></strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+                <p>
+                    <strong>3.</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="200">
+                <p>
+                    <strong>Impact of Positive Psychology in Conflict Resolution in Management</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="193">
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+            <td valign="top" width="124">
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+            <td valign="top" width="83">
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+                <p>
+                    <strong>4.</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="200">
+                <p>
+                    <strong>Corruption as a barrier to Educational Growth in India</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="193">
+                <p>
+                    <strong> </strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+                <p>
+                    <strong>National Seminar on </strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>Corruption: Society and Governance</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>Sponsored by UGC, New Delhi</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="124">
+                <p>
+                    <strong> UGC </strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>&amp;</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>Ismail Girls Degree College, </strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>Meerut</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+            <td valign="top" width="83">
+                <p>
+                    <strong> </strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+                <p>
+                    <strong>Feb</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>2012</strong>
+                    <strong></strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+                <p>
+                    <strong>5.</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="200">
+                <p>
+                    <strong>2011 Indian Anti-Corruption Campaign:</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>An Overview </strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="193">
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+            <td valign="top" width="124">
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+            <td valign="top" width="83">
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+                <p>
+                    <strong>6.</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="200">
+                <p>
+                    <strong>Impact of Training on Job Satisfaction</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="193">
+                <p>
+                    <strong>International Conference on Competency Building Strategies in Business and Technology for Sustainable Development</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="124">
+                <p>
+                    <strong>Sri Ganesh School of Business Management</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>Tamil Nadu</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+            <td valign="top" width="83">
+                <p>
+                    <strong>Feb</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>2012</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+                <p>
+                    <strong>7.</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="200">
+                <p>
+                    <strong>Emotional Intelligence and Conflict Management among employees</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="193">
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+            <td valign="top" width="124">
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+            <td valign="top" width="83">
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+                <p>
+                    <strong>8.</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="200">
+                <p>
+                    <strong>Women and Emotional Intelligence</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="193">
+                <p>
+                    <strong>National Seminar on </strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>Women Empowerment through Life Long Learning</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>Sponsored by UGC, New Delhi</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="124">
+                <p>
+                    <strong>Department of Life Long Learning.</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>D.A.V.V.,</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>Indore</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="83">
+                <p>
+                    <strong>Feb</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>2012</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+                <p>
+                    <strong>9.</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="200">
+                <p>
+                    <strong>Talk Show on Child Psychology</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="193">
+                <p>
+                    <strong>Organized by Nayika Club </strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="124">
+                <p>
+                    <strong> Nai Duniya</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="83">
+                <p>
+                    <strong>Nov</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>2011</strong>
+                    <strong></strong>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<ol start="3" type="1">
+    <li>
+        <strong>Live Projects</strong>
+        <strong></strong>
+    </li>
+</ol>
+<p>
+    <strong> </strong>
+    <strong>
+Completed an UGC Minor projects completed on “        <em>A Study of Impact of Educational, Economic factors and Emotional Intelligence as Determinants of Women Empowerment in Indore City</em>” in 2011.
+    </strong>
+</p>

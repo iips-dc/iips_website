@@ -1,0 +1,373 @@
+
+<p>
+    <strong>COMPUTER</strong>
+    <strong>:</strong>
+    <strong></strong>
+</p>
+<p>
+    <strong> (i )Published Papers in Journals</strong>
+</p>
+<table border="1" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <td valign="top" width="43">
+                <p>
+                    <strong>S.N. </strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+            <td valign="top" width="264">
+                <p>
+                    <strong>Title with page </strong>
+                </p>
+                <p>
+                    <strong>no.</strong>
+                </p>
+            </td>
+            <td valign="top" width="138">
+                <p>
+                    <strong>Journal</strong>
+                </p>
+            </td>
+            <td valign="top" width="180">
+                <p>
+                    <strong>ISSN/ISBN </strong>
+                </p>
+                <p>
+                    <strong>No. </strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+                <p>
+                    <strong>1</strong>
+                </p>
+            </td>
+            <td valign="top" width="264">
+                <p>
+                    <strong>Information Extraction from the Semi-Structured Document using Grammatical Inference (Vol.3 No.2 2011) </strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>Pages: 131-138</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="138">
+                <p>
+                    <strong>IJCEE</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="180">
+                <p>
+                    <em><strong>ISSN: 0975-4202</strong></em>
+                    <strong></strong>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong>(ii) Full papers in Conference Proceedings </strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<table border="1" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <td valign="top" width="37">
+                <p>
+                    <strong>S.N. </strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+            <td valign="top" width="222">
+                <p>
+                    <strong>Title with page </strong>
+                </p>
+                <p>
+                    <strong>no.</strong>
+                </p>
+            </td>
+            <td valign="top" width="180">
+                <p>
+                    <strong>Details of Conference publication</strong>
+                </p>
+            </td>
+            <td valign="top" width="180">
+                <p>
+                    <strong>ISSN/ISBN </strong>
+                </p>
+                <p>
+                    <strong>No. </strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="37">
+                <p>
+                    <strong>1</strong>
+                </p>
+            </td>
+            <td valign="top" width="222">
+                <p>
+                    <strong>Information Extraction from Semi-Structured and Un-Structured Documents</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>using Probabilistic Context Free Grammar Inference</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="180">
+                <p>
+                    <strong>2012 INTERNATIONAL CONFERENCE ON INFORMATION</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>RETRIEVAL &amp; KNOWLEDGE MANAGEMENT</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="180">
+                <p>
+                    <strong>IEEE Catalog Number : CFP12821-CDR</strong>
+                </p>
+                <p>
+                    <strong>ISBN: 978-1-4673-1089-5</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="37">
+                <p>
+                    <strong>2</strong>
+                </p>
+            </td>
+            <td valign="top" width="222">
+                <p>
+                    <strong>Incremental Discovery of Sequential Pattern from</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>Semi-structured Document Using Grammatical Inference</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>LNCS 7154, p. 269</strong>
+                </p>
+            </td>
+            <td valign="top" width="180">
+                <p>
+                    <strong>ICDCIT 2012, LNCS 71542012.</strong>
+                </p>
+                <p>
+                    <strong>© Springer-Verlag Berlin Heidelberg 2012</strong>
+                </p>
+            </td>
+            <td valign="top" width="180">
+                <p>
+                    <strong>ISSN 0302-9743</strong>
+                </p>
+                <p>
+                    <strong>e-ISSN 1611-3349</strong>
+                </p>
+                <p>
+                    <strong>ISBN 978-3-642-28072-6</strong>
+                </p>
+                <p>
+                    <strong>e-ISBN 978-3-642-28073-</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="37">
+                <p>
+                    <strong>3</strong>
+                </p>
+            </td>
+            <td valign="top" width="222">
+                <p>
+                    <strong>
+                        User Behavior Analysis using Alignment Based Grammatical Inference from Web Server Access Log (Accepted for publication in IEEE)
+                    </strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+            <td valign="top" width="180">
+                <p>
+                    <strong>4th International Conference on Electronics Computer Technology - ICECT 2012</strong>
+                </p>
+            </td>
+            <td valign="top" width="180">
+                <p>
+                    <strong>ISBN: 978-1-4673-1849-5</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="37">
+                <p>
+                    <strong>4</strong>
+                </p>
+            </td>
+            <td valign="top" width="222">
+                <p>
+                    <strong>Information Extraction from Web pages based of pattern discovery PP 107-109</strong>
+                    <strong></strong>
+                </p>
+            </td>
+            <td valign="top" width="180">
+                <p>
+                    <strong>
+                        14<sup>th </sup> National Conference on Mobile Computing and Communications Pioneer institute of professional Studies Indore May 6 2012
+                    </strong>
+                </p>
+            </td>
+            <td valign="top" width="180">
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="37">
+                <p>
+                    <strong>5</strong>
+                </p>
+            </td>
+            <td valign="top" width="222">
+                <p>
+                    <strong>Information Extraction from the Un-Structured Document using Grammatical Inference and Alignment Similarity pp 365-369</strong>
+                </p>
+            </td>
+            <td valign="top" width="180">
+                <p>
+                    <strong>Conference on Computer Science, Communication and</strong>
+                    <strong></strong>
+                </p>
+                <p>
+                    <strong>Control Engineering on January 2012 Procedia Technology 4 (2012), </strong>
+                    <strong>Elsevier SciVerse ScienceDirect </strong>
+                </p>
+            </td>
+            <td valign="top" width="180">
+                <p>
+                    <strong> </strong>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<p>
+    <strong> (iii) Papers presented in Conferences, Seminars, Workshops, Symposia</strong>
+</p>
+<table border="1" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <td valign="top" width="43">
+                <p>
+                    <strong>S. No.</strong>
+                </p>
+            </td>
+            <td valign="top" width="137">
+                <p>
+                    <strong>Title of the paper presented </strong>
+                </p>
+            </td>
+            <td valign="top" width="120">
+                <p>
+                    <strong>Title of Conference/ Seminar etc.</strong>
+                </p>
+            </td>
+            <td valign="top" width="98">
+                <p>
+                    <strong>Date(s) of the event </strong>
+                </p>
+            </td>
+            <td valign="top" width="102">
+                <p>
+                    <strong>Organised by</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="43">
+                <p>
+                    <strong>1</strong>
+                </p>
+            </td>
+            <td valign="top" width="137">
+                <p>
+                    <strong>Information extraction from the semi-structured document using grammatical inference </strong>
+                </p>
+            </td>
+            <td valign="top" width="120">
+                <p>
+                    <strong>NCERTCSE -11</strong>
+                </p>
+            </td>
+            <td valign="top" width="98">
+                <p>
+                    <strong>18-19 Nov,2011 </strong>
+                </p>
+            </td>
+            <td valign="top" width="102">
+                <p>
+                    <strong>Swami Vivekanand College of Engineering, Indore</strong>
+                </p>
+            </td>
+        </tr>
+       
+    </tbody>
+</table>
+
