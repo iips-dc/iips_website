@@ -48,43 +48,43 @@
 					<div class="text-center text-primary"><h4 ><b>MCA - 6Year Syllabus</b></h4></div>
 					<div class="row margin-top">
 						<div class="col-md-4 text-center">
-							Semester - I  - <a href="pdfs/syllabus/MCA-6year/MCA_I.pdf">Download</a>
+							Semester - I  - <a href="downloads/syllabus/MCA-6year/MCA_I.pdf">Download</a>
 						</div>
 						<div class="col-md-4 text-center">
-							Semester - II  - <a href="pdfs/syllabus/MCA-6year/MCA_II.pdf">Download</a>
+							Semester - II  - <a href="downloads/syllabus/MCA-6year/MCA_II.pdf">Download</a>
 						</div>
 						<div class="col-md-4 text-center">
-							Semester - III - <a href="pdfs/syllabus/MCA-6year/MCA_III.pdf">Download</a>
+							Semester - III - <a href="downloads/syllabus/MCA-6year/MCA_III.pdf">Download</a>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-md-4 text-center margin-top">
-							Semester - IV - <a href="pdfs/syllabus/MCA-6year/MCA_IV.pdf">Download</a>
+							Semester - IV - <a href="downloads/syllabus/MCA-6year/MCA_IV.pdf">Download</a>
 						</div>
 						<div class="col-md-4 text-center margin-top">
-							Semester - V - <a href="pdfs/syllabus/MCA-6year/MCA_V.pdf">Download</a>
+							Semester - V - <a href="downloads/syllabus/MCA-6year/MCA_V.pdf">Download</a>
 						</div>
 						<div class="col-md-4 text-center margin-top">
-							Semester - VI - <a href="pdfs/syllabus/MCA-6year/MCA_VI.pdf">Download</a>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-4 text-center margin-top">
-							Semester - VII - <a href="pdfs/syllabus/MCA-6year/MCA_VII.pdf">Download</a>
-						</div>
-						<div class="col-md-4 text-center margin-top">
-							Semester - VIII - <a href="pdfs/syllabus/MCA-6year/MCA_VIII.pdf">Download</a>
-						</div>
-						<div class="col-md-4 text-center margin-top">
-							Semester - IX - <a href="pdfs/syllabus/MCA-6year/MCA_IX.pdf">Download</a>
+							Semester - VI - <a href="downloads/syllabus/MCA-6year/MCA_VI.pdf">Download</a>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-md-4 text-center margin-top">
-							Semester - X - <a href="pdfs/syllabus/MCA-6year/MCA_X.pdf">Download</a>
+							Semester - VII - <a href="downloads/syllabus/MCA-6year/MCA_VII.pdf">Download</a>
 						</div>
 						<div class="col-md-4 text-center margin-top">
-							Semester - XI - <a href="pdfs/syllabus/MCA-6year/MCA_XI.pdf">Download</a>
+							Semester - VIII - <a href="downloads/syllabus/MCA-6year/MCA_VIII.pdf">Download</a>
+						</div>
+						<div class="col-md-4 text-center margin-top">
+							Semester - IX - <a href="downloads/syllabus/MCA-6year/MCA_IX.pdf">Download</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-4 text-center margin-top">
+							Semester - X - <a href="downloads/syllabus/MCA-6year/MCA_X.pdf">Download</a>
+						</div>
+						<div class="col-md-4 text-center margin-top">
+							Semester - XI - <a href="downloads/syllabus/MCA-6year/MCA_XI.pdf">Download</a>
 						</div>
 						<div class="col-md-4 text-center margin-top">
 							Semester - XII - <a href="#">Download</a>
@@ -96,42 +96,42 @@
 					<div class="text-center text-primary"><h4 ><b>M.Tech(IT) - Syllabus</b></h4></div>
 					<div class="row margin-top">
 						<div class="col-md-4 text-center">
-							Semester - I  - <a href="pdfs/syllabus/MTech-IT/M.Tech_I.pdf">Download</a>
+							Semester - I  - <a href="downloads/syllabus/MTech-IT/M.Tech_I.pdf">Download</a>
 						</div>
 						<div class="col-md-4 text-center">
-							Semester - II  - <a href="pdfs/syllabus/MTech-IT/M.Tech_II.pdf">Download</a>
+							Semester - II  - <a href="downloads/syllabus/MTech-IT/M.Tech_II.pdf">Download</a>
 						</div>
 						<div class="col-md-4 text-center">
-							Semester - III - <a href="pdfs/syllabus/MTech-IT/M.Tech_III.pdf">Download</a>
+							Semester - III - <a href="downloads/syllabus/MTech-IT/M.Tech_III.pdf">Download</a>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-md-4 text-center margin-top">
-							Semester - IV - <a href="pdfs/syllabus/MTech-IT/M.Tech_IV.pdf">Download</a>
+							Semester - IV - <a href="downloads/syllabus/MTech-IT/M.Tech_IV.pdf">Download</a>
 						</div>
 						<div class="col-md-4 text-center margin-top">
-							Semester - V - <a href="pdfs/syllabus/MTech-IT/M.Tech_V.pdf">Download</a>
+							Semester - V - <a href="downloads/syllabus/MTech-IT/M.Tech_V.pdf">Download</a>
 						</div>
 						<div class="col-md-4 text-center margin-top">
-							Semester - VI - <a href="pdfs/syllabus/MTech-IT/M.Tech_VI.pdf">Download</a>
+							Semester - VI - <a href="downloads/syllabus/MTech-IT/M.Tech_VI.pdf">Download</a>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-md-4 text-center margin-top">
-							Semester - VII - <a href="pdfs/syllabus/MTech-IT/M.Tech_VII.pdf">Download</a>
+							Semester - VII - <a href="downloads/syllabus/MTech-IT/M.Tech_VII.pdf">Download</a>
 						</div>
 						<div class="col-md-4 text-center margin-top">
-							Semester - VIII - <a href="pdfs/syllabus/MTech-IT/M.Tech_VIII.pdf">Download</a>
+							Semester - VIII - <a href="downloads/syllabus/MTech-IT/M.Tech_VIII.pdf">Download</a>
 						</div>
 						<div class="col-md-4 text-center margin-top">
-							Semester - IX - <a href="pdfs/syllabus/MTech-IT/M.Tech_IX.pdf">Download</a>
+							Semester - IX - <a href="downloads/syllabus/MTech-IT/M.Tech_IX.pdf">Download</a>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-md-2">
 						</div>
 						<div class="col-md-4 text-center margin-top">
-							Semester - X - <a href="pdfs/syllabus/MTech-IT/M.Tech_X.pdf">Download</a>
+							Semester - X - <a href="downloads/syllabus/MTech-IT/M.Tech_X.pdf">Download</a>
 						</div>
 						<div class="col-md-4 text-center margin-top">
 							Semester - XI - <a href="#">Download</a>
@@ -145,35 +145,35 @@
 					<div class="text-center text-primary"><h4 ><b>MBA(MS) - Syllabus</b></h4></div>
 					<div class="row margin-top">
 						<div class="col-md-4 text-center">
-							Semester - I  - <a href="pdfs/syllabus/MBA-MS/MBA-MS-I.pdf">Download</a>
+							Semester - I  - <a href="downloads/syllabus/MBA-MS/MBA-MS-I.pdf">Download</a>
 						</div>
 						<div class="col-md-4 text-center">
-							Semester - II  - <a href="pdfs/syllabus/MBA-MS/MBA-MS-II.pdf">Download</a>
+							Semester - II  - <a href="downloads/syllabus/MBA-MS/MBA-MS-II.pdf">Download</a>
 						</div>
 						<div class="col-md-4 text-center">
-							Semester - III - <a href="pdfs/syllabus/MBA-MS/MBA-MS-III.pdf">Download</a>
+							Semester - III - <a href="downloads/syllabus/MBA-MS/MBA-MS-III.pdf">Download</a>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-md-4 text-center margin-top">
-							Semester - IV - <a href="pdfs/syllabus/MBA-MS/MBA-MS-IV.pdf">Download</a>
+							Semester - IV - <a href="downloads/syllabus/MBA-MS/MBA-MS-IV.pdf">Download</a>
 						</div>
 						<div class="col-md-4 text-center margin-top">
-							Semester - V - <a href="pdfs/syllabus/MBA-MS/MBA-MS-V.pdf">Download</a>
+							Semester - V - <a href="downloads/syllabus/MBA-MS/MBA-MS-V.pdf">Download</a>
 						</div>
 						<div class="col-md-4 text-center margin-top">
-							Semester - VI - <a href="pdfs/syllabus/MBA-MS/MBA-MS-VI.pdf">Download</a>
+							Semester - VI - <a href="downloads/syllabus/MBA-MS/MBA-MS-VI.pdf">Download</a>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-md-4 text-center margin-top">
-							Semester - VII - <a href="pdfs/syllabus/MBA-MS/MBA-MS-VII.pdf">Download</a>
+							Semester - VII - <a href="downloads/syllabus/MBA-MS/MBA-MS-VII.pdf">Download</a>
 						</div>
 						<div class="col-md-4 text-center margin-top">
-							Semester - VIII - <a href="pdfs/syllabus/MBA-MS/MBA-MS-VIII.pdf">Download</a>
+							Semester - VIII - <a href="downloads/syllabus/MBA-MS/MBA-MS-VIII.pdf">Download</a>
 						</div>
 						<div class="col-md-4 text-center margin-top">
-							Semester - IX - <a href="pdfs/syllabus/MBA-MS/MBA-MS-IX.pdf">Download</a>
+							Semester - IX - <a href="downloads/syllabus/MBA-MS/MBA-MS-IX.pdf">Download</a>
 						</div>
 					</div>
 					<div class="row">
