@@ -9,8 +9,8 @@ Madhya Pradesh. The University has thirty two level in frontline areas of Comput
  Education, Management, etc. It has more than one hundred and fifty faculty members,
  five thousand students on the campus, 113 affiliated colleges and more than one 
 lakh ten thousand students enrolled in all. The teaching programmes conducted at the
- Teaching University Departments have a multidisciplinary approach.
-The faculty is Devi Ahilya well qualified and the infrastructure is constantly 
+ Teaching University Departments have a multidisciplinary approach.</p>
+<p>The faculty is Devi Ahilya well qualified and the infrastructure is constantly 
 upgraded, Computer Science, Electronics, Education, Biotechnology, Life Sciences, 
 Business Management, Business Economics, and International Business are typical of 
 its high profile programmes. The University has earned a place for itself in the 
@@ -26,4 +26,5 @@ Gymnasium etc. to bring out the sporting talent of the students. The University
 offers selective hostel facilities for outstation students. It has three girls and 
 four boys hostels catering to the requirement of students studying in UTDs. Every 
 effort is made to provide accommodation to girl students. However the boys students 
-are provided hostel facilities based on availability.</p>
+are provided hostel facilities based on availability.</p><br>
+For more details visit : <a href="http://www.dauniv.ac.in">Devi Ahilya University</a>
