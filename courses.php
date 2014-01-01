@@ -55,7 +55,7 @@
 					<ul class="nav nav-tabs" id="myTab">
   						<li class="active"><a href="#mca" data-toggle="tab">MCA</a></li>
   						<li><a href="#mba" data-toggle="tab">MBA</a></li>
-						<li><a href="#mtech">M.Tech</a></li>
+						<li><a href="#mtech" data-toggle="tab">M.Tech</a></li>
   					</ul>
 					
 					<div class="tab-content">
@@ -87,9 +87,9 @@
 					<ul class="nav nav-tabs" id="myTab">
   						<li class="active"><a href="#mbams" data-toggle="tab">MBA-MS</a></li>
   						<li><a href="#mbata" data-toggle="tab">MBA-TA</a></li>
-						<li><a href="#mbaapr">MBA-APR</a></li>
+						<li><a href="#mbaapr" data-toggle="tab">MBA-APR</a></li>
   					</ul>
-					<div class="tab-content">
+					<div class="tab-content" >
   						<div class="tab-pane active" id="mbams">
 						    <?php 
 								$mbMS ="textFiles/Programs_We_Offer/mba_ms.txt";  
