@@ -20,11 +20,12 @@
 
 		.navbar-default
 		{
-			background: rgb(66,139,202);
+			background: rgb(42,52,81);
 			border-color:#e7e7e7;
 			box-shadow:0px 15px 20px rgba(121,121,121,0.7);
+			
 		}
-		.navbar-default .navbar-nav>li>a{color:#FFF}
+		.navbar-default .navbar-nav>li.dropdown>a{color:#ffffff}
 		.navbar-default .navbar-nav>li>a:focus{color:#000}
 
 		.navbar-nav > li.dropdown > a,
@@ -47,7 +48,7 @@
 		.gateway {
 			margin-left: 0px;
 			padding: 5px 5px 5px 5px;
-			background-color:rgb(66,139,202);
+			background-color:rgb(42,52,81);
 			text-align:center;
 			position: fixed;
 			width: 100%;

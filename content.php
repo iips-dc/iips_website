@@ -26,7 +26,7 @@ and testimonial section -->
         </div>
      <!-- notice  block start -->
      <div class="col-md-3 text-center">
-     	   <div class="panel panel-primary boxShadow" style="margin-top:-20px; font-size:15px">
+     	   <div class="panel panel-default boxShadow" style="margin-top:-20px; font-size:15px">
 				<div class="panel-heading">
 					<h3 class="panel-title">Notice/Announcements</h3>
 				</div>
@@ -50,7 +50,7 @@ and testimonial section -->
 	<div class="row">
 			 
 		<div class="col-md-12">
-		   <div class="panel panel-primary boxShadow" style="overflow:hidden;">
+		   <div class="panel panel-default boxShadow" style="overflow:hidden;">
 			  <div class="panel-heading">
 				 <h3 class="panel-title">News & Events</h3>
 			  </div>
@@ -120,7 +120,7 @@ and testimonial section -->
   
   	 <div class="col-md-3 testimonial text-center">
   		<!-- testimonial started -->
-		<div class="panel panel-primary  boxShadow" style="height:180px;">
+		<div class="panel panel-default  boxShadow" style="height:180px;">
 			<div class="panel-heading">
 				<h3 class="panel-title">Testimonials</h3>
 			</div>
