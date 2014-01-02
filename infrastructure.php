@@ -1,3 +1,4 @@
+<?php include 'base_template.php' ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -5,22 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-        <title>Infrastructure</title>
+        <title>Infrastructure | IIPS</title>
 
-       <!-- Include Styles -->
-        <link rel="stylesheet" href="css/vtab-style.css" />		
-        <!--[if IE 7]><style type="text/css">#v-nav>ul>li.current{border-right:1px solid #fff!important}#v-nav>div.tab-content{z-index:-1!important;left:0}</style><![endif]-->
-        <!--[if IE 8]><style type="text/css">#v-nav>ul>li.current{border-right:1px solid #fff!important}#v-nav>div.tab-content{z-index:-1!important;left:0}</style><![endif]-->
-		<?php
-		 include('cssLinks.php');
-		?>
+       
 </head>
 
 <body>
-	<?php
-			include('header.php');
-			include('readTextFilesScript.php');
-	?>
+	<?php startblock('content'); ?>
 	<div id="wrap">
 	  <div class="container" style="background-color:#FFFFFF;">
 
@@ -74,13 +66,7 @@
         </div><!--.row class ended -->
 	 </div><!-- End of container class -->
 	</div><!-- End of wrap id -->
-	 	
-		<?php
-		    include('footer.php');
-			include('jsLinks.php');
-		?>
-		<!-- Include Scripts for vertical tabs-->
-		<script type="text/javascript" src="js/jQuery-hashchange.js"></script>       
-        <script type="text/javascript" src="js/vtab-script.js"></script>
+	<?php endblock(); ?>
+		
 </body>
 </html>
