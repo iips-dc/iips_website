@@ -1,27 +1,17 @@
-<!-- Called from main_menu.php,  -->
-<?php include 'base_template.php' ?>
-<!doctype html>
+<?php include 'base_template_2_column.php' ?>
 
-<html>
+<!-- Starting of style block for custom CSS -->
+	<?php startblock('style') ; ?>
+		
+	<?php endblock() ?>
 
-    <head>
+	<?php startblock('page_heading'); ?>
+		<h3> Admission </h3>
+	<?php endblock(); ?>
 
-        <meta charset="utf-8" />
+	<!-- Added the side menu -->
+	<?php startblock('sidemenu'); ?>
 
-        <title>Admission | IIPS</title>
-	
- 		
-      
-
-    </head>
-
-    <body>
-		<?php startblock('content'); ?>
- 		<div id="wrap">
-	        <div class="container" style="background-color:#FFFFFF;">
-			   <div class="row">
-			      <br><h3 class="title">Admissions</h3><br>
-			   	  <div class="col-md-3">
 					<ul class="nav side-tabs nav-pills">
 	   					<li class="active btn-block"><a class="icon-chevron-sign-right" href="#tab1"> Entrance Exam- CET</a></li>
 	    				<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab2"> Eligibility</a></li>
@@ -30,64 +20,53 @@
 	   					<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab5"> Fees Structure</a></li>
 	    			
 					</ul>
-	         		
-				  </div><!--.col-md-3 End -->
+	         	
 	 
+	<?php endblock() ; ?> <!-- side menu end -->
 
-	                <div class="col-md-9">
-						<div id="tab1"  class="tab-content active">
-	                      <?php 
-							$cet ="textFiles/Admission/entrance_exam_cet.txt";  
-							readTextFiles($cet);
-					     ?>
-	                   </div>
 
-	              <div id="tab2" class="tab-content hide">
+	<!-- content block starting -->
+	<?php startblock('content') ?>	
+	    
+		<div id="tab1"  class="tab-content active">
+          	<?php 
+				$cet ="textFiles/Admission/entrance_exam_cet.txt";  
+				readTextFiles($cet);
+	       	?>
+        </div>
+		<div id="tab2" class="tab-content hide">
 
-						<?php 
-							$eligibility ="textFiles/Admission/eligibility.txt";  
-							readTextFiles($eligibility);  
-					    ?>
-	                  
-
-	                </div>
+			<?php 
+				$eligibility ="textFiles/Admission/eligibility.txt";  
+				readTextFiles($eligibility);  
+		    ?>
+		</div>
 
              
-	                <div id="tab3" class="tab-content hide">
+		<div id="tab3" class="tab-content hide">
 	                	
-	                   <?php 
-							$counseling ="textFiles/Admission/counseling.txt";  
-							readTextFiles($counseling);  
-					    ?>              
-
-	                </div>
+           	<?php 
+				$counseling ="textFiles/Admission/counseling.txt";  
+				readTextFiles($counseling);  
+		    ?>              
+	    </div>
 
 	 				
-	                <div  id="tab4" class="tab-content hide">
+        <div  id="tab4" class="tab-content hide">
 
-	                    <?php 
-							$howToApply ="textFiles/Admission/how_to_apply.txt";  
-							readTextFiles($howToApply); 
-					    ?> 
-	                    
-	                </div>
+            <?php 
+				$howToApply ="textFiles/Admission/how_to_apply.txt";  
+				readTextFiles($howToApply); 
+		    ?> 
+            
+        </div>	                
 
-	                <div  id="tab5" class="tab-content hide">
-						<?php 
-							$feesStructure ="textFiles/Admission/";  
-							readTextFiles($feesStructure); 
-					    ?>
-	                    
-	                </div>
-				</div><!--.col-md-9 end -->
-			  </div><!--.row class ended -->
-			</div>  
+        <div  id="tab5" class="tab-content hide">
+			<?php 
+				$feesStructure ="textFiles/Admission/";  
+				readTextFiles($feesStructure); 
+		    ?>
+            
+        </div>
 
-       </div><!-- End of container class -->
        <?php endblock(); ?>
-        
- 
-
-    </body>
-
-</html>
