@@ -1,7 +1,7 @@
 <?php include 'base_template_2_column.php' ?>
 	
 	<?php startblock('page_heading'); ?>
-		<h3> About University </h3>
+		About University
 	<?php endblock(); ?>
 	
 	 <!-- Template Block for Sidebar Options -->

@@ -6,7 +6,7 @@
 	<?php endblock() ?>
 
 	<?php startblock('page_heading'); ?>
-		<h3> About IIPS </h3>
+        About IIPS
 	<?php endblock(); ?>
 	
 	<?php startblock('sidemenu'); ?>
