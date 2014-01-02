@@ -8,13 +8,14 @@
 
 <!-- List of blocks existing in this page -->
 	<!-- 	'page_title'  		- for title of the page -->
-	<!-- 	'page_heading'  	- for heading of the page below menu -->
-	<!-- 	'style' 			- for the styles in the page -->
-	<!-- 	'header' 			- for the header of the page-->
-	<!-- 	'content'		 	- for the contents of the page-->
+	<!-- 	'page_heading'  	- for heading of the page below menu 	-->
+	<!-- 	'style' 			- for the styles in the page 			-->
+	<!-- 	'header' 			- for the header of the page 			-->
+	<!--	'sidemenu' 			- for the sidemenu in the page   		-->
+	<!-- 	'content'		 	- for the contents of the page 			-->
 	<!-- 	'script' 			- for the scripts of the particular page-->
 
-<!--  -->
+
 <!--  -->
 <!--  -->
 <!--  -->
