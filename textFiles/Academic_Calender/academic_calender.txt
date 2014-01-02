@@ -1,0 +1,20 @@
+<p> 
+	Enjoy now with the new calender service. Now you can access the <a href = "https://www.google.com/calendar/hosted/iips.edu.in" target = "blank" > Online google calender </a> or can just download the below calendar(in pdf) to get the full details.
+	Click <a href = "https://www.google.com/calendar/hosted/iips.edu.in" target = "blank"> here </a> to access the calender  
+
+
+</p>
+
+<p>
+	We suggest you to register yourself for the mobile notifications on the google calender of IIPS , so that you can get the real time updates on your email/mobile via <b> SMS </b>  before the events/activites/holidays in iips. 
+
+	<br> 
+	<br>
+	<b> Note : </b> You will need the iips domain  account(ex- someone@iips.edu.in ) to register yourself on the calender. The online calander will be used to notify students about the sudden events/activites/reminders . Here is some <a href= "#"> help </a>  to  get you started on how to register your mobile number on the google calender .
+
+	<br>
+	To download the calender in pdf format click below:
+	<br> 
+
+	<a href= "downloads/academic_calendar/student Guideline 2013-14.pdf" target = "blank" > Download calendar in pdf</a>
+</p>
