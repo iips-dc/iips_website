@@ -1,5 +1,9 @@
 <?php include 'base_template_2_column.php' ?>
-
+	
+	<?php startblock('page_title'); ?>
+		About IIPS
+	<?php endblock(); ?>
+	
 	<!-- Starting of style block for custom CSS -->
 	<?php startblock('style') ; ?>
 		
