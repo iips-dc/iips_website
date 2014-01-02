@@ -1,3 +1,4 @@
+<?php include 'base_template.php' ?>
 <!doctype html>
 
 <html>
@@ -6,28 +7,15 @@
 
         <meta charset="utf-8" />
 
-        <title>About University</title>
+        <title>About University | IIPS</title>
 	
  		
 
-       <!-- Include Styles -->
-
-        <link rel="stylesheet" href="./css/vtab-style.css" />   
-		<?php
-		 include('cssLinks.php');
-		?>     
-
-        <!--[if IE 7]><style type="text/css">#v-nav>ul>li.current{border-right:1px solid #fff!important}#v-nav>div.tab-content{z-index:-1!important;left:0}</style><![endif]-->
-
-        <!--[if IE 8]><style type="text/css">#v-nav>ul>li.current{border-right:1px solid #fff!important}#v-nav>div.tab-content{z-index:-1!important;left:0}</style><![endif]-->
-
+       
     </head>
 
     <body>
-		<?php
-			include('header.php');
-			include('readTextFilesScript.php');
-		?>
+		<?php startblock('content'); ?>
  		<div id="wrap">
 	        <div class="container" style="background-color:#FFFFFF;">
 			   <div class="row">
@@ -94,17 +82,10 @@
 			</div>  
 
        </div><!-- End of container class -->
-
+       <?php endblock(); ?>
         <!-- Include Scripts -->
 
-      <?php
-	        include('footer.php');
-			include('jsLinks.php');
-		?>
-		<!-- Include Scripts for vertical tabs-->
-		<script type="text/javascript" src="js/jQuery-hashchange.js"></script>       
-        <script type="text/javascript" src="js/vtab-script.js"></script>
-
+      
  
 
     </body>
