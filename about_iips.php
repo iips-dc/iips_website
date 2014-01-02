@@ -1,29 +1,18 @@
 <?php include 'base_template.php' ?>
 
- <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-        <title>About IIPS | IIPS</title>
-
-       
-		<style type="text/css">
+	<?php startblock('style') ; ?>
+		
+			<style type="text/css">
 			.iips_logo{
 				float:right;
 			}
-		</style>
-    </head>
-    <body>
-		<?php startblock('content'); ?>
-	   <div id="wrap">
-		 <div class="container" style="background-color:#FFFFFF;">
-		   
-		   <br><h3> About IIPS </h3><br>
-		   <div class="row">
-              <div class="col-sm-3">
+	</style>
+		<?php endblock() ?>
+
+
+	
+		<?php startblock('sidemenu'); ?>
+	   
 					
                   <ul class="nav side-tabs nav-pills">
                    	 <li class="active btn-block"><a class="icon-chevron-sign-right" href="#tab1">  About IIPS</a></li>
@@ -33,9 +22,10 @@
 					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab5">  IIPS @ Wikipedia</a></li>
                      <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab6">  Anti-Ragging Committee</a></li>
                	   </ul>
-			  </div>
-			  
-			  <div class="col-sm-9">
+		<?php endblock() ; ?>
+		<?php startblock('content') ?>
+		
+			  	  
 
                 <div id="tab1"  class="tab-content active">
 					<img class="iips_logo" src="images/iipslogo.jpg">
@@ -85,14 +75,7 @@
 				  	  ?>
 					</ul>	
                    
-                </div><!--.tab-content Ended -->
-
-             </div><!-- .col-md-10 ended-->
-
-		</div><!--.row ended -->
-		
-	</div><!--.container ended -->
-   </div><!--wrap id ended -->
+            
    <?php endblock(); ?>
 
 		
