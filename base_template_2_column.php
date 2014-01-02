@@ -62,9 +62,9 @@
 	<!-- Header block End -->
 	<div id="wrap">
 		 <div class="container" style="background-color:#FFFFFF;">
-			<?php startblock('page_heading'); 
-				endblock();
-			?>
+			<h4><b><?php startblock('page_heading'); 
+					endblock();
+				 ?></b></h4>
 			
 			<br>
             <div id="row">
