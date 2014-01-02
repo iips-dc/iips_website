@@ -1,5 +1,9 @@
 <?php include 'base_template_2_column.php' ?>
 
+	<?php startblock('page_title'); ?>
+		About Programs
+	<?php endblock(); ?>
+
 	<?php startblock('page_heading'); ?> 
 		Programs We Offer
 	<?php endblock(); ?>
