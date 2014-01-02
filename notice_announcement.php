@@ -1,3 +1,4 @@
+<?php include 'base_template.php' ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -7,12 +8,9 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.png">
 
-    <title>IIPS | HOME</title>
+    <title>Notice and Announcements | IIPS</title>
 
-    <!-- Bootstrap core CSS -->
-    <?php
-		include('cssLinks.php');
-	?>
+    
 	<style type="text/css">
 		
 		.postDate{
@@ -28,9 +26,7 @@
 	</style>
   </head>
   <body>
-    <?php
-	 	include('header.php');
-	?>
+    <?php startblock('content'); ?>
 	<div id="wrap">
 	
 		<div class="container">
@@ -97,11 +93,7 @@
 	    </div>
 		
 	</div>
-	<?php
-		include('footer.php');
-		include('jsLinks.php');
-	?>
-	
+	<?php endblock(); ?>
 	<script>
 
 		   $(document).ready(function () {

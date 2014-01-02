@@ -1,4 +1,5 @@
 <!-- Called from main_menu.php,  -->
+<?php include 'base_template.php' ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -9,9 +10,7 @@
         <title>Developer Center | IIPS </title>
 
       
-		<?php
-		 include('cssLinks.php');
-		?>
+		
 
 	<style type"text/css">
 		.dcMembers{
@@ -32,12 +31,7 @@
 	</style>
 </head>
 <body>
-	<?php
-			include 'header.php';
-			
-			include('readTextFilesScript.php');
-	?>
-
+	<?php startblock('content'); ?>
 	<!-- wrapper start-->
 		<div id="wrap">
 			<!-- container start below -->
@@ -118,14 +112,7 @@
 
 		</div>
 	<!-- wrapper end -->
-	<?php
-	        include('footer.php');
-			include('jsLinks.php');
-	?>
-	<!-- Include Scripts for vertical tabs-->
-		<script type="text/javascript" src="js/jQuery-hashchange.js"></script>       
-        <script type="text/javascript" src="js/vtab-script.js"></script>
-
+	<?php endblock(); ?>
 
 </body>
 

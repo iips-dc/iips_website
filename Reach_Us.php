@@ -1,3 +1,4 @@
+<?php include 'base_template.php' ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -5,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
+    
     <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDY0kkJiTPVd2U7aTOAwhc9ySH6oHxOIYM&sensor=false">
 	</script>
 
@@ -35,21 +37,13 @@
 
 </script>
        
-        <title>Reach Us</title>
+        <title>Reach Us | IIPS</title>
 
-       <!-- Include Styles -->
-        <link rel="stylesheet" href="css/vtab-style.css" />		
-        <!--[if IE 7]><style type="text/css">#v-nav>ul>li.current{border-right:1px solid #fff!important}#v-nav>div.tab-content{z-index:-1!important;left:0}</style><![endif]-->
-        <!--[if IE 8]><style type="text/css">#v-nav>ul>li.current{border-right:1px solid #fff!important}#v-nav>div.tab-content{z-index:-1!important;left:0}</style><![endif]-->
-		<?php
-		 include('cssLinks.php');
-		?>
+       
 </head>
 
 <body>
-	<?php
-			include('header.php');
-	?>
+	 <?php startblock('content'); ?>
 	 <div id="wrap">
 	  <div class="container" style="background-color:#FFFFFF;">
 	   	  <h4>Reach Us</h4><br><br>
@@ -82,13 +76,8 @@
              </div>
 		  </div><!--row class Ended -->
        </div><!--container class Ended -->
-	</div><!-- End of wrap class -->		
-		<?php
-		include('footer.php');
-			include('jsLinks.php');
-		?>
-		<!-- Include Scripts for vertical tabs-->
-		<script type="text/javascript" src="js/jQuery-hashchange.js"></script>       
-        <script type="text/javascript" src="js/vtab-script.js"></script>
+	</div><!-- End of wrap class -->
+	<?php endblock(); ?>		
+		
 </body>
 </html>
