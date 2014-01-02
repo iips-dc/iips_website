@@ -1,98 +1,60 @@
 <!-- Called from main_menu.php,  -->
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-        <title>Placements </title>
 
-       <!-- Include Styles -->
-        <link rel="stylesheet" href="css/vtab-style.css" />		
-        <!--[if IE 7]><style type="text/css">#v-nav>ul>li.current{border-right:1px solid #fff!important}#v-nav>div.tab-content{z-index:-1!important;left:0}</style><![endif]-->
-        <!--[if IE 8]><style type="text/css">#v-nav>ul>li.current{border-right:1px solid #fff!important}#v-nav>div.tab-content{z-index:-1!important;left:0}</style><![endif]-->
-		<?php
-		 include('cssLinks.php');
-		?>
-</head>
-<body>
-	<?php
-			// inlclude header here
-			include 'header.php';
-			
-			include('readTextFilesScript.php');
-	?>
+<?php include 'base_template_2_column.php' ?>
 
-	<!-- wrapper start-->
-		<div id="wrap">
-			<!-- container start below -->
-			<div class="container" style="background-color:#FFFFFF;">
-				<br><h3> Placements </h3><br>
-				<!-- row start below-->
-				<div class = "row">
-					<div class="col-md-3">
-						<ul class="nav side-tabs nav-pills">
-							<li class="active btn-block"><a class="icon-chevron-sign-right" href="#tab1"> About Placement Cell</a></li>
-							<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab2"> Placements</a></li>
-							<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab3"> Companies</a></li>
-			                
-						</ul>
-					</div>
+	<!-- Starting of style block for custom CSS -->
+	<?php startblock('style') ; ?>
+		
+	<?php endblock() ?>
+
+	<?php startblock('page_heading'); ?>
+		<h3> Placements </h3>
+	<?php endblock(); ?>
+	
+	<?php startblock('sidemenu'); ?>
+
+		<ul class="nav side-tabs nav-pills">
+			<li class="active btn-block"><a class="icon-chevron-sign-right" href="#tab1"> About Placement Cell</a></li>
+			<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab2"> Placements</a></li>
+			<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab3"> Companies</a></li>
+	        
+		</ul>
+	<?php endblock() ; ?>
 
 
-					<div class="col-md-9">
-						<div id="tab1"  class="tab-content active">
-
-							<?php
-								$aboutPlacements ="textFiles/Placements/about_placements.txt";  
-								readTextFiles($aboutPlacements);
-							?>
-
-
-							
-	                      
-	                   </div>
-
-	                   <div id = "tab2" class="tab-content hide">
-
-	                   	<?php 
-	                   		$placements = "textFiles/Placements/placements.txt" ;
-	                   		readTextFiles($placements) ;
-
-	                   	?>
-
-	                   </div>
-
-	                   <div id ="tab3" class="tab-content hide">
-	                   	<?php 
-	                   		$companies = "textFiles/Placements/companies.txt";
-	                   		readTextFiles($companies);
-
-	                   	?>
-	                   		
-
-	                   </div>
+	<?php startblock('content') ?>	
 
 
 
+	
+		<div id="tab1"  class="tab-content active">
 
-					</div>
-				</div>
-				<!-- row end above-->
+			<?php
+				$aboutPlacements ="textFiles/Placements/about_placements.txt";  
+				readTextFiles($aboutPlacements);
+			?>		
+          
+       	</div>
 
-			</div>
-			<!-- container end above -->
+       	<div id = "tab2" class="tab-content hide">
 
-		</div>
-	<!-- wrapper end -->
+       	<?php 
+       		$placements = "textFiles/Placements/placements.txt" ;
+       		readTextFiles($placements) ;
 
-	<?php
-	     include('footer.php');
-		include('jsLinks.php');
-	?>
+       	?>
+
+       	</div>
+
+       	<div id ="tab3" class="tab-content hide">
+       	
+       	<?php 
+       		$companies = "textFiles/Placements/companies.txt";
+       		readTextFiles($companies);
+
+       	?>    		
+
+       	</div>
 
 
-</body>
-
-</html>
+<?php endblock() ; ?>
