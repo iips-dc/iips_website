@@ -1,7 +1,5 @@
 
 
-<br><h1>Synergy<h1> <br />
-
 <div style=" font-family:Arial, Helvetica, sans-serif; font-size:18px;">Synergy is the annual sports event conducted at 'IIPS' since last few years. It provides 
 the students with a podium to showcase their team spirit hone their leadership qualities 
 and inculcates sportsman spirit in them. It not only helps to crack the ice between the 
@@ -21,11 +19,11 @@ memorable and instills in the participants a new zeal to excel and reach the zen
 <br><br>
 
 
-<b>Proposed Date</b><br><br>
+<b class="text-primary">Proposed Date</b><br><br>
 
     Last week of January or first week of February<br><br>
 
-<b>Events</b><br><br>
+<b class="text-primary">Events</b><br><br>
 	<ul type="disc">
     <li>Cricket (for boys and girls)</li>
     <li>Football (only for boys)</li>
@@ -36,7 +34,7 @@ memorable and instills in the participants a new zeal to excel and reach the zen
     <li>Athletics (for boys and girls)</li>
 	</ul>
 
-<b>Places for conducting the event</b>
+<b class="text-primary">Places for conducting the event</b>
     <ul type="disc">
     <li>U.T.D. sports ground</li>
     <li>Basketball court (in front of auditorium)</li>
