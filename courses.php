@@ -1,7 +1,7 @@
 <?php include 'base_template_2_column.php' ?>
 
 	<?php startblock('page_heading'); ?> 
-		<h4><b>Programs We Offer</b></h4>
+		Programs We Offer
 	<?php endblock(); ?>
 	
 	<?php startblock('sidemenu'); ?>
