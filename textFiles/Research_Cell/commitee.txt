@@ -1,0 +1,22 @@
+<h3 align="center">
+   <strong>IIPS - Departmental Research Committee</strong>
+</h3>
+<p align="center">
+    <strong></strong>
+</p>
+<p>
+    Dr. A.K. Sapre-Director (Chair Person)
+</p>
+<p>
+    Dr. R.K. Vyas-Professor
+</p>
+<p>
+    Dr. B.K. Tripathi Incharge Management
+</p>
+<p>
+    Dr. Kirti Mathur Incharge Comnputer
+</p>
+<p>
+    Dr. Manminder Singh Saluja -Incharge Research Cell, Coordinator &amp; Convener)
+</p>
+
