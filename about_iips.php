@@ -59,6 +59,10 @@
 		
 		<div id="tab4" class="tab-content hide">
 			<b>Academic calender</b>
+			<?php 
+				$academic_calender = "textFiles/Academic_Calender/academic_calender.txt" ;
+				readTextFiles($academic_calender) ;
+			?>
 		</div>
 		
 		<div id="tab5" class="tab-content hide">
