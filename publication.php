@@ -12,8 +12,8 @@
 	
 	<?php startblock('sidemenu'); ?>
 					<ul class="nav side-tabs nav-pills">
-	   					<li class="active"><a class="icon-chevron-sign-right" href="#tab1"> Management</a></li>
-	    				<li><a class="icon-chevron-sign-right" href="#tab2"> Technical</a></li>	
+	   					<li class="active btn-block"><a class="icon-chevron-sign-right" href="#tab1"> Management</a></li>
+	    				<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab2"> Technical</a></li>	
 	   				</ul>
 	 <?php endblock (); ?>
 	         		

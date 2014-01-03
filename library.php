@@ -11,11 +11,11 @@
     
     <?php startblock('sidemenu'); ?>
           <ul class="nav side-tabs nav-pills">
-           	 <li class="active"><a class="icon-chevron-sign-right" href="#tab1"> About Library</a></li>
-             <li><a class="icon-chevron-sign-right" href="#tab2">  e-library</a></li>
-             <li><a class="icon-chevron-sign-right" href="#tab3">  Central Library</a></li>
-             <li><a class="icon-chevron-sign-right" href="#tab4"> EJ-Server</a></li>
-             <li><a class="icon-chevron-sign-right" href="#tab5"> ERMSS</a></li>
+           	 <li class="active btn-block"><a class="icon-chevron-sign-right" href="#tab1"> About Library</a></li>
+             <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab2">  e-library</a></li>
+             <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab3">  Central Library</a></li>
+             <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab4"> EJ-Server</a></li>
+             <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab5"> ERMSS</a></li>
        	   </ul>
 	<?php endblock() ; ?>	
 			  
