@@ -1,41 +1,30 @@
- <?php include 'base_template.php' ?>
- <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-        <title>Syllabus | IIPS</title>
+<?php include 'base_template_2_column.php' ?>
+	
+	<?php startblock('page_title'); ?>
+		Syllabus
+	<?php endblock(); ?>
+	
+	<!-- Starting of style block for custom CSS -->
+	<?php startblock('style') ; ?>
+		
+	<?php endblock() ;?>
 
-       
-		<style type="text/css">
-			.margin-top{
-				margin-top:30px;
-			}
-		</style>
-    </head>
-    <body>
-		<?php startblock('content'); ?>
-	   <div id="wrap">
-		 <div class="container" style="background-color:#FFFFFF;">
-		   
-		   <br><h3> Syllabus </h3><br>
-		   <div class="row">
-              <div class="col-sm-3">
+	
+	<?php startblock('sidemenu'); ?>
 					
                   <ul class="nav side-tabs nav-pills">
                    	 <li class="active btn-block"><a class="icon-chevron-sign-right" href="#mca">  MCA-6Year</a></li>
-                     <li class="btn-block"><a class="icon-chevron-sign-right" href="#mtech">  M.Tect(IT)</a></li>
+                     <li class="btn-block"><a class="icon-chevron-sign-right" href="#mtech">  M.Tech(IT)</a></li>
                      <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaMS">  MBA(MS)</a></li>
 					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaAPR">  MBA(APR)</a></li>
 					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaTA">  MBA(TA)</a></li>
                      <li class="btn-block"><a class="icon-chevron-sign-right" href="#bCom">  B.Com(hons)</a></li>
                	   </ul>
-			  </div>
-			  
-			  <div class="col-sm-9">
+	<?php endblock(); ?>
 
+
+	<?php startblock('content') ; ?>		  
+			  
                 <div id="mca"  class="tab-content active">
 					<div class="text-center text-primary"><h4 ><b>MCA - 6Year Syllabus</b></h4></div>
 					<div class="row margin-top">
@@ -299,17 +288,5 @@
                 <div id="bCom" class="tab-content hide">
 						<h5 class="alert alert-danger text-center">No Syllabus Has Been Uploaded Yet !</h5>
                 </div><!--.tab-content Ended -->
-
-             </div><!-- .col-md-10 ended-->
-
-		</div><!--.row ended -->
-		
-	</div><!--.container ended -->
-   </div><!--wrap id ended -->
-   <?php endblock(); ?>
-
-		
-<!-- container 12 ended -->
-
-</body>
-</html>
+    <?php endblock(); ?>
+            
