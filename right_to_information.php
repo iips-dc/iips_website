@@ -70,7 +70,7 @@
 					<div class="panel-heading">
 					  <h4 class="panel-title">
 						<a data-toggle="collapse" data-parent="#accordiona" href="#collapseseven">
-							Very heavy file right now.....	
+								
 						 Guidelines for Admission 
 						</a>
 
@@ -78,7 +78,7 @@
 					</div>
 					<div id="collapseseven" class="panel-collapse collapse">
 					  <div class="panel-body">
-						Guidelines for Admission 2006-2007  <a href="#" target="blank">View & Download</a>
+						Guidelines for Admission 2006-2007  <a href="downloads/guidelines/guidelines_for_admissions.pdf" target="blank">View & Download</a>
 					  </div>
 					  
 					  </div>
