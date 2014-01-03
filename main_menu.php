@@ -18,12 +18,12 @@
             	 <li class="dropdown">
                   <a href="#" class="dropdown-toggle">About us<b class="caret"></b></a>
                           <ul class="dropdown-menu">
-				  				           <li><a href="about_university.php">About University</a></li>
-                        			<li><a href="about_iips.php">About IIPS</a></li>
+				  				           <li><a href="about_university">About University</a></li>
+                        			<li><a href="about_iips">About IIPS</a></li>
                         			<li><a href="#2">Life @campus</a></li>
-                        			<li><a href="infrastructure.php">Infrastructure</a></li>
-              								<li><a href="gallery.php">Gallery</a></li>
-                        			<li><a href="Reach_Us.php">Reach us</a></li>
+                        			<li><a href="infrastructure">Infrastructure</a></li>
+              								<li><a href="gallery">Gallery</a></li>
+                        			<li><a href="Reach_Us">Reach us</a></li>
                   			  </ul>
                </li>
 
@@ -31,11 +31,11 @@
 						   <li class="dropdown">
                   <a href="#" class="dropdown-toggle">Programs<b class="caret"></b></a>
                   	<ul class="dropdown-menu">
-                 				  <li><a href="courses.php">Under Graduate</a></li>
-                          <li><a href="courses.php">Integrated (UG+PG) Masters</a></li>
-                          <li><a href="courses.php">Post Graduate</a></li>
-                          <li> <a href="courses.php">M.Phil Ph.D</a> </li>
-                          <li> <a href="courses.php">Ph.D</a> </li>
+                 				  <li><a href="courses">Under Graduate</a></li>
+                          <li><a href="courses">Integrated (UG+PG) Masters</a></li>
+                          <li><a href="courses">Post Graduate</a></li>
+                          <li> <a href="courses">M.Phil Ph.D</a> </li>
+                          <li> <a href="courses">Ph.D</a> </li>
                   	</ul>
               </li>
 
@@ -43,12 +43,12 @@
 						  <li class="dropdown">
                 <a href="#" class="dropdown-toggle">Admissions<b class="caret"></b></a>
       				   			<ul class="dropdown-menu">
-      				      			 <li><a href="admission.php">Entrance Exam - CET</a></li>
-                           <li><a href="admission.php#tab2">Eligibility</a></li>
-                           <li><a href="admission.php#tab3">Criteria</a></li>
-      					   			   <li><a href="admission.php">Counseling</a></li>
-      					  			   <li><a href="admission.php">How to apply</a></li>
-      					  			   <li><a href="admission.php">Fees structure</a></li> 
+      				      			 <li><a href="admission">Entrance Exam - CET</a></li>
+                           <li><a href="admission">Eligibility</a></li>
+                           <li><a href="admission">Criteria</a></li>
+      					   			   <li><a href="admission">Counseling</a></li>
+      					  			   <li><a href="admission">How to apply</a></li>
+      					  			   <li><a href="admission">Fees structure</a></li> 
       				   			</ul>
 				  		</li>
 
@@ -56,10 +56,10 @@
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle">Academics<b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                      <li><a href="academic_calender.php">Academic Calender</a></li>
-                      <li><a href="syllabus.php">Syllabus</a></li>
-                      <li><a href="notice_announcement.php">Notices and Announcements</a></li> 
-                      <li><a href="news.php">News</a></li>
+                      <li><a href="academic_calender">Academic Calender</a></li>
+                      <li><a href="syllabus">Syllabus</a></li>
+                      <li><a href="notice_announcement">Notices and Announcements</a></li> 
+                      <li><a href="news">News</a></li>
                   </ul>
               </li>
 
@@ -68,9 +68,9 @@
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle">Research<b class="caret"></b></a>
     				   			<ul class="dropdown-menu">
-    				      			 <li><a href="dc.php">Development Center</a></li>
-                         <li><a href="research_cell.php">Research Center</a></li>
-                         <li><a href="publication.php">Publications</a></li>
+    				      			 <li><a href="dc">Development Center</a></li>
+                         <li><a href="research_cell">Research Center</a></li>
+                         <li><a href="publication">Publications</a></li>
     				   			</ul>
 				  	</li>
 
@@ -78,22 +78,22 @@
 						<li class="dropdown">
               <a href="#" class="dropdown-toggle">Events<b class="caret"></b></a>
 				   		   <ul class="dropdown-menu">
-				       		  <li><a href="Xpressions.php">Xpression</a></li>
-                    <li><a href="synergy.php">Synergy</a></li>
-                    <li><a href="Tourista.php">Tourista</a></li> 
+				       		  <li><a href="Xpressions">Xpression</a></li>
+                    <li><a href="synergy">Synergy</a></li>
+                    <li><a href="Tourista">Tourista</a></li> 
 				   			</ul>
 						</li>
 						 
 
 			     <!-- Placements -->
 						<li class="dropdown">
-							<a href="placements.php" class="dropdown-toggle"> Placements</a>
+							<a href="placements" class="dropdown-toggle"> Placements</a>
 						</li>
 
 
             <!-- Downloads -->
             <li class="dropdown">
-                <a href="downloads.php" class="dropdown-toggle">Downloads</a>
+                <a href="downloads" class="dropdown-toggle">Downloads</a>
              </li>
 
 
@@ -101,13 +101,13 @@
              <li class="dropdown">
                 <a href="#" class="dropdown-toggle">More<b class="caret"></b></a>
                  <ul class="dropdown-menu">
-                    <li><a href="library.php">Library</a></li>
-                    <li><a href="faculty_profile.php">Faculty Profile</a></li>
-                    <li><a href="staff_profile.php">Staff Profile</a></li>
-                    <li><a href="student_verification.php">Student Verification</a></li>
-                    <li><a href="video_channel.php">Video Channel</a></li>
-                    <li><a href="recruitments.php">Recruitments @iips</a></li>
-                    <li><a href="right_to_information.php">RTI</a></li>
+                    <li><a href="library">Library</a></li>
+                    <li><a href="faculty_profile">Faculty Profile</a></li>
+                    <li><a href="staff_profile">Staff Profile</a></li>
+                    <li><a href="student_verification">Student Verification</a></li>
+                    <li><a href="video_channel">Video Channel</a></li>
+                    <li><a href="recruitments">Recruitments @iips</a></li>
+                    <li><a href="right_to_information">RTI</a></li>
 
                           
                 </ul>
