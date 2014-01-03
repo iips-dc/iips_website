@@ -32,25 +32,22 @@
 		.navbar-nav > li.dropdown > a:hover,
 		.navbar-nav > li.dropdown > a:focus{
 			color: #FFFFFF;  
-		} 
-		ul.nav li.dropdown:hover ul.dropdown-menu{
-			display: block;
 		}
 		
 		/*Custom css for Panel-primary*/
-		.panel-primary .panel-heading{
-			background: rgb(66,139,202);
+		.panel-default .panel-heading{
+			background: #42474C;
+			color: white;
 		}
 		
 		a {
-			color: rgb(66,139,202);
+			color: #0465D0;
 		}
 		.gateway {
 			margin-left: 0px;
 			padding: 5px 5px 5px 5px;
 			background-color:rgb(42,52,81);
 			text-align:center;
-			position: fixed;
 			width: 100%;
 			z-index: 3000;
 			
@@ -98,10 +95,6 @@
 		.leftSpaceForm {
 			margin-left:20px;
 			padding:5px 10px 15px 5px;
-		}
-
-		.quickLinkList {
-			list-style-type: none;
 		}
 		.inputWidth{
 			width:150px;
