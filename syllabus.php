@@ -1,28 +1,25 @@
- <?php include 'base_template.php' ?>
- <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-        <title>Syllabus | IIPS</title>
+ <?php include 'base_template_2_column.php' ?>
 
-       
-		<style type="text/css">
+ 		<?php startblock('page_title'); ?>
+ 		Syllabus | IIPS
+ 		<?php endblock(); ?>
+ 
+    	<?php startblock('style'); ?>
+    		<style>
 			.margin-top{
 				margin-top:30px;
 			}
-		</style>
-    </head>
-    <body>
-		<?php startblock('content'); ?>
-	   <div id="wrap">
-		 <div class="container" style="background-color:#FFFFFF;">
+			</style>
+		<?php endblock(); ?>
+		
+		
+	   
 		   
-		   <br><h3> Syllabus </h3><br>
-		   <div class="row">
-              <div class="col-sm-3">
+		   <?php startblock('page_heading'); ?> 
+		   	Syllabus
+		   <?php endblock(); ?>
+		   
+            	<?php startblock('sidemenu'); ?>
 					
                   <ul class="nav side-tabs nav-pills">
                    	 <li class="active btn-block"><a class="icon-chevron-sign-right" href="#mca">  MCA-6Year</a></li>
@@ -32,9 +29,9 @@
 					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaTA">  MBA(TA)</a></li>
                      <li class="btn-block"><a class="icon-chevron-sign-right" href="#bCom">  B.Com(hons)</a></li>
                	   </ul>
-			  </div>
+			  	<?php endblock(); ?>
 			  
-			  <div class="col-sm-9">
+			  <?php startblock('content'); ?>
 
                 <div id="mca"  class="tab-content active">
 					<div class="text-center text-primary"><h4 ><b>MCA - 6Year Syllabus</b></h4></div>
@@ -300,16 +297,11 @@
 						<h5 class="alert alert-danger text-center">No Syllabus Has Been Uploaded Yet !</h5>
                 </div><!--.tab-content Ended -->
 
-             </div><!-- .col-md-10 ended-->
+             <?php endblock(); ?>
 
-		</div><!--.row ended -->
 		
-	</div><!--.container ended -->
-   </div><!--wrap id ended -->
-   <?php endblock(); ?>
+	
+   
 
 		
 <!-- container 12 ended -->
-
-</body>
-</html>

@@ -1,16 +1,10 @@
-<?php include 'base_template.php' ?>
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="../../assets/ico/favicon.png">
+<?php include 'base_full_width.php' ?>
+	
+	<?php startblock('page_title'); ?>
+	News | IIPS
+	<?php endblock(); ?>
 
-    <title>News | IIPS</title>
-
-    
+    <?php startblock('style'); ?>
 	<style type="text/css">
 		.postDate{
 			font-size:14px; 
@@ -23,12 +17,10 @@
 			margin-right:15px;
 		}
 	</style>
-  </head>
-  <body>
+	<?php endblock(); ?>
+  
     <?php startblock('content'); ?>
-	<div id="wrap">
 	
-		<div class="container">
 		    <h3 class="text-center"><b class="label label-primary icon-globe"> IIPS News Section</b></h3>
 			
 			<!-- News Section --><br><br>
@@ -102,11 +94,12 @@
 				</div>
 			</div><br><br><br><br>
 			<!--.end of Notice Section -->
-	    </div>
+	    
 		
 
-	</div><br>
+	
 	<?php endblock(); ?>
+	<?php startblock('script'); ?>
 	<script src="assets/js/holder.js"></script>
 	<script>
 
@@ -124,5 +117,5 @@
 
 
 	</script>
-  </body>
-</html>
+	<?php endblock(); ?>
+ 

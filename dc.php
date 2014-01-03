@@ -1,17 +1,12 @@
 <!-- Called from main_menu.php,  -->
-<?php include 'base_template.php' ?>
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-        <title>Developer Center | IIPS </title>
+<?php include 'base_template_2_column.php' ?>
+	<?php startblock('page_title'); ?>
+	Developer Center | IIPS
+	<?php endblock(); ?>
 
       
 		
-
+	<?php startblock('style'); ?>
 	<style type"text/css">
 		.dcMembers{
 			background-color:white;
@@ -29,17 +24,15 @@
 			margin-bottom: 20px;
 		}
 	</style>
-</head>
-<body>
-	<?php startblock('content'); ?>
-	<!-- wrapper start-->
-		<div id="wrap">
-			<!-- container start below -->
-			<div class="container" style="background-color:#FFFFFF;">
-				<br><h3> Development Center </h3><br>
-				<!-- row start below-->
-				<div class = "row">
-					<div class="col-md-3">
+	<?php endblock(); ?>
+
+	<?php startblock('page_heading'); ?>
+        Development Center
+	<?php endblock(); ?>
+		
+				
+				
+					<?php startblock('sidemenu'); ?>
 						<ul class="nav side-tabs nav-pills">
 							<li class="active btn-block"><a class="icon-chevron-sign-right" href="#tab1"> About DC</a></li>
 			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab2"> Current Projects</a></li>
@@ -50,10 +43,11 @@
 			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab6"> Entrance</a></li>
 			                
 						</ul>
-					</div>
+					<?php endblock(); ?>
+					
 
 
-					<div class="col-md-9 text-justify">
+					<?php startblock('content'); ?>
 						<div id="tab1"  class="tab-content active">
 	                      <?php 
 							$aboutDC ="textFiles/DC/about_dc.txt";  
@@ -102,18 +96,10 @@
 							readTextFiles($entrance);
 					     ?>
 	                   </div>
+	                <?php endblock(); ?>
+					
+				
 
-					</div>
-				</div>
-				<!-- row end above-->
+			
+	
 
-			</div>
-			<!-- container end above -->
-
-		</div>
-	<!-- wrapper end -->
-	<?php endblock(); ?>
-
-</body>
-
-</html>
