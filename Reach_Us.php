@@ -1,4 +1,4 @@
-<?php include 'base_template.php' ?>
+<?php include 'base_template_2_column.php' ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -35,7 +35,7 @@
 	google.maps.event.addDomListener(window, 'load', initialize);
 
 
-</script>
+    </script>
        
         <title>Reach Us | IIPS</title>
 

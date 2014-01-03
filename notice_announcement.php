@@ -1,16 +1,10 @@
-<?php include 'base_template.php' ?>
+<?php include 'base_full_width.php' ?>
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="../../assets/ico/favicon.png">
+	<?php startblock('page_title'); ?>
+	Notice and Announcements | IIPS	
+	<?php endblock(); ?>
+	<?php startblock('style'); ?>
 
-    <title>Notice and Announcements | IIPS</title>
-
-    
 	<style type="text/css">
 		
 		.postDate{
@@ -24,12 +18,8 @@
 			margin-right:15px;
 		}
 	</style>
-  </head>
-  <body>
+	<?php endblock(); ?>
     <?php startblock('content'); ?>
-	<div id="wrap">
-	
-		<div class="container">
 		    <h3 class="text-center"><b class="label label-primary icon-bullhorn"> Notices & Annoucement Board</b></h3>
 			
 			<!-- Notice Section --><br><br>
@@ -90,10 +80,11 @@
 			  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
 			</div><br><br><br><br>
 			<!--.end of Notice Section -->
-	    </div>
+	    
 		
-	</div>
+	
 	<?php endblock(); ?>
+	<?php startblock('script'); ?>
 	<script>
 
 		   $(document).ready(function () {
@@ -110,6 +101,5 @@
 
 
 	</script>
-	
-  </body>
-</html>
+	<?php endblock(); ?>
+  

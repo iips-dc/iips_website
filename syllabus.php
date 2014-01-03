@@ -1,16 +1,27 @@
-<?php include 'base_template_2_column.php' ?>
-	
-	<?php startblock('page_title'); ?>
-		Syllabus
-	<?php endblock(); ?>
-	
-	<!-- Starting of style block for custom CSS -->
-	<?php startblock('style') ; ?>
-		
-	<?php endblock() ;?>
 
-	
-	<?php startblock('sidemenu'); ?>
+ <?php include 'base_template_2_column.php' ?>
+
+ 		<?php startblock('page_title'); ?>
+ 		Syllabus | IIPS
+ 		<?php endblock(); ?>
+ 
+    	<?php startblock('style'); ?>
+    		<style>
+			.margin-top{
+				margin-top:30px;
+			}
+			</style>
+		<?php endblock(); ?>
+		
+		
+	   
+		   
+		   <?php startblock('page_heading'); ?> 
+		   	Syllabus
+		   <?php endblock(); ?>
+		   
+            	<?php startblock('sidemenu'); ?>
+
 					
                   <ul class="nav side-tabs nav-pills">
                    	 <li class="active btn-block"><a class="icon-chevron-sign-right" href="#mca">  MCA-6Year</a></li>
@@ -20,7 +31,10 @@
 					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaTA">  MBA(TA)</a></li>
                      <li class="btn-block"><a class="icon-chevron-sign-right" href="#bCom">  B.Com(hons)</a></li>
                	   </ul>
-	<?php endblock(); ?>
+
+			  	<?php endblock(); ?>
+			  
+			  
 
 
 	<?php startblock('content') ; ?>		  
@@ -288,5 +302,9 @@
                 <div id="bCom" class="tab-content hide">
 						<h5 class="alert alert-danger text-center">No Syllabus Has Been Uploaded Yet !</h5>
                 </div><!--.tab-content Ended -->
-    <?php endblock(); ?>
-            
+
+             <?php endblock(); ?>
+
+		
+	
+   

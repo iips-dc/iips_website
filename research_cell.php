@@ -1,84 +1,82 @@
-<!-- Called from main_menu.php,  -->
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-        <title>Research Cell | IIPS </title>
+<?php include 'base_template_2_column.php' ?>
+	
+	<?php startblock('page_title'); ?>
+		Research Cell
+	<?php endblock(); ?>
+	
+	<!-- Starting of style block for custom CSS -->
+	<?php startblock('style') ; ?>
+		
+	<?php endblock() ;?>
 
-       <!-- Include Styles -->
-        <link rel="stylesheet" href="css/vtab-style.css" />		
-        <!--[if IE 7]><style type="text/css">#v-nav>ul>li.current{border-right:1px solid #fff!important}#v-nav>div.tab-content{z-index:-1!important;left:0}</style><![endif]-->
-        <!--[if IE 8]><style type="text/css">#v-nav>ul>li.current{border-right:1px solid #fff!important}#v-nav>div.tab-content{z-index:-1!important;left:0}</style><![endif]-->
-		<?php
-		 include('cssLinks.php');
-		?>
-</head>
-<body>
-	<?php
-			include 'header.php';
-			
-			include('readTextFilesScript.php');
-	?>
+	
+	<?php startblock('sidemenu'); ?>
 
-	<!-- wrapper start-->
-		<div id="wrap">
-			<!-- container start below -->
-			<div class="container" style="background-color:#FFFFFF;">
-				<br><h3> Research Cell </h3><br>
-				<!-- row start below-->
-				<div class = "row">
-					<div class="col-md-2">
-						<ul class="nav side-tabs nav-pills">
-							<li class="active" ><a class="icon-chevron-sign-right" href="#tab1"> About Research cell</a></li>
-			                <li ><a class="icon-chevron-sign-right" href="#tab2"> Research Scholar</a></li>
-			                <li ><a class="icon-chevron-sign-right" href="#tab3"> Faculty List</a></li>
-			            
-						</ul>
-					</div>
+		<ul class="nav side-tabs nav-pills">
+			<li class="active" ><a class="icon-chevron-sign-right" href="#tab1">  IIPS -Departmental Research Committee</a></li>
+			<li ><a class="icon-chevron-sign-right" href="#tab2"> Publication</a></li>
+			<li ><a class="icon-chevron-sign-right" href="#tab3"> Infrastructure</a></li>
+			<li ><a class="icon-chevron-sign-right" href="#tab4"> Ph.D. Supervisors </a></li>
+			<li ><a class="icon-chevron-sign-right" href="#tab5"> MRP-Mentors </a></li>         
+			<li ><a class="icon-chevron-sign-right" href="#tab6"> Technical Project Mentors </a></li>         			
+			<li ><a class="icon-chevron-sign-right" href="#tab7"> Research Scholar </a></li>         
+			<li ><a class="icon-chevron-sign-right" href="#tab8"> Faculty List </a></li>          
+		</ul>
 
+	<?php endblock(); ?>
 
-					<div class="col-md-10">
-						<br/>
+	<?php startblock ('content'); ?>
                         <div id="tab1"  class="tab-content active">
-                          a
+                          <?php 
+                            $researchCenter ="textFiles/Research_Cell/commitee.txt";  
+                            readTextFiles($researchCenter);
+                         ?>
                        </div>
+
                        <div id="tab2"  class="tab-content hide">
+                       <br><br>
+                       		<h4><strong>list of publication <a href="publication.php">click here</a></strong></h4>
+                       </div>
+
+                        <div id="tab3"  class="tab-content hide">
+                        <?php 
+                            $researchCenter ="textFiles/Research_Cell/infrastructure.txt";  
+                            readTextFiles($researchCenter);
+                         ?>
+                       </div>
+
+                        <div id="tab4"  class="tab-content hide">
+                        <?php 
+                            $researchCenter ="textFiles/Research_Cell/phd_supervisor.txt";  
+                            readTextFiles($researchCenter);
+                         ?>
+                       </div>
+
+                        <div id="tab5"  class="tab-content hide">
+                            NOT AVAILABLE
+                       </div>
+
+                        <div id="tab6"  class="tab-content hide">
+                        <?php 
+                            $researchCenter ="textFiles/Research_Cell/technical_mentor.txt";  
+                            readTextFiles($researchCenter);
+                         ?>
+                       </div>
+
+                       <div id="tab7"  class="tab-content hide">
                         <?php 
                             $researchCenter ="textFiles/Research_Cell/research_scholar.txt";  
                             readTextFiles($researchCenter);
                          ?>
                        </div>
                      
-                       <div id="tab3"  class="tab-content hide">
+                       <div id="tab8"  class="tab-content hide">
                           <?php 
-                            $researchCenter ="textFiles/Research_Cell/research_center.txt";  
+                            $researchCenter ="textFiles/Research_Cell/faculty_list.txt";  
                             readTextFiles($researchCenter);
                          ?>
                        </div>
 
+     <?php endblock(); ?> 
+
 		
-
-					</div>
-				</div>
-				<!-- row end above-->
-
-			</div>
-			<!-- container end above -->
-
-		</div>
-	<!-- wrapper end -->
-    <!-- wrapper end -->
-    <?php
-            include('footer.php');
-            include('jsLinks.php');
-    ?>
-    <!-- Include Scripts for vertical tabs-->
-        <script type="text/javascript" src="js/jQuery-hashchange.js"></script>       
-        <script type="text/javascript" src="js/vtab-script.js"></script>
-
-</body>
-
-</html>

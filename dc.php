@@ -1,11 +1,12 @@
+
 <?php include 'base_template_2_column.php' ?>
-	
 	<?php startblock('page_title'); ?>
-		Developer Center | IIPS 
+	Developer Center | IIPS
 	<?php endblock(); ?>
 
       
-	<?php startblock('style');?>	
+		
+	<?php startblock('style'); ?>
 
 	<style type"text/css">
 		.dcMembers{
@@ -27,8 +28,14 @@
 
 	<?php endblock(); ?>
 
-	<?php startblock('sidemenu');?>
+	<?php startblock('page_heading'); ?>
+        Development Center
+	<?php endblock(); ?>
+		
 				
+				
+					<?php startblock('sidemenu'); ?>
+
 						<ul class="nav side-tabs nav-pills">
 							<li class="active btn-block"><a class="icon-chevron-sign-right" href="#tab1"> About DC</a></li>
 			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab2"> Current Projects</a></li>
@@ -39,11 +46,13 @@
 			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab6"> Entrance</a></li>
 			                
 						</ul>
-	<?php endblock() ; ?>				
 
-	<?php startblock('content')?>
-					
-						<h3 align='center'> <strong>Development Center</strong></h3>
+	                <?php endblock() ; ?>				
+
+	
+
+					<?php startblock('content'); ?>
+
 						<div id="tab1"  class="tab-content active">
 	                      <?php 
 							$aboutDC ="textFiles/DC/about_dc.txt";  
@@ -92,4 +101,12 @@
 							readTextFiles($entrance);
 					     ?>
 	                   </div>
-<?php endblock() ;?>
+
+
+	                <?php endblock(); ?>
+					
+				
+
+			
+	
+
