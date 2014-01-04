@@ -26,9 +26,9 @@ and testimonial section -->
         </div>
      <!-- notice  block start -->
      <div class="col-md-3 text-center">
-     	   <div class="panel panel-default boxShadow" style="margin-top:-20px; font-size:15px">
+     	   <div class="panel panel-default boxShadow" style=" font-size:16px">
 				<div class="panel-heading">
-					<h3 class="panel-title">Notice/Announcements</h3>
+					<h3 class="panel-title">Notice & Announcements</h3>
 				</div>
 				<div class="panel-body" align="left">
 				  <a href="#"> <i class="icon-pushpin"></i> NAAC - Arrival in New Year 2014 !  </a><br>
@@ -36,7 +36,8 @@ and testimonial section -->
 				  <a href="#"> <i class="icon-pushpin"></i> Guest Lecture on "Artificial Intelligence" </a><br>
 				  <a href="#"> <i class="icon-pushpin"></i> Download admit card from MPOnline </a><br>
 				  <a href="#"> <i class="icon-pushpin"></i> Last Date of Scholarship Form is 22nd Sept 2013 </a><br>
-				  <a href="#"> <i class="icon-pushpin"></i> NAAC Coming Soon </a>
+				  <a href="#"> <i class="icon-pushpin"></i> NAAC Coming Soon </a><br>
+				  <a href="#"> <i class="icon-pushpin"></i> End Semester Exam Date </a>
 				</div>
 				<div class="panel-footer">
 					<a href="notice_announcement.php"><b>View All &raquo;</b></a>
@@ -49,7 +50,7 @@ and testimonial section -->
 		<!-- news/event section started -->
 	<div class="row">
 			 
-		<div class="col-md-12">
+		<div class="col-md-12 ">
 		   <div class="panel panel-default boxShadow" style="overflow:hidden;">
 			  <div class="panel-heading">
 				 <h3 class="panel-title">News & Events</h3>
@@ -110,11 +111,11 @@ and testimonial section -->
 			</div><!--End of Panel -->
 		</div><!--End of col-md-12 -->
 	</div><!--End of Row -->
-	<!-- News/event section end -->
+	<!-- News/event section end --><br>
 	
 
 	<div class="row">
-   	   <div class="col-md-9 quicklist">
+   	   <div class="col-md-9 text-center">
      	 <?php include('quicklinks.php') ?><br>
   	 </div><!--col-md-8 class ended -->
   
@@ -149,6 +150,6 @@ and testimonial section -->
 		    </div><!--panel body Ended -->
   	    </div><!--Panel Ended -->
 	  </div><!--col-md-4 ended -->
-  </div><!--row Class ended --><br>
+  </div><!--row Class ended -->
 </div>
 <!-- container class ended -->

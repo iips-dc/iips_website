@@ -16,7 +16,7 @@
           		  		
               <!-- About us -->
             	 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle">About us<b class="caret"></b></a>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">About us<b class="caret"></b></a>
                           <ul class="dropdown-menu">
 				  				           <li><a href="about_university">About University</a></li>
                         			<li><a href="about_iips">About IIPS</a></li>
@@ -29,7 +29,7 @@
 
                <!-- Programs -->
 						   <li class="dropdown">
-                  <a href="#" class="dropdown-toggle">Programs<b class="caret"></b></a>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programs<b class="caret"></b></a>
                   	<ul class="dropdown-menu">
                  				  <li><a href="courses">Under Graduate</a></li>
                           <li><a href="courses">Integrated (UG+PG) Masters</a></li>
@@ -41,7 +41,7 @@
 
               <!-- Admissions -->
 						  <li class="dropdown">
-                <a href="#" class="dropdown-toggle">Admissions<b class="caret"></b></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Admissions<b class="caret"></b></a>
       				   			<ul class="dropdown-menu">
       				      			 <li><a href="admission">Entrance Exam - CET</a></li>
                            <li><a href="admission">Eligibility</a></li>
@@ -54,7 +54,7 @@
 
 						<!-- Academics -->
             <li class="dropdown">
-                <a href="#" class="dropdown-toggle">Academics<b class="caret"></b></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Academics<b class="caret"></b></a>
                   <ul class="dropdown-menu">
                       <li><a href="academic_calender">Academic Calender</a></li>
                       <li><a href="syllabus">Syllabus</a></li>
@@ -66,7 +66,7 @@
             
             <!-- Research -->
             <li class="dropdown">
-                <a href="#" class="dropdown-toggle">Research<b class="caret"></b></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Research<b class="caret"></b></a>
     				   			<ul class="dropdown-menu">
     				      			 <li><a href="dc">Development Center</a></li>
                          <li><a href="research_cell">Research Center</a></li>
@@ -76,7 +76,7 @@
 
             <!-- Events -->
 						<li class="dropdown">
-              <a href="#" class="dropdown-toggle">Events<b class="caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<b class="caret"></b></a>
 				   		   <ul class="dropdown-menu">
 				       		  <li><a href="Xpressions">Xpression</a></li>
                     <li><a href="synergy">Synergy</a></li>
@@ -99,7 +99,7 @@
 
             <!-- More -->
              <li class="dropdown">
-                <a href="#" class="dropdown-toggle">More<b class="caret"></b></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">More<b class="caret"></b></a>
                  <ul class="dropdown-menu">
                     <li><a href="library">Library</a></li>
                     <li><a href="faculty_profile">Faculty Profile</a></li>
