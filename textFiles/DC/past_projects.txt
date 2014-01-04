@@ -1,38 +1,11 @@
 <h4>Past Projects</h4> 
 
-<ul>
-	<li>Desk Top Version of PBAS- Ajeet, Nitesh, Ankit<br></li>
-	<li>Desktop Application of Bonafide Certificate -Shaifali</li>
-	<li>Feedback data entry and analysis by state of art technique -July-Dec 2012 (Traditional approach )-Akanksha, Bedi, Komal, Misha, Ankit, and all DC members</li>
-	<li>Time to time changes/Updation on existing Website- Amber Jain, Ankit,&nbsp; Misha, Komal , Akanksha<br></li>
-	<li>Alumina information on web- Amber Jain,Shlok</li>
-</ul>
-
-
-
 <p> Past Projects :(Till July10, 2012) </p>
 <table align="center" border="1px" class="table" style = "cell-padding : 10px 10px 10px 10px ;text-align : justify ;"  >
 
-<tr style="color:#FFFFFF; background-color:#333333"> <td style ="width :40px ;font-size: 20px;"> S. No </td>	<td style ="font-size: 20px;">Project Name </td>	<td> Status </td> </tr>
+<tr style="color:#FFFFFF; background-color:#333333"> <td style ="width :40px ;font-size: 20px;"> S.No </td>	<td style ="font-size: 20px;">Project Name </td>	<td style ="font-size: 20px;"> Status </td> </tr>
 
 		<tbody>
-		            <tr>
-		                <td>
-		                    
-		                        S.No.
-		                    
-		                </td>
-		                <td>
-		                    
-		                        Project Name
-		                    
-		                </td>
-		                <td>
-		                    
-		                        Status
-		                    
-		                </td>
-		            </tr>
 		            <tr>
 		                <td>
 		                    
@@ -221,6 +194,75 @@
 		                    
 		                </td>
 		            </tr>
+		            <tr>
+		                <td>
+		                    
+		                        12.
+		                    
+		                </td>
+		                <td>
+		                    
+		                        Desktop version of PBAS
+		                    
+		                </td>
+		                <td>
+		                    
+		                        Ready to Deploy
+		                    
+		                </td>
+		            </tr>
+		            <tr>
+		                <td>
+		                    
+		                        13.
+		                    
+		                </td>
+		                <td>
+		                    
+		                        Desktop Application of Bonafide Certificate
+		                    
+		                </td>
+		                <td>
+		                    
+		                        Ready to Deploy
+		                    
+		                </td>
+		            </tr>
+		            <tr>
+		                <td>
+		                    
+		                        14.
+		                    
+		                </td>
+		                <td>
+		                    
+		                        Feedback data entry and analysis by state of art technique -July-Dec 2012 (Traditional approach )
+		                    
+		                </td>
+		                <td>
+		                    
+		                        Completed
+		                    
+		                </td>
+		            </tr>
+		            <tr>
+		                <td>
+		                    
+		                        15.
+		                    
+		                </td>
+		                <td>
+		                    
+		                        Alumina information on web
+		                    
+		                </td>
+		                <td>
+		                    
+		                        Completed
+		                    
+		                </td>
+		            </tr>
+		            
 		        </tbody>
 
 </table >
