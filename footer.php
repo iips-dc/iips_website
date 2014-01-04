@@ -7,7 +7,7 @@
 				Indore, India, 452001
 			</div>
 			<div class="col-md-4">
-				<a href="#">About Developers</a><br />
+				<a href="about_developers">About Developers</a><br />
 				<a href="#">Developed @ Develope Center</a>
 			</div>
 			<div class="col-md-4">
