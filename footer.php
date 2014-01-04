@@ -11,8 +11,8 @@
 				<a href="#">Developed @ Develope Center</a>
 			</div>
 			<div class="col-md-4">
-				Stay Connected : <br />
-				<a href="#">FeedBack</a>
+				Stay Connected : <br>
+				<a style = "margin-left : -46px; " href="https://docs.google.com/a/iips.edu.in/forms/d/1l3vtqwVc3oYDmqSayiJ-Txoc4wUP4DLfeZmfp8fwhtM/viewform">FeedBack</a>
 			</div>
 		</div>
 	</div>
