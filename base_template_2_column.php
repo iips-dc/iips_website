@@ -62,13 +62,13 @@
 	<?php endblock(); ?>
 	<!-- Header block End -->
 	<div id="wrap">
-		 <div class="container" style="background-color:#FFFFFF;">
+		<div class="container" style="background-color:#FFFFFF;">
 			<h4><b><?php startblock('page_heading'); 
 					endblock();
 				 ?></b></h4>
 			
 			<br>
-            <div id="row">
+            <div class="row">
  			   <div class="col-md-3">
 				
 				<!-- Sidemenu block Start -->
@@ -88,10 +88,9 @@
 						<?php endblock(); ?>
 						<!-- Content block End -->
 				
-                </div>
-			 </div><!--.col-md-10 ended-->
-		</div><!--.row class ended -->
-	</div><!-- End of container class -->	
+                </div><!--.col-md-9 ended-->
+			</div><!--.row ended-->
+		</div><!-- End of container class -->	
    </div>	<!-- End of wrap -->
 	
 	
