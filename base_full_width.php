@@ -76,8 +76,7 @@
 				
             
 			 
-		</div><!--.row class ended -->
-	</div><!-- End of container class -->	
+		</div><!--.container class ended -->	
    </div>	<!-- End of wrap -->
 	
 	<?php
