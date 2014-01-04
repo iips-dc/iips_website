@@ -62,7 +62,11 @@
 		</div>
 		
 		<div id="tab5" class="tab-content hide">
-			Wikipedia : <a href="http://en.wikipedia.org/wiki/International_Institute_of_Professional_Studies">IIPS WikiPage</a>
+			<?php 
+				$iipsWiki = "textFiles/About_IIPS/iips_wikipedia.txt";  
+				 readTextFiles($iipsWiki);
+		    ?>
+			Read More @ <a href="http://en.wikipedia.org/wiki/International_Institute_of_Professional_Studies">IIPS WikiPage</a>
 		</div>
 		
 		<div id="tab6" class="tab-content hide">
