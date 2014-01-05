@@ -2,7 +2,7 @@
 
 <table align="center" border="1px" class="table" style = "cell-padding : 10px 10px 10px 10px ;text-align : justify ;"  > 
 	
-<tr style="color:#FFFFFF; background-color:#333333"> <td style ="width :40px ;font-size: 20px;"> Current Projects </td>	<td style ="font-size: 20px;">Description</td>	 </tr>
+<tr style="color:#FFFFFF; background-color:#333333"> <td style ="width :150px ;font-size: 20px;"> Current Projects </td>	<td style ="font-size: 20px;">Description</td>	 </tr>
 
 <tr> <td> IIPS website </td> 
 	 <td> The current new website of IIPS . The aim is to keep the site usable, decentralized, and mobile responsive with different kinds of institutional services for the different kinds of users of the IIPS. </td> 
