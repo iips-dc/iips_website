@@ -40,7 +40,7 @@
 	
 				    </ul>
 					<ul class="nav navbar-nav navbar-right"> 
-						<li><a href="#" class="">Contact us</a></li>
+						<li><a href="contact_us" class="" style="color:white">Contact us</a></li>
 				    </ul>
 		       	</div><!--/.nav-collapse -->
           	</div><!--.container -->

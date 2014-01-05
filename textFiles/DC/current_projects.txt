@@ -20,13 +20,13 @@
 
 </tr>
 
-<tr> <td> Online Bonfide </td> 
+<tr> <td> Online Bonafide </td> 
 	 <td> This project aims to develop an online integrated application which can manage an automatic system for issuing bonafide certificates to the users of IIPS so as to make the service effortless and standard.</td> 
 
 </tr>
 
-<tr> <td> Student complaint Reg </td> 
-	 <td> This project aims at the student Complaint registration system . The current system is using the google docs forms . In future , the module will be linked with the webmail holders of IIPS. </td> 
+<tr> <td> Grievances Redressal </td> 
+	 <td> This project aims at the students/staff/faculties Complaint registration system . The current system is using the google docs forms . In future , the module will be linked with the webmail holders of IIPS. </td> 
 
 </tr>
 

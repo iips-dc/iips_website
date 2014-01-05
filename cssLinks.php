@@ -9,6 +9,7 @@
 		html body{
 			color:#000000;
 			font-family:Andalus;
+			font-size:16px;
 		}
 		
 		// Custom CSS for Menu
