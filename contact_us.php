@@ -7,43 +7,69 @@
 	<?php startblock('content'); ?>
 		<div class="row">
 			<div class="col-lg-12">
-			  <h3 class="page-header text-center text-primary"><b>Contact IIPS</b></h3>
-			  <ol class="breadcrumb">
-				<li><a href="index">IIPS-Home</a></li>
-				<li class="active">Contact</li>
-			  </ol>
-			</div>
-			<div class="col-lg-8 col-md-8">
-			  <p>If you have an awesome idea for our website, a suggestion, or are looking for some help, feel free to contact us!</p>
-			  <i class="icon-code"></i> Submit a feedback<br>
-			  <a href="mailto:feedback@iips.edu.in">feedback@iips.edu.in</a></p>
-			  <i class="icon-question-sign"></i> Need Help?<br>
-			  <a href="mailto:help@iips.edu.in">help@iips.edu.in</a></p>
-			  <p><i class="icon-comments"></i> Have a Suggestion?<br>
-			  <a href="mailto:feedback@iips.edu.in">feedback@iips.edu.in</a></p>
-			  <p>Thank you for visiting out website, we'll see you again soon!</p>
-			</div>
-
+          <h3 class="page-header"><b>Contact Us <small>We'd Love to Hear From You!</small></b></h3>
+          <ol class="breadcrumb">
+            <li><a href="index">Home</a></li>
+            <li class="active">Contact</li>
+          </ol>
         </div>
-		
-		<div class="row">
-			<div class="col-lg-12">
-				<p><a href="index">Home</a> &middot; <a href="help.php">Help</a> &middot; <a href="contact.php">Contact</a> &middot; <a href="http://startbootstrap.tumblr.com/">Forum</a><span class="pull-right hidden-sm"><a href="#">Back to top</a></span></p>
-				<p>
-				  
-				  <a href="https://twitter.com/SBootstrap" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @IIPS-DAVV</a>
-				  <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://startbootstrap.com" data-via="SBootstrap" data-lang="en">Tweet</a>
-				  <br>
-				  
-				  <br>
-				  <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FIronSummitMedia&amp;width=450&amp;height=21&amp;colorscheme=light&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;send=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowTransparency="true"></iframe>
-				</p>
-				<p>
-				  <a href="index">IIPS Website</a> is a project maintained by <a href="dc">Development Center</a>, a non-profit organization.<br>
-				  Code licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License v2.0</a>.<br>
-				  Based on <a href="http://getbootstrap.com/">Bootstrap</a>. Icons by <a href="http://fontawesome.io/">Font Awesome</a>.<br>
-				</p> 
-			</div>
+        
+        <div class="col-lg-12">
+          <!-- Embedded Google Map using an iframe - to select your location find it on Google maps and paste the link as the iframe src. If you want to use the Google Maps API instead then have at it! -->
+          <iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=37.0625,-95.677068&amp;spn=56.506174,79.013672&amp;t=m&amp;z=4&amp;output=embed"></iframe>
+        </div>
+
+      </div><!-- /.row -->
+      
+      <div class="row">
+
+        <div class="col-sm-8">
+          <h3>Let's Get In Touch!</h3>
+          <p>Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+			            <form role="form" method="POST" action="contact-form-submission.php">
+	            <div class="row">
+	              <div class="form-group col-lg-4">
+	                <label for="input1">Name</label>
+	                <input type="text" name="contact_name" class="form-control" id="input1">
+	              </div>
+	              <div class="form-group col-lg-4">
+	                <label for="input2">Email Address</label>
+	                <input type="email" name="contact_email" class="form-control" id="input2">
+	              </div>
+	              <div class="form-group col-lg-4">
+	                <label for="input3">Phone Number</label>
+	                <input type="phone" name="contact_phone" class="form-control" id="input3">
+	              </div>
+	              <div class="clearfix"></div>
+	              <div class="form-group col-lg-12">
+	                <label for="input4">Message</label>
+	                <textarea name="contact_message" class="form-control" rows="6" id="input4"></textarea>
+	              </div>
+	              <div class="form-group col-lg-12">
+	                <input type="hidden" name="save" value="contact">
+	                <button type="submit" class="btn btn-primary">Submit</button>
+	              </div>
+              </div>
+            </form>
+        </div>
+
+        <div class="col-sm-4">
+          <h4><b>International Institute of Professional Studies</b></h4>
+          <p>
+            TakshaShila Campus<br>
+			Khandwa Road, Indore<br>
+			Indore, India, 452001 
+          </p>
+          <p><i class="icon-phone"></i> <abbr title="Phone">P</abbr>: </p>
+          <p><i class="icon-envelope"></i> <abbr title="Email">E</abbr>: <a href="mailto:feedback@iips.edu.in">feedback@iips.edu.in</a></p>
+          <p><i class="icon-clock"></i> <abbr title="Hours">H</abbr>: Monday - Friday: 10:30 AM to 5:30 PM</p>
+
+            <a href="https://www.facebook.com/expressions12?ref=br_rs" target="_blank" align="left"><img src="http://www.niftybuttons.com/blue/facebook.png"></a>
+<a href="https://twitter.com" target="_blank" align="left"><img src="http://www.niftybuttons.com/blue/twitter.png"></a>
+    
+          
+        </div>
+
         </div>   
 	
 	<?php endblock(); ?>
