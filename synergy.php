@@ -1,4 +1,4 @@
-<?php include 'base_template_2_column.php' ?>
+<?php include 'base_full_width.php' ?>
 
 	<?php startblock('page_title'); ?>
 		Synergy
