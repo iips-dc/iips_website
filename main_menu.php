@@ -93,7 +93,7 @@
 
             <!-- Downloads -->
             <li class="dropdown">
-                <a href="downloads" class="dropdown-toggle">Downloads</a>
+                <a href="download" class="dropdown-toggle">Downloads</a>
              </li>
 
 
