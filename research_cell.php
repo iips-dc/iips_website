@@ -13,14 +13,14 @@
 	<?php startblock('sidemenu'); ?>
 
 		<ul class="nav side-tabs nav-pills">
-			<li class="active" ><a class="icon-chevron-sign-right" href="#tab1">  IIPS -Departmental Research Committee</a></li>
-			<li ><a class="icon-chevron-sign-right" href="#tab2"> Publication</a></li>
-			<li ><a class="icon-chevron-sign-right" href="#tab3"> Infrastructure</a></li>
-			<li ><a class="icon-chevron-sign-right" href="#tab4"> Ph.D. Supervisors </a></li>
-			<li ><a class="icon-chevron-sign-right" href="#tab5"> MRP-Mentors </a></li>         
-			<li ><a class="icon-chevron-sign-right" href="#tab6"> Technical Project Mentors </a></li>         			
-			<li ><a class="icon-chevron-sign-right" href="#tab7"> Research Scholar </a></li>         
-			<li ><a class="icon-chevron-sign-right" href="#tab8"> Faculty List </a></li>          
+			<li class="active btn-block" ><a class="icon-chevron-sign-right" href="#tab1">  Research Committee</a></li>
+			<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab2"> Publication</a></li>
+			<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab3"> Infrastructure</a></li>
+			<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab4"> Ph.D. Supervisors </a></li>
+			<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab5"> MRP-Mentors </a></li>         
+			<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab6"> Technical Project Mentors </a></li>         			
+			<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab7"> Research Scholar </a></li>         
+			<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab8"> Faculty List </a></li>          
 		</ul>
 
 	<?php endblock(); ?>
