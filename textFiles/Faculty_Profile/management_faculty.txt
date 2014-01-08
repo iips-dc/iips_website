@@ -1,0 +1,308 @@
+<table width="100%" align="center" border="1px" class="table" style = "cell-padding : 10px 10px 10px 10px ;text-align : justify ; ">
+<tbody><tr style=" background-color:#333333; color:#dddddd; margin:0px 0px 0px 20px; ">
+<td width="25%"><b>Name</b></td>
+<td width="20%"><b>Designation</b></td>
+<td width="35%"><b>Qualifications</b></td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td width="20%"><b>Responsibility</b></td>
+
+</tr>
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp; Anand K. Sapre</td>
+<td>Professor</td>
+<td>BE,MBA,Ph.D</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Director</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp;Ramkrishna Vyas</td>
+<td>Professor</td>
+<td>B.E, MBA,Ph.D,CAIIB</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Dean Faculty of Management</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp;B.K.Tripathi</td>
+<td>Professor</td>
+<td>M.Sc, PhD, MBA, Ph.D</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td> In-charge, Management Programs</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp;Yamini Karmarkar</td>
+<td>Reader</td>
+<td>B.Sc, MMS, Ph.D, FDP(IIMA), CPET(ISB)</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td> Program In-Charge, MBA (MS) 2 Yrs.</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp;Geeta Sharma</td>
+<td>Reader</td>
+<td>MBA, Ph.D</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Program In-Charge, MBA (MS) 5 Yrs. (UG)</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp;Geeta Nema</td>
+<td>Reader</td>
+<td>B.Sc, M.Sc, MBA, Ph.D</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td> Program In-Charge, MBA (MS) 5 Yrs. (PG)</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp;Jyoti Sharma</td>
+<td>Reader</td>
+<td>M.A(Psy), PGDCABM,Ph.D</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td> Program In-Charge, MBA (APR) 2 Yrs.</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp;Manish Sitlani</td>
+<td>Reader</td>
+<td>Ph.D, ACS, LLB(H), M.Com</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td> Program In-Charge, MBA (T) 2 Yrs.</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp;Preeti Singh</td>
+<td>Reader</td>
+<td>MBA, B.ED(DE), B.Com,Ph.D</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Co-ordinator-AntiRagging Committee, Co-ordinator Career Counselling Cell-DAVV, Academic Counsel Member</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp;Ravindra Yadav</td>
+<td>Senior Lecturer</td>
+<td>B.Sc, DEE, MBA, FDP-IIMA,Ph.D(Management)</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Incharge PMS</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp; Anshu Bhati</td>
+<td>Lecturer</td>
+<td>B.Sc(Electronics), MBA(APR),Ph.D</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp;Pooja Jain</td>
+<td>Lecturer</td>
+<td> Ph.D.,MBA(APR), B.Sc.</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp;Suresh Patidar</td>
+<td>Reader</td>
+<td>M.Com.(Management), LL.B. (Hons.), CS(Inter),UGC-NET, Ph.D.</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Program In-Charge, B.Com. (Hons.) 3 Yrs</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp;Sujata Parwani</td>
+<td>Lecturer</td>
+<td>M.Phil Eco.,Ph.D</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Mr.&nbsp;Gaurav Purohit</td>
+<td>Lecturer</td>
+<td>MTA</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Mr.&nbsp;Anil Goray</td>
+<td>Lecturer</td>
+<td>B.Sc, PGDBA, MBA, LLB(Hons) R Scholar</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Ms.&nbsp;Muskan Karamchandani</td>
+<td>Lecturer</td>
+<td>B.Com, MBA</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Mr.&nbsp;Surendra Malviya</td>
+<td>Lecturer</td>
+<td>MBA(e-commerce),PhD(pursuing)</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp;Kapil Jain</td>
+<td>Lecturer</td>
+<td>Ph.D,M.Phil,M.Com., B.Com. With Computer Application</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp; Manminder Singh Saluja</td>
+<td>Senior Lecturer</td>
+<td>Ph.D, M.Phil, M.A.(Economics)</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp;Nirmala Sawan</td>
+<td>Lecturer</td>
+<td>M.Sc(Statistics), Ph.D(Management)</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp;Shilpa Bagdare</td>
+<td>Lecturer</td>
+<td>MBA(Marketing),Ph.D(Management)</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Ms.&nbsp;Vibha Gupta</td>
+<td>Lecturer</td>
+<td>MBA(APR),CDAC,D.O.R.,FCLI (Aligarh)</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Ms.&nbsp;Shikha Chaturvedi</td>
+<td>Lecturer</td>
+<td>MBA(TA)</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Ms.&nbsp;Navneet Bhatia</td>
+<td>Lecturer</td>
+<td>MBA</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp;Prerna Kumar</td>
+<td>Lecturer</td>
+<td>MBA,Ph.D</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Mr.&nbsp;Naresh Dembla</td>
+<td>Lecturer</td>
+<td>B.E, MBA, ME(comp. Eng) , Ph.D(Pursuing)</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+</tbody></table>

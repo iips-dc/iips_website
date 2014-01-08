@@ -1,0 +1,209 @@
+<table width="100%" align="center" border="1px" class="table" style = "cell-padding : 10px 10px 10px 10px ;text-align : justify ; " >
+<tbody><tr style=" background-color:#333333; color:#dddddd; margin:0px 0px 0px 20px; ">
+<td width="25%"><b>Name</b></td>
+<td width="20%"><b>Designation</b></td>
+<td width="35%"><b>Qualifications</b></td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td width="20%"><b>Responsibility</b></td>
+
+</tr>
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp;Kirti Mathur</td>
+<td>Reader</td>
+<td>ME(CSE)</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td> In-charge, Computer Programs</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Mr.&nbsp;Ramesh Thakur</td>
+<td>Reader</td>
+<td>B.E(CS), ME, Ph.D(Pursuing)</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td> Program In-Charge, MCA 6 Yrs. (PG)</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Mr.&nbsp;Jugendra Dongre</td>
+<td>Reader</td>
+<td>B.Tech(CSE), M.Tech(CS)</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Program In-Charge, MCA 6 Yrs. (UG)</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Ms.&nbsp;Manju Suchdeo</td>
+<td>Reader</td>
+<td>M.Tech(CS), M.Sc(IT)</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td> Program In-Charge, M.Tech. (IT) 5 ½ Yrs</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Mr.&nbsp;Shaligram Prajapat</td>
+<td>Reader</td>
+<td>B.Sc(Electronics),M.Tech(CS), M.Sc(CS), UGC-NET(Computer Science and Applications )</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Incharge Development Center</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Ms.&nbsp;Shailvi Verma</td>
+<td>Lecturer</td>
+<td>M.SC(IT)</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Ms.&nbsp;Yasmin Shaikh</td>
+<td>Lecturer</td>
+<td>M.Tech.(CS), M.Sc.(CS), UGC-NET (CS)</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Mr.&nbsp;Rajesh Verma</td>
+<td>Lecturer</td>
+<td>B.Sc(Electronics), PGDCA, MCA</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Mr.&nbsp;Vivek Shrivastava</td>
+<td>Lecturer</td>
+<td>B. Sc. (CS), DCA, PGDCA, APGDCA, MCA, UGC-NET Qualified, M.Tech.(Computer Science),PhD(pursuing)</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Mr.&nbsp;Arpit Nema</td>
+<td>Lecturer</td>
+<td>B.Sc.(Computer Maintenance), MCA ,Ph.D. Course Work, Pursing Ph.D.</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Ms.&nbsp;Poonam Mangwani</td>
+<td>Lecturer</td>
+<td>ME</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Mr.&nbsp;Nitin Nagar</td>
+<td>Lecturer</td>
+<td>BCA,MCA,Ph.D(pursuing)</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Dr.&nbsp;Rahul Singhai</td>
+<td>Lecturer</td>
+<td>B.Sc,MCA,M.phil(CS),PhD(CS)</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Mr.&nbsp;Rupesh Sendre</td>
+<td>Lecturer</td>
+<td>B.Sc ,MCA</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Ms.&nbsp;Shraddha Soni</td>
+<td>Lecturer</td>
+<td>MCA</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Ms.&nbsp;Kirti Vijayvargiya</td>
+<td>Lecturer</td>
+<td>MCA,UGC-NET(CS)</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Mr.&nbsp;Pradeep K. Jatav</td>
+<td>Lecturer</td>
+<td>B.Sc(Statistics),	MCA</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+
+ <tr>
+<td style=" padding-left:20px;">Mr.&nbsp;Basant Namdeo</td>
+<td>Lecturer</td>
+<td>MCA</td>
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+<td>Batch Facilitator</td>
+
+</tr> 
+
+
+</tbody></table>

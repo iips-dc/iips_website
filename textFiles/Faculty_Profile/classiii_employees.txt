@@ -1,0 +1,373 @@
+<table width="100%" align="center" border="1px" class="table" style = "cell-padding : 10px 10px 10px 10px ;text-align : justify ; ">
+
+<tbody><tr style=" background-color:#333333; color:#dddddd; margin:0px 0px 0px 20px; ">
+
+<td><b>&nbsp;&nbsp;Name</b></td>
+
+<!--<td width="20%"><b>Designation</b></td>-->
+
+<!--<td width="35%"><b>Qualifications</b></td>-->
+
+<!--All data of class III Employee maintained in database by Bedi Sigh Yadav on 23 aug 2013-->
+
+<td><b>Responsibility</b></td>
+
+
+
+</tr>
+
+
+
+
+
+ <tr>
+
+<td style=" padding-left:20px;">Mr.&nbsp; S. Das</td>
+
+<!--<td>Class III Employee</td>-->
+
+<!--<td></td>-->
+
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+
+<td>Account Section</td>
+
+
+
+</tr> 
+
+
+
+
+
+
+
+ <tr>
+
+<td style=" padding-left:20px;">Mr.&nbsp;Bhupendra Verma</td>
+
+<!--<td>Class III Employee</td>-->
+
+<!--<td></td>-->
+
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+
+<td>Account Section</td>
+
+
+
+</tr> 
+
+
+
+
+
+
+
+ <tr>
+
+<td style=" padding-left:20px;">Mr.&nbsp;Yogesh Shukla</td>
+
+<!--<td>Class III Employee</td>-->
+
+<!--<td></td>-->
+
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+
+<td>Examination</td>
+
+
+
+</tr> 
+
+
+
+
+
+
+
+ <tr>
+
+<td style=" padding-left:20px;">Mr.&nbsp;Sachin Pradhan</td>
+
+<!--<td>Class III Employee</td>-->
+
+<!--<td></td>-->
+
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+
+<td>Result Section</td>
+
+
+
+</tr> 
+
+
+
+
+
+
+
+ <tr>
+
+<td style=" padding-left:20px;">Mr.&nbsp;Nilesh Thakur</td>
+
+<!--<td>Class III Employee</td>-->
+
+<!--<td></td>-->
+
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+
+<td>Result Section</td>
+
+
+
+</tr> 
+
+
+
+
+
+
+
+ <tr>
+
+<td style=" padding-left:20px;">Ms.&nbsp;Purnima Yadav</td>
+
+<!--<td>Class III Employee</td>-->
+
+<!--<td></td>-->
+
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+
+<td>Student Section</td>
+
+
+
+</tr> 
+
+
+
+
+
+
+
+ <tr>
+
+<td style=" padding-left:20px;">Mr.&nbsp;Gajendra Parmar</td>
+
+<!--<td>Class III Employee</td>-->
+
+<!--<td></td>-->
+
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+
+<td>Post Metric Scholarship</td>
+
+
+
+</tr> 
+
+
+
+
+
+
+
+ <tr>
+
+<td style=" padding-left:20px;">Ms.&nbsp; Neeta Choudhary</td>
+
+<!--<td>Class III Employee</td>-->
+
+<!--<td></td>-->
+
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+
+<td>Purchase</td>
+
+
+
+</tr> 
+
+
+
+
+
+
+
+ <tr>
+
+<td style=" padding-left:20px;">Mrs.&nbsp;Aruna Verma</td>
+
+<!--<td>Class III Employee</td>-->
+
+<!--<td></td>-->
+
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+
+<td>Student Certificates</td>
+
+
+
+</tr> 
+
+
+
+
+
+
+
+ <tr>
+
+<td style=" padding-left:20px;">Mr.&nbsp;Pankaj Tripathi</td>
+
+<!--<td>Class III Employee</td>-->
+
+<!--<td></td>-->
+
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+
+<td>Dispatch</td>
+
+
+
+</tr> 
+
+
+
+
+
+
+
+ <tr>
+
+<td style=" padding-left:20px;">Mr.&nbsp;Abhishek Nema</td>
+
+<!--<td>Class III Employee</td>-->
+
+<!--<td></td>-->
+
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+
+<td>Library Section</td>
+
+
+
+</tr> 
+
+
+
+
+
+
+
+ <tr>
+
+<td style=" padding-left:20px;">Mr.&nbsp; Abhya Mishra</td>
+
+<!--<td>Class III Employee</td>-->
+
+<!--<td></td>-->
+
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+
+<td>Library Section</td>
+
+
+
+</tr> 
+
+
+
+
+
+
+
+ <tr>
+
+<td style=" padding-left:20px;">Mr.&nbsp;Naim Khan</td>
+
+<!--<td>Class III Employee</td>-->
+
+<!--<td></td>-->
+
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+
+<td>Library Section</td>
+
+
+
+</tr> 
+
+
+
+
+
+
+
+ <tr>
+
+<td style=" padding-left:20px;">Mrs.&nbsp; Alka Lad</td>
+
+<!--<td>Class III Employee</td>-->
+
+<!--<td></td>-->
+
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+
+<td>Library Section</td>
+
+
+
+</tr> 
+
+
+
+
+
+
+
+ <tr>
+
+<td style=" padding-left:20px;">Mrs.&nbsp;S.L. Pandey</td>
+
+<!--<td>Class III Employee</td>-->
+
+<!--<td></td>-->
+
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+
+<td>Library Section</td>
+
+
+
+</tr> 
+
+
+
+
+
+
+
+ <tr>
+
+<td style=" padding-left:20px;">Mrs.&nbsp;Damyanti Kusumakar</td>
+
+<!--<td>Class III Employee</td>-->
+
+<!--<td></td>-->
+
+<!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
+
+<td>Library Section</td>
+
+
+
+</tr> 
+
+
+
+
+
+</tbody></table>
