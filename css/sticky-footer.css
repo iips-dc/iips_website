@@ -23,6 +23,12 @@ body {
 -------------------------------------------------- */
 /* Not required for template or sticky footer method. */
 
+.container {
+  width: auto;
+  max-width: 960px;
+  padding: 0 15px;
+}
+
 .container .credit {
   margin: 20px 0;
 }
