@@ -2,6 +2,7 @@
 	<script src="jsLibrary/jquery-1.7.2.min.js"></script>
     <script src="dist/js/bootstrap.js"></script>
 	<script src="jsLibrary/jquery.quote_rotator.js"></script>
+	<script src="js/knockout-2.3.0.js"></script>
 	<script>
 		$(document).ready(function() {
 			//Code for Permalink - showing sidebar content for a specific URL e.g. - example.com#tab1 .
