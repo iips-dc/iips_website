@@ -83,9 +83,8 @@
 	        include('footer.php');
 			include('jsLinks.php');
 		?>
-		<!-- Include Scripts for vertical tabs-->
+		<!-- Include Scripts-->
 		<script type="text/javascript" src="js/jQuery-hashchange.js"></script>       
-        <script type="text/javascript" src="js/vtab-script.js"></script>
 
 	<!-- Script (JS files) block Start -->
 	<?php startblock('script'); ?>
