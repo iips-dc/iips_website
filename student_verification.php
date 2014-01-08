@@ -20,10 +20,51 @@
 		</div>
 		<div class="col-md-8">
 			<div class="input-group">
-			  <input type="text" class="form-control" placeholder="Enter The Student's Name">
-			  <span class="input-group-btn">
+				
+				<label>Name</label>
+			  	<input type="text" class="form-control" placeholder="Enter The Student's Name"> <span style="font-size: 14px;">Ex- Naman Soni</span>
+			  	<br>
+			 	<br>
+
+			 	<label>Select Course</label>
+
+			  <select class="form-control">
+			  		<option>MCA</option>
+			  		<option>Mtech</option>
+			  		<option>MBA 5 years</option>
+			  		<option>MBA TA years</option>
+			  		<option>MBA APR years</option>
+			  		
+			  </select>
+			  <br><br>
+
+			  <label>Enter Roll Number</label>
+			  <input type="text" class="form-control" placeholder= "Enter the Roll Number" >
+			  <span style="font-size: 14px;">Ex- IT-2K9-81 </span>
+			  <br><br>
+
+			  <label>Enter Enrollment Number</label>
+			  <input type="text" class="form-control" placeholder= "Enter the Enrollemt Number" >
+			  <span style="font-size: 14px;">Ex- DE/09/193</span>
+
+
+			  <br><br>
+			  <center>
+			  <button class="btn btn-primary" data-bind='click: verifyStudent, disable: hasClickedTooManyTimes'>
+			  	Submit
+			  </button>
+
+			  </center>
+			  <br>
+			  <div class="col-md-12"  data-bind='visible: hasClickedTooManyTimes'>
+			  Result: Yes the following student exist in our Database. Click <a href="#">here </a>to clear the form and search for another student: <a href="#">Search another student</a>
+			  </div>
+
+
+			  
+			 <!--  <span class="input-group-btn">
 				<button class="btn btn-primary icon-search" type="button"></button>
-			  </span>
+			  </span> -->
 			</div><!-- /input-group -->
 		</div>
 		<div class="col-md-2">
@@ -31,5 +72,11 @@
 		</div>
 	</div>
 	<!-- End of 3rd row class -->
-	<?php endblock(); ?>      
+	<?php endblock(); ?>    
+
+
+	<?php startblock('script') ; ?>
+
+	
+	<?php endblock() ; ?>  
 	   
