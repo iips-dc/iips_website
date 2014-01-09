@@ -50,13 +50,13 @@
 
 			  <br><br>
 			  <center>
-			  <button class="btn btn-primary" data-bind='click: verifyStudent, disable: hasClickedTooManyTimes'>
+			  <button class="btn btn-primary">
 			  	Submit
 			  </button>
 
 			  </center>
 			  <br>
-			  <div class="col-md-12"  data-bind='visible: hasClickedTooManyTimes'>
+			  <div class="col-md-12">
 			  Result: Yes the following student exist in our Database. Click <a href="#">here </a>to clear the form and search for another student: <a href="#">Search another student</a>
 			  </div>
 
@@ -66,6 +66,17 @@
 				<button class="btn btn-primary icon-search" type="button"></button>
 			  </span> -->
 			</div><!-- /input-group -->
+			
+			<b><h3>KnockOut Testing : Type in the below inputbox.</h3></b><br>
+			<div class="input-group">
+			  <input type="text" class="form-control" data-bind="value: studentName, valueUpdate: 'afterkeydown'" placeholder="Enter The Student's Name">
+			  <span class="input-group-btn">
+				<button class="btn btn-primary icon-search" type="button"></button>
+			  </span>
+			</div><br><!-- /input-group -->
+			<div data-bind="text: studentName">
+				
+			</div>
 		</div>
 		<div class="col-md-2">
 			<!-- left blank intentionally -->
@@ -76,7 +87,12 @@
 
 
 	<?php startblock('script') ; ?>
-
+		<script>
+			var verifyStudentModel = {
+				studentName: ko.observable()
+			}
+			ko.applyBindings(verifyStudentModel);
+		</script>
 	
 	<?php endblock() ; ?>  
 	   
