@@ -58,6 +58,7 @@
                   <ul class="dropdown-menu">
                       <li><a href="academic_calender">Academic Calender</a></li>
                       <li><a href="syllabus">Syllabus</a></li>
+					  <li><a href="result">Results</a></li>
                       <li><a href="notice_announcement">Notices and Announcements</a></li> 
                       <li><a href="news">News</a></li>
                   </ul>
