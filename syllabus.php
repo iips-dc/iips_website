@@ -29,6 +29,7 @@
                      <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaMS">  MBA(MS)</a></li>
 					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaAPR">  MBA(APR)</a></li>
 					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaTA">  MBA(TA)</a></li>
+					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaFT">  MBA(FT)-2Years</a></li>
                      <li class="btn-block"><a class="icon-chevron-sign-right" href="#bCom">  B.Com(hons)</a></li>
                	   </ul>
 
@@ -241,66 +242,45 @@
 					<div class="row margin-top">
 						<div class="col-md-1">
 						</div>
-						<div class="col-md-5">
-							<div class="text-primary text-center"><h5><b>Semester - I </b></h5></div>
-							<ul>
-								<li>Fundamentals of Tourism<l/i>
-								<li>Marketing for Tourism</li>
-								<li>Geography for Tourism</li>
-								<li>Principles & Practices of Management<l/i>
-								<li>Quantitative Techniques & Business Statistics<l/i>
-								<li>Business Communication & Personality Development</li>
-							</ul>
+						<div class="row margin-top">
+							<div class="col-md-1">
+							</div>
+							<div class="col-md-4 text-center">
+								Semester - I  - <a href="downloads/syllabus/MBA-TA-2Years/I-sem-TA-Syllabus.pdf">Download</a>
+							</div>
+							<div class="col-md-4 text-center">
+								Semester - II - <a href="downloads/syllabus/MBA-TA-2Years/II-sem-TA-Syllabus.pdf">Download</a>
+							</div>
+							<div class="col-md-1">
+							</div>
 						</div>
-						<div class="col-md-5">
-							<div class="text-primary text-center"><h5><b>Semester - II </b></h5></div>
-							<ul>
-								<li>Tourism Products of India <l/i>
-								<li>International Tourism</li>
-								<li>Cargo Management I</li>
-								<li>Financial & Cost Accounting<l/i>
-								<li>Computer Applications<l/i>
-								<li>Travel Agency & Tour Operations</li>
-								<li>French I</li>
-								<li>Summer Training (8 weeks)</li>
-							</ul>
-						</div>
-						<div class="col-md-1">
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-1">
-						</div>
-						<div class="col-md-5 margin-top">
-							<div class="text-primary text-center"><h5><b>Semester - III </b></h5></div>
-							<ul>
-								<li>Airline Management</li>
-								<li>Cargo Management</li>
-								<li>Conference, Convention & Event Management<l/i>
-								<li>Human Resource Management</li>
-								<li>Financial Management</li>
-								<li>French II</li>
-								<li>Hotel Operations & Management </li>
-							</ul>
-						</div>
-						<div class="col-md-5 margin-top">
-							<div class="text-primary text-center"><h5><b>Semester - IV </b></h5></div>
-							<ul>
-								<li>Foreign Exchange Management</li>
-								<li>Marketing Strategies for Service Industry</li>
-								<li>Organizational Behavior</li>
-								<li>Major Research Project</li>
-								<li>E-commerce in Tourism</li>
-								<li>French III </li>
-							</ul>
+						<div class="row">
+							<div class="col-md-1">
+							</div>
+							<div class="col-md-4 text-center margin-top">
+								Semester - III - <a href="downloads/syllabus/MBA-TA-2Years/III-sem-TA-Syllabus.pdf">Download</a>
+							</div>
+							<div class="col-md-4 text-center margin-top">
+								Semester - IV - <a href="downloads/syllabus/MBA-TA-2Years/IV-sem-TA-Syllabus.pdf">Download</a>
+							</div>
+							<div class="col-md-1 text-center">
+								
+							</div>
 						</div>
 						<div class="col-md-1">
 						</div>
 					</div>
+					
 				</div>
 				
+				<div id="mbaFT" class="tab-content hide">
+					<div class="text-center text-primary"><h4 ><b>MBA(FT) - Syllabus</b></h4></div><br>
+					To download complete syllabus - <a href="downloads/syllabus/MBA-FT-2Years/MBA-2yrs-FT-syllabus.pdf">Click Here</a>
+                </div><!--.tab-content Ended -->
+				
                 <div id="bCom" class="tab-content hide">
-						<h5 class="alert alert-danger text-center">No Syllabus Has Been Uploaded Yet !</h5>
+					<div class="text-center text-primary"><h4 ><b>B.Com(Hons.) - Syllabus</b></h4></div><br>
+					<h5 class="alert alert-danger text-center">No Syllabus Has Been Uploaded Yet !</h5>
                 </div><!--.tab-content Ended -->
 
              <?php endblock(); ?>
