@@ -24,12 +24,12 @@
 
 					
                   <ul class="nav side-tabs nav-pills">
-                   	 <li class="active btn-block"><a class="icon-chevron-sign-right" href="#mca">  MCA-6Year</a></li>
-                     <li class="btn-block"><a class="icon-chevron-sign-right" href="#mtech">  M.Tech(IT)</a></li>
-                     <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaMS">  MBA(MS)</a></li>
-					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaAPR">  MBA(APR)</a></li>
-					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaTA">  MBA(TA)</a></li>
-					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaFT">  MBA(FT)-2Years</a></li>
+                   	 <li class="active btn-block"><a class="icon-chevron-sign-right" href="#mca">  MCA-6Years</a></li>
+                     <li class="btn-block"><a class="icon-chevron-sign-right" href="#mtech">  M.Tech(IT)5 1/2Years</a></li>
+                     <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaMS">  MBA(MS)5Years</a></li>
+					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaAPR">  MBA(APR)2Years</a></li>
+					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaTA">  MBA(TA)2Years</a></li>
+					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaFT">  MBA(MS)-2Years</a></li>
                      <li class="btn-block"><a class="icon-chevron-sign-right" href="#bCom">  B.Com(hons)</a></li>
                	   </ul>
 
@@ -280,7 +280,28 @@
 				
                 <div id="bCom" class="tab-content hide">
 					<div class="text-center text-primary"><h4 ><b>B.Com(Hons.) - Syllabus</b></h4></div><br>
-					<h5 class="alert alert-danger text-center">No Syllabus Has Been Uploaded Yet !</h5>
+					<div class="row">
+						<div class="col-md-4 text-center margin-top">
+							Semester - I - <a href="downloads/syllabus/Bcom Hons- SC Patidar/B. Com. (H) revised Syllabus SEM I.pdf">Download</a>
+						</div>
+						<div class="col-md-4 text-center margin-top">
+							Semester - II - <a href="downloads/syllabus/Bcom Hons- SC Patidar/revised syllabus Bcom(H) II sem-SC PATIDAR.pdf">Download</a>
+						</div>
+						<div class="col-md-4 text-center margin-top">
+							Semester - III - <a href="downloads/syllabus/Bcom Hons- SC Patidar/B.Com(H) III Sem revised syllabusSC PATIDAR.pdf">Download</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-4 text-center margin-top">
+							Semester - IV - <a href="downloads/syllabus/Bcom Hons- SC Patidar/B. Com. SEM IV revised syllabusSC PATIDAR.pdf">Download</a>
+						</div>
+						<div class="col-md-4 text-center margin-top">
+							Semester - V - <a href="downloads/syllabus/Bcom Hons- SC Patidar/Final Syll. B. Com. Sem V-SC PATIDAR.pdf">Download</a>
+						</div>
+						<div class="col-md-4 text-center margin-top">
+							Semester - VI- <a href="downloads/syllabus/Bcom Hons- SC Patidar/Syllabus -VI-SC PATIDAR.pdf">Download</a>
+						</div>
+					</div>
                 </div><!--.tab-content Ended -->
 
              <?php endblock(); ?>
