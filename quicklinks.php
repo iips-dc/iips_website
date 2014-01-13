@@ -25,6 +25,12 @@
 						<div class="col-md-2">
 							<i class="icon-circle-arrow-right"></i> <a href="#">Press Release</a>
 						</div>
+						<div class="col-md-2">
+							<i class="icon-circle-arrow-right"></i> <a href="iqac.php">IQAC</a>
+						</div>
+						<div class="col-md-2">
+							<i class="icon-circle-arrow-right"></i> <a href="">Greviances</a>
+						</div>
 						
 					</div>
 				  
