@@ -124,7 +124,7 @@ and testimonial section -->
   
   	 <div class="col-md-3 testimonial text-center">
   		<!-- testimonial started -->
-		<div class="panel panel-default  boxShadow" style="height:180px;">
+		<div class="panel panel-default  boxShadow" style="height:180px; margin-left:-35px;">
 			<div class="panel-heading">
 				<h3 class="panel-title">Testimonials</h3>
 			</div>
