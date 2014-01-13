@@ -1,6 +1,10 @@
 <!--This page serves the content for Home page. It includes
 slider, notice, news_events box, Link to quicklink file
 and testimonial section -->
+<center style="color: Blue">Astra</center>
+<center style="color:red;">This is the Beta Version of IIPS Website . Kindly leave your 
+	<a href="https://docs.google.com/a/iips.edu.in/forms/d/1l3vtqwVc3oYDmqSayiJ-Txoc4wUP4DLfeZmfp8fwhtM/viewform" target="blank">
+	feedback</a></center>
 
 <div class="container" style=" background-color:#FFFFFF; ">
 	<br><br>
@@ -12,12 +16,12 @@ and testimonial section -->
 
 			<div class="slider-wrapper theme-default">
 				<div id="slider" class="nivoSlider">
-					<img src="images/slider/1.jpg" />
-					<img src="images/slider/2.jpg" title="This is an example of a caption" /></a>
-					<img src="images/slider/3.jpg" data-transition="slideInLeft" />
-					<img src="images/slider/4.jpg" title="#htmlcaption" />
-					<img src="images/slider/5.jpg" title="#htmlcaption" />
-					<img src="images/slider/6.jpg" title="#htmlcaption" />
+					<img src="images/slider/1.jpg" title="Our culture is to involve everyone"/>
+					<img src="images/slider/2.jpg" title="We believe in presenting our best to the world" /></a>
+					<img src="images/slider/3.jpg" title="Multimedia Lecture Theater" data-transition="slideInLeft" />
+					<img src="images/slider/4.jpg" title="We are highly focused on the quality of education" />
+					<img src="images/slider/5.jpg" title="Quiz @IIPS"/>
+					<img src="images/slider/6.jpg" title="Dedication is the key to success" />
 				</div>
 				<div id="htmlcaption" class="nivo-html-caption">
 					<!-- <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>.  -->
