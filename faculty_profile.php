@@ -16,9 +16,7 @@
 			<li class="active btn-block" ><a class="icon-chevron-sign-right" href="#tab1">  Faculty Profile</a></li>
 			<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab2"> Computer Faculty</a></li>
 			<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab3"> Management Faculty</a></li>
-			<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab4"> Non Teaching Staff</a></li>
-			<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab5"> Class III Employees</a></li>         
-			<li class="btn-block"><a class="icon-chevron-sign-right" href="#tab6"> Class IV Employees</a></li>         			
+	       			
 			
 		</ul>
 
@@ -46,27 +44,7 @@
                           ?>
                        </div>
 
-                        <div id="tab4"  class="tab-content hide">
-                          <?php 
-                            $nonteachingStaff ="textFiles/Faculty_Profile/nonteaching_staff.txt";  
-                            readTextFiles($nonteachingStaff);
-                          ?>
-                       </div>
-
-                        <div id="tab5"  class="tab-content hide">
-                          <?php 
-                            $classiiiEmployees ="textFiles/Faculty_Profile/classiii_employees.txt";  
-                            readTextFiles($classiiiEmployees);
-                          ?>  
-                       </div>
-
-                        <div id="tab6"  class="tab-content hide">
-                          <?php 
-                            $classivEmployees ="textFiles/Faculty_Profile/classiv_employees.txt";  
-                            readTextFiles($classivEmployees);
-                          ?>
-                       </div>
-
+                      
                        
      <?php endblock(); ?> 
 
