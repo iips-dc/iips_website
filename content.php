@@ -1,4 +1,4 @@
-<!-- This page serves the content for Home page. It includes
+This page serves the content for Home page. It includes
 slider, notice, news_events box, Link to quicklink file
 and testimonial section -->
 
@@ -12,14 +12,15 @@ and testimonial section -->
 
 			<div class="slider-wrapper theme-default">
 				<div id="slider" class="nivoSlider">
-					<img src="images/slider/iips2.jpg" />
-					<img src="images/slider/iips8.jpg" title="This is an example of a caption" /></a>
-					<img src="images/slider/iips6.jpg" data-transition="slideInLeft" />
-					<img src="images/slider/iips1.jpg" title="#htmlcaption" />
-					<img src="images/slider/iips5.jpg" title="#htmlcaption" />
+					<img src="images/slider/1.jpg" />
+					<img src="images/slider/2.jpg" title="This is an example of a caption" /></a>
+					<img src="images/slider/3.jpg" data-transition="slideInLeft" />
+					<img src="images/slider/4.jpg" title="#htmlcaption" />
+					<img src="images/slider/5.jpg" title="#htmlcaption" />
+					<img src="images/slider/6.jpg" title="#htmlcaption" />
 				</div>
 				<div id="htmlcaption" class="nivo-html-caption">
-					<strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>. 
+					<!-- <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>.  -->
 				</div>
 			</div>
 		   </div>
@@ -31,11 +32,15 @@ and testimonial section -->
 					<h3 class="panel-title">Notice & Announcements</h3>
 				</div>
 				<div class="panel-body" align="left">
+				
+
 				  <a href="#"> <i class="icon-pushpin"></i> NAAC - Arrival in New Year 2014 !  </a><br>
 				  <a href="#"> <i class="icon-pushpin"></i> College reopen date has been decided ! </a><br>
 				  <a href="#"> <i class="icon-pushpin"></i> Guest Lecture on "Artificial Intelligence" </a><br>
 				  <a href="#"> <i class="icon-pushpin"></i> Download admit card from MPOnline </a><br>
 				  <a href="#"> <i class="icon-pushpin"></i> Last Date of Scholarship Form is 22nd Sept 2013 </a><br>
+				  <a href="#"> <i class="icon-pushpin"></i> NAAC Coming Soon </a>
+
 				</div>
 				<div class="panel-footer">
 					<a href="notice_announcement.php"><b>View All &raquo;</b></a>
@@ -150,4 +155,4 @@ and testimonial section -->
 	  </div><!--col-md-4 ended -->
   </div><!--row Class ended -->
 </div>
-<!-- container class ended -->
+<!-- container class ended
