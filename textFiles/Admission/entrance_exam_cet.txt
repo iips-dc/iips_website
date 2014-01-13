@@ -46,18 +46,25 @@ SC/ST  OBC  Women  Persons with varied disabilities  Economically we
 <b><u> Minimum Percentage for Admissions and Eligibility for Appearing in Entrance Test</u></b>
 <p>
 
-<li> Minimum percentage and admission criteria for admission to courses being offered by the University are
+
+
+<li style = "text-align:justify;"> Minimum percentage and admission criteria for admission to courses being offered by the University are
 mentioned in the table 1 & 2 of this document. A relaxation of 5% in the
 eligibility criteria shall be admissible to the bonafide SC/ST applicants of Madhya Pradesh only. A relaxation of
 5% in eligibility will also be applicable to Physically Challenged (Nishaktjan) as defined by M.P. Government.
-<li> The candidates awaiting their results of qualifying examination can also apply for admission but the
+</li>
+<li style = "text-align:justify;"> The candidates awaiting their results of qualifying examination can also apply for admission but the
 candidate has to submit the final mark sheet of qualifying examination by the date as
 decided by the University.
-<li> Candidates who have passed their qualifying examination from universities other than Devi Ahilya
+</li>
+<li style = "text-align:justify;"> Candidates who have passed their qualifying examination from universities other than Devi Ahilya
 University are required to submit Eligibility Certificate issued by the Devi Ahilya University, Indore.
-<li> Fresh admission will be given only in first semester / first year of the course.
+</li>
+<li style = "text-align:justify;"> Fresh admission will be given only in first semester / first year of the course. </li>
 <br/><bR/>
+
 <b><u>AGE LIMIT</u></b><br/>
+<p style = "text-align:justify;">
 As per the government rules the upper age limit for admission to undergraduate courses is 22 years whereas for
 postgraduate degree courses it is 27 years as on July 01, of the examination year. And 25 and 30 years respectively for
 SC / ST / OBC and physically handicapped candidate shall be provided for the applicants of Madhya Pradesh
@@ -65,7 +72,8 @@ only. For candidate belonging to physically challenged category upper age limit 
 Post Graduate classes will be 30 and 35 years, respectively. There is no upper age limit for female, MBA (HA 2
 yrs) and LL.M. candidates. For B.A. LL.B. course, upper age limit is 20 yrs for general category and 22 yrs. For
 SC/ ST/ OBC.
-<BR/><BR/>
+</p>
+<BR/>
 <u><b> NON ELIGIBILITY FOR ADMISSION</b></u><br/>
 <li> If the age is more than the requisite age.
 <li>Applicants who are already holding a Master’s degree from a faculty shall not be eligible for the
@@ -81,6 +89,7 @@ working hours. However, they can take admission in courses run after regular wor
 will have to produce a No Objection Certificate (NOC) from their employer.<br/>
 <br/>
 <b><u> ADMISSION TO N.R.I AND PIO / FOREIGN NATIONALS</b></u><br/>
+<p style = "text-align:justify;">
   A. Foreign Nationals / Person of Indian Origin (PIO) : 
 (a) Foreign Nationals : Citizen of all countries other than who are not of India origin as defined under PIO.
 Foreign student in this context shall be defined as the student who possesses the foreign passport.
@@ -144,10 +153,12 @@ separately along with the following documents :<br/>
 <li> Eligibility certificate from the University.
 <li> Certificate issued by Indian Diplomatic Mission or Chancellor or Commission abroad under their seal stating
 that the father/parent of the applicant is an Indian resident in that country.
+</p>
 <br/><br/>
 
 <a name="4"></a>
 <h4 align="center"> <b><u> RESERVATION POLICY AND CONVERSION OF SEATS</u> </b></h4><br/>
+<p style = "text-align:justify;">
 <li>Reservation of seats in courses offered by the University will be in accordance with the policy of Madhya
 Pradesh Government. The benefit of reservation will be available, only to the domiciles of Madhya Pradesh.
 <li>Of the total seats, 16 % and 20 % seats in courses will be reserved for applicants belonging to
@@ -194,15 +205,19 @@ One seat in each programme shall be reserved on over and above basis for residen
 candidates seeking admission against these reserved seats shall be required to appear in Common Entrance Test
 conducted by University and submit appropriate certificate issued by the competent authority at the time of
 counseling. This reservation shall be over and above the sanctioned intake.
+</p>
 <br/><br/>
 
 <a name="5"></a>
 <h4 align="center"><u> <b> ENTRANCE TEST </b></u></h4>
 <h4><b><u>Courses After 10+2</u></b></h4>
+<p style = "text-align:justify;">
 The papers will have objective type questions, having choices a, b, c, d and e each. The response sheet should
 be carefully filled up by the candidate as instructed on the question-paper booklet. The written test papers will
 be in English. The candidate can opt for all the groups test, if eligible. The test timings will be different.<br/><br/>
-<b>1.</b> The Test for <b>Group B & G</b> shall include 75 questions in all, following section will have 15 questions each
+
+</p>
+<b>1.</b> The Test for <b>Group B & G  </b> shall include 75 questions in all, following section will have 15 questions each
 <li> Quantitative Ability
 <li> Data Interpretation
 <li> Logical Reasoning and General Intelligence
@@ -249,19 +264,22 @@ and venue of test will be given along with admit card. University reserves the r
 another center.
 <br/><br/>
 <h4><b><u>Admission in the Examination Hall :</u></b></h4>
-<li> Candidates shall be strictly under the administrative control of the Centre Superintendent during the test.
-<li> Mobile Phone, Pager, Calculator and other similar electronic equipments shall not be allowed in the
+<li style = "text-align:justify;"> Candidates shall be strictly under the administrative control of the Centre Superintendent during the test.
+<li style = "text-align:justify;"> Mobile Phone, Pager, Calculator and other similar electronic equipments shall not be allowed in the
 examination hall.
 <li> Use of any kind of unfair means in the examination shall automatically disqualify the candidature.
 <br/>
 <h4><b><u>Valuation :</u></b></h4>
 The scheme of negative marking will be followed.
 <h4><b><u>Declaration of Result:</u></b></h4>
+<p style = "text-align:justify;">
 The list of all candidates who appear for the Entrance Test, Category wise/ group-wise, indicating their merit
 will be displayed on the University/ Individual institute notice boards as well as on the University website
 (www.dauniv.ac.in). However candidates in their order of merit in different categories will be called for
 counseling. The selection of a candidate for a particular programme shall be decided by the Admission
 Committee at the time of counseling.
+</p>
+
 <h4><b><u> In case of tie at the same rank :</h4></b></u>
 In case of Tie (more than one student on the same rank) in the admission on any rank, admission will be given
 as under :<br/>
@@ -291,7 +309,7 @@ Attested)
 <br/>10. M.P. Domicile Certificate Original (For Verification)+ 1 Photocopy (Self Attested)
 <br/>11 Affidavits for Gap in studies (if applicable) Original + 1 Photocopy (Self Attested)
 <br/>
-<h4><b><u> Refund of Fee</h4></b></u>
+<center> <h4><b><u> Refund of Fee</h4></b></u> </center>
 1.If any candidate leaves the course before the last counseling day the fee will be returned to him/her after
 deducting 10% of the fees deposited by him/her. Only caution money will be refunded if a candidate leaves any
 course after the said date.<br/>
