@@ -43,6 +43,8 @@
 			 		<ul>
 			 			<li><a href="https://www.youtube.com/channel/UCvkrLS9liClPmUmcNGBIAPA">Our Youtube Channel</a></li>
 			 			<li><a href=""> IIPS-Analysis and Design of Algorithms  Class</a></li>
+			 			<li><a href="https://docs.google.com/a/iips.edu.in/forms/d/1SHUuKErutNFb1-u_gJ8a-0-JqxXy1KCmVc-FuqOrNNc/viewform">
+			 			 Submit your YouTube Channel Here</li>
 			 			
 			 		</ul>
 
@@ -123,10 +125,59 @@
 
 			 	<h5>Here are some of the popular ones </h5>
 
-			 	<iframe width="420" height="345"
-			 	src="http://www.youtube.com/embed/XGSy3_Czz8k">
-			 	</iframe>
+			 	<div class="col-md-12">
+			 			<div class="col-md-4">
+			 				<iframe class="youtube_frame"
+			 				src="http://www.youtube.com/embed/J5bxDtP8Qhc ">
+			 				</iframe>
 
+			 				<label> <a href="">   CSS menu P3 </a> </label>
+			 			</div>
+
+			 			<div class="col-md-4">
+			 				<iframe class="youtube_frame"
+			 				src="http://www.youtube.com/embed/nEbdvilCtes">
+			 				</iframe>
+
+			 				<label> <a href="">   How to create a blog </a> </label>
+			 			</div>
+
+			 			<div class="col-md-4">
+			 				<iframe class="youtube_frame"
+			 				src="http://www.youtube.com/embed/wnKDeAT7-M4">
+			 				</iframe>
+
+			 				<label> <a href="">   CSS menu P5 last </a> </label>
+			 			</div>
+
+			 	</div>
+
+			 	<div class="col-md-12">
+			 			<div class="col-md-4">
+			 				<iframe class="youtube_frame"
+			 				src="http://www.youtube.com/embed/Vm9i_skD-Gg">
+			 				</iframe>
+
+			 				<label> <a href="">   First Video HTML CSS </a> </label>
+			 			</div>
+
+			 			<div class="col-md-4">
+			 				<iframe class="youtube_frame"
+			 				src="http://www.youtube.com/embed/YAedYYGJiPs">
+			 				</iframe>
+
+			 				<label> <a href="">   CSS menu P4 </a> </label>
+			 			</div>
+
+			 			<div class="col-md-4">
+			 				<iframe class="youtube_frame"
+			 				src="http://www.youtube.com/embed/-Lf4WcJHJxU">
+			 				</iframe>
+
+			 				<label> <a href="">   How to use CSS with HTML </a> </label>
+			 			</div>
+
+			 	</div><br>
 
 
 			</div>
@@ -167,7 +218,7 @@
 			 				<label> <a href="">   Write your first python script with Best Python IDE's </a> </label>
 			 			</div>
 
-			 		</div><br>
+			 	</div><br>
 
 			 	<div class="col-md-12">
 			 			<div class="col-md-4">
