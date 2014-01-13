@@ -130,9 +130,9 @@ and testimonial section -->
 			</div>
 			<div class="panel-body">
 
-			  <ul id="button_quotes" style=" list-style-type:none;  margin-left:-20px;">
-				<li>
-					" We Can't wait to see this
+			  <ul id="button_quotes" style=" list-style-type:none;  margin-left:-55px;">
+				<li style="text-align:justify ;">
+					"We Can't wait to see this
 					Website on internet "<br><br>
 					<cite>- World</cite></pre>
 				</li>
