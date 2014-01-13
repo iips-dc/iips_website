@@ -1,4 +1,4 @@
-This page serves the content for Home page. It includes
+<!--This page serves the content for Home page. It includes
 slider, notice, news_events box, Link to quicklink file
 and testimonial section -->
 

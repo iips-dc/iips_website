@@ -19,6 +19,16 @@
 
 		}
 
+		.text-justify p{
+			text-align: justify;
+
+		}
+
+		.text-justify p li{
+			text-align: justify;
+
+		}
+
 		.navbar-default
 		{
 			background: rgb(42,52,81);

@@ -8,8 +8,8 @@
 			</div>
 			<div class="col-md-4">
 				<a href="about_developers">About Developers</a> &middot; <a href="sitemap">Sitemap</a><br />
-				<a href="dc">Developed @ Developmet Center</a>
-				<a href="#">Copyrights Reserved</a>
+				<a href="dc">Developed @ Developmet Center</a><br>
+				Copyrights Reserved
 			</div>
 			<div class="col-md-4">
 				Stay Connected : <br>

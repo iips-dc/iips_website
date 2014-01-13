@@ -1,4 +1,4 @@
-<?php include 'base_template_2_column.php' ?>
+	<?php include 'base_template_2_column.php' ?>
 	
 	<?php startblock('page_title'); ?>
 		Video Channel | IIPS
@@ -41,7 +41,7 @@
 
 			 	</p>			 		
 			 		<ul>
-			 			<li><a href="">Our Youtube Channel</a></li>
+			 			<li><a href="https://www.youtube.com/channel/UCvkrLS9liClPmUmcNGBIAPA">Our Youtube Channel</a></li>
 			 			<li><a href=""> IIPS-Analysis and Design of Algorithms  Class</a></li>
 			 			<li><a href="https://docs.google.com/a/iips.edu.in/forms/d/1SHUuKErutNFb1-u_gJ8a-0-JqxXy1KCmVc-FuqOrNNc/viewform">
 			 			 Submit your YouTube Channel Here</li>

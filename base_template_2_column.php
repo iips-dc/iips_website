@@ -90,9 +90,16 @@
 				
                 </div><!--.col-md-9 ended-->
 			</div><!--.row ended-->
+
+			<div class="row">
+				<div class="col-md-12">
+					<?php include 'quicklinks.php' ; ?>
+				</div>
+			</div>
 		</div><!-- End of container class -->	
    </div>	<!-- End of wrap -->
 	
+
 	
 
 	<!-- Script (JS files) block Start -->
