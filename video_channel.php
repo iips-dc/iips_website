@@ -140,8 +140,66 @@
 			<ul>
 					<li><a href="http://www.youtube.com/user/chitrankdixit?feature=watch"> Chitrank Dixit | Student</a></li>
 			</ul>	
+				<h5>Here are some of the popular ones</h5>
+				
+				<div class="col-md-12">
+			 			<div class="col-md-4">
+			 				<iframe class="youtube_frame"
+			 				src="http://www.youtube.com/embed/wuouLlzYLfA">
+			 				</iframe>
+
+			 				<label> <a href="">   Intro to Python Programming </a> </label>
+			 			</div>
+
+			 			<div class="col-md-4">
+			 				<iframe class="youtube_frame"
+			 				src="http://www.youtube.com/embed/X7PsajQLcJ4">
+			 				</iframe>
+
+			 				<label> <a href="">   node.js, Setup Heroku app in Just Minutes </a> </label>
+			 			</div>
+
+			 			<div class="col-md-4">
+			 				<iframe class="youtube_frame"
+			 				src="http://www.youtube.com/embed/cwCDaq_6fsM">
+			 				</iframe>
+
+			 				<label> <a href="">   Write your first python script with Best Python IDE's </a> </label>
+			 			</div>
+
+			 		</div><br>
+
+			 	<div class="col-md-12">
+			 			<div class="col-md-4">
+			 				<iframe class="youtube_frame"
+			 				src="http://www.youtube.com/embed/2ZBj7EbDU0A">
+			 				</iframe>
+
+			 				<label> <a href="">   Python Flask, Installation , Configuration and first Flask app </a> </label>
+			 			</div>
+
+			 			<div class="col-md-4">
+			 				<iframe class="youtube_frame"
+			 				src="http://www.youtube.com/embed/iD-12Np8fDc">
+			 				</iframe>
+
+			 				<label> <a href="">   Arbitary function arguments (* and **) </a> </label>
+			 			</div>
+
+			 			<div class="col-md-4">
+			 				<iframe class="youtube_frame"
+			 				src="http://www.youtube.com/embed/NAtf9skZvtU">
+			 				</iframe>
+
+			 				<label> <a href="">   Visualize the flow of your code </a> </label>
+			 			</div>
+
+			 		</div>
+
+
 
 			</div>
+
 
 			<!-- End div tab3 -->
 
