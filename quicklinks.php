@@ -29,7 +29,7 @@
 							<i class="icon-circle-arrow-right"></i> <a href="iqac.php">IQAC</a>
 						</div>
 						<div class="col-md-2">
-							<i class="icon-circle-arrow-right"></i> <a href="">Greviances</a>
+							<i class="icon-circle-arrow-right"></i> <a href="greviances.php">Greviances</a>
 						</div>
 						
 					</div>
