@@ -1,9 +1,9 @@
 	<!-- Top nav bar -->
-
-	<div class="navbar-wrapper" >
-        <div class="navbar navbar-default  downShadow">
+	<div class="gateway">
+	 <!--<div class="navbar-wrapper" >
+        <div class="navbar navbar-default  downShadow">-->
 		    <div class="container">
-       			<div class="navbar-header">
+       			<!--<div class="navbar-header">
          			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 						<span class="icon-bar"></span>
             		 	<span class="icon-bar"></span>
@@ -14,38 +14,38 @@
          		    <ul class="nav navbar-nav">
           		    
 						<!-- Home -->
-						<li class="dropdown">
+						<!--<li class="dropdown"> -->
 							<a href="index" class="icon-home"> Home</a>
-						</li>
+						<!--</li>
 						
 						<!-- Student -->
-						<li class="dropdown">
+						<!--<li class="dropdown">
 							<a href="#" class="icon-male"> Student</a>
 						</li>
 
 						<!-- Faculty -->
-						<li class="dropdown">
+						<!--<li class="dropdown">
 							<a href="#" class="icon-male"> Faculty</a>
 						</li>
 
 						<!-- Alumni -->
-						<li class="disabled">
+						<!--<li class="disabled">
 							<a href="#" class="icon-male"> Alumni</a>
 						</li>
 
 						<!-- Academics -->
-						<li class="dropdown">
+						<!--<li class="dropdown">
 							<a href="#" class="icon-male"> Staff</a> 
 						</li>
 	
-				    </ul>
-					<ul class="nav navbar-nav navbar-right"> 
-						<li><a href="contact_us" class="" style="color:white">Contact us</a></li>
-				    </ul>
+				    </ul>-->
+					<!--<ul class="nav navbar-nav navbar-right"> -->
+						<a href="contact_us" class="pull-right" style="">Contact us</a>
+				    <!--</ul>-->
 		       	</div><!--/.nav-collapse -->
-          	</div><!--.container -->
-        </div><!--navbar-inverse -->
-	</div>
+          </div><!--.container -->
+        <!--</div><!--navbar-inverse -->
+	<!--</div>
 	<!-- navbar-wrapper end" -->
 	
 <!-- Top nav bar end -->
