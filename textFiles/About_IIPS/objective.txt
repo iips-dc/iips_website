@@ -12,11 +12,12 @@
 <div style="background-color:#eeeeee;"><b>Vision</b></div><br>
 
 
-<p style="margin-left:50px;">"The vision of IIPS  is to become a quintessence of higher education in technical,research and business education.</p><br>
+<p style="margin-left:50px;">Become a globally recognized institute in management, computer science and commerce through creating an environment of excellence</p><br>
 
 <div style="background-color:#eeeeee;"><b>Mission</b></div><br>
 Our mission in the design and conduct of academic programmes is
 <ul type="disc" style="margin-left:50px;">
     <li> To generate new knowledge and an enhancing ambience in which new ideas and creativity flourish.</li>
+	<li> Develop innovative and ethical future leaders capable managing change and transformation in a globally competitive environment.</li>
+	<li> To craft best computer science and IT professionals who can Design, Develop and Manage computer applications </li>
     <li> To craft best management professionals capable of developing e-business globally, by employing IT in all aspects of business.</li>
-    <li> To craft best computer science and IT professionals who can Design, Develop and Manage computer applications </li>
