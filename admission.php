@@ -28,13 +28,13 @@
 	<!-- content block starting -->
 	<?php startblock('content') ?>	
 	    
-		<div id="tab1"  class="tab-content active">
+		<div id="tab1"  class="tab-content active text-justify">
           	<?php 
 				$cet ="textFiles/Admission/entrance_exam_cet.txt";  
 				readTextFiles($cet);
 	       	?>
         </div>
-		<div id="tab2" class="tab-content hide">
+		<div id="tab2" class="tab-content hide text-justify">
 
 			<?php 
 				$eligibility ="textFiles/Admission/eligibility.txt";  
@@ -43,7 +43,7 @@
 		</div>
 
              
-		<div id="tab3" class="tab-content hide">
+		<div id="tab3" class="tab-content hide text-justify">
 	                	
            	<?php 
 				$counseling ="textFiles/Admission/counseling.txt";  
@@ -52,7 +52,7 @@
 	    </div>
 
 	 				
-        <div  id="tab4" class="tab-content hide">
+        <div  id="tab4" class="tab-content hide text-justify">
 
             <?php 
 				$howToApply ="textFiles/Admission/how_to_apply.txt";  
@@ -61,7 +61,7 @@
             
         </div>	                
 
-        <div  id="tab5" class="tab-content hide">
+        <div  id="tab5" class="tab-content hide text-justify">
 			<?php 
 				$feesStructure ="textFiles/Admission/";  
 				readTextFiles($feesStructure); 
