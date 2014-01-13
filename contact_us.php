@@ -16,16 +16,26 @@
         
         <div class="col-lg-12">
           <!-- Embedded Google Map using an iframe - to select your location find it on Google maps and paste the link as the iframe src. If you want to use the Google Maps API instead then have at it! -->
-          <iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=37.0625,-95.677068&amp;spn=56.506174,79.013672&amp;t=m&amp;z=4&amp;output=embed"></iframe>
+          <!--<iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=22.68849,75.87669&amp;spn=56.506174,79.013672&amp;t=m&amp;z=4&amp;output=embed"></iframe>-->
+		  
+		  <b>Virtual Tour</b><br><br>
+					<!-- Google Maps iframe link -->
+					<div id="googleMap" style="width:960px;height:380px;"></div>
+
+					<!--<button class="btn btn-lg btn-primary" onClick="">Guide Me</button>
+					<button class="btn btn-lg btn-primary" onClick="">Pause</button>
+					<button class="btn btn-lg btn-primary" onClick="">Manual Navigation</button>
+					<button class="btn btn-lg btn-primary" onClick="">Previous</button>
+					<button class="btn btn-lg btn-primary" onClick="">Next</button>-->
         </div>
 
       </div><!-- /.row -->
-      
+      <br>
       <div class="row">
 
         <div class="col-sm-8">
           <h3>Let's Get In Touch!</h3>
-          <p>Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+          <p>Use the below form to Contact US : </p>
 			            <form role="form" method="POST" action="contact-form-submission.php">
 	            <div class="row">
 	              <div class="form-group col-lg-4">
@@ -72,4 +82,34 @@
 
         </div>   
 	
+	<?php endblock(); ?>
+	
+	<?php startblock('script'); ?>
+		<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDY0kkJiTPVd2U7aTOAwhc9ySH6oHxOIYM&sensor=false">
+		</script>
+
+		<script>
+			var myCenter=new google.maps.LatLng(22.68849,75.87669);
+			var marker;
+
+			function initialize()
+			{
+			var mapProp = {
+			center:myCenter,
+			zoom: 15,
+			mapTypeId:google.maps.MapTypeId.ROADMAP
+			};
+
+			var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+
+			marker=new google.maps.Marker({
+			position:myCenter,
+			animation:google.maps.Animation.BOUNCE
+			});
+
+			marker.setMap(map);
+			}
+
+			google.maps.event.addDomListener(window, 'load', initialize);
+		</script>
 	<?php endblock(); ?>

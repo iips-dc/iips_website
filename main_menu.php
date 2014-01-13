@@ -20,7 +20,7 @@
 							<ul class="dropdown-menu">
 								<li><a href="about_university">About University</a></li>
 								<li><a href="about_iips">About IIPS</a></li>
-								<li><a href="#2">Life @campus</a></li>
+								<!--<li><a href="#2">Life @campus</a></li>-->
 								<li><a href="infrastructure">Infrastructure</a></li>
 								<li><a href="gallery">Gallery</a></li>
 								<li><a href="Reach_Us">Reach us</a></li>
@@ -34,15 +34,7 @@
 
 						<!-- Admissions -->
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Admissions<b class="caret"></b></a>
-							<ul class="dropdown-menu">
-      				      		<li><a href="admission">Entrance Exam - CET</a></li>
-								<li><a href="admission">Eligibility</a></li>
-								<li><a href="admission">Criteria</a></li>
-							    <li><a href="admission">Counseling</a></li>
-							    <li><a href="admission">How to apply</a></li>
-							    <li><a href="admission">Fees structure</a></li> 
-      				   		</ul>
+							<a href="admission">Admissions</a>
 				  		</li>
 
 						<!-- Academics -->

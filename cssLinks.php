@@ -48,10 +48,7 @@
 			margin-left: 0px;
 			padding: 5px 5px 5px 5px;
 			background-color:rgb(42,52,81);
-			text-align:center;
 			width: 100%;
-			z-index: 3000;
-			
 		}
 		.form-control{
 			color: #000000;

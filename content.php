@@ -36,8 +36,6 @@ and testimonial section -->
 				  <a href="#"> <i class="icon-pushpin"></i> Guest Lecture on "Artificial Intelligence" </a><br>
 				  <a href="#"> <i class="icon-pushpin"></i> Download admit card from MPOnline </a><br>
 				  <a href="#"> <i class="icon-pushpin"></i> Last Date of Scholarship Form is 22nd Sept 2013 </a><br>
-				  <a href="#"> <i class="icon-pushpin"></i> NAAC Coming Soon </a><br>
-				  <a href="#"> <i class="icon-pushpin"></i> End Semester Exam Date </a>
 				</div>
 				<div class="panel-footer">
 					<a href="notice_announcement.php"><b>View All &raquo;</b></a>
