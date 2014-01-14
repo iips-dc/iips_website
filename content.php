@@ -159,4 +159,4 @@ and testimonial section -->
 	  </div><!--col-md-4 ended -->
   </div><!--row Class ended -->
 </div>
-<!-- container class ended
+<!-- container class ended -->
