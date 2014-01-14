@@ -113,12 +113,12 @@
 					  <div class="panel panel-default">
 						<div class="panel-heading">
 						  <h4 class="panel-title">
-							<a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+							<a data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
 							 Faculty CV's
 							</a>
 						  </h4>
 						</div>
-						<div id="collapseThree" class="panel-collapse collapse">
+						<div id="collapseFour" class="panel-collapse collapse">
 						  <div class="panel-body">
 						  	<ul style="list-style:;">
 						  			<li><a href="downloads/cv/CV.zip">Download all Faculties CV's Here</a></li>
@@ -142,12 +142,12 @@
 						  <div class="panel panel-default">
 							<div class="panel-heading">
 							  <h4 class="panel-title">
-								<a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+								<a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
 								 Faculties PPT
 								</a>
 							  </h4>
 							</div>
-							<div id="collapseThree" class="panel-collapse collapse">
+							<div id="collapseFive" class="panel-collapse collapse">
 							  <div class="panel-body">
 							  	<ul style="list-style:;">
 							  			<li><a href="downloads/ppt/PPT faculty.zip">Download all Faculties PPT's  Here</a></li>
@@ -167,14 +167,14 @@
 					<div class="panel panel-default">
 					<div class="panel-heading">
 					  <h4 class="panel-title">
-						<a data-toggle="collapse" data-parent="#accordion" href="#collapsefour">
+						<a data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
 						Miscellaneous
 						</a>
 					  </h4>
 
 					 
 					</div>
-					<div id="collapsefour" class="panel-collapse collapse">
+					<div id="collapseSix" class="panel-collapse collapse">
 					  <div class="panel-body">
 
 					  <ul style="list-style: ;">
