@@ -58,7 +58,8 @@
 					  			<li><a href="downloads/syllabus/mca_full.pdf"> MCA Years Full </a></li>
 					  			<li><a href="downloads/syllabus/mtech_full.pdf">M.Tech Full</a></li>
 					  			<li><a href="downloads/syllabus/mba_ms_full.pdf">MBA MS 5 Years Full</a></li>
-					  			<li><a href="downloads/syllabus/mba_ft_full-M.Sitlani Sir.pdf">MBA APR 2 Years Full</a></li>
+					  			<li><a href="downloads/syllabus/mba_ft_full-M.Sitlani Sir.pdf">MBA 2 Years Full</a></li>
+					  			<li><a href="downloads/syllabus/mba-apr-full.pdf">MBA Apr Full</a></li>
 					  			<li><a href="downloads/syllabus/mba_ta_full.pdf">MBA TA 2 Years Full </a></li>
 					  			<li><a href="downloads/syllabus/bcom_full_syllabus.pdf">Bcom Com Hons Full</a></li>
 					  			
