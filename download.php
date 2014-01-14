@@ -143,7 +143,7 @@
 							<div class="panel-heading">
 							  <h4 class="panel-title">
 								<a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
-								 Faculties PPT
+								 Course PPTs By Subject Teachers
 								</a>
 							  </h4>
 							</div>
