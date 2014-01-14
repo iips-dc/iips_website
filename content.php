@@ -35,15 +35,15 @@ and testimonial section -->
 				<div class="panel-heading">
 					<h3 class="panel-title">Notice & Announcements</h3>
 				</div>
-				<div class="panel-body" align="left">
+				<div class="panel-body " align="left">
 				
 
-				  <a href="#"> <i class="icon-pushpin"></i> NAAC - Arrival in New Year 2014 !  </a><br>
-				  <a href="#"> <i class="icon-pushpin"></i> College reopen date has been decided ! </a><br>
-				  <a href="#"> <i class="icon-pushpin"></i> Guest Lecture on "Artificial Intelligence" </a><br>
-				  <a href="#"> <i class="icon-pushpin"></i> Download admit card from MPOnline </a><br>
-				  <a href="#"> <i class="icon-pushpin"></i> Last Date of Scholarship Form is 22nd Sept 2013 </a><br>
-				  <a href="#"> <i class="icon-pushpin"></i> NAAC Coming Soon </a>
+				  <a href="#"> <i class="icon-pushpin"></i> NAAC - Arrival in Jan 2014 </a><br>
+				  <a href="#"> <i class="icon-pushpin"></i> Working Day 12 Jan </a><br>
+				  <a href="#"> <i class="icon-pushpin"></i> Winter Internship (UG and PG) </a><br>
+				  <a href="#"> <i class="icon-pushpin"></i> College reopened from 2 Jan 2014 </a><br>
+				  <a href="#"> <i class="icon-pushpin"></i> Enrollment Application </a>
+				  
 
 				</div>
 				<div class="panel-footer">
