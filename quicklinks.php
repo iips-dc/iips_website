@@ -41,6 +41,7 @@
 								<li> <a href="student_verification">Student Verification</a></li>
 								<li> <a href="video_channel">Video Channel</a></li>
 								<li> <a href="recruitments">Recruitments</a></li>
+								<li> <a href="iqac">IQAC</a> </i>
 								
 							</ul>
 						</div>
@@ -51,7 +52,8 @@
 							<ul style ="list-style:none;font-size: 12px;text-align:justify">
 								<li> <a href="right_to_information">Press Release</a></li>
 								<li> <a href="right_to_informationacademic_calender">Ordinances</a></li>
-								
+								<li> <a href="greviances">Greviances</a></li>
+
 							
 							</ul>
 						</div>
