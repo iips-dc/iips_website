@@ -31,19 +31,17 @@ and testimonial section -->
         </div>
      <!-- notice  block start -->
      <div class="col-md-3 text-center">
-     	   <div class="panel panel-default boxShadow" style=" font-size:16px">
+     	   <div class="panel panel-default boxShadow">
 				<div class="panel-heading">
 					<h3 class="panel-title">Notice & Announcements</h3>
 				</div>
 				<div class="panel-body " align="left">
 				
-
 				  <a href="#"> <i class="icon-pushpin"></i> NAAC - Arrival in Jan 2014 </a><br>
 				  <a href="#"> <i class="icon-pushpin"></i> Working Day 12 Jan </a><br>
 				  <a href="#"> <i class="icon-pushpin"></i> Winter Internship (UG and PG) </a><br>
 				  <a href="#"> <i class="icon-pushpin"></i> College reopened from 2 Jan 2014 </a><br>
 				  <a href="#"> <i class="icon-pushpin"></i> Enrollment Application </a>
-				  
 
 				</div>
 				<div class="panel-footer">
@@ -128,17 +126,16 @@ and testimonial section -->
   
   	 <div class="col-md-3 testimonial text-center">
   		<!-- testimonial started -->
-		<div class="panel panel-default  boxShadow" style="height:180px; margin-left:-35px;">
+		<div class="panel panel-default  boxShadow" style="height:180px;">
 			<div class="panel-heading">
 				<h3 class="panel-title">Testimonials</h3>
 			</div>
 			<div class="panel-body">
 
 			  <ul id="button_quotes" style=" list-style-type:none;  margin-left:-55px;">
-				<li style="text-align:justify ;">
-					"We Can't wait to see this
-					Website on internet "<br><br>
-					<cite>- World</cite></pre>
+				<li>
+					"Simple, Sober and Device responsive"<br><br>
+					<cite>- Developers</cite>
 				</li>
 				<li>
 					" Finally IIPS website is working FINE !! "<br><br>
@@ -148,10 +145,6 @@ and testimonial section -->
 					" But still you are far away from
 					Professional Website "<br><br>
 				 	<cite>&mdash; Testers</cite>
-				</li>
-				<li>
-				   " We will hire those Developers !! "<br><br>
-					<cite>&mdash; Google</cite>
 				</li>
 			  </ul>
 		    </div><!--panel body Ended -->
