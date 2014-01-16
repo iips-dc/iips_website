@@ -9,7 +9,7 @@
       
         <div class="col-lg-12">
 			<h1 class="page-header">About Us <small>It's Nice to Meet You!</small></h1>
-			<p>This is a great place to start off with a short and sweet description of your company, organization, or whatever purpose your website is serving. Keep it friendly, engaging, but short enough to where you won't lose your reader!</p>
+			<p>This is our development team, who have contributed to the developement of the IIPS website and made this possible to deploy this website within the time.</p>
         </div>
 
         <div class="col-lg-12">
@@ -24,7 +24,7 @@
 				<!-- Left empty with purpose -->
 		</div>
 		<div class="col-lg-4">
-				<img class="img-circle img-responsive" src="http://placehold.it/200x200">
+				<img class="img-responsive" src="images/Dc/shaligram.jpg">
 			<h3>Mr. Shaligram Prajapat <small class="text-primary"><b>Project Manager</b></small></h3>
 			<p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
 		</div>
@@ -37,7 +37,7 @@
 	<hr>
     <div class="row">
         <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="http://placehold.it/200x200">
+                <img class="img-circle img-responsive" src="images/Dc/ankit.jpg">
             <h3>Ankit Kulkarni <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
@@ -47,12 +47,12 @@
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
         <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="http://placehold.it/200x200">
+                <img class="img-circle img-responsive" src="http://www.gravatar.com/avatar/143615a20f580213f50d651cf5148d11?d=mm&s=200">
             <h3>Chitrank Dixit <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
         <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="http://placehold.it/200x200">
+                <img class="img-circle img-responsive" src="images/Dc/sunny.jpg">
             <h3>Sunny Raikwar <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
@@ -62,7 +62,7 @@
 	
 	<div class="row">
         <div class="col-lg-3 col-sm-6">
-                <img class="img-circle img-responsive" src="http://placehold.it/200x200">
+                <img class="img-circle img-responsive" src="images/Dc/shaifali.jpg">
             <h3>Shaifali Agrawal<small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
@@ -82,19 +82,26 @@
 	
 	<div class="row">
         <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="http://placehold.it/200x200">
+                <img class="img-circle img-responsive" src="images/Dc/akanksha.jpg">
             <h3>Akanksha Rahore <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
         <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="http://placehold.it/200x200">
+                <img class="img-circle img-responsive" src="images/Dc/bedi.jpg">
             <h3>Bedi Singh Yadav <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
 		<div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="http://placehold.it/200x200">
+                <img class="img-circle img-responsive" src="images/Dc/mishaMathai.jpg">
             <h3>Misha Mathai <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
     </div>
+	<div class="row">
+		<div class="col-lg-4 col-sm-6">
+                <img class="img-circle img-responsive" src="images/Dc/komal.jpg">
+            <h3>Komal Rathore <small>Job Title</small></h3>
+            <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+        </div>
+	</div>
 <?php endblock(); ?>
