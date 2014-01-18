@@ -37,11 +37,11 @@ and testimonial section -->
 				</div>
 				<div class="panel-body " align="left">
 				
-				  <a href="#"> <i class="icon-pushpin"></i> NAAC - Arrival in Jan 2014 </a><br>
-				  <a href="#"> <i class="icon-pushpin"></i> Working Day 12 Jan </a><br>
-				  <a href="#"> <i class="icon-pushpin"></i> Winter Internship (UG and PG) </a><br>
-				  <a href="#"> <i class="icon-pushpin"></i> College reopened from 2 Jan 2014 </a><br>
-				  <a href="#"> <i class="icon-pushpin"></i> Enrollment Application </a>
+				  <a href="notice_announcement"> <i class="icon-pushpin"></i> NAAC - Arrival in Jan 2014 </a><br>
+				  <a href="notice_announcement"> <i class="icon-pushpin"></i> Working Day 12 Jan </a><br>
+				  <a href="notice_announcement"> <i class="icon-pushpin"></i> Winter Internship (UG and PG) </a><br>
+				  <a href="notice_announcement"> <i class="icon-pushpin"></i> College reopened from 2 Jan 2014 </a><br>
+				  <a href="notice_announcement"> <i class="icon-pushpin"></i> Enrollment Application </a>
 
 				</div>
 				<div class="panel-footer">
@@ -134,16 +134,15 @@ and testimonial section -->
 
 			  <ul id="button_quotes" style=" list-style-type:none;  margin-left:-55px;">
 				<li>
-					"Simple, Sober and Device responsive"<br><br>
-					<cite>- Developers</cite>
+					"We are glad by our students work for new website "<br><br>
+					<cite>-Dr. A. K Sapre</cite>
 				</li>
 				<li>
-					" Finally IIPS website is working FINE !! "<br><br>
-					<cite>&mdash; Students</cite>
+					" We are happy to launch new mobile responsive IIPS website "<br><br>
+					<cite>&mdash; Mr. Shaligram Prajapt</cite>
 				</li>
 				<li>
-					" But still you are far away from
-					Professional Website "<br><br>
+					" We are constantly trying to serve you. Help us out by filling our feedback form"<br><br>
 				 	<cite>&mdash; Testers</cite>
 				</li>
 			  </ul>
