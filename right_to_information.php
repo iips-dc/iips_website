@@ -34,10 +34,10 @@
 
 					<div id="collapsefive" class="panel-collapse collapse in">
 					  <div class="panel-body">
-							<a href="downloads/press_release/press release reboot.jpg" target = "blank"> Press release for the Reboot event held on 17-sep-2014</a>
-							<a href="downloads/press_release/" target = "blank"> Press release for the NSS</a>
-							<a href="downloads/press_release/Press Release Free of cost Eye Check-up Camp at IIPS-DAVV.pdf" target = "blank"> Press release for the Free Eyecheckup camp</a>
-							<a href="downloads/press_release/PressNote.jpg.jpg" target = "blank"> Press release for the Alumni meet</a>
+							<li><a href="downloads/press_release/press release reboot.jpg" target = "blank"> Press release for the Reboot event held on 17-sep-2014</a></li>
+							<li><a href="downloads/press_release/" target = "blank"> Press release for the NSS</a> </li>
+							<li><a href="downloads/press_release/Press Release Free of cost Eye Check-up Camp at IIPS-DAVV.pdf" target = "blank"> Press release for the Free Eyecheckup camp</a></li>
+							<li><a href="downloads/press_release/PressNote.jpg.jpg" target = "blank"> Press release for the Alumni meet</a></li>
 					  </div>
 					</div>
 				</div>
