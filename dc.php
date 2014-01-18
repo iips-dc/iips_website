@@ -34,8 +34,8 @@
 			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab3"> Open Source Initiatives</a></li>
 			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab4"> Past Projects</a></li>
 			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab5"> Team</a></li>
-			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab6"> Entrance</a></li>
-			                
+			               <!--  <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab6"> Entrance</a></li>
+			                 -->
 						</ul>
 
 	                <?php endblock() ; ?>				
@@ -86,13 +86,13 @@
 					     ?>
 	                   </div>
 
-	                   <div id="tab6"  class="tab-content hide">
+	              <!--      <div id="tab6"  class="tab-content hide">
 	                      <?php 
-							$entrance ="textFiles/DC/entrance.txt";  
+							$entrance ="textFiles/DC/open_initiatives (copy).txt";  
 							readTextFiles($entrance);
 					     ?>
 	                   </div>
-
+ -->
 
 	                <?php endblock(); ?>
 					
