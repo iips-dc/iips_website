@@ -1,7 +1,7 @@
 			<h3 class="text-center"><b class="label label-primary icon-bullhorn"> Notices & Annoucement Board</b></h3>
 			
 			<!-- Notice Section --><br><br>
-			<div class="row notice">
+			<div class="row notice" id ="utd_employees" >
 				  <h5><b>&raquo;Notice for all UTD employees </b>  </h5>
 				  
 				  <div class="content">
@@ -13,7 +13,7 @@
 				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
 			</div><br>
 
-			<div class="row notice">
+			<div  class="row notice" id="utd_academic_calendar">
 				  <h5><b>&raquo;Naac Notice regarding academic calendar </b></h5>
 				  
 				  <div class="content">
@@ -26,7 +26,7 @@
 			</div><br>
 
 
-			<div class="row notice">
+			<div class="row notice" id="naac_visit" >
 				  <h5><b>&raquo; NAAC - Arrival in Jan 2014 ! </b></h5>
 				  
 				  <div class="content">
@@ -40,7 +40,7 @@
 			
 						
 
-			<div class="row notice">
+			<div class="row notice" id="winter_intern" >
 			    <h5><b>&raquo; Winter Internship (UG and PG) !</b> </h5>
 			    <div class="content">
 				    <p>PEDICON 2014 will provide excellent opportunity to around 150-200 students from
@@ -51,10 +51,10 @@
 			   <button class="btn btn-primary toggleContent" href="#" role="button">View Details &raquo;</button>
 			</div><br>
 			
-			<div class="row notice">
+			<div  class="row notice" id="college_reopened">
 			    <h5><b>&raquo; College reopened from 2 Jan 2014 !</b></h5>
 			    <div class="content">
-				    <p>It is informed to all the Students, Faculties and College Staff that the college will reopen from 2 Jan 2014. <a href="downloads/notices/college_reopen.pdf">Download PDF</a></p><br>
+				    <p >It is informed to all the Students, Faculties and College Staff that the college will reopen from 2 Jan 2014. <a href="downloads/notices/college_reopen.pdf">Download PDF</a></p><br>
 			    </div>
 				
 			   <button class="btn btn-primary toggleContent" href="#" role="button">View Details &raquo;</button>
