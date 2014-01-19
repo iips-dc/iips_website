@@ -2,9 +2,11 @@
 slider, notice, news_events box, Link to quicklink file
 and testimonial section -->
 <center style="color: Blue">Astra</center>
-<center style="color:red;">This is the Beta Version of IIPS Website . Kindly leave your 
+<center style="color:red;">This is the Beta Version of IIPS Website . Kindly <!--  
 	<a href="https://docs.google.com/a/iips.edu.in/forms/d/1l3vtqwVc3oYDmqSayiJ-Txoc4wUP4DLfeZmfp8fwhtM/viewform" target="blank">
-	feedback</a></center>
+	feedback</a><br> -->
+	<a href="https://www.surveymonkey.com/s/QNTYQ3F">Click here to take survey for services</a>
+</center>
 
 <div class="container" style=" background-color:#FFFFFF; ">
 	<br><br>
