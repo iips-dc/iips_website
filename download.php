@@ -65,7 +65,7 @@
 					  			
 					  	</ul>
 
-					  	To download individual syllabus <a href="syllabus.php"> click here </a>
+					  	To download semester wise syllabus <a href="syllabus.php"> click here </a>
 
 					  </div>
 					</div>
