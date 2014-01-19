@@ -1,7 +1,7 @@
 <!-- this file is the quicklinks at the bottom of each page -->
 <!-- edit the options below to add the quick links -->
 	        <!-- testimonial started -->
-			<div class="panel panel-default  boxShadow" style="height:180px;color:#2A3451;">
+			<div class="panel panel-default  boxShadow" style="color:#2A3451;">
 				<div class="panel-heading">
 					<h3 class="panel-title">Quick Links</h3>
 				</div>

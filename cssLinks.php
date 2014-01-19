@@ -53,7 +53,7 @@
 		
 		a {
 			color: #0465D0;
-			font-size: 12px;
+			font-size: 13px;
 		}
 		.gateway {
 			margin-left: 0px;

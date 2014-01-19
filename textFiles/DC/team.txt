@@ -52,7 +52,7 @@
 	<div class="col-md-4 dcMembers boxShadow"><img src="" class="img-circle"/>Varsha Karandikar<br></div>
 	<div class="col-md-2"></div>
 </div>
-</div><br><br>
+</div>
 
 
 
