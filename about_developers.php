@@ -24,7 +24,7 @@
 				<!-- Left empty with purpose -->
 		</div>
 		<div class="col-lg-4">
-				<img class="img-responsive" src="images/Dc/shaligram.jpg">
+				<img class="img-responsive" src="images/DC/shaligram.jpg">
 			<h3>Mr. Shaligram Prajapat <small class="text-primary"><b>Project Manager</b></small></h3>
 			<p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
 		</div>
@@ -37,12 +37,12 @@
 	<hr>
     <div class="row">
         <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="images/Dc/ankit.jpg">
+                <img class="img-circle img-responsive" src="images/DC/ankit.jpg">
             <h3>Ankit Kulkarni <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
         <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="images/Dc/rahul-sagore.jpg">
+                <img class="img-circle img-responsive" src="images/DC/rahul-sagore.jpg">
             <h3>Rahul Sagore <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
@@ -52,7 +52,7 @@
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
         <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="images/Dc/sunny.jpg">
+                <img class="img-circle img-responsive" src="images/DC/sunny.jpg">
             <h3>Sunny Raikwar <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
@@ -62,7 +62,7 @@
 	
 	<div class="row">
         <div class="col-lg-3 col-sm-6">
-                <img class="img-circle img-responsive" src="images/Dc/shaifali.jpg">
+                <img class="img-circle img-responsive" src="images/DC/shaifali.jpg">
             <h3>Shaifali Agrawal<small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
@@ -82,24 +82,24 @@
 	
 	<div class="row">
         <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="images/Dc/akanksha.jpg">
+                <img class="img-circle img-responsive" src="images/DC/akanksha.jpg">
             <h3>Akanksha Rahore <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
         <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="images/Dc/bedi.jpg">
+                <img class="img-circle img-responsive" src="images/DC/bedi.jpg">
             <h3>Bedi Singh Yadav <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
 		<div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="images/Dc/mishaMathai.jpg">
+                <img class="img-circle img-responsive" src="images/DC/mishaMathai.jpg">
             <h3>Misha Mathai <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
     </div>
 	<div class="row">
 		<div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="images/Dc/komal.jpg">
+                <img class="img-circle img-responsive" src="images/DC/komal.jpg">
             <h3>Komal Rathore <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
