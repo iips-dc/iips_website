@@ -193,8 +193,7 @@
 					  		<li><a href="downloads/miscellaneous/Information Required by Naac.pdf">Information required for NAAC under criterionIII Research, Consultancy & Extension</a></li>
 					  		<li><a href="downloads/miscellaneous/Conveyance Bill Format -Lab Viva-etc 001.jpg">Conveyance Bill Format -Lab Viva-etc</a></li>
 					  		<li><a href="downloads/miscellaneous/IIPS-Policy 001.jpg">IIPS-Policy 001</a></li>
-					  		<li><a href="downloads/miscellaneous/"></a></li>
-					  		<li><a href="downloads/miscellaneous/"></a></li>
+
 					  		
 
 					  </ul>
@@ -203,8 +202,9 @@
 					 / 
 					</div>
 					<!-- Miscellaneous End -->
-
-					</div>
+					<b>Note: </b>
+					Development Center do not modify any data provided by the 3rd parties .
+					All the responsibility of the data	is of 3rd parties only .	</div>
 				  </div>
 				</div>
 			
