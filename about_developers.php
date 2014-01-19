@@ -52,7 +52,7 @@
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
         <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="images/DC/sunny.jpg">
+                <img class="img-circle img-responsive" src="images/DC/Sunny.jpg">
             <h3>Sunny Raikwar <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
@@ -67,12 +67,12 @@
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
         <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="http://placehold.it/200x200">
+                <img class="img-circle img-responsive" src="images/DC/nitesh.jpg">
             <h3>Nitesh Mishra<small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
 		<div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="http://placehold.it/200x200">
+                <img class="img-circle img-responsive" src="images/DC/ajeet.jpg">
             <h3>Ajeet Khan <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
@@ -82,8 +82,8 @@
 	
 	<div class="row">
         <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="images/DC/akanksha.jpg">
-            <h3>Akanksha Rahore <small>Job Title</small></h3>
+                <img class="img-circle img-responsive" src="images/DC/Akanksha.jpg">
+            <h3>Akanksha Rathore <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
         <div class="col-lg-4 col-sm-6">
