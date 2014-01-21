@@ -11,11 +11,11 @@
 
 							<b> Admissions</b>
 							<ul style ="list-style:none;font-size: 12px;text-align:justify">
-								<li> <a href="">Entrnace Exam CET</a></li>
-								<li> <a href="">Eligibility</a></li>
-								<li> <a href="">Counseling</a></li>
-								<li> <a href="">Apply</a></li>
-								<li> <a href="">Fees Structure</a></li>
+								<li> <a href="admission">CET</a></li>
+								<li> <a href="admission">Eligibility</a></li>
+								<li> <a href="admission">Counseling</a></li>
+								<li> <a href="admission">Apply</a></li>
+								<li> <a href="admission">Fees Structure</a></li>
 							
 							</ul>
 						</div>
@@ -26,9 +26,9 @@
 							<ul style ="list-style:none;font-size: 12px;text-align:justifyfont-size: 12px;text-align:justify">
 								<li> <a href="academic_calender">Academic Calendar</a></li>
 								<li> <a href="syllabus.php">Syllabus</a></li>
-								<li> <a href="">Forms</a></li>
-								<li> <a href=""></a></li>
-								<li> <a href=""></a></li>
+								<li> <a href="download">Formats</a></li>
+								<li> <a href="download">Course PPTs</a></li>
+								<li> <a href="download">Miscellaneous</a></li>
 							
 							</ul>
 						</div>
@@ -40,18 +40,20 @@
 								<li> <a href="staff_profile">Staff Profile</a></li>
 								<li> <a href="student_verification">Student Verification</a></li>
 								<li> <a href="video_channel">Video Channel</a></li>
-								<li> <a href="recruitments">Recruitments</a></li>
-								<li> <a href="iqac">IQAC</a> </i>
+								
+								
 								
 							</ul>
 						</div>
 
 						<div class="col-md-3">
-							<b>	RTI</b>
+							<b style ="padding-right: 55px;">	RTI</b>
 
 							<ul style ="list-style:none;font-size: 12px;text-align:justify">
+								<li> <a href="iqac">IQAC</a> </i>
 								<li> <a href="right_to_information">Press Release</a></li>
-								<li> <a href="right_to_informationacademic_calender">Ordinances</a></li>
+								<li> <a href="right_to_information">Ordinances</a></li>
+								<li> <a href="recruitments">Recruitments</a></li>
 								<li> <a href="greviances">Greviances</a></li>
 
 							
