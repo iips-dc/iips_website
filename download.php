@@ -1,7 +1,7 @@
 <?php include 'base_template_2_column.php' ?>
 	
 	<?php startblock('page_title'); ?>
-		Research Cell
+		Downloads
 	<?php endblock(); ?>
 	
 	<!-- Starting of style block for custom CSS -->
@@ -40,6 +40,31 @@
 				  </div>
 				  <!-- Academic caldedar end -->
 
+				  <!-- Time Table -->
+				  <div class="panel panel-default">
+					<div class="panel-heading">
+					  <h4 class="panel-title">
+						<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+						  Time Table
+						</a>
+					  </h4>
+
+
+					</div>
+					<div id="collapseTwo" class="panel-collapse collapse">
+					  <div class="panel-body">
+					  	<ul style="list-style:;">
+					  			<li><a href="downloads/time_table/MCATT_Jan_2014.pdf"> MCA Full </a></li>
+					  			<li><a href="downloads/time_table/M.TechTTJanJune14.pdf">M.Tech Full</a></li>
+					  			<li><a href="downloads/time_table/TeacherWiseTT2014.pdf">Teacher Wise</a></li>
+					  			
+					  			
+					  	</ul>
+
+					  </div>
+					</div>
+				  </div>
+				  <!-- Time Table End -->
 
 				  <!-- Syllabus -->
 				  <div class="panel panel-default">
