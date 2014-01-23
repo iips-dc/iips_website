@@ -1,4 +1,5 @@
 <center > <img src="images/DC/dc_logos/DC-night-nova.png" width ="600px" height = "60px;" style="margin-top: -110px;"> </center>
+
 <center > <h3 style="margin-top: -24px;"> Welcome to Development Center - IIPS  </h3> </center>
 
 <p> 
@@ -40,6 +41,7 @@
 	<li><a href="https://www.edx.org/course/harvardx/harvardx-cs50x-introduction-computer-1022">Intro to Computer Science CS50x | Edx</a></li>
 
 </ul>
+
 
 
 
