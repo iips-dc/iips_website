@@ -10,9 +10,10 @@
 
 	 
 	<?php startblock('content'); ?>
+
+	<span style ="color:red;"><center>Alert!! Currently this section is under progress . Sorry for the inconvenience.</center></span>
 	
-	<p>This is the student verification page. Here you can verify if a person is a student of IIPS or not.<p>
-	<p>Type the name of the student in the below search box to verify the student.<p><br>
+	<p> <center>This is the student verification page. Here you can verify if a person is a student of IIPS or not.</center><p>
 	
 	<div class="row">
 		<div class="col-md-2">
@@ -28,12 +29,14 @@
 
 			 	<label>Select Course</label>
 
-			  <select class="form-control">
+			  <select class="form-control" >
 			  		<option>MCA</option>
 			  		<option>Mtech</option>
 			  		<option>MBA 5 years</option>
+			  		<option>Bcom Hons</option>
 			  		<option>MBA TA years</option>
 			  		<option>MBA APR years</option>
+			  		
 			  		
 			  </select>
 			  <br><br>
@@ -56,9 +59,9 @@
 
 			  </center>
 			  <br>
-			  <div class="col-md-12">
+			  <!-- <div class="col-md-12">
 			  Result: Yes the following student exist in our Database. Click <a href="#">here </a>to clear the form and search for another student: <a href="#">Search another student</a>
-			  </div>
+			  </div> -->
 
 
 			  
@@ -67,6 +70,7 @@
 			  </span> -->
 			</div><!-- /input-group -->
 			
+			<!-- 
 			<b><h3>KnockOut Testing : Type in the below inputbox.</h3></b><br>
 			<div class="input-group">
 			  <input type="text" class="form-control" data-bind="value: studentName, valueUpdate: 'afterkeydown'" placeholder="Enter The Student's Name">
@@ -74,10 +78,10 @@
 				<button class="btn btn-primary icon-search" type="button"></button>
 			  </span>
 			</div><br><!-- /input-group -->
-			<div data-bind="text: studentName">
+			<!-- <div data-bind="text: studentName">
 				
-			</div>
-		</div>
+			</div> -->
+		</div> 
 		<div class="col-md-2">
 			<!-- left blank intentionally -->
 		</div>
@@ -88,6 +92,8 @@
 
 	<?php startblock('script') ; ?>
 		<script>
+		
+
 			var verifyStudentModel = {
 				studentName: ko.observable()
 			}
