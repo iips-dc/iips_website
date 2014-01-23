@@ -26,11 +26,11 @@
                   <ul class="nav side-tabs nav-pills">
                    	 <li class="active btn-block"><a class="icon-chevron-sign-right" href="#mca">  MCA-6Years</a></li>
                      <li class="btn-block"><a class="icon-chevron-sign-right" href="#mtech">  M.Tech(IT)</a></li>
-                     <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaMS">  MBA(MS)5Years</a></li>
+                    <!--  <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaMS">  MBA(MS)5Years</a></li>
 					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaAPR">  MBA(APR)2Years</a></li>
 					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaTA">  MBA(TA)2Years</a></li>
 					 <li class="btn-block"><a class="icon-chevron-sign-right" href="#mbaFT">  MBA(MS)-2Years</a></li>
-                     <li class="btn-block"><a class="icon-chevron-sign-right" href="#bCom">  B.Com(hons)</a></li>
+                     <li class="btn-block"><a class="icon-chevron-sign-right" href="#bCom">  B.Com(hons)</a></li> -->
                	   </ul>
 
 			  	<?php endblock(); ?>
@@ -40,105 +40,47 @@
 
 	<?php startblock('content') ; ?>		  
 			  
-			  Time Table Coming Soon !
-                <!--<div id="mca"  class="tab-content active">
-					<div class="text-center text-primary"><h4 ><b>MCA - 6Year Syllabus</b></h4></div>
-					<div class="row margin-top">
-						<div class="col-md-4 text-center">
-							Semester - I  - <a href="downloads/syllabus/MCA-6year/MCA_I.pdf">Download</a>
-						</div>
-						<div class="col-md-4 text-center">
-							Semester - II  - <a href="downloads/syllabus/MCA-6year/MCA_II.pdf">Download</a>
-						</div>
-						<div class="col-md-4 text-center">
-							Semester - III - <a href="downloads/syllabus/MCA-6year/MCA_III.pdf">Download</a>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-4 text-center margin-top">
-							Semester - IV - <a href="downloads/syllabus/MCA-6year/MCA_IV.pdf">Download</a>
-						</div>
-						<div class="col-md-4 text-center margin-top">
-							Semester - V - <a href="downloads/syllabus/MCA-6year/MCA_V.pdf">Download</a>
-						</div>
-						<div class="col-md-4 text-center margin-top">
-							Semester - VI - <a href="downloads/syllabus/MCA-6year/MCA_VI.pdf">Download</a>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-4 text-center margin-top">
-							Semester - VII - <a href="downloads/syllabus/MCA-6year/MCA_VII.pdf">Download</a>
-						</div>
-						<div class="col-md-4 text-center margin-top">
-							Semester - VIII - <a href="downloads/syllabus/MCA-6year/MCA_VIII.pdf">Download</a>
-						</div>
-						<div class="col-md-4 text-center margin-top">
-							Semester - IX - <a href="downloads/syllabus/MCA-6year/MCA_IX.pdf">Download</a>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-4 text-center margin-top">
-							Semester - X - <a href="downloads/syllabus/MCA-6year/MCA_X.pdf">Download</a>
-						</div>
-						<div class="col-md-4 text-center margin-top">
-							Semester - XI - <a href="downloads/syllabus/MCA-6year/MCA_XI.pdf">Download</a>
-						</div>
-						<div class="col-md-4 text-center margin-top">
-							Semester - XII - <a href="#">Download</a>
-						</div>
-					</div>
+                <div id="mca"  class="tab-content active">
+					<div class="text-center text-primary"><h4 ><b>MCA - 6Year TimeTable</b></h4></div>
+					<br><br>
+						<ul>
+							<li>
+								<a href="downloads/time_table/MCATT_Jan_2014.pdf"> MCA All Semester Time Table
+								</a>
+							</li>
+							<li>
+								<a href="downloads/time_table/TeacherWiseTT2014.pdf">Teacher Wise Time Table
+								</a>
+							</li>
+
+						</ul>
+						
+					
+					
                 </div>
 
                 <div id="mtech" class="tab-content hide">
-					<div class="text-center text-primary"><h4 ><b>M.Tech(IT) - Syllabus</b></h4></div>
-					<div class="row margin-top">
-						<div class="col-md-4 text-center">
-							Semester - I  - <a href="downloads/syllabus/MTech-IT/M.Tech_I.pdf">Download</a>
-						</div>
-						<div class="col-md-4 text-center">
-							Semester - II  - <a href="downloads/syllabus/MTech-IT/M.Tech_II.pdf">Download</a>
-						</div>
-						<div class="col-md-4 text-center">
-							Semester - III - <a href="downloads/syllabus/MTech-IT/M.Tech_III.pdf">Download</a>
-						</div>
+					<div class="text-center text-primary"><h4 ><b>
+						M.Tech(IT) - Time Table</b></h4>
 					</div>
-					<div class="row">
-						<div class="col-md-4 text-center margin-top">
-							Semester - IV - <a href="downloads/syllabus/MTech-IT/M.Tech_IV.pdf">Download</a>
-						</div>
-						<div class="col-md-4 text-center margin-top">
-							Semester - V - <a href="downloads/syllabus/MTech-IT/M.Tech_V.pdf">Download</a>
-						</div>
-						<div class="col-md-4 text-center margin-top">
-							Semester - VI - <a href="downloads/syllabus/MTech-IT/M.Tech_VI.pdf">Download</a>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-4 text-center margin-top">
-							Semester - VII - <a href="downloads/syllabus/MTech-IT/M.Tech_VII.pdf">Download</a>
-						</div>
-						<div class="col-md-4 text-center margin-top">
-							Semester - VIII - <a href="downloads/syllabus/MTech-IT/M.Tech_VIII.pdf">Download</a>
-						</div>
-						<div class="col-md-4 text-center margin-top">
-							Semester - IX - <a href="downloads/syllabus/MTech-IT/M.Tech_IX.pdf">Download</a>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-2">
-						</div>
-						<div class="col-md-4 text-center margin-top">
-							Semester - X - <a href="downloads/syllabus/MTech-IT/M.Tech_X.pdf">Download</a>
-						</div>
-						<div class="col-md-4 text-center margin-top">
-							Semester - XI - <a href="#">Download</a>
-						</div>
-						<div class="col-md-2">
-						</div>
-					</div>
+
+
+					<br><br>
+						<ul>
+							<li><a href="downloads/time_table/M.TechTTJanJune14.pdf">M. Tech All Semester Time Table
+							</a></li>
+							<li><a href="downloads/time_table/TeacherWiseTT2014.pdf">Teacher Wise Time Table </a></li>
+
+						</ul>
+
+					
+
+					
+					
+					
                 </div>
 
-                <div id="mbaMS" class="tab-content hide">
+                <!--<div id="mbaMS" class="tab-content hide">
 					<div class="text-center text-primary"><h4 ><b>MBA(MS) - Syllabus</b></h4></div>
 					<div class="row margin-top">
 						<div class="col-md-4 text-center">
