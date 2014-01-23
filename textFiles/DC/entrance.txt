@@ -1,23 +1,28 @@
-<center > <img src="images/DC/dc_logos/DC-night-nova.png" width ="600px" height = "60px;" style="margin-top: -180px;"> </center>
+<center > <img src="images/DC/dc_logos/DC-night-nova.png" width ="600px" height = "60px;" style="margin-top: -110px;"> </center>
 <center > <h3 style="margin-top: -24px;"> Welcome to Development Center - IIPS  </h3> </center>
 
 <p> 
-	<center> Welcome to the world of developers ! </center>
+	<center ><i> Dive in to the world of developers ! 
+	 </i></center>
 	<br>
 	We being development center-IIPS have been continuously trying to enhance students technical skills and provide and understanding of software development .
 	We are Constantly providing guidance to our students to inculcate internationalized open source standards and values.
 
 </p>
 
-<br><br><br>
-
-
-<a href="http://www.catb.org/~esr/faqs/smart-questions.html" > How to ask question the smart way </a>
 <br>
-<a href= "" >I want to do project tell me what to do </a>
-<p>
-Intro to Computer Science CS101 - Udacity.com
-</p>
+
+
+<p> Before you ask us to join , you have to complete atleast any one course from the below recommended course listing and you have to complete the following suggested readings  </p>
+
+<ul>
+<li><a href="http://www.catb.org/~esr/faqs/smart-questions.html" > How to ask question the smart way </a> </li>
+
+<li>
+<a href= "downloads/DC/i want to do project tell me what to do.pdf" >I want to do project tell me what to do </a> </li>
+
+</ul>
+
 <h4>Recommended Courses</h4> <br><br>
 
 <ul>
