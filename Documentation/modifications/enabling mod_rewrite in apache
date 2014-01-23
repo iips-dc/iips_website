@@ -1,0 +1,16 @@
+# this document tells how to enable mod_rewrite in apache under linux
+# Every thing written in hash means comment. 
+
+>> cat /etc/apache2/mods-available/rewrite.load    ///checks if the mod is available. 
+
+#If it doesn't print out file contents, you will need to add the module
+
+>> sudo a2enmod rewrite   //enables the mod
+
+>> ls -al /etc/apache2/mods-enabled/rewrite.load // shows created symlink
+
+>> sudo vi /etc/apache2/sites-available/default   //opens the file in vi (you can also use vim or nano)
+
+# Replace all the occurrences of "AllowOverride None" with "AllowOverride all"
+
+>> sudo service apache2 restart    ///restarts apache
