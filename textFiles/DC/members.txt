@@ -1,0 +1,112 @@
+<p> 
+	Here is the list of our dedicated members . In case you are a past member and we had missed your name , do get us in touch via <a href="" >this </a> form .We will be glad to have you in our family . </p> <br>
+
+<h4>Current Mentor(June 2012- till date )</h4>
+
+
+<div class="dcMembers boxShadow "><img src="" class="img-circle"/> <a href="https://sites.google.com/site/shaligramiipsdavvindore/"> Mr. Shaligram Prajapat </a></div><br>
+
+<h4> Previous Mentor(till June-2012)</h4>
+
+<div class="dcMembers boxShadow "><img src="" class="img-circle"/> Mr. Imroz Khan<br></div><br><br>
+
+
+<h4>Current Members</h4>
+<div class="row">
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/> Adisha Porwal</div>
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/> Ajeet Khan</div>
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Akanksha Rathore</div>
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Ankit Kulkarni<br></div>
+	
+	
+</div>
+<div class="row">
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Ayushi Jain<br></div>
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Bedi Singh Yadav<br></div>
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Chitrank Dixit<br></div>
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Devendra malviya<br></div>
+</div>
+<div class="row">
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Gaurav Parmar<br></div>
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Komal Rathore<br></div>
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Misha P Mathai<br></div>
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Nitesh Mishra<br></div>
+
+
+</div>
+<div class="row">
+
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Nitin Sharma<br></div>	
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Prashant Yadav<br></div>
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Pulkit Vaishnav<br></div>
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/> Rahul Lohar</div>
+</div>
+<div class="row">
+
+</div>
+<div class="row">
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/> Rahul Sagore</div>
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Rajat Garg<br></div>
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Sachin Tanwar<br></div>		
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Shaifali Agrawal<br></div>
+</div>
+<div class="row">
+
+
+</div>
+<div class="row">
+	<div class="col-md-2"></div>
+	<div class="col-md-2"></div>
+	<div class="col-md-4 dcMembers boxShadow"><img src="" class="img-circle"/> <center> Sunny Raikwar </center><br></div>
+
+	<div class="col-md-2"></div>
+</div>
+<br><br>
+
+<h4> Past Members </h4>
+
+<div class="row">
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Amber Jain</div>
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Shlok Agrawal<br></div>
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Ruchika Mandora<br></div>
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Varsha Karandikar <br></div>
+
+	
+</div>
+
+<div class="row">
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Ankit Mehra<br></div>
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Sanskriti Yadav<br></div>
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Jasmeet Sing Arora <br></div>
+	<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Nikita Das </div>
+
+	
+</div>
+
+<div class="row">
+	
+<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/> Bhaskar Jain</div>
+<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Shiv Morya</div>
+<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Arpit Saxena<br></div>
+<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Bhoopendra Kushwah<br></div>
+
+</div>
+
+<div class="row">
+	
+<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/> Gagandeep Singh </div>
+<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Honey Verma </div>
+<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Yash Datre<br></div>
+<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>Sanjay Wadhwani<br></div>
+
+</div>
+
+
+<div class="row">
+	
+<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/>  Achint Verma</div>
+<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/> </div>
+<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/> <br></div>
+<div class="col-md-3 dcMembers boxShadow"><img src="" class="img-circle"/> <br></div>
+
+</div>
