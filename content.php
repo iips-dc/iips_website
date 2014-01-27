@@ -144,13 +144,13 @@ and testimonial section -->
 	
 
 	<div class="row">
-   	   <div class="col-md-9 text-center">
+   	   <div class="col-md-8 text-center">
      	 <?php include('quicklinks.php') ?><br>
   	 </div><!--col-md-8 class ended -->
   
-  	 <div class="col-md-3 testimonial text-center">
+  	 <div class="col-md-4 testimonial text-center">
   		<!-- testimonial started -->
-		<div class="panel panel-default  boxShadow" style="height:180px;">
+		<!-- <div class="panel panel-default  boxShadow" style="height:180px;">
 			<div class="panel-heading">
 				<h3 class="panel-title">Testimonials</h3>
 			</div>
@@ -171,7 +171,9 @@ and testimonial section -->
 				</li>
 			  </ul>
 		    </div><!--panel body Ended -->
-  	    </div><!--Panel Ended -->
+  	    <!--</div><!--Panel Ended -->
+  	    <a class="twitter-timeline" href="https://twitter.com/iipsdavv" width="280px" height="100px" data-widget-id="427741527792549889">Tweets by @iipsdavv</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 	  </div><!--col-md-4 ended -->
   </div><!--row Class ended -->
 </div>
