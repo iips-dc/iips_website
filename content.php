@@ -48,7 +48,7 @@ and testimonial section -->
 
 				</div>
 				<div class="panel-footer">
-					<a href="notice_announcement.php"><b>View All &raquo;</b></a>
+					<a href="notice_announcement"><b>View All &raquo;</b></a>
 				</div>
 		  </div><!--Panel for Annoucements End -->
      </div><!--Col-md-3 End -->
@@ -85,7 +85,7 @@ and testimonial section -->
 										  <img class="featurette-image img-responsive" src="data:image/png;base64," data-src="holder.js/60x60/auto" alt="Generic placeholder image">
 										</div> -->
 										<div class="col-md-7">
-											<!-- <h5><a href="news.php#">IIPS Naac Visit complete on 15-Jan-2014  </a>  <span class="pull-right">Posted - 31st Dec 2013 </span></h5>-->
+											<!-- <h5><a href="news#">IIPS Naac Visit complete on 15-Jan-2014  </a>  <span class="pull-right">Posted - 31st Dec 2013 </span></h5>-->
 											
 											<h5><a href="news#new_website"><i class="icon-info-sign"></i>  New mobile responsive IIPS website soon to be released </a><img src="images/new.gif" ></h5>
 											<h5><a href="download"><i class="icon-info-sign"></i> Download your cousre presentations by subject teachers </a><img src="images/new.gif" ></h5>
@@ -96,7 +96,7 @@ and testimonial section -->
 
 										<div class="col-md-5">
 											<h5>Activities</h5>
-											<!-- <h5><a href="news.php#">IIPS Naac Visit complete on 15-Jan-2014  </a>  <span class="pull-right">Posted - 31st Dec 2013 </span></h5>-->
+											<!-- <h5><a href="news#">IIPS Naac Visit complete on 15-Jan-2014  </a>  <span class="pull-right">Posted - 31st Dec 2013 </span></h5>-->
 											
 											<h5><a href="news#naac_photos"><i class="icon-info-sign"></i> Naac Visit photos dated 16/01/14 </a><img src="images/new.gif" ></h5>
 											<h5><a href="news#naac_photos1"><i class="icon-info-sign"></i> Naac Visit photos dated 15/01/14 </a><img src="images/new.gif" ></h5>
@@ -113,7 +113,7 @@ and testimonial section -->
 										  <img class="featurette-image img-responsive" src="data:image/png;base64," data-src="holder.js/60x60/auto" alt="Generic placeholder image">
 										</div> -->
 										<!-- <div class="col-md-11">
-											<h5>Students Preparing for Synergy 2014 Event <span class="text-muted"><a href="news.php#synergy">Click Here</a> for details</span><span class="postDate pull-right">Posted - 28th Dec 2013</span></h5>	
+											<h5>Students Preparing for Synergy 2014 Event <span class="text-muted"><a href="news#synergy">Click Here</a> for details</span><span class="postDate pull-right">Posted - 28th Dec 2013</span></h5>	
 										</div>
 									</div> --><!-- end of row class -->
 							   </div>
@@ -135,7 +135,7 @@ and testimonial section -->
 				   </div><!--.tab-content -->
 				</div><!--Panel body -->
 				<div class="panel-footer  text-center">
-					<a href="news.php"><b>View All &raquo;</b></a>
+					<a href="news"><b>View All &raquo;</b></a>
 				</div>
 			</div><!--End of Panel -->
 		</div><!--End of col-md-12 -->

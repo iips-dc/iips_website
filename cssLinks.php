@@ -1,5 +1,5 @@
-	
-	<!--Bootrstrap css link -->
+
+	<!--Bootrstrap css link  -->
 	<link rel="stylesheet" href="dist/css/bootstrap.css">
 	<link rel="stylesheet" href="css/sticky-footer.css" />
 	<link rel="stylesheet" href="css/font-awesome.min.css" />
@@ -28,10 +28,10 @@
 			text-align: justify;
 
 		}
-
+		/* for changing current color of MENU bar, change color for navy blue rgb(42,52,81). */
 		.navbar-default
 		{
-			background: rgb(42,52,81);
+			background: #138808;
 			border-color:#e7e7e7;
 			box-shadow:0px 15px 20px rgba(121,121,121,0.7);
 			
@@ -55,10 +55,11 @@
 			color: #0465D0;
 			font-size: 13px;
 		}
+		/* for changing current color of gateway bar, change color for navy blue rgb(42,52,81). */
 		.gateway {
 			margin-left: 0px;
 			padding: 5px 5px 5px 5px;
-			background-color:rgb(42,52,81);
+			background-color: #FF9933;
 			width: 100%;
 		}
 		.form-control{

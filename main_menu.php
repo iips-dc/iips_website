@@ -42,6 +42,7 @@
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Academics<b class="caret"></b></a>
 							<ul class="dropdown-menu">
 								  <li><a href="academic_calender">Academic Calender</a></li>
+								  <li> <a href="time_table"> Time Table</a></li>
 								  <li><a href="syllabus">Syllabus</a></li>
 								  <li><a href="result">Results</a></li>
 								  <li><a href="notice_announcement">Notices and Announcements</a></li> 

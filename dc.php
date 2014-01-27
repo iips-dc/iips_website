@@ -8,7 +8,7 @@
 		
 	<?php startblock('style'); ?>
 
-	<style type"text/css">
+	<style type="text/css">
 		.dcMembers{
 			background-color:white;
 			padding: 10px 10px 10px 10px;
@@ -33,9 +33,9 @@
 			                <!-- <li ><a class="icon-chevron-sign-right" href="#tab3"> Open Projects</a></li> -->
 			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab3"> Open Source Initiatives</a></li>
 			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab4"> Past Projects</a></li>
-			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab5"> Team</a></li>
-			               <!--  <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab6"> Entrance</a></li>
-			                 -->
+			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab5"> Members</a></li>
+			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab6"> Entrance</a></li>
+			                
 						</ul>
 
 	                <?php endblock() ; ?>				
@@ -81,18 +81,18 @@
 
 	                   <div id="tab5"  class="tab-content hide">
 	                      <?php 
-							$team ="textFiles/DC/team.txt";  
-							readTextFiles($team);
+							$members ="textFiles/DC/members.txt";  
+							readTextFiles($members);
 					     ?>
 	                   </div>
 
-	              <!--      <div id="tab6"  class="tab-content hide">
+	                   <div id="tab6"  class="tab-content hide">
 	                      <?php 
-							$entrance ="textFiles/DC/open_initiatives (copy).txt";  
+							$entrance ="textFiles/DC/entrance.txt";  
 							readTextFiles($entrance);
 					     ?>
 	                   </div>
- -->
+
 
 	                <?php endblock(); ?>
 					

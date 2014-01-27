@@ -25,13 +25,3 @@
 
 
 <h5>Most Popular Courses</h5> <br><br>
-
-
-
-
-
-
-
-
-
-</p>
