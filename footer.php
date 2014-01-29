@@ -23,4 +23,5 @@
 			</div>
 		</div>
 	</div>
+	<a href="#" class="go-top"><img src="images/up.png" height="40px"></a>
 </footer>

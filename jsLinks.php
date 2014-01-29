@@ -3,6 +3,9 @@
     <script src="dist/js/bootstrap.js"></script>
 	<script src="jsLibrary/jquery.quote_rotator.js"></script>
 	<script src="js/knockout-2.3.0.js"></script>
+	<script src="js/gototop.js"></script>
+	<script src="js/jquery.min.js"></script>
+
 	<script>
 		$(document).ready(function() {
 			//Code for Permalink - showing sidebar content for a specific URL e.g. - example.com#tab1 .

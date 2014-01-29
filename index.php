@@ -79,7 +79,7 @@
 		$browser = get_browser(null, true) ;
 		$browser =  strtolower($browser['browser']) ; 
 
-		if ($browser == ie) {
+		if ($browser == 'ie') {
 		echo " 
 			<script>
  		 $(function () {
@@ -128,6 +128,8 @@
 
 
    </script>
+
    <script src="https://www.surveymonkey.com/jsPop.aspx?sm=mM0njMJ6P3CyzaMh0OhMew_3d_3d"> </script>
+  
   </body>
 </html>
