@@ -60,15 +60,15 @@
 
     <div class="row">
         <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="images/DC/Sunny.jpg">
-            <h3>Sunny Raikwar <small>Job Title</small></h3>
-            <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
-        </div>
-        <div class="col-lg-4 col-sm-6">
                 <img class="img-circle img-responsive" src="http://www.gravatar.com/avatar/b88ad6f999be3f82efbed2d0faea48ff?d=mm&s=200" >
             <h3>Gaurav Parmar <small>Web Developer</small></h3>
             <!--<p>Worked as a Web Developer.</p>-->
             <p>Catch me on : <br><a href="http://being-technical.blogspot.com">My Blog</a> | <a href="http://linkedin.com/in/gauravbparmar">Linkedin</a>| <a href="http://twitter.com/gauravonquest">Twitter</a> | <a href="https://www.facebook.com/gauravparmariam">Facebook</a></p>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+                <img class="img-circle img-responsive" src="images/DC/Sunny.jpg">
+            <h3>Sunny Raikwar <small>Job Title</small></h3>
+            <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
 
     </div>
@@ -96,6 +96,14 @@
 	<h4 class="text-primary"><b>Website Maintainers & Testers</b></h3> <hr>
 	
 	<div class="row">
+
+
+        <div class="col-lg-4 col-sm-6">
+                <img class="img-circle img-responsive" src="http://www.gravatar.com/avatar/b88ad6f999be3f82efbed2d0faea48ff?d=mm&s=200" >
+            <h3>Gaurav Parmar <small>Web Developer</small></h3>
+            <!--<p>Worked as a Web Developer.</p>-->
+            <p>Catch me on : <br><a href="http://being-technical.blogspot.com">My Blog</a> | <a href="http://linkedin.com/in/gauravbparmar">Linkedin</a>| <a href="http://twitter.com/gauravonquest">Twitter</a> | <a href="https://www.facebook.com/gauravparmariam">Facebook</a></p>
+        </div>
 
         <div class="col-lg-4 col-sm-6">
                 <img class="img-circle img-responsive" src="images/DC/mishaMathai.jpg">

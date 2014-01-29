@@ -32,7 +32,7 @@
 		/* for changing current color of MENU bar, change color for navy blue rgb(42,52,81). */
 		.navbar-default
 		{
-			background: #138808;
+			background: #244D4D;
 			border-color:#e7e7e7;
 			box-shadow:0px 15px 20px rgba(121,121,121,0.7);
 			
@@ -60,7 +60,7 @@
 		.gateway {
 			margin-left: 0px;
 			padding: 5px 5px 5px 5px;
-			background-color: #FF9933;
+			background-color: #244D4D;
 			width: 100%;
 		}
 		.form-control{
