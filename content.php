@@ -39,12 +39,12 @@ and testimonial section -->
 				</div>
 				<div class="panel-body " align="left">
 				
+				  <a href="notice_announcement#new_workshop"> <i class="icon-pushpin"></i> New workshop by Ms.Sikha Chaturvedi </a><br> 
 				  <a href="notice_announcement#utd_employees"> <i class="icon-pushpin"></i> Notice for all UTD employees</a><br> 
 				  <a href="notice_announcement#utd_academic_calendar"> <i class="icon-pushpin"></i> NAAC Notice regarding Academic Calender.pdf </a><br>
 				  <a href="notice_announcement#naac_visit"> <i class="icon-pushpin"></i> NAAC - Arrival in Jan 2014 </a><br>				  
 				  <a href="notice_announcement#winter_intern"> <i class="icon-pushpin"></i> Winter internships @Pedicon  8Jan-12Jan 2014</a><br>				  
-				  <a href="notice_announcement#college_reopened"> <i class="icon-pushpin"></i> College reopened from 2 Jan 2014 </a><br>
-				 
+				  
 
 				</div>
 				<div class="panel-footer">

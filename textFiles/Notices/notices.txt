@@ -1,6 +1,22 @@
 			<h3 class="text-center"><b class="label label-primary icon-bullhorn"> Notices & Annoucement Board</b></h3>
+
+
 			
 			<!-- Notice Section --><br><br>
+			
+			<div class="row notice" id ="new_workshop" >
+				  <h5><b>&raquo;New workshop by Ms Shikha chaturvedi </b>  </h5>
+				  
+				  <div class="content">
+					<p> 
+					Ph. D. Viva-voce of Ms. Sikha Chaturvedi on the topic “A Study of Perception of Tourists about Tourist Destinations in Madhya Pradesh” under faculty of Management is scheduled to be held on 30.01.2014 at LT-1, IIPS, DAVV at 11.30AM. Interested persons/Faculties/Students are invited to attend the Viva-voce presentation.  				<a href="downloads/notices/notice-A Study of Perception of Tourists about Tourist Destinations in Madhya Pradesh.pdf" target="blank">Download pdf </a>
+					</p><br>
+
+				  </div>
+				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
+			</div><br>
+
+
 			<div class="row notice" id ="utd_employees" >
 				  <h5><b>&raquo;Notice for all UTD employees </b>  </h5>
 				  
@@ -12,6 +28,7 @@
 				  </div>
 				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
 			</div><br>
+			
 
 			<div  class="row notice" id="utd_academic_calendar">
 				  <h5><b>&raquo;Naac Notice regarding academic calendar </b></h5>
@@ -51,12 +68,5 @@
 			   <button class="btn btn-primary toggleContent" href="#" role="button">View Details &raquo;</button>
 			</div><br>
 			
-			<div  class="row notice" id="college_reopened">
-			    <h5><b>&raquo; College reopened from 2 Jan 2014 !</b></h5>
-			    <div class="content">
-				    <p >It is informed to all the Students, Faculties and College Staff that the college will reopen from 2 Jan 2014. <a href="downloads/notices/college_reopen.pdf">Download PDF</a></p><br>
-			    </div>
-				
-			   <button class="btn btn-primary toggleContent" href="#" role="button">View Details &raquo;</button>
-			</div><br>
+		
 			
