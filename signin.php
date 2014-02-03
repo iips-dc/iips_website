@@ -108,9 +108,18 @@
           <?php if (isset($token_data)): ?>
             <div class="data">
               <?php 
-              echo ($token_data['payload']['email']);
-
+              $strings = $token_data['payload']['email']; 
+              echo ($strings);
               echo "<br>";
+              echo gettype($strings);
+              echo "<br>";
+
+               $domain = explode('@', $strings);
+               if ( $domain[1] == 'iips.edu.in'){
+                  $_SESSION['iipsUser'] = $email; //setting Session variable
+                  echo "It worked";
+                }
+                else { echo "ERROR"; }
 
               $newstr = var_dump($token_data); 
               var_dump($token_data);
