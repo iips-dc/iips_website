@@ -110,5 +110,13 @@
 		.inputWidth{
 			width:150px;
 		}
+		.navbar{
+			min-height: 0px;
+			height: 40px;
+		}
+		.navbar-nav > li > a{
+			line-height: 10px;
+		}
+
 		
 	</style>
