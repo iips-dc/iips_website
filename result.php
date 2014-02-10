@@ -60,6 +60,11 @@
 										<td> <a href="downloads/result/JAN-MAY2013/mca 6 yr viii sem.pdf">Download</a></td>
 									</tr>
 
+									<tr> 
+										<td> Semester - XII (July-December 2013)<img src="images/new.gif" ></td>
+										<td> <a href="downloads/result/JULY-DECEMBER2013/MCA 9th sem results July-December 2013.pdf">Download</a></td>
+									</tr>
+
 
 									<tr> 
 										<td>Semester - X  </td>
