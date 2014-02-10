@@ -24,8 +24,10 @@
 				<!-- Left empty with purpose -->
 		</div>
 		<div class="col-lg-4">
-				<img class="img-responsive" src="images/DC/shaligram.jpg">
-			<h3>Mr. Shaligram Prajapat <small class="text-primary"><b>Project Manager</b></small></h3>
+				<center>
+                <img class="img-responsive" src="images/DC/shaligram.jpg">
+			<h3>Prof. Shaligram Prajapat <small class="text-primary"><b>Project Manager</b></small></h3>
+            </center>
 			<p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
 		</div>
 		<div class="col-sm-4">
