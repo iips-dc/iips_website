@@ -15,7 +15,7 @@
 		include('slider_cssLinks.php');
 	?>
 	<style type="text/css">
-
+		
 	</style>
   </head>
 

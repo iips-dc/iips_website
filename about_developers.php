@@ -73,10 +73,11 @@
             <p>Catch me on : <br><a href="#">My Blog</a> | <a href="#">Linkedin</a>| <a href="#">Twitter</a> | <a href="#">Facebook</a></p>
         </div>
         <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="http://www.gravatar.com/avatar/b88ad6f999be3f82efbed2d0faea48ff?d=mm&s=200" >
-            <h3>Gaurav Parmar <small>Web Developer</small></h3>
-            <!--<p>Worked as a Web Developer.</p>-->
-            <p>Catch me on : <br><a href="http://being-technical.blogspot.com">My Blog</a> | <a href="http://linkedin.com/in/gauravbparmar">Linkedin</a>| <a href="http://twitter.com/gauravonquest">Twitter</a> | <a href="https://www.facebook.com/gauravparmariam">Facebook</a></p>
+            <center><img class="img-circle img-responsive" src="http://www.gravatar.com/avatar/b88ad6f999be3f82efbed2d0faea48ff?d=mm&s=200"></center>
+            <center><h3>Gaurav Parmar <br><small>( Web Developer cum Graphic Designer)</small></h3></center>
+            <center><a href="https://github.com/gauravparmar"><img src="images/github.png" class="social-links"></a> <a href="http://being-technical.blogspot.com"><img src="images/blogger.png" class="social-links"></a>  <a href="http://linkedin.com/in/gauravbparmar"><img src="images/linkedin.png" class="social-links"></a> <a href="http://twitter.com/gauravonquest"><img src="images/twitter.png" class="social-links"></a>  <a href="https://www.facebook.com/gauravparmariam"><img src="images/facebook.png" class="social-links"></a></p></center>
+            <center><p align="justify">I am a professional Web Developer and I have been working as a freelancer since last one year. My major technology stack includes PHP, Bootstrap, HTML, JavaScript, CSS, Adobe Photoshop etc.</p></center>
+            
         </div>
     </div>
 	
