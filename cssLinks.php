@@ -147,6 +147,10 @@
 		  color: #FFFFFF;
 		}
 
+		.panel-default .panel-heading {
+		    background: none repeat scroll 0 0 #8C1515;
+		    color: #FFFFFF;
+		}
 		
 		
 
