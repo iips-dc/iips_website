@@ -93,7 +93,7 @@
 								<li><a href="staff_profile">Staff Profile</a></li>
 								<li><a href="student_verification">Student Verification</a></li>
 								<li><a href="video_channel">Video Channel</a></li>
-								<li><a href="recruitments">Recruitments @iips</a></li>
+								<li><a href="recruitments">Recruitments @IIPS</a></li>
 								<li><a href="right_to_information">RTI</a></li>		  
 							</ul>
 						 </li>
