@@ -153,7 +153,7 @@
 		}
 		a {
 		    color: #551000;
-		    font-size: 13px;
+		    font-size: 15px;
 		}		
 		
 
