@@ -44,7 +44,7 @@
 
 					<?php startblock('content'); ?>
 
-						<div id="tab1"  class="tab-content active">
+						<div id="tab1"  class="tab-content active" style="text-align:justify;">
 	                      <?php 
 							$aboutDC ="textFiles/DC/about_dc.txt";  
 							readTextFiles($aboutDC);
