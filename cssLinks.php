@@ -151,7 +151,10 @@
 		    background: none repeat scroll 0 0 #8C1515;
 		    color: #FFFFFF;
 		}
-		
+		a {
+		    color: #551000;
+		    font-size: 13px;
+		}		
 		
 
 	</style>
