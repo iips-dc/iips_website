@@ -1,9 +1,10 @@
-	<div class="navbar-wrapper topspace downShadow" style="width:100% ; margin-top:0px;">
+
+		    <div class="container">
+		    		<div class="navbar-wrapper topspace downShadow" style="width:100% ; margin-top:0px;">
      <!-- <div class="container topspace">-->
 		<!-- label label-default -->
 	  
         <div class="navbar navbar-default">
-		    <div class="container">
        			 <div class="navbar-header">
          			 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
            			 	<span class="icon-bar"></span>
@@ -93,7 +94,7 @@
 								<li><a href="staff_profile">Staff Profile</a></li>
 								<li><a href="student_verification">Student Verification</a></li>
 								<li><a href="video_channel">Video Channel</a></li>
-								<li><a href="recruitments">Recruitments @IIPS</a></li>
+								<li><a href="recruitments">Recruitments @iips</a></li>
 								<li><a href="right_to_information">RTI</a></li>		  
 							</ul>
 						 </li>

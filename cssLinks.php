@@ -53,7 +53,6 @@
 		}
 		
 		a {
-			color: #0465D0;
 			font-size: 13px;
 		}
 		/* for changing current color of gateway bar, change color for navy blue rgb(42,52,81). */
@@ -152,7 +151,7 @@
 		    color: #FFFFFF;
 		}
 		a {
-		    color: #551000;
+		    color: #8C1515;
 		    font-size: 15px;
 		}		
 		
