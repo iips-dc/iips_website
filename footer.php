@@ -1,6 +1,3 @@
-
-	
-
 	<div class="container text-center" style="font-size:18px; padding-top:15px;">
 		<footer style=" background-color:#8C1515; color:#ffffff;">
 		<div class="row">
@@ -26,5 +23,5 @@
 		</div>
 		</footer>
 	</div>
-	<a href="#" class="go-top"><img src="images/up.png" height="40px"></a>
+	<a href="#" class="go-top"><img src="images/up.png" height="45px"></a>
 
