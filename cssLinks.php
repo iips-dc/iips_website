@@ -32,7 +32,7 @@
 		/* for changing current color of MENU bar, change color for navy blue rgb(42,52,81). */
 		.navbar-default
 		{
-			background: #8C1515;
+			background: rgb(42,52,81);
 			border-color:#e7e7e7;
 			box-shadow:0px 15px 20px rgba(121,121,121,0.7);
 			
@@ -53,13 +53,14 @@
 		}
 		
 		a {
+			color: #0465D0;
 			font-size: 13px;
 		}
 		/* for changing current color of gateway bar, change color for navy blue rgb(42,52,81). */
 		.gateway {
 			margin-left: 0px;
 			padding: 5px 5px 5px 5px;
-			background-color: #8C1515;
+			background-color: rgb(42,52,81);
 			width: 100%;
 		}
 		.form-control{
@@ -112,11 +113,10 @@
 		.navbar{
 			min-height: 0px;
 			height: 40px;
-			
 		}
 		.navbar-nav > li > a{
 			line-height: 10px;
-		}
+		
 		.social-links{
 		opacity:0.4;
 		filter:alpha(opacity=40); /* For IE8 and earlier */
