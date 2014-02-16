@@ -39,12 +39,11 @@ and testimonial section -->
 				</div>
 				<div class="panel-body " align="left">
 				
-				  <a href="notice_announcement#fees_notice"> <i class="icon-pushpin"></i> Urgent - Fees Submission Notice</a><img src="images/new.gif" > <br> 
 				  <a href="notice_announcement#new_workshop"> <i class="icon-pushpin"></i> New workshop by Ms.Sikha Chaturvedi </a><br> 
 				  <a href="notice_announcement#utd_employees"> <i class="icon-pushpin"></i> Notice for all UTD employees</a><br> 
 				  <a href="notice_announcement#utd_academic_calendar"> <i class="icon-pushpin"></i> NAAC Notice regarding Academic Calender.pdf </a><br>
 				  <a href="notice_announcement#naac_visit"> <i class="icon-pushpin"></i> NAAC - Arrival in Jan 2014 </a><br>				  
-				  		  
+				  <a href="notice_announcement#winter_intern"> <i class="icon-pushpin"></i> Winter internships @Pedicon  8Jan-12Jan 2014</a><br>				  
 				  
 
 				</div>
@@ -184,11 +183,7 @@ and testimonial section -->
 			  </ul>
 		    </div><!--panel body Ended -->
   	    <!--</div><!--Panel Ended -->
-<<<<<<< HEAD
   	    <a class="twitter-timeline" href="https://twitter.com/iipsdavv" width="280px" height="370px" data-widget-id="427741527792549889">Tweets by @iipsdavv</a>
-=======
-  	    <a class="twitter-timeline" href="https://twitter.com/iipsdavv" width="280px" height="260px" data-widget-id="427741527792549889">Tweets by @iipsdavv</a>
->>>>>>> origin/testing
 		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 	  </div><!--col-md-4 ended -->
 
