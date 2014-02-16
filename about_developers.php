@@ -29,7 +29,9 @@
 			<h3>Prof. Shaligram Prajapat <small class="text-primary"><b>Project Manager</b></small></h3>
             </center>
 			<p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
-		</div>
+            <center><p>Catch me on : </center><center><a href="https://sites.google.com/site/shaligramiipsdavvindore/">My Website</a> | <a href="#">Linkedin</a>| <a href="#">Twitter</a> | <a href="#">Facebook</a></p></center>
+		      
+        </div>
 		<div class="col-sm-4">
 				<!-- Left empty with purpose -->
 		</div>
@@ -42,18 +44,21 @@
                 <img class="img-circle img-responsive" src="images/DC/rahul-sagore.jpg">
             <h3>Rahul Sagore <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+            <p>Catch me on : <br><a href="#">My Blog</a> | <a href="#">Linkedin</a>| <a href="#">Twitter</a> | <a href="#">Facebook</a></p>
         </div>
 
         <div class="col-lg-4 col-sm-6">
                 <img class="img-circle img-responsive" src="http://www.gravatar.com/avatar/143615a20f580213f50d651cf5148d11?d=mm&s=200">
             <h3>Chitrank Dixit <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+            <p>Catch me on : <br><a href="#">My Blog</a> | <a href="#">Linkedin</a>| <a href="#">Twitter</a> | <a href="#">Facebook</a></p>
         </div>
 
         <div class="col-lg-4 col-sm-6">
                 <img class="img-circle img-responsive" src="images/DC/ankit.jpg">
             <h3>Ankit Kulkarni <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+            <p>Catch me on : <br><a href="#">My Blog</a> | <a href="#">Linkedin</a>| <a href="#">Twitter</a> | <a href="#">Facebook</a></p>
         </div>
 
 
@@ -62,11 +67,17 @@
 
     <div class="row">
         <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="images/DC/Sunny.jpg">
+                <img class="img-circle img-responsive" src="images/DC/Sunny.jpg" style="height:200px;">
             <h3>Sunny Raikwar <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+            <p>Catch me on : <br><a href="#">My Blog</a> | <a href="#">Linkedin</a>| <a href="#">Twitter</a> | <a href="#">Facebook</a></p>
         </div>
-
+        <div class="col-lg-4 col-sm-6">
+                <img class="img-circle img-responsive" src="http://www.gravatar.com/avatar/b88ad6f999be3f82efbed2d0faea48ff?d=mm&s=200" >
+            <h3>Gaurav Parmar <small>Web Developer</small></h3>
+            <!--<p>Worked as a Web Developer.</p>-->
+            <p>Catch me on : <br><a href="http://being-technical.blogspot.com">My Blog</a> | <a href="http://linkedin.com/in/gauravbparmar">Linkedin</a>| <a href="http://twitter.com/gauravonquest">Twitter</a> | <a href="https://www.facebook.com/gauravparmariam">Facebook</a></p>
+        </div>
     </div>
 	
 	<h4 class="text-primary"><b>Database Maintainers</b></h3> <hr>
@@ -76,16 +87,19 @@
                 <img class="img-circle img-responsive" src="images/DC/shaifali.jpg">
             <h3>Shaifali Agrawal<small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+            <p>Catch me on : <br><a href="#">My Blog</a> | <a href="#">Linkedin</a>| <a href="#">Twitter</a> | <a href="#">Facebook</a></p>
         </div>
         <div class="col-lg-4 col-sm-6">
                 <img class="img-circle img-responsive" src="images/DC/nitesh.jpg">
             <h3>Nitesh Mishra<small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+            <p>Catch me on : <br><a href="#">My Blog</a> | <a href="#">Linkedin</a>| <a href="#">Twitter</a> | <a href="#">Facebook</a></p>
         </div>
 		<div class="col-lg-4 col-sm-6">
                 <img class="img-circle img-responsive" src="images/DC/ajeet.jpg">
             <h3>Ajeet Khan <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+            <p>Catch me on : <br><a href="#">My Blog</a> | <a href="#">Linkedin</a>| <a href="#">Twitter</a> | <a href="#">Facebook</a></p>
         </div>
 	</div><br>
 	
@@ -94,24 +108,19 @@
 	<div class="row">
 
 
-        <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="http://www.gravatar.com/avatar/b88ad6f999be3f82efbed2d0faea48ff?d=mm&s=200" >
-            <h3>Gaurav Parmar <small>Job Title</small></h3>
-            <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
-            <!--<p>Worked as a Web Developer.</p>-->
-            <!--<p>Catch me on : <br><a href="http://being-technical.blogspot.com">My Blog</a> | <a href="http://linkedin.com/in/gauravbparmar">Linkedin</a>| <a href="http://twitter.com/gauravonquest">Twitter</a> | <a href="https://www.facebook.com/gauravparmariam">Facebook</a></p>-->
-        </div>
 
         <div class="col-lg-4 col-sm-6">
                 <img class="img-circle img-responsive" src="images/DC/mishaMathai.jpg">
             <h3>Misha Mathai <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+            <p>Catch me on : <br><a href="#">My Blog</a> | <a href="#">Linkedin</a>| <a href="#">Twitter</a> | <a href="#">Facebook</a></p>
         </div>
         
         <div class="col-lg-4 col-sm-6">
                 <img class="img-circle img-responsive" src="images/DC/Akanksha.jpg">
             <h3>Akanksha Rathore <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+            <p>Catch me on : <br><a href="#">My Blog</a> | <a href="#">Linkedin</a>| <a href="#">Twitter</a> | <a href="#">Facebook</a></p>
         </div>
 
 
@@ -123,11 +132,13 @@
                 <img class="img-circle img-responsive" src="images/DC/bedi.jpg">
             <h3>Bedi Singh Yadav <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+            <p>Catch me on : <br><a href="#">My Blog</a> | <a href="#">Linkedin</a>| <a href="#">Twitter</a> | <a href="#">Facebook</a></p>
         </div>
 		<div class="col-lg-4 col-sm-6">
                 <img class="img-circle img-responsive" src="images/DC/komal.jpg">
             <h3>Komal Rathore <small>Job Title</small></h3>
             <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+            <p>Catch me on : <br><a href="#">My Blog</a> | <a href="#">Linkedin</a>| <a href="#">Twitter</a> | <a href="#">Facebook</a></p>
         </div>
 	</div>
 <?php endblock(); ?>

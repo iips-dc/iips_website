@@ -4,19 +4,7 @@
 			
 			<!-- Notice Section --><br><br>
 			
-			<div class="row notice" id ="fees_notice" >
-				  <h5><b>&raquo; Urgent - Fees Submission Notice(Jan-May 2014) </b>  </h5>
-				  
-				  <div class="content">
-					<p>All Students are here by informed that they have to deposit their semester fee online using mponline portal. Please follow
-					<a href="downloads/notices/Fees_Notice Jan-May_2014.pdf" target="blank"> this(download pdf) </a> notice.
-					</p><br>
-
-				  </div>
-				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
-			</div><br>
-
-<div class="row notice" id ="new_workshop" >
+			<div class="row notice" id ="new_workshop" >
 				  <h5><b>&raquo;New workshop by Ms Shikha chaturvedi </b>  </h5>
 				  
 				  <div class="content">

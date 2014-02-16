@@ -3,7 +3,6 @@
 	 <!--<div class="navbar-wrapper" >
         <div class="navbar navbar-default  downShadow">-->
 		    <div class="container">
-		    	
        			<!--<div class="navbar-header">
          			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 						<span class="icon-bar"></span>
@@ -42,7 +41,7 @@
 				    </ul>-->
 					<!--<ul class="nav navbar-nav navbar-right"> -->
 
-						<a href="contact_us" class="pull-right" style="">Contact Us</a>
+						<a href="contact_us" class="pull-right" style="">Contact us</a>
 						<a href="https://docs.google.com/a/iips.edu.in/forms/d/1l3vtqwVc3oYDmqSayiJ-Txoc4wUP4DLfeZmfp8fwhtM/viewform" 
 						class="pull-right" style="padding-right: 15px;"> Feedback </a>
 				    <!--</ul>-->

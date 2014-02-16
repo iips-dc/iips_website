@@ -116,44 +116,7 @@
 		}
 		.navbar-nav > li > a{
 			line-height: 10px;
+		}
+
 		
-		.social-links{
-		opacity:0.4;
-		filter:alpha(opacity=40); /* For IE8 and earlier */
-		padding-left: 10px;
-		padding-right: 10px;
-		}
-		.social-links:hover{
-		opacity:1.0;
-		filter:alpha(opacity=100); /* For IE8 and earlier */
-		}
-		/*
-		.navbar {
-			background: url('images/texture3.jpg') center repeat;
-		}
-		.gateway{
-			background: url('images/texture3.jpg') center repeat;	
-		}*/
-		.dropdown-menu > li > a:hover,
-		.dropdown-menu > li > a:focus {
-		  background-color: #8C1515;
-		  color: #FFFFFF;
-		}
-
-		.dropdown-menu > .active > a:hover,
-		.dropdown-menu > .active > a:focus {
-		  background-color: #8C1515;
-		  color: #FFFFFF;
-		}
-
-		.panel-default .panel-heading {
-		    background: none repeat scroll 0 0 #8C1515;
-		    color: #FFFFFF;
-		}
-		a {
-		    color: #8C1515;
-		    font-size: 15px;
-		}		
-		
-
 	</style>
