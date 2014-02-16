@@ -1,10 +1,9 @@
-
-		    <div class="container">
-		    		<div class="navbar-wrapper topspace downShadow" style="width:100% ; margin-top:0px;">
+	<div class="navbar-wrapper topspace downShadow" style="width:100% ; margin-top:0px;">
      <!-- <div class="container topspace">-->
 		<!-- label label-default -->
 	  
         <div class="navbar navbar-default">
+		    <div class="container">
        			 <div class="navbar-header">
          			 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
            			 	<span class="icon-bar"></span>
@@ -17,14 +16,14 @@
           		  		
 					    <!-- About us -->
 						<li class="dropdown">
-						    <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us<b class="caret"></b></a>
+						    <a href="#" class="dropdown-toggle" data-toggle="dropdown">About us<b class="caret"></b></a>
 							<ul class="dropdown-menu">
 								<li><a href="about_university">About University</a></li>
 								<li><a href="about_iips">About IIPS</a></li>
 								<!--<li><a href="#2">Life @campus</a></li>-->
 								<li><a href="infrastructure">Infrastructure</a></li>
 								<li><a href="gallery">Gallery</a></li>
-								<li><a href="Reach_Us">Reach Us</a></li>
+								<li><a href="Reach_Us">Reach us</a></li>
 						    </ul>
 					    </li>
 
