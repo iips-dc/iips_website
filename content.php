@@ -37,7 +37,7 @@ and testimonial section -->
 				<div class="panel-heading">
 					<h3 class="panel-title">Notice & Announcements</h3>
 				</div>
-				<div class="panel-body " align="left">
+				<div class="panel-body " align="left" style="height:300px;">
 				
 				  <a href="notice_announcement#fees_notice"> <i class="icon-pushpin"></i> Urgent - Fees Submission Notice</a><img src="images/new.gif" > <br> 
 				  <a href="notice_announcement#new_workshop"> <i class="icon-pushpin"></i> New workshop by Ms.Sikha Chaturvedi </a><br> 
