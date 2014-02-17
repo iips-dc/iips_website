@@ -1,9 +1,18 @@
 <!-- this file is the quicklinks at the bottom of each page -->
 <!-- edit the options below to add the quick links -->
 	        <!-- testimonial started -->
-	
+<style type="text/css">
+	div div ul li a
+	{
+		color:white;
+	}
+	div div ul li a:hover
+	{
+		color:yellow;
+	}
+</style>	
 					<div class="row">
-						<div class="col-md-3">
+						<div class="col-md-3" style="border-left:2px solid white;">
 
 							<ul style ="list-style:none;font-size: 12px;text-align:justify">
 								<font style="font-size:18px;"><b >Admissions</b></font>
@@ -16,7 +25,7 @@
 							</ul>
 						</div>
 						
-						<div class="col-md-3">
+						<div class="col-md-3" style="border-left:2px solid white;">
 
 							<ul style ="list-style:none;font-size: 12px;text-align:justifyfont-size: 12px;text-align:justify">
 								<font style="font-size:18px;"><b >Downloads</b></font>
@@ -30,7 +39,7 @@
 						</div>
 						
 
-						<div class="col-md-3">
+						<div class="col-md-3" style="border-left:2px solid white;">
 							<ul style ="list-style:none;font-size: 12px;text-align:justify">
 								<font style="font-size:18px;"><b >RTI</b></font>
 								<li> <a href="iqac">IQAC</a> </i>
@@ -40,7 +49,7 @@
 								<li> <a href="greviances">Greviances</a></li>
 							</ul>
 						</div>
-						<div class="col-md-3">
+						<div class="col-md-3" style="border-left:2px solid white;">
 							<ul style ="list-style:none;font-size: 12px;text-align:justify">
 								<font style="font-size:18px;"><b >Miscellaneous</b></font>
 								<li> <a href="faculty_profile">Faculty Profile</a></li>
