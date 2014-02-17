@@ -54,7 +54,7 @@
 		
 		a {
 			color: #0465D0;
-			font-size: 13px;
+			font-size: 15px;
 		}
 		/* for changing current color of gateway bar, change color for navy blue rgb(42,52,81). */
 		.gateway {
@@ -150,10 +150,7 @@
 		    background: none repeat scroll 0 0 #8C1515;
 		    color: #FFFFFF;
 		}
-		a {
-		    color: #8C1515;
-		    font-size: 15px;
-		}		
+	
 		
 
 	</style>
