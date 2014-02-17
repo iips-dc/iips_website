@@ -44,8 +44,7 @@ and testimonial section -->
 				  <a href="notice_announcement#utd_employees"> <i class="icon-pushpin"></i> Notice for all UTD employees</a><br> 
 				  <a href="notice_announcement#utd_academic_calendar"> <i class="icon-pushpin"></i> NAAC Notice regarding Academic Calender.pdf </a><br>
 				  <a href="notice_announcement#naac_visit"> <i class="icon-pushpin"></i> NAAC - Arrival in Jan 2014 </a><br>				  
-				  		  
-				  
+				 
 
 				</div>
 				<div class="panel-footer">
@@ -59,24 +58,55 @@ and testimonial section -->
 		<!-- news/event section started -->
 	<div class="row">
 			 
-		<div class="col-md-12 ">
+		<div class="col-md-9 ">
 		   <div class="panel panel-default boxShadow" style="overflow:hidden;">
 			  <div class="panel-heading">
-				 <h3 class="panel-title">News </h3>
-				 <h3 class="panel-title pull-right" style="margin-top:-15px;">Activities </h3>
-
+				 <h3 class="panel-title">News &amp; Activities</h3>
 			  </div>
 			  <div class="panel-body">
 				 <ul class="nav nav-tabs" id="myTab">
 					<li class="active">
 					   <a href="#news">News</a>
 					</li>
+					<li >
+					   <a href="#activities">Activities</a>
+					</li>
 					<!-- <li class="disabled">
 						<a href="#">Events</a> insert '#events' in href to enable event tab
 					</li> -->
-				  </ul>
-				  <div class="tab-content">
+				 </ul>
+				 <div class="tab-content">
 					 <div class="tab-pane active" id="news" >
+						<ul class="media-list">
+						   <li class="media">
+							  <div class="media-body"><br>
+								    <div class="row">
+										<!-- <div class="col-md-1">
+										  <img class="featurette-image img-responsive" src="data:image/png;base64," data-src="holder.js/60x60/auto" alt="Generic placeholder image">
+										</div> -->
+										<div class="col-md-7">
+											<!-- <h5><a href="news#">IIPS Naac Visit complete on 15-Jan-2014  </a>  <span class="pull-right">Posted - 31st Dec 2013 </span></h5>-->
+											<h5><a href="news#new_website"><i class="icon-info-sign"></i>  New mobile responsive IIPS website soon to be released </a><img src="images/new.gif" ></h5>
+											<h5><a href="download"><i class="icon-info-sign"></i> Download your cousre presentations by subject teachers </a><img src="images/new.gif" ></h5>
+											<h5><a href="news#invitation"><i class="icon-info-sign"></i> Invitation to 13th Case Writing Workshop: International Publication by Prestige Institute of MGMT-GWl.  </a><img src="images/new.gif" ></h5>	
+											<h5><a href="news#seniority_list"> <i class="icon-info-sign"></i> UTD Teachers Seniority List (EFFECTIVE FROM 01.01.2014 TO 31.12.2014)</a><img src="images/new.gif" ></h5>	
+										</div>
+									</div><br><!-- end of row class -->
+									
+									<!-- 
+									<div class="row">
+									 -->	<!-- <div class="col-md-1">
+										  <img class="featurette-image img-responsive" src="data:image/png;base64," data-src="holder.js/60x60/auto" alt="Generic placeholder image">
+										</div> -->
+										<!-- <div class="col-md-11">
+											<h5>Students Preparing for Synergy 2014 Event <span class="text-muted"><a href="news#synergy">Click Here</a> for details</span><span class="postDate pull-right">Posted - 28th Dec 2013</span></h5>	
+										</div>
+									</div> --><!-- end of row class -->
+							  </div>
+						   </li>
+						</ul>
+	                 </div>
+	                 <div class="tab-pane" id="activities" >
 						<ul class="media-list">
 						   <li class="media">
 							  <div class="media-body"><br>
@@ -85,18 +115,7 @@ and testimonial section -->
 										<!-- <div class="col-md-1">
 										  <img class="featurette-image img-responsive" src="data:image/png;base64," data-src="holder.js/60x60/auto" alt="Generic placeholder image">
 										</div> -->
-										<div class="col-md-7">
-											<!-- <h5><a href="news#">IIPS Naac Visit complete on 15-Jan-2014  </a>  <span class="pull-right">Posted - 31st Dec 2013 </span></h5>-->
-											
-											<h5><a href="news#new_website"><i class="icon-info-sign"></i>  New mobile responsive IIPS website soon to be released </a><img src="images/new.gif" ></h5>
-											<h5><a href="download"><i class="icon-info-sign"></i> Download your cousre presentations by subject teachers </a><img src="images/new.gif" ></h5>
-											<h5><a href="news#invitation"><i class="icon-info-sign"></i> Invitation to 13th Case Writing Workshop: International Publication by Prestige Institute of MGMT-GWl.  </a><img src="images/new.gif" ></h5>	
-											<h5><a href="news#seniority_list"> <i class="icon-info-sign"></i> UTD Teachers Seniority List (EFFECTIVE FROM 01.01.2014 TO 31.12.2014)</a><img src="images/new.gif" ></h5>	
-											
-										</div>
-
 										<div class="col-md-5">
-											<h5>Activities</h5>
 											<!-- <h5><a href="news#">IIPS Naac Visit complete on 15-Jan-2014  </a>  <span class="pull-right">Posted - 31st Dec 2013 </span></h5>-->
 											
 											<h5><a href="news#naac_photos"><i class="icon-info-sign"></i> Naac Visit photos dated 16/01/14 </a><img src="images/new.gif" ></h5>
@@ -104,8 +123,6 @@ and testimonial section -->
 											<h5><a href="news#naac_visit"><i class="icon-info-sign"></i> IIPS Naac Visit complete on 15-Jan-2014 </a><img src="images/new.gif" ></h5>
 											
 										</div>
-
-
 									</div><br><!-- end of row class -->
 									
 									<!-- 
@@ -139,17 +156,9 @@ and testimonial section -->
 					<a href="news"><b>View All &raquo;</b></a>
 				</div>
 			</div><!--End of Panel -->
+			
 		</div><!--End of col-md-12 -->
-	</div><!--End of Row -->
-	<!-- News/event section end --><br>
-	
-
-	<div class="row">
-   	   <div class="col-md-8 text-center">
-     	 <?php include('quicklinks.php') ?><br>
-  	 </div><!--col-md-8 class ended -->
-  
-  	 <div class="col-md-4 testimonial text-center">
+		<div class="col-md-3 testimonial text-center">
   		<!-- testimonial started -->
 		<!-- <div class="panel panel-default  boxShadow" style="height:180px;">
 			<div class="panel-heading">
@@ -173,9 +182,20 @@ and testimonial section -->
 			  </ul>
 		    </div><!--panel body Ended -->
   	    <!--</div><!--Panel Ended -->
-  	    <a class="twitter-timeline" href="https://twitter.com/iipsdavv" width="280px" height="260px" data-widget-id="427741527792549889">Tweets by @iipsdavv</a>
+  	    <a class="twitter-timeline" href="https://twitter.com/iipsdavv" width="280px" height="370px" data-widget-id="427741527792549889">Tweets by @iipsdavv</a>
 		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 	  </div><!--col-md-4 ended -->
+
+	</div><!--End of Row -->
+	<!-- News/event section end --><br>
+	
+
+	<div class="row">
+   	   <div class="col-md-12 text-center">
+     	 <?php include('quicklinks.php') ?><br>
+  	 </div><!--col-md-8 class ended -->
+  
+  	 
   </div><!--row Class ended -->
 </div>
 <!-- container class ended -->
