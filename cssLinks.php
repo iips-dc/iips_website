@@ -154,6 +154,14 @@
 		    color: #4A2253;
 		    font-size: 15px;
 		}		
+
+		ul.nav li.dropdown a {
+		    color: #000000;
+		}
+
+		ul.nav li.dropdown a:hover {
+		    color: #FFFFFF;
+		}
 		
 
 	</style>
