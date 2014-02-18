@@ -1,8 +1,8 @@
 
 
-<footer style=" background-color:#2A3451; color:#ffffff;">	
+<footer style=" background-color:#4A2253; color:#ffffff;">	
 	<div class="text-center" >
-		<div  style="background-color:#777777;font-size:18px; padding-top:15px;padding-bottom:15px;">
+		<div  style="background-color:#000000;font-size:18px; padding-top:15px;padding-bottom:15px;">
 	    	
 				Stay Connected : 
 				<a href="https://plus.google.com/u/1/b/110977532784004536112/110977532784004536112/"  style="color:#ffffff;"><i class="icon-google-plus"></i></a>&nbsp;

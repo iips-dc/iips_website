@@ -32,7 +32,7 @@
 		/* for changing current color of MENU bar, change color for navy blue rgb(42,52,81). */
 		.navbar-default
 		{
-			background: rgb(42,52,81);
+			background: #4A2253;
 			border-color:#e7e7e7;
 			box-shadow:0px 15px 20px rgba(121,121,121,0.7);
 			
@@ -53,14 +53,13 @@
 		}
 		
 		a {
-			color: #0465D0;
-			font-size: 15px;
+			font-size: 13px;
 		}
 		/* for changing current color of gateway bar, change color for navy blue rgb(42,52,81). */
 		.gateway {
 			margin-left: 0px;
 			padding: 5px 5px 5px 5px;
-			background-color: rgb(42,52,81);
+			background-color: #4A2253;
 			width: 100%;
 		}
 		.form-control{
@@ -113,10 +112,11 @@
 		.navbar{
 			min-height: 0px;
 			height: 40px;
+			
 		}
 		.navbar-nav > li > a{
 			line-height: 10px;
-		
+		}
 		.social-links{
 		opacity:0.4;
 		filter:alpha(opacity=40); /* For IE8 and earlier */
@@ -136,21 +136,24 @@
 		}*/
 		.dropdown-menu > li > a:hover,
 		.dropdown-menu > li > a:focus {
-		  background-color: #8C1515;
+		  background-color: #4A2253;
 		  color: #FFFFFF;
 		}
 
 		.dropdown-menu > .active > a:hover,
 		.dropdown-menu > .active > a:focus {
-		  background-color: #8C1515;
+		  background-color: #4A2253;
 		  color: #FFFFFF;
 		}
 
 		.panel-default .panel-heading {
-		    background: none repeat scroll 0 0 #8C1515;
+		    background: none repeat scroll 0 0 #4A2253;
 		    color: #FFFFFF;
 		}
-	
+		a {
+		    color: #4A2253;
+		    font-size: 15px;
+		}		
 		
 
 	</style>
