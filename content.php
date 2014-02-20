@@ -1,11 +1,11 @@
 <!--This page serves the content for Home page. It includes
 slider, notice, news_events box, Link to quicklink file
 and testimonial section -->
-<center style="color:#8C1515; font-size:20px;text-shadow:5px 5px 5px rgba(127,127,127);">Astra</center>
-<center style="color:red;">This is the Beta Version of IIPS Website . Kindly <!--  
+<center><font style="color:#0000ff; font-size:20px;text-shadow:5px 5px 5px rgba(127,127,127);">Astra</font>
+<font style="color:red;font-size:13px;"> ( This is the Beta Version of IIPS Website . Kindly <!--  
 	<a href="https://docs.google.com/a/iips.edu.in/forms/d/1l3vtqwVc3oYDmqSayiJ-Txoc4wUP4DLfeZmfp8fwhtM/viewform" target="blank">
 	feedback</a><br> -->
-	<a href="https://www.surveymonkey.com/s/QNTYQ3F">Click here to take survey for services</a>
+	<a href="https://www.surveymonkey.com/s/QNTYQ3F">click here to take survey for services.</a>)
 </center>
 
 <div class="container" >
@@ -37,7 +37,7 @@ and testimonial section -->
 				<div class="panel-heading">
 					<h3 class="panel-title">Notice & Announcements</h3>
 				</div>
-				<div class="panel-body " align="left">
+				<div class="panel-body " align="left" style="height:300px;">
 				
 				  <a href="notice_announcement#fees_notice"> <i class="icon-pushpin"></i> Urgent - Fees Submission Notice</a><img src="images/new.gif" > <br> 
 				  <a href="notice_announcement#new_workshop"> <i class="icon-pushpin"></i> New workshop by Ms.Sikha Chaturvedi </a><br> 
@@ -190,12 +190,6 @@ and testimonial section -->
 	<!-- News/event section end --><br>
 	
 
-	<div class="row">
-   	   <div class="col-md-12 text-center">
-     	 <?php include('quicklinks.php') ?><br>
-  	 </div><!--col-md-8 class ended -->
-  
-  	 
-  </div><!--row Class ended -->
+	
 </div>
 <!-- container class ended -->
