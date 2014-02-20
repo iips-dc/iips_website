@@ -32,7 +32,7 @@
 		/* for changing current color of MENU bar, change color for navy blue rgb(42,52,81). */
 		.navbar-default
 		{
-			background: #4A2253;
+			background: #2A324F;
 			border-color:#e7e7e7;
 			box-shadow:0px 15px 20px rgba(121,121,121,0.7);
 			
@@ -59,7 +59,7 @@
 		.gateway {
 			margin-left: 0px;
 			padding: 5px 5px 5px 5px;
-			background-color: #4A2253;
+			background-color: #2A324F;
 			width: 100%;
 		}
 		.form-control{
@@ -136,22 +136,22 @@
 		}*/
 		.dropdown-menu > li > a:hover,
 		.dropdown-menu > li > a:focus {
-		  background-color: #4A2253;
+		  background-color: #2A324F;
 		  color: #FFFFFF;
 		}
 
 		.dropdown-menu > .active > a:hover,
 		.dropdown-menu > .active > a:focus {
-		  background-color: #4A2253;
+		  background-color: #2A324F;
 		  color: #FFFFFF;
 		}
 
 		.panel-default .panel-heading {
-		    background: none repeat scroll 0 0 #4A2253;
+		    background: none repeat scroll 0 0 #2A324F;
 		    color: #FFFFFF;
 		}
 		a {
-		    color: #4A2253;
+		    color: #2A324F;
 		    font-size: 15px;
 		}		
 
