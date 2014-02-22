@@ -1,6 +1,6 @@
 
 
-<footer style=" background-color:#4A2253; color:#ffffff;">	
+<footer style=" background-color:#2A324F; color:#ffffff;" class="footer">	
 	<div class="text-center" >
 		<div  style="background-color:#000000;font-size:18px; padding-top:15px;padding-bottom:15px;">
 	    	
