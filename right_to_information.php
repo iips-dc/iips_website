@@ -34,6 +34,7 @@
 
 					<div id="collapsefive" class="panel-collapse collapse in">
 					  <div class="panel-body">
+							<li><a href="downloads/press_release/Seminar on HIV AIDS and Blood Donation Awareness at IIPS-DAVV.pdf" target = "blank"> Press release for the Seminar on HIV AIDS and Blood Donation Awareness</a></li>
 							<li><a href="downloads/press_release/press release reboot.jpg" target = "blank"> Press release for the Reboot event held on 17-sep-2014</a></li>
 							<li><a href="downloads/press_release/" target = "blank"> Press release for the NSS</a> </li>
 							<li><a href="downloads/press_release/Press Release Free of cost Eye Check-up Camp at IIPS-DAVV.pdf" target = "blank"> Press release for the Free Eyecheckup camp</a></li>
