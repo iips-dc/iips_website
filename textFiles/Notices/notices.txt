@@ -3,6 +3,20 @@
 
 			
 			<!-- Notice Section --><br><br>
+
+
+			<div class="row notice" id ="mca_mtech_tt" >
+				  <h5><b>&raquo; MCA M.Tech II Internal TT(Jan-May 2014) </b>  </h5>
+				  
+				  <div class="content">
+					<p>Here is the II internal(2014) time-table for MCA-M.Tech.
+					<a href="downloads/notices/final_mca_m.tech_test_II_tt_2014.pdf" target="blank"> this(download pdf) </a> notice.
+					</p><br>
+
+				  </div>
+				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
+			</div><br>
+			
 			
 			<div class="row notice" id ="fees_notice" >
 				  <h5><b>&raquo; Urgent - Fees Submission Notice(Jan-May 2014) </b>  </h5>
@@ -15,6 +29,10 @@
 				  </div>
 				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
 			</div><br>
+
+
+
+
 
 <div class="row notice" id ="new_workshop" >
 				  <h5><b>&raquo;New workshop by Ms Shikha chaturvedi </b>  </h5>
