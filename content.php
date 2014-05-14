@@ -38,8 +38,9 @@ and testimonial section -->
 					<h3 class="panel-title">Notice & Announcements</h3>
 				</div>
 				<div class="panel-body " align="left">
-				  <a href="notice_announcement#mca_mtech_tt"> <i class="icon-pushpin"></i> MCA M.Tech II Internal TT(Jan-May 2014)</a><img src="images/new.gif" > <br> 
-				  <a href="notice_announcement#fees_notice"> <i class="icon-pushpin"></i> Urgent - Fees Submission Notice</a><img src="images/new.gif" > <br> 
+				  <a href="notice_announcement#exam_postpone" style="color: green"> <i class="icon-pushpin"></i> MBA-MS 5years II sem paper on 15/05/2014 postponed </a><img src="images/new.gif" > <br> 
+				  <a href="notice_announcement#mca_mtech_tt"> <i class="icon-pushpin"></i> MCA M.Tech II Internal TT(Jan-May 2014)</a><br> 
+				  <a href="notice_announcement#fees_notice"> <i class="icon-pushpin"></i> Urgent - Fees Submission Notice</a><br> 
 				  <a href="notice_announcement#new_workshop"> <i class="icon-pushpin"></i> New workshop by Ms.Sikha Chaturvedi </a><br> 
 				  <a href="notice_announcement#utd_employees"> <i class="icon-pushpin"></i> Notice for all UTD employees</a><br> 
 				  
