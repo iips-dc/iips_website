@@ -8,8 +8,7 @@
 				  <h5><b>&raquo; MBA MS 5years II semester paper on 15/05/2014 postponed </b>  </h5>
 				  
 				  <div class="content">
-					<p>This is to inform you that paper of MBA MS 5 years scheduled on 15/05/2014 is to postponed. The next date will be announced near 15th may. 
-					notice.
+					<p>This is to inform you that paper of MBA MS 5 years scheduled on 15/05/2014 is to postponed. The next date will be announced near 15th may.
 					</p><br>
 				  </div>
 				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
