@@ -43,6 +43,7 @@
 	
 
 					<?php startblock('content'); ?>
+					<div>
 
 						<div id="tab1"  class="tab-content active">
 	                      <?php 
