@@ -35,7 +35,7 @@
 			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab4"> Past Projects</a></li>
 			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab5"> Members</a></li>
 			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab6"> Entrance</a></li>
-			                
+			                 <li class="btn-block"><a class="icon-chevron-sign-right" href="https://www.akshayv.comlu.com"> Know Us More</a></li>
 						</ul>
 
 	                <?php endblock() ; ?>				
