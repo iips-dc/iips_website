@@ -1,7 +1,7 @@
 
 <?php include 'base_template_2_column.php' ?>
 	<?php startblock('page_title'); ?>
-	Developer Center | IIPS
+	Development Center | IIPS
 	<?php endblock(); ?>
 
       
