@@ -44,3 +44,5 @@
 	</tr>
 	
 </tbody></table>
+
+<p> For complete fees structure to all the courses avaialable from CET  <a href="http://davvcet.in/fee_struct.php"> Click here </a> </p>
