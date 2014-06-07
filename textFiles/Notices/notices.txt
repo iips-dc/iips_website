@@ -4,6 +4,16 @@
 			
 			<!-- Notice Section --><br><br>
 
+			<div class="row notice" id ="CET_2014" >
+				  <h5><b>&raquo; CET 2014 results announced . </b>  </h5>
+				  
+				  <div class="content">
+					<p>To have a look to your cet results <a href="http://davvcet.in/"> click here </a> 
+					</p><br>
+				  </div>
+				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
+			</div><br>
+
 			<div class="row notice" id ="exam_postpone" >
 				  <h5><b>&raquo; MBA MS 5years II semester paper on 15/05/2014 postponed </b>  </h5>
 				  
