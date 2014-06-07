@@ -38,11 +38,11 @@ and testimonial section -->
 					<h3 class="panel-title">Notice & Announcements</h3>
 				</div>
 				<div class="panel-body " align="left">
-				  <a href="notice_announcement#exam_postpone" style="color: green"> <i class="icon-pushpin"></i> MBA-MS 5years II sem paper on 15/05/2014 postponed </a><img src="images/new.gif" > <br> 
+				  <a href="http://davvcet.in/results2.php" style="color: green"> <i class="icon-pushpin"></i> CET results announced </a><img src="images/new.gif" > <br> 
+				  <a href="notice_announcement#exam_postpone"> <i class="icon-pushpin"></i> MBA-MS 5years II sem paper on 15/05/2014 postponed </a><br> 
 				  <a href="notice_announcement#mca_mtech_tt"> <i class="icon-pushpin"></i> MCA M.Tech II Internal TT(Jan-May 2014)</a><br> 
 				  <a href="notice_announcement#fees_notice"> <i class="icon-pushpin"></i> Urgent - Fees Submission Notice</a><br> 
 				  <a href="notice_announcement#new_workshop"> <i class="icon-pushpin"></i> New workshop by Ms.Sikha Chaturvedi </a><br> 
-				  <a href="notice_announcement#utd_employees"> <i class="icon-pushpin"></i> Notice for all UTD employees</a><br> 
 				  
 				</div>
 				<div class="panel-footer">
@@ -85,10 +85,12 @@ and testimonial section -->
 										<div class="col-md-7">
 											<!-- <h5><a href="news#">IIPS Naac Visit complete on 15-Jan-2014  </a>  <span class="pull-right">Posted - 31st Dec 2013 </span></h5>-->
 											
-											<h5><a href="news#new_website"><i class="icon-info-sign"></i>  New mobile responsive IIPS website soon to be released </a><img src="images/new.gif" ></h5>
-											<h5><a href="download"><i class="icon-info-sign"></i> Download your cousre presentations by subject teachers </a><img src="images/new.gif" ></h5>
-											<h5><a href="news#invitation"><i class="icon-info-sign"></i> Invitation to 13th Case Writing Workshop: International Publication by Prestige Institute of MGMT-GWl.  </a><img src="images/new.gif" ></h5>	
-											<h5><a href="news#seniority_list"> <i class="icon-info-sign"></i> UTD Teachers Seniority List (EFFECTIVE FROM 01.01.2014 TO 31.12.2014)</a><img src="images/new.gif" ></h5>	
+											<h5><a href="http://www.dauniv.ac.in/notices/OnlineMPUGPGAdmissionProcess2014.pdf"><i class="icon-info-sign"></i> Online MP UG and PG Admission process</a><img src="images/new.gif" ></h5>
+											<h5><a href="http://www.dauniv.ac.in/notices/updated_counseling%20_schedule_2014.pdf"><i class="icon-info-sign"></i>Counselling shedule for CET 2014</a><img src="images/new.gif" ></h5>
+											<h5><a href="http://www.dauniv.ac.in/admissions.php"><i class="icon-info-sign"></i>General Rules for Admission CET-2014</a><img src="images/new.gif" ></h5>
+											<h5><a href="http://www.dauniv.ac.in/notices/ADMISSION_2014-15.pdf"><i class="icon-info-sign"></i>General Rules for Admission for NON-CET</a><img src="images/new.gif" ></h5>
+											<h5><a href="http://www.dauniv.ac.in/notices/NRI%20Counselling.pdf"><i class="icon-info-sign"></i>Admissions to NRI seats in courses under cet 2014 </a><img src="images/new.gif" ></h5>
+											
 											
 										</div>
 
@@ -96,9 +98,9 @@ and testimonial section -->
 											<h5>Activities</h5>
 											<!-- <h5><a href="news#">IIPS Naac Visit complete on 15-Jan-2014  </a>  <span class="pull-right">Posted - 31st Dec 2013 </span></h5>-->
 											
-											<h5><a href="news#naac_photos"><i class="icon-info-sign"></i> Naac Visit photos dated 16/01/14 </a><img src="images/new.gif" ></h5>
-											<h5><a href="news#naac_photos1"><i class="icon-info-sign"></i> Naac Visit photos dated 15/01/14 </a><img src="images/new.gif" ></h5>
-											<h5><a href="news#naac_visit"><i class="icon-info-sign"></i> IIPS Naac Visit complete on 15-Jan-2014 </a><img src="images/new.gif" ></h5>
+											<h5><a href="news#naac_photos"><i class="icon-info-sign"></i> Naac Visit photos dated 16/01/14 </a></h5>
+											<h5><a href="news#naac_photos1"><i class="icon-info-sign"></i> Naac Visit photos dated 15/01/14 </a></h5>
+											<h5><a href="news#naac_visit"><i class="icon-info-sign"></i> IIPS Naac Visit complete on 15-Jan-2014 </a></h5>
 											
 										</div>
 
