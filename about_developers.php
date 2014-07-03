@@ -49,38 +49,38 @@
         </div>
 
         <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="images/DC/rahul-sagore.jpg">
-            <h3>Rahul Sagore <small> Lead Designer</small></h3>
-            <p> Front End development, feature development, backend coding, PBAS Developer </p>
-            <p>Catch me on : <br> <a href="http://lnkd.in/4VK_qz"> LinkedIn </a> | <a href="https://twitter.com/Rahulx1">Twitter</a> | <a href="https://github.com/Rahul-Sagore"> Github </a>  </p>
-        </div>
-
-        <div class="col-lg-4 col-sm-6">
                 <img class="img-circle img-responsive" src="http://www.gravatar.com/avatar/143615a20f580213f50d651cf5148d11?d=mm&s=200">
             <h3>Chitrank Dixit <small>Lead Developer</small></h3>
             <p> Feature development, backend coding, Technical Advisor </p>
             <p>Catch me on : <br> <a href="http://in.linkedin.com/pub/chitrank-dixit/55/5/32/"> LinkedIn </a> | <a href="https://twitter.com/Chitrankdixit">Twitter</a> | <a href="https://github.com/Chitrank-Dixit"> Github </a>  </p>
         </div>
 
-        
-
-
-    </div>
-       <br>
-
-    <div class="row">
-        <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="images/DC/Sunny.jpg" style="height:200px;">
-            <h3>Sunny Raikwar <small>Lead Tester and Documentation Engineer</small></h3>
-            <p> Front End development, backend coding , documentation </p>
-            <p>Catch me on : <br> <a href="http://in.linkedin.com/pub/sunny-raikwar/43/9aa/249"> LinkedIn </a> | <a href="https://twitter.com/SunnySraikwar">Twitter</a> | <a href="https://github.com/sunny-raikwar"> Github </a>  </p>
-        </div>
         <div class="col-lg-4 col-sm-6">
                 <img class="img-circle img-responsive" src="http://www.gravatar.com/avatar/b88ad6f999be3f82efbed2d0faea48ff?d=mm&s=200" >
             <h3>Gaurav Parmar <small> Lead Designer</small></h3>
             <p>Web Developer, Feature Developer</p>
             <p>Catch me on : <br><a href="http://linkedin.com/in/gauravbparmar">Linkedin</a>| <a href="http://twitter.com/gauravonquest">Twitter</a> | <a href="https://github.com/gauravparmar"> Github </a></p>
         </div>
+
+    </div>
+       <br>
+
+    <div class="row">
+
+        <div class="col-lg-4 col-sm-6">
+                <img class="img-circle img-responsive" src="images/DC/rahul-sagore.jpg">
+            <h3>Rahul Sagore <small> Lead Designer</small></h3>
+            <p> Front End development, feature development, backend coding, PBAS Developer </p>
+            <p>Catch me on : <br> <a href="http://lnkd.in/4VK_qz"> LinkedIn </a> | <a href="https://twitter.com/Rahulx1">Twitter</a> | <a href="https://github.com/Rahul-Sagore"> Github </a>  </p>
+        </div>        
+
+        <div class="col-lg-4 col-sm-6">
+                <img class="img-circle img-responsive" src="images/DC/Sunny.jpg" style="height:200px;">
+            <h3>Sunny Raikwar <small>Lead Tester and Documentation Engineer</small></h3>
+            <p> Front End development, backend coding , documentation </p>
+            <p>Catch me on : <br> <a href="http://in.linkedin.com/pub/sunny-raikwar/43/9aa/249"> LinkedIn </a> | <a href="https://twitter.com/SunnySraikwar">Twitter</a> | <a href="https://github.com/sunny-raikwar"> Github </a>  </p>
+        </div>
+
     </div>
 	
 	<h4 class="text-primary"><b>Database Maintainers</b></h3> <hr>
