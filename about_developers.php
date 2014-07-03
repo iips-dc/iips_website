@@ -86,38 +86,34 @@
 	<h4 class="text-primary"><b>Database Maintainers</b></h3> <hr>
 	
 	<div class="row">
-        <div class="col-lg-3 col-sm-6">
-                <img class="img-circle img-responsive" src="images/DC/shaifali.jpg">
-            <h3>Shaifali Agrawal <small> Database Engineer</small></h3>
-            <p> Database Migration and development </p>
-            <p>Catch me on : <br> <a href="http://in.linkedin.com/pub/shaifali-agrawal/72/414/699"> LinkedIn </a> | <a href="https://twitter.com/exploreshaifali">Twitter</a> | <a href="https://github.com/Shaifaliagrawal"> Github </a>  </p>
-        </div>
-        <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="images/DC/nitesh.jpg">
-            <h3>Nitesh Mishra <small> Database Engineer</small></h3>
-            <p> Database Migration, Pbas Developer </p>
-            <p>Catch me on : <br> <a href="http://in.linkedin.com/pub/nitesh-mishra/56/573/120/"> LinkedIn </a> | <a href="https://twitter.com/007niteshMishra">Twitter</a> | <a href="https://github.com/Nitesh-Mishra"> Github </a>  </p>
-        </div>
+        
 		<div class="col-lg-4 col-sm-6">
                 <img class="img-circle img-responsive" src="images/DC/ajeet.jpg">
             <h3>Ajeet Khan <small>Database Engineer</small></h3>
             <p> Database Migration, Pbas Developer </p>
             <p>Catch me on : <br> <a href="http://in.linkedin.com/pub/ajeet-khan/32/724/20b"> LinkedIn </a> | <a href="https://twitter.com/iajeetkhan">Twitter</a> | <a href="https://github.com/AjeetK"> Github </a>  </p>
         </div>
+
+        <div class="col-lg-4 col-sm-6">
+                <img class="img-circle img-responsive" src="images/DC/nitesh.jpg">
+            <h3>Nitesh Mishra <small> Database Engineer</small></h3>
+            <p> Database Migration, Pbas Developer </p>
+            <p>Catch me on : <br> <a href="http://in.linkedin.com/pub/nitesh-mishra/56/573/120/"> LinkedIn </a> | <a href="https://twitter.com/007niteshMishra">Twitter</a> | <a href="https://github.com/Nitesh-Mishra"> Github </a>  </p>
+        </div>
+
+        <div class="col-lg-3 col-sm-6">
+                <img class="img-circle img-responsive" src="images/DC/shaifali.jpg">
+            <h3>Shaifali Agrawal <small> Database Engineer</small></h3>
+            <p> Database Migration and development </p>
+            <p>Catch me on : <br> <a href="http://in.linkedin.com/pub/shaifali-agrawal/72/414/699"> LinkedIn </a> | <a href="https://twitter.com/exploreshaifali">Twitter</a> | <a href="https://github.com/Shaifaliagrawal"> Github </a>  </p>
+        </div>
+
+
 	</div><br>
 	
 	<h4 class="text-primary"><b>Website Maintainers & Testers</b></h3> <hr>
 	
-	<div class="row">
-
-
-
-        <div class="col-lg-4 col-sm-6">
-                <img class="img-circle img-responsive" src="images/DC/mishaMathai.jpg">
-            <h3>Misha Mathai <small>Design Engineer , Tester </small></h3>
-            <p> </p>
-            <p>Catch me on : <br> <a href="http://in.linkedin.com/pub/misha-mathai/56/540/476"> LinkedIn </a> | <a href="https://twitter.com/misha0612">Twitter</a> | <a href="https://github.com/misha-mathai"> Github </a>  </p>
-        </div>
+	<div class="row">        
         
         <div class="col-lg-4 col-sm-6">
                 <img class="img-circle img-responsive" src="images/DC/Akanksha.jpg">
@@ -126,22 +122,29 @@
             <p>Catch me on : <br> <a href="http://www.linkedin.com/pub/akanksha-rathore/4b/73b/374"> LinkedIn </a> | <a href="https://twitter.com/AkankshaBlue25">Twitter</a> | <a href="https://github.com/AkankshaRathore/"> Github </a>  </p>
         </div>
 
-
-       
-
-    </div>
-	<div class="row">
         <div class="col-lg-4 col-sm-6">
                 <img class="img-circle img-responsive" src="images/DC/bedi.jpg">
             <h3>Bedi Singh Yadav <small>Mobile Apps Developer , Tester </small></h3>
             <p> Site Maitainance, Testing</p>
             <p>Catch me on : <br> <a href="http://www.linkedin.com/pub/bedi-singh-yadav/4b/746/1b0"> LinkedIn </a> | <a href="https://twitter.com/BediSinghYadav">Twitter</a> | <a href="https://github.com/Bedi-Singh-Yadav"> Github </a>   </p>
-        </div>
+        </div>      
+
+    </div>
+	<div class="row">
+        
 		<div class="col-lg-4 col-sm-6">
                 <img class="img-circle img-responsive" src="images/DC/komal.jpg">
             <h3>Komal Rathore <small>Mobile Apps Developer , Tester</small></h3>
             <p> </p>
             <p>Catch me on : <br> <a href="http://in.linkedin.com/pub/komal-rathore/56/b97/3a7"> LinkedIn </a> | <a href="https://twitter.com/e_Komal">Twitter</a> | <a href="https://github.com/komal-rathore"> Github </a>  </p>
         </div>
+
+        <div class="col-lg-4 col-sm-6">
+                <img class="img-circle img-responsive" src="images/DC/mishaMathai.jpg">
+            <h3>Misha Mathai <small>Design Engineer , Tester </small></h3>
+            <p> </p>
+            <p>Catch me on : <br> <a href="http://in.linkedin.com/pub/misha-mathai/56/540/476"> LinkedIn </a> | <a href="https://twitter.com/misha0612">Twitter</a> | <a href="https://github.com/misha-mathai"> Github </a>  </p>
+        </div>
+
 	</div>
 <?php endblock(); ?>
