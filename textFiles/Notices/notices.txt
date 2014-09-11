@@ -4,6 +4,17 @@
 			
 			<!-- Notice Section --><br><br>
 
+			<div class="row notice" id ="entrepreneurship_awareness" >
+				  <h5><b>&raquo; Entrepreneurship Awareness Drive 2014 </b>  </h5>
+				  
+				  <div class="content">
+					<p>International Institute of Professional Studies is hosting an IIT,Kharagpur event called Entrepreneurship Awareness Drive 2014.
+Entrepreneurship Awareness Drive, one of the most massive flagship events undertaken by the Entrepreneurship Cell, IIT Kharagpur is a one of its kind initiative held in 23 cities across the nation in order to stimulate the spirit of entrepreneurship and encourage students to embrace the idea of starting their own venture. Consisting of a series of guest lectures by eminent entrepreneurs,and workshops, EAD has been successful in kindling the vigour of creating one’s enterprise among the youth of the nation, ever since its inception in 2009. To register please <a href="http://www.ead.ecell-iitkgp.org/index.php?page=about"> click here </a> 
+					</p><br>
+				  </div>
+				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
+			</div><br>
+
 			<div class="row notice" id ="CET_2014" >
 				  <h5><b>&raquo; CET 2014 results announced . </b>  </h5>
 				  
@@ -13,6 +24,8 @@
 				  </div>
 				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
 			</div><br>
+
+
 
 			<div class="row notice" id ="exam_postpone" >
 				  <h5><b>&raquo; MBA MS 5years II semester paper on 15/05/2014 postponed </b>  </h5>
