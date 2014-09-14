@@ -23,21 +23,21 @@
 		
 	<!-- Template Block for Sidebar Content -->
 	<?php startblock('content'); ?>
-		<div id="tab1"  class="tab-content active">
+		<div id="tab1"  class="tab-content active text-justify">
 		  <?php 
 			$abtUniv ="textFiles/About_University/about_University.txt";  
 			readTextFiles($abtUniv);
 		 ?>
 		</div>
 
-		<div id="tab2" class="tab-content hide">
+		<div id="tab2" class="tab-content hide text-justify">
 			<?php 
 				$viceChancellor ="textFiles/About_University/vice_Chancellor.txt";  
 				readTextFiles($viceChancellor);  
 			?>
 		</div>
 
-		<div id="tab3" class="tab-content hide">
+		<div id="tab3" class="tab-content hide text-justify">
 
 		   <?php 
 				$departments ="textFiles/About_University/departments.txt";  
@@ -46,7 +46,7 @@
 
 		</div>
 				
-		<div  id="tab4" class="tab-content hide">
+		<div  id="tab4" class="tab-content hide text-justify ">
 
 			<?php 
 				$univAuditorium ="textFiles/About_University/univ_Auditorium.txt";  
@@ -55,7 +55,7 @@
 			
 		</div>
 
-		<div  id="tab5" class="tab-content hide">
+		<div  id="tab5" class="tab-content hide text-justify">
 			<?php 
 				$itCenter ="textFiles/About_University/itCenter.txt";  
 				readTextFiles($itCenter); 
