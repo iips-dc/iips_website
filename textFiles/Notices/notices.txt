@@ -4,12 +4,22 @@
 			
 			<!-- Notice Section --><br><br>
 
+			<div class="row notice" id ="youth_festival" >
+				  <h5><b>&raquo; UTD Level Selections for Youth Festival 2014-2015 </b>  </h5>
+				  
+				  <div class="content">
+					<p>The UTD level selections for Youth Festival are scheduled from 23rd to 25th September.We encourage our students to participate in these events.Interested Students may Contact at department level.Final names to be sent to Dr.Chandan Gupta, EMRC through Head of the Department before 20th September 2014. For more details <a href="downloads/notices/youthFest_Poster.pdf"> Click on this Poster </a>  
+					</p><br>
+				  </div>
+				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
+			</div><br>
+
 			<div class="row notice" id ="entrepreneurship_awareness" >
 				  <h5><b>&raquo; Entrepreneurship Awareness Drive 2014 </b>  </h5>
 				  
 				  <div class="content">
 					<p>International Institute of Professional Studies is hosting an IIT,Kharagpur event called Entrepreneurship Awareness Drive 2014.
-Entrepreneurship Awareness Drive, one of the most massive flagship events undertaken by the Entrepreneurship Cell, IIT Kharagpur is a one of its kind initiative held in 23 cities across the nation in order to stimulate the spirit of entrepreneurship and encourage students to embrace the idea of starting their own venture. Consisting of a series of guest lectures by eminent entrepreneurs,and workshops, EAD has been successful in kindling the vigour of creating one’s enterprise among the youth of the nation, ever since its inception in 2009. To register please <a href="http://www.ead.ecell-iitkgp.org/index.php?page=about"> click here </a> 
+					Entrepreneurship Awareness Drive, one of the most massive flagship events undertaken by the Entrepreneurship Cell, IIT Kharagpur is a one of its kind initiative held in 23 cities across the nation in order to stimulate the spirit of entrepreneurship and encourage students to embrace the idea of starting their own venture. Consisting of a series of guest lectures by eminent entrepreneurs,and workshops, EAD has been successful in kindling the vigour of creating one’s enterprise among the youth of the nation, ever since its inception in 2009. To register please <a href="http://www.ead.ecell-iitkgp.org/index.php?page=about"> click here </a> 
 					</p><br>
 				  </div>
 				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>

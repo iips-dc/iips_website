@@ -38,6 +38,7 @@ and testimonial section -->
 					<h3 class="panel-title">Notice & Announcements</h3>
 				</div>
 				<div class="panel-body " align="left">
+				  <a href="notice_announcement#youth_festival" style="color: green"> <i class="icon-pushpin"></i> UTD Level Selections for Youth Festival 2014-2015 </a><img src="images/new.gif" > <br> 
 				  <a href="notice_announcement#entrepreneurship_awareness" style="color: green"> <i class="icon-pushpin"></i> Entrepreneurship Awareness Drive 2014</a><img src="images/new.gif" > <br> 
 				  <a href="http://davvcet.in/results2.php"> <i class="icon-pushpin"></i> CET results announced </a> <br> 
 				  <a href="notice_announcement#exam_postpone"> <i class="icon-pushpin"></i> MBA-MS 5years II sem paper on 15/05/2014 postponed </a><br> 
