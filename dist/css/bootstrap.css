@@ -3808,6 +3808,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   position: relative;
   display: block;
   padding: 10px 15px;
+
 }
 
 .nav > li > a:hover,
@@ -4079,6 +4080,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   border-top: 1px solid transparent;
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
   -webkit-overflow-scrolling: touch;
+  
 }
 
 .navbar-collapse:before,
@@ -4202,7 +4204,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   position: relative;
   float: right;
   padding: 9px 10px;
-  margin-top: 8px;
+  margin-top: 2px;
   margin-right: 15px;
   margin-bottom: 8px;
   background-color: transparent;
@@ -4431,6 +4433,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
   border-color: #e6e6e6;
+  background-color: #2a3451;
 }
 
 .navbar-default .navbar-nav > .dropdown > a:hover .caret,
