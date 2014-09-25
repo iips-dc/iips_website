@@ -15,7 +15,13 @@
 		include('slider_cssLinks.php');
 	?>
 	<style type="text/css">
-
+		.navbar-default .navbar-collapse,
+		.navbar-default .navbar-form {
+		  background-color: #2a3451;
+		}
+		.navbar-toggle {
+		  margin-top: 2px;
+		}
 	</style>
   </head>
 
