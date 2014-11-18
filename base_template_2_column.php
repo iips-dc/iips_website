@@ -27,8 +27,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="International Institute of Professional Studies(IIPS)-DAVV, Indore">
+    <meta name="author" content="Development Center - IIPS, Indore">
+    <link rel="shortcut icon" href="images/favicon.png">
         <title>
         
         <?php startblock('page_title'); ?>
@@ -47,6 +48,15 @@
 			<?php
 			 include('cssLinks.php');
 			?>
+		<style type="text/css">
+			.navbar-default .navbar-collapse,
+			.navbar-default .navbar-form {
+			  background-color: #2a3451;
+			}
+			.navbar-toggle {
+			  margin-top: 2px;
+			}
+		</style>
 		
 		<!-- Style block End -->
 </head>
