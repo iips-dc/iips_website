@@ -1,0 +1,27 @@
+<h4>Open Source Initiatives</h4>
+	
+<h5>We recommend using</h5>
+
+
+<a href="http://en.wikipedia.org/wiki/Linux">Linux</a> ( we use <a href="http://www.ubuntu.com/">Ubuntu</a>)<br>
+
+<a href="http://python.org/">Python</a><br>
+
+<a href="http://php.net/">PHP</a> <br>
+
+<a href="http://nodejs.org/">node.js</a> <br>
+
+<a href="http://mozilla.org/">Mozilla</a><br>
+
+<a href="http://git-scm.com/">Git</a><br>
+
+<a href="http://github.com/">Github</a><br>
+
+
+<h5>Open Courses</h5>
+
+
+
+
+
+<h5>Most Popular Courses</h5> <br><br>

@@ -1,0 +1,50 @@
+<b>Computer Laboratory</b><br><br>
+
+	IIPS boasts state of the art computer and electronics laboratories offering
+its students great opportunities to enhance and support their theoretical knowledge
+ with practical experience.<br><br>
+
+<b>Main Computer Lab</b><br><br>
+
+     The main laboratory is well equipped with IBM As/400 Advanced Server Model 40S 
+Power PC-AS 64 bit RISC Processor/96 MB RAM /2.4 GB HDD/CDROM/2.5 GB Cartridge 
+Tape/Ethernet Adapter with software including AS-400, DB2, Compilers for COBOL , C 
+and RPG, CICS etc. with 100 nodes including 30 IBM Thin Clients has been installed 
+at the Computer Lab and is open to all the students of the university.<br><br><br>
+
+<b>Internet Connectivity</b><br><br>
+
+
+   Internet connection with 512 kbps leased line with connectivity in each classroom,
+ faculty rooms, computer labs, conference room and library. A total of 140 nodes 
+make the overall network spread all over the IIPS.<br><br>
+
+<b>Workstations and Stand Alone Machines</b><br><br>
+
+
+Pentium based Graphic and Multimedia workstations and also numerous Pentium based 
+stand alone machines from IBM, HCL, WIPRO and Compaq.<br><br>
+
+  <b>Local Area Networks</b><br><br>
+
+
+      Novel Netware LAN IBM P-1 Server with 20 nodes
+      Win NT 4.0 LAN on IBM Netfinity Server with 30 nodes.(Pentium 4)
+      Linux ? IBM Netfinity ? 30 nodes (Pentium 4) + 30 nodes (IBM Thin Clients)<br><br>
+
+  <b>Peripherals</b><br><br>
+
+
+       2 Online UPS, several multimedia kits, colour scanners, laser printers, 
+several dot matrix and color inkjet printers.<br><br>
+
+   <b>Operating Systems</b><br><br>
+
+
+       OS/2 Warp 3.0, SCO UNIX, Novell Netware 3.1, MS-DOS 6.22, Linux, Win NT 4.0,
+ Windows 2000,Windows Xp Professional - SP2<br><br>
+
+   <b>Lab Incharge</b><br><br>
+
+
+         Mr. Yogendra Singh Bawal is the incharge of the Computer Laboratory.

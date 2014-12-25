@@ -1,0 +1,461 @@
+<table>
+
+<tbody><tr>
+
+<td width="25%">
+<a href="http://www.deloitte.com" style="color:#666666; " target="_blank">
+<img class="noborder" src="images/companies/Deloitte.jpg" alt="Deloitte">
+</a>
+</td>
+
+<td width="25%">
+<a href="http://www.centralbankofindia.co.in" style="color:#666666; " target="_blank">
+<img class="noborder" src="images/companies/Bank-Of-India.png" alt="Central Bank Of India">
+</a>
+</td>
+
+<td width="25%">
+<a href="http://www.mghgroup.com" style="color:#666666; " target="_blank">
+<img class="noborder" src="images/companies/MGH-Group.jpg" alt="MGH Group">
+</a>
+</td>
+</tr>
+
+<tr>
+
+<td width="25%">
+<a href="http://www.vodafone.in" style="color:#666666; " target="_blank">
+<img class="noborder" src="images/companies/vodafone.jpg" alt="vodafone">
+</a>
+</td>
+
+<td width="25%">
+<a href="http://www.capitaliq.com" style="color:#666666; " target="_blank">
+<img class="noborder" src="images/companies/capital.png" alt="capital">
+</a>
+</td>
+
+<td width="25%">
+<a href="http://www.tcs.com" style="color:#666666; " target="_blank">
+<img class="noborder" src="images/companies/tcs.jpg" alt="tcs">
+</a>
+</td>
+</tr>
+
+
+<tr>
+
+<td width="25%">
+<a href="http://www.shoppersstop.com" style="color:#666666; " target="_blank">
+<img class="noborder" src="images/companies/shoppers-stop.jpg" alt="shoppers stop">
+</a>
+</td>
+
+<td width="25%">
+<a href="http://www.icicisecurities.com" style="color:#666666; " target="_blank">
+<img class="noborder" src="images/companies/ICICI Securities.jpg" alt="ICICI Securities">
+</a>
+</td>
+
+<td width="25%">
+<a href="http://www.icicibank.com" style="color:#666666; " target="_blank">
+<img class="noborder" src="images/companies/icici bank.jpg" alt="icici bank">
+</a>
+</td>
+</tr>
+
+
+<tr>
+
+<td width="25%">
+<a href="http://www.johnsonandjohnson.com" style="color:#666666; " target="_blank">
+<img class="noborder" src="images/companies/johnson-and-johnson.jpg" alt="johnson and johnson">
+</a>
+</td>
+
+<td width="25%">
+<a href="http://www.mahindra.com" style="color:#666666; " target="_blank">
+<img class="noborder" src="images/companies/mahindra.gif" alt="Mahindra &amp; Mahindra">
+</a>
+</td>
+
+<td width="25%">
+<a href="http://www.godrej.com" target="_blank">
+<img class="noborder" src="images/companies/godrejlogo_new.jpg" alt="Godrej &amp; Boyce">
+</a>
+</td>
+</tr>
+
+<tr>
+<td width="25%">
+<a href="http://www.centurionbop.co.in" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/century.jpg" alt="Centurian Bank Of punjab">
+</a>
+</td>
+
+<td>
+<a href="http://www.dhl.co.in" target="_blank">
+<img class="noborder" src="images/companies/dhl.jpg" alt="DHL">
+</a>
+</td>
+
+
+
+<td>
+<a href="http://www.itcportal.com/	" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/itc.jpg" alt="ITC">
+</a>
+</td>
+</tr>
+
+<tr>
+
+<td>
+<a href="http://www.axisbank.com" target="_blank">
+<img class="noborder" src="images/companies/logo-axis.jpg" alt="UTI / AXIS Bank">
+</a>
+</td>
+
+<td>
+<a href="http://www.pantaloon.com" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/pantaloons.jpg" alt="Pantaloons">
+</a>
+</td>
+<td>
+<a href="http://www.adanigroup.com" target="_blank">
+<img class="noborder" src="images/companies/adani.jpg" alt="Adani Group">
+</a>
+</td>
+</tr>
+
+<tr>
+
+<td>
+<a href="http://www.spectrumconsultants.com" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/spectrum.jpg" alt="Spectrum Consultants">
+</a>
+</td>
+
+<td>
+<a href="http://www.nicholaspiramal.com" target="_blank">
+<img class="noborder" src="images/companies/nicalas.jpg" alt="Nicolas Piramal">
+</a>
+</td>
+
+<td>
+<a href="http://www.cmie.com" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/cmie.jpg" alt="CMIE">
+</a>
+</td>
+</tr>
+
+<tr>
+
+<td>
+<a href="http://www.imrbint.com/" target="_blank">
+<img class="noborder" src="images/companies/imrb.jpg" alt="IMRB">
+</a>
+</td>
+
+
+<td>
+<a href="http://www.tcil.com" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/TCI-Header-LOGO-final.jpg" alt="Trasport Corporation of India Limited">
+</a>
+</td>
+
+<td>
+<a href="http://www.reliancegeneral.co.in" target="_blank">
+<img class="noborder" src="images/companies/reliancegi.jpg" alt="Reliance General Insurance">
+</a>
+</td>
+</tr>
+
+<tr>
+
+<td>
+<a href="http://www.hclinfinet.com" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/hcl.jpg" alt="HCL Infinet">
+</a>
+</td>
+
+<td>
+<a href="http://www.bajajfinance.com" target="_blank">
+<img class="noborder" src="images/companies/Bajajlogo.jpg" alt="Bajaj Finance">
+</a>
+</td>
+
+<td>
+<a href="http://www.icicilombard.com" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/insurance_online.jpg" alt="ICICI Lombard">
+</a>
+</td>
+</tr>
+
+
+<tr>
+
+<td>
+<a href="http://www.deshaw.com/" target="_blank">
+<img class="noborder" src="images/companies/deshaw.jpg" alt="D E Shaw &amp; Co.">
+</a>
+</td>
+
+<td>
+<a href="http://www.acclimited.com" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/acc.jpg" alt="ACC Limited">
+</a>
+</td>
+
+<td>
+<a href="http://www.indiainfoline.com/" target="_blank">
+<img class="noborder" src="images/companies/tn_logo.jpg" alt="India Info Line">
+</a>
+</td>
+</tr>
+
+<tr>
+
+<td>
+<a href="http://www.thomasinternational.net" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/thomas.jpg" alt="Thomas International">
+</a>
+</td>
+
+
+<td>
+<a href="http://www.wipro.com/" target="_blank">
+<img class="noborder" src="images/companies/wip_logo.gif" alt="Wipro">
+</a>
+</td>
+
+<td>
+<a href="http://www.sbilife.co.in/" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/sbilife.jpg" alt="SBI Life">
+</a>
+</td>
+</tr>
+
+<tr>
+
+<td>
+<a href="http://www.india.philips.com" target="_blank">
+<img class="noborder" src="images/companies/philips.jpg" alt="Philips">
+</a>
+</td>
+
+<td>
+<a href="http://www.bajajallianz.com" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/bajaj.jpg" alt="Bajaj Allianz">
+</a>
+</td>
+ 
+<td>
+<a href="http://www.hsbc.co.in" target="_blank">
+<img class="noborder" src="images/companies/hsbc.jpg" alt="HSBC">
+</a>
+</td>
+</tr>
+
+<tr>
+
+<td>
+<a href="https://home.americanexpress.com" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/bluebox.gif" alt="American Express">
+</a>
+</td>
+
+
+<td>
+<a href="http://www.iciciprulife.com" target="_blank">
+<img class="noborder" src="images/companies/icici.jpg" alt="ICICI Prudential">
+</a>
+</td>
+
+<td>
+<a href="http://www.csc.com/" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/csc.jpg" alt="CSC">
+</a>
+</td>
+</tr>
+
+<tr>
+
+<td>
+<a href="http://www.tataindicom.com/" target="_blank">
+<img class="noborder" src="images/companies/home_tilogo.jpg" alt="Tata Indicom">
+</a>
+</td>
+
+
+<td>
+<a href="http://www.eicherworld.com" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/EicherLogo.gif" alt="Eicher">
+</a>
+</td>
+
+<td>
+<a href="http://www.indiabulls.com" target="_blank">
+<img class="noborder" src="images/companies/bulls.jpg" alt="India Bulls">
+</a>
+</td>
+</tr>
+
+<tr>
+
+<td>
+<a href="http://www.ranbaxy.com/" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/ranbaxy.jpg" alt="Ranbaxy">
+</a>
+</td>
+
+<td>
+<a href="http://www.lilly.com/" target="_blank">
+<img class="noborder" src="images/companies/lilly_globalNav_sm2.gif" alt="Lily">
+</a>
+</td>
+
+<td>
+<a href="http://www.mahindrafinance.com/" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/mf.jpg" alt="Mahindra Finance">
+</a>
+</td>
+</tr> 
+
+<tr>
+
+<td>
+<a href="http://www.videoconworld.com/" target="_blank">
+<img class="noborder" src="images/companies/videocon.jpg" alt="Videocon">
+</a>
+</td>
+
+
+<td>
+<a href="http://www.eparryware.com" style="color:#666666;" target="_blank">
+<img class="noborder" src="./images/companies/parry.jpg" alt="Parryware">
+</a>
+</td>
+
+<td>
+<a href="http://www.patni.com/" target="_blank">
+<img class="noborder" src="images/companies/patni.jpg" alt="Patni">
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="http://www.radiomirchi.com" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/rm.jpg" alt="Radio Mirchi">
+</a>
+</td>
+
+<td>
+<a href="http://www.tatainternational.com/" target="_blank">
+<img class="noborder" src="images/companies/tata.gif" alt="Tata International">
+</a>
+</td>
+
+<td>
+<a href="http://www.adlabsfilms.com/" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/ADLABS.jpg" alt="Adlabs">
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="http://www.bluestarindia.com/" target="_blank">
+<img class="noborder" src="images/companies/BlueStarLogo.jpg" alt="Blue Star">
+</a>
+</td>
+
+<td>
+<a href="http://www.rrfinance.com/" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/rr.jpg" alt="RR Finance">
+</a>
+</td>
+
+<td>
+<a href="http://www.copalpartners.com/" target="_blank">
+<img class="noborder" src="images/companies/copal.jpg" alt="Copal Partners">
+</a>
+</td>
+</tr>
+
+<tr>
+
+<td>
+<a href="http://www.kenstar-appliances.com" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/kenstar.jpg" alt="Kenstar">
+</a>
+</td>
+
+<td>
+<a href="http://www.apaints.com" target="_blank">
+<img class="noborder" src="images/companies/asianpaints.jpg" alt="Asian Paints">
+</a>
+</td>
+
+<td>
+<a href="http://www.firesolutions.com/" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/fire.jpg" alt="Fire Solutions">
+</a>
+</td>
+</tr>
+
+<tr>
+
+<td>
+<a href="http://timesofindia.indiatimes.com/" target="_blank">
+<img class="noborder" src="images/companies/times-of-india-logo.jpg" alt="The Times Of India">
+</a>
+</td>
+
+
+<td>
+<a href="http://www.bankofbaroda.com/" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/bob.jpg" alt="Bank Of Baroda">
+</a>
+</td>
+
+<td>
+<a href="http://www.mafoi.com/" target="_blank">
+<img class="noborder" src="images/companies/logo_mafoi.gif" alt="Ma Foi">
+</a>
+</td>
+</tr>
+
+<tr>
+
+<td>
+<a href="http://www.karvy.com/" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/karvy.jpg" alt="Karvy">
+</a>
+</td>
+
+<td>
+<a href="http://www.altosinc.com/" target="_blank">
+<img class="noborder" src="images/companies/Altos_Logo.jpg" alt="Altos">
+</a>
+</td>
+
+<td>
+<a href="http://w1.siemens.com" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/siemens.jpg" alt="Siemens">
+</a>
+</td>
+</tr>
+
+<tr>
+
+<td>
+<a href="http://www.groupm.com" style="color:#666666;" target="_blank">
+<img class="noborder" src="images/companies/groupm.gif" alt="groupm">
+</a>
+</td>
+</tr>
+</tbody>
+
+</table>

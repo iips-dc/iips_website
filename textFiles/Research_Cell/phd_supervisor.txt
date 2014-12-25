@@ -1,0 +1,38 @@
+<h3 align="center">
+    <strong>Ph.D. Supervisors List</strong>
+</h3>
+<br>
+<p>
+    Dr. A. K. Sapre
+</p>
+<p>
+    Dr. R.K.Vyas
+</p>
+<p>
+    Dr. B.K.Tripathi
+</p>
+<p>
+    Dr. Kirti Mathur*
+</p>
+<p>
+    Dr. Yamini Karmarkar
+</p>
+<p>
+    Dr. Jyoti Sharma
+</p>
+<p>
+    Dr. Geeta Neema
+</p>
+<p>
+    Dr. Geeta Sharma
+</p>
+<p>
+    Dr. Manish Sitlani
+</p>
+<p>
+    Dr. S. Patidar
+</p>
+<p>
+    Dr. Pooja Jain
+</p>
+

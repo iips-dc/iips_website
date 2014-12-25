@@ -1,0 +1,595 @@
+<h3 align="center">
+    <strong>Details of Research Scholars 2011-12</strong>
+</h3>
+<table border="1" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <td valign="top" width="127">
+                <p align="center">
+                    <strong>S.NO</strong>
+                </p>
+            </td>
+            <td valign="top" width="130">
+                <p align="center">
+                    <strong>Name</strong>
+                </p>
+            </td>
+            <td valign="top" width="407">
+                <p align="center">
+                    <strong>Topic</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="127">
+                <p align="center">
+                    1.
+                </p>
+            </td>
+            <td valign="top" width="130">
+                <p>
+                    Aparna Khare
+                </p>
+            </td>
+            <td valign="top" width="407">
+                <p>
+                    A Comparative Study of Rural and Urban Customers towards FMCG Advertisements
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="127">
+                <p align="center">
+                    2.
+                </p>
+            </td>
+            <td valign="top" width="130">
+                <p>
+                    Kshama Ganjiwale
+                </p>
+            </td>
+            <td valign="top" width="407">
+                <p>
+                    A study of Factors Associated with Faculty Retention in
+                </p>
+                <p>
+                    Management Institution
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="127">
+                <p align="center">
+                    3.
+                </p>
+            </td>
+            <td valign="top" width="130">
+                <p>
+                    Ashish Kumar Mishra
+                </p>
+            </td>
+            <td valign="top" width="407">
+                <p>
+                    Employer's Perception on Compensation: A Comparative Study of Service and Manufacturing Sector
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="127">
+                <p align="center">
+                    4.
+                </p>
+            </td>
+            <td valign="top" width="130">
+                <p>
+                    Paresh Atri
+                </p>
+            </td>
+            <td valign="top" width="407">
+                <p>
+                    A Study of Manpower Requirements in Indore IT Sector
+                </p>
+                <p>
+                    A Futuristic Perspective
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="127">
+                <p align="center">
+                    5.
+                </p>
+            </td>
+            <td valign="top" width="130">
+                <p>
+                    Shikha Chaturvedi
+                </p>
+            </td>
+            <td valign="top" width="407">
+                <p>
+                    A Study of Perception of Tourists about Tourist Destination in Madhya Pradesh
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="127">
+                <p align="center">
+                    6.
+                </p>
+            </td>
+            <td valign="top" width="130">
+                <p>
+                    Shivangi Khandelwal
+                </p>
+            </td>
+            <td valign="top" width="407">
+                <p>
+                    Nature and Management of organizational conflicts in IT industry : A Case Study
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>
+    <strong><u>Under Dr. Suresh Patidar</u></strong>
+</p>
+<table border="1" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <td valign="top" width="129">
+                <p align="center">
+                    <strong>S.No.</strong>
+                </p>
+            </td>
+            <td valign="top" width="130">
+                <p align="center">
+                    <strong>Name</strong>
+                </p>
+            </td>
+            <td valign="top" width="405">
+                <p align="center">
+                    <strong>Topic</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="129">
+                <p align="center">
+                    1.
+                </p>
+            </td>
+            <td valign="top" width="130">
+                <p>
+                    Ms. Deepa Katiyal
+                </p>
+            </td>
+            <td valign="top" width="405">
+                <p>
+                    A Comparative Study of HRD Practices of Central and Madhya Pradesh Board of Education.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="129">
+                <p align="center">
+                    2.
+                </p>
+            </td>
+            <td valign="top" width="130">
+                <p>
+                    Mr. Dhruv Narayan Sharma
+                </p>
+            </td>
+            <td valign="top" width="405">
+                <p>
+                    A Comparative Study of Performance Appraisal System in Electricity Companies
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="129">
+                <p align="center">
+                    3.
+                </p>
+            </td>
+            <td valign="top" width="130">
+                <p>
+                    Ms. Shradha Mishra
+                </p>
+            </td>
+            <td valign="top" width="405">
+                <p>
+                    A Study of The Impact of MNREGA on Rural Development
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>
+    <u> </u>
+</p>
+<p>
+    <strong><u>Under Dr. Manish Sitlani sir</u></strong>
+</p>
+<table border="1" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <td valign="top" width="127">
+                <p align="center">
+                    <strong>S.NO</strong>
+                </p>
+            </td>
+            <td valign="top" width="130">
+                <p align="center">
+                    <strong>Name</strong>
+                </p>
+            </td>
+            <td valign="top" width="407">
+                <p align="center">
+                    <strong>Topic</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="127">
+                <p align="center">
+                    1.
+                </p>
+            </td>
+            <td valign="top" width="130">
+                <p>
+                    Mrs. Pinky Shrivastava
+                </p>
+            </td>
+            <td valign="top" width="407">
+                <p>
+                    A Study of Effect of Financial Exposure on Asset Allocation Decisions of Individuals in Indore
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="127">
+                <p align="center">
+                    2.
+                </p>
+            </td>
+            <td valign="top" width="130">
+                <p>
+                    Mrs. Shikha Sharma
+                </p>
+            </td>
+            <td valign="top" width="407">
+                <p>
+                    A Comparative Study of Factors influencing Purchase of Different General Insurance Products
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="127">
+                <p align="center">
+                    3.
+                </p>
+            </td>
+            <td valign="top" width="130">
+                <p>
+                    Ms. Navneet Bhatia
+                </p>
+            </td>
+            <td valign="top" width="407">
+                <p>
+                    A Study of Determinants of Financial Decisions in Indore Pharmaceutical Industry
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="127">
+                <p align="center">
+                    4.
+                </p>
+            </td>
+            <td valign="top" width="130">
+                <p>
+                    Mr. R. K. Soni
+                </p>
+            </td>
+            <td valign="top" width="407">
+                <p>
+                    A Study of Problems and Prospects of e-learning in India
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="127">
+                <p align="center">
+                    5.
+                </p>
+            </td>
+            <td valign="top" width="130">
+                <p>
+                    Mr. Rakesh Chouhan
+                </p>
+            </td>
+            <td valign="top" width="407">
+                <p>
+                    A Study of Problems and Prospects of Indian Software Industry and its Contribution to Indian Economic Development
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="127">
+                <p align="center">
+                    6.
+                </p>
+            </td>
+            <td valign="top" width="130">
+                <p>
+                    Mrs. Shraddha Sharma
+                </p>
+            </td>
+            <td valign="top" width="407">
+                <p>
+                    A Study of Potential for Online Buying in Indore
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>
+    <strong><u>Under Jyoti Sharma</u></strong>
+</p>
+<table border="1" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <td valign="top" width="131">
+                <p align="center">
+                    <strong>S.NO</strong>
+                </p>
+            </td>
+            <td valign="top" width="166">
+                <p align="center">
+                    <strong>Name</strong>
+                </p>
+            </td>
+            <td valign="top" width="346">
+                <p align="center">
+                    <strong>Topic</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="131">
+                <p align="center">
+                    1.
+                </p>
+            </td>
+            <td valign="top" width="166">
+                <p align="center">
+                    Neha Bhoptkar
+                </p>
+            </td>
+            <td valign="top" width="346">
+                <p>
+                    The role of EI,QWL and Job Tenure on employee effectiveness in manufacturing organization.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="131">
+                <p align="center">
+                    2.
+                </p>
+            </td>
+            <td valign="top" width="166">
+                <p align="center">
+                    Sapna Premchandani
+                </p>
+            </td>
+            <td valign="top" width="346">
+                <p>
+                    A comparative study of self efficacy for managing conflicts in manu. and service sector
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="131">
+                <p align="center">
+                    3.
+                </p>
+            </td>
+            <td valign="top" width="166">
+                <p align="center">
+                    Kajal Sitlani
+                </p>
+            </td>
+            <td valign="top" width="346">
+                <p>
+                    A study of OCTAPACE culture on enhancement of managerial competence
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="131">
+                <p align="center">
+                    4.
+                </p>
+            </td>
+            <td valign="top" width="166">
+                <p align="center">
+                    Jyoti Jain
+                </p>
+            </td>
+            <td valign="top" width="346">
+                <p>
+                    A study of impact of employee job satisfaction and its impact on effective time utilization in special reference to higher education.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="131">
+                <p align="center">
+                    5.
+                </p>
+            </td>
+            <td valign="top" width="166">
+                <p align="center">
+                    Piyush Naik
+                </p>
+            </td>
+            <td valign="top" width="346">
+                <p>
+                    The study of financial and non financial factors affecting employee retention strategies in IT industry
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="131">
+                <p align="center">
+                    6.
+                </p>
+            </td>
+            <td valign="top" width="166">
+                <p align="center">
+                    Deepti Bajpai Kukreti
+                </p>
+            </td>
+            <td valign="top" width="346">
+                <p>
+                    A study of Man power planning in Indian Banks
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>
+    <strong><u> </u></strong>
+</p>
+<p>
+    <strong><u>Under Dr.Yamin Karmarkar</u></strong>
+    <u></u>
+</p>
+<table border="1" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <td valign="top" width="131">
+                <p align="center">
+                    <strong>S.NO</strong>
+                </p>
+            </td>
+            <td valign="top" width="166">
+                <p align="center">
+                    <strong>Name</strong>
+                </p>
+            </td>
+            <td valign="top" width="346">
+                <p align="center">
+                    <strong>Topic</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="131">
+                <p align="center">
+                    1.
+                </p>
+            </td>
+            <td valign="top" width="166">
+                <p>
+                    Mrs. Neha Lakhotia
+                </p>
+            </td>
+            <td valign="top" width="346">
+                <p align="center">
+                    A Study of the effect of U.S. Economy on Emerging Economies and Implications for
+                </p>
+                <p align="center">
+                    Global Financial Order
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="131">
+                <p align="center">
+                    2.
+                </p>
+            </td>
+            <td valign="top" width="166">
+                <p>
+                    Mrs. Muskan Karamchandani
+                </p>
+            </td>
+            <td valign="top" width="346">
+                <p align="center">
+                    An exploratory Study of Dynamics of Indian Stock Indices
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="131">
+                <p align="center">
+                    3.
+                </p>
+            </td>
+            <td valign="top" width="166">
+                <p>
+                    Mrs. Aradhana Chouksey
+                </p>
+            </td>
+            <td valign="top" width="346">
+                <p align="center">
+                    Problems and Challenges of Micro Finance in Malwa Region
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="131">
+                <p align="center">
+                    4.
+                </p>
+            </td>
+            <td valign="top" width="166">
+                <p>
+                    Mr. Aseem Saxena
+                </p>
+            </td>
+            <td valign="top" width="346">
+                <p align="center">
+                    A Study of Acceptance , Applications and Challenges of Gandhian Philosophy of Trusteeship in Business
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="131">
+                <p align="center">
+                    5.
+                </p>
+            </td>
+            <td valign="top" width="166">
+                <p>
+                    Mr Varun Sarda
+                </p>
+            </td>
+            <td valign="top" width="346">
+                <p align="center">
+                    Prediction of Financial Markets Crashes using log Periodicity and other technical analysis indicators
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="131">
+                <p align="center">
+                    6.
+                </p>
+            </td>
+            <td valign="top" width="166">
+                <p>
+                    Mr.Rajesh Mehta
+                </p>
+            </td>
+            <td valign="top" width="346">
+                <p align="center">
+                    Management of Urban Development Plan: A study
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>

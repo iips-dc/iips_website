@@ -1,0 +1,384 @@
+<h4>Various Departments</h4> 
+
+<table align="center" border="5px" class="table table-stripped" >
+	
+	<tbody><tr>
+			  
+			  <tr>
+              <td>
+                  <a href="http://www.pvsysgroup.us/davv/front">
+				    School of Biochemistry
+				  </a>
+				  
+			  </td>
+           </tr>
+		   <tr>
+             <td>
+               <a href="http://www.biotech.dauniv.ac.in/" style="color: #401505">  
+			      School of Biotechnology
+				 </a>
+				 
+        		  (BIOTECH)
+				 
+			</td>
+          </tr>	 
+		  <tr>
+          <td>
+            <a href="http://www.chemical.dauniv.ac.in/">
+			   School of Chemical Sciences
+			</a>
+			
+			 (CHEMICAL)
+		    
+          </td>
+        </tr> 
+		<tr>
+          <td>
+           <a href="http://www.commerce.dauniv.ac.in/" style="color: #401505"> 
+			   School of Commerce 
+			 </a> 
+			
+			  (COMMERCE)
+		    
+         </td>
+       </tr>
+       <tr>
+         <td>
+          <a href="http://www.scs.dauniv.ac.in/index.php">
+		     School of Computer Science &amp; Information Technology
+		  </a>
+		   
+			<b style="color:#AA3025; font-size:14px; font-weight:bold;">
+				(SCSIT)
+			</b>
+		  
+		</td>
+       </tr>
+       <tr>
+         <td>
+           <a href="http://www.soedavv.ac.in/" style="color: #401505" "="">
+			School of Economics
+		   </a>
+		   
+		    (ECON)
+		   
+		</td>
+      </tr>
+        <tr>
+          <td>
+            <a href="http://www.edu.dauniv.ac.in/">
+			  School of Education
+			</a>
+			
+			 (EDU)
+			
+		 </td>
+       </tr>
+       <tr>
+         <td>
+          <a href="http://www.elex.dauniv.ac.in/" style="color: #401505">
+		    School of Electronics
+		  </a>
+		  
+		   (ELEX)
+		  
+		</td>
+      </tr>
+      <tr>
+        <td>
+          <a href="http://www.sees.dauniv.ac.in/">   
+		     School of Energy &amp; Environmental Studies
+		</a>
+			 
+				<b style="color:#AA3025; font-size:14px; font-weight:bold;">              
+			 		(SEES)
+			 	</b>
+            
+		</td>
+        </tr>
+        <tr>
+          <td>
+            <a href="http://www.sfsp.dauniv.ac.in/" style="color: #401505">
+			  School of Future Studies &amp; Planning
+		  </a>
+		  
+		   (SFSP)
+          
+		 </td>
+       </tr>
+       <tr>
+         <td>
+           <a href="http://www.inst.dauniv.ac.in/">
+		      School of Instrumentation
+		   </a>
+		   
+			  (INST) 
+			 
+		</td>
+       </tr>
+       <tr>
+         <td>
+          <a href="http://www.mediabhawan.com/" style="color: #401505">
+		    School of Journalism &amp; Mass Communication
+		  </a>
+		  
+		    (SJMC)
+          
+		  </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="http://www.slaw.dauniv.ac.in/">
+			  School of Law
+			</a>
+			
+			  <b style="color:#AA3025; font-size:14px; font-weight:bold;">
+			    (LAW)
+			  </b>
+			
+		   </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="http://www.sls.dauniv.ac.in/" style="color: #401505">
+			   School of Life Sciences
+			</a>
+			
+			   (SLS)
+			
+		   </td>
+        </tr>
+		
+		
+		<tr>
+          <td>
+            <a href="http://www.dauniv.ac.in/new/sclc/index.php">
+			    School of  Languages
+		    </a>
+			
+			
+		   </td>
+        </tr>
+		
+        <tr>
+          <td>
+            <a href="http://www.math.dauniv.ac.in/" style="color: #401505">
+			   School of Mathematics
+			</a>
+			(
+				MATH) 
+			  
+		  </td>
+        </tr>
+        <tr>
+          <td>
+		    <a href="http://www.pharmacy.dauniv.ac.in/">
+			   School of Pharmacy
+			</a>
+			
+			  <b style="color:#AA3025; font-size:14px; font-weight:bold;">
+			 	(PHARMACY)
+			  </b>
+			
+		  </td>
+        </tr>
+        <tr>
+          <td>
+		    <a href="http://www.sope.davv.ac.in/" style="color: #401505">
+			  School of Physical Education
+			</a>
+			
+			(SPEDU) 
+			
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="http://www.physics.dauniv.ac.in/">                
+				School of Physics
+			</a>
+			(
+			  <b style="color:#AA3025; font-size:14px; font-weight:bold;">
+			  		PHYSICS)
+			  </b>
+			 
+          </td>
+        </tr>
+        <tr>
+          <td>
+		    <a href="http://www.stat.dauniv.ac.in/" style="color: #401505">
+			  School of Statistics</a>
+			
+			 (STAT)
+			
+		  </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="http://www.sals.dauniv.ac.in/">
+			   School of Social Science
+		    </a>
+			
+          </td>
+        </tr>
+		 
+        <tr>
+          <td>
+             <a href="http://www.iet.dauniv.ac.in/" style="color: #401505">
+			   Institute of Engineering &amp; Technology
+			</a>
+			 
+			 <b style="color:#AA3025; font-size:15px; font-weight:bold;">
+			 	(IET)
+			</b>
+		    
+          </td>
+        </tr>
+		
+        <tr>
+          <td>
+            <a href="http://www.ims.dauniv.ac.in/">
+			 Institute of Management Studies
+			
+			 <b style="color:#AA3025; font-size:14px; font-weight:bold;">
+				 (IMS)
+			 </b>
+			
+		  </a>
+		 </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="http://www.iips.edu.in/" style="color: #401505">
+			    International Institute of Professional Studies
+			</a>
+			
+			<b style="color:#AA3025; font-size:14px; font-weight:bold;">
+			   (IIPS)
+			</b>
+            
+		  </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="http://www.itc.dauniv.ac.in/">
+			   Information Technology Centre
+			</a>
+			
+			  <b style="color:#AA3025; font-size:14px; font-weight:bold;">
+			 	(ITC)
+			</b>
+		    
+		  </td>
+        </tr>
+        <tr>
+          <td>
+		    <a href="http://www.asc.dauniv.ac.in/" style="color: #401505">
+			  Academic Staff College (ASC)
+			</a>
+		  </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="http://bahaichairdavv.org/">
+			   Baha'i Chair for Studies in Development
+		    </a>
+			
+			 (BCHAIR)
+            
+		  </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="http://www.clib.dauniv.ac.in/" style="color: #401505">
+			   Central Library
+			</a>
+			
+			 (CLIB:Teaching)
+		    
+		  </td>
+        </tr>
+       
+          <tr>
+          <td>
+          <a href="http://www.cebdavv.ac.in/" style="color: #401505">
+			  Centre for e-Business
+		  </a>
+		  
+		   (CeB)
+          
+		</td>
+        </tr>
+        <tr>
+          <td>
+            <a href="http://www.dacee.dauniv.ac.in/">
+			   Department of Life Long Learning 
+			</a>
+			 
+                (DACEE)
+			
+		  </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="http://www.emrcdavv.edu.in/home.html" style="color: #401505">
+			   Educational Multimedia Research Centre
+			</a>
+			  
+			  <b style="color:#AA3025; font-size:14px; font-weight:bold;">
+			  (EMRC)
+			  <b>
+			 </b></b><b style="color:#AA3025; font-size:14px; font-weight:bold;"><b>
+          </b></b></td>
+        </tr>
+        <tr>
+          <td>
+            <a href="http://www.umc.dauniv.ac.in/">
+			   University Minority Cell
+			</a>
+			  
+			    (UMC)
+			  
+		 </td>
+        </tr>
+        <tr>
+          <td>
+             <a href="http://www.dauniv.ac.in/new/dde/index.php" style="color: #401505">                 Directorate of Distance Education
+              </a>
+			  
+			    (DDE)
+			  
+		  </td>
+        </tr>
+		 
+		<tr>
+          <td>
+             <a href="http://www.davvyoga.com">    
+			  
+			        School of Yoga
+				
+              </a>
+			  
+			   (Yoga)
+			  
+		  </td>
+        </tr>
+		
+		<tr>
+          <td>
+             <a href="http://www.dauniv.ac.in/new/CareerCounselling/">    
+			  
+			       Career Counselling and Opportunities Cell
+				
+              </a>
+			  
+			 
+			  
+		  </td>
+        </tr>
+		
+        
+	   </tbody>
+
+
+</table>
