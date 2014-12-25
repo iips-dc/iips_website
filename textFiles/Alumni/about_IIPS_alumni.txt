@@ -1,0 +1,27 @@
+<h3>IIPS Alumni Association</h3>
+     
+     <p> The IIPS Alumni Association exists to help you stay connected to IIPS, and to each other,wherever you are in your
+         life now. Whatever you're seeking, an excuse to come back for reunion or a job lead, 
+         we've got you covered.</p>
+                    
+ 		 <h4>Services we provide:</h4>
+         <ul>
+         
+         			<li> Alumni directory  </li>
+         			<li><a href="https://www.facebook.com/alumni.iips?fref=ts"> Alumni Facebook page</a></li>
+         			<li>Comming Reunions</li>
+         			<li>Alumni Centre </li>
+         		 </ul>
+    
+        <h4>Our Mission:</h4>
+         <ul>
+         			<li>To promote and foster belongingness and harmony between the Alumni and the Alma Mater.</li>
+					<li>To encourage formation of chapters to increase participation of the Alumni.</li>
+					<li>To encourage the Alumni to take abiding interest in the progress and development of the Alma Mater.</li>
+					<li>To undertake activities of nation building including those of charitable nature.</li>
+					<li>To undertake all such lawful activities as are conducive to the attainment of the above objectives.</li>
+					<li>To generate corpus at the Devi Ahilya University for creating better educational/recreational facilities.</li>
+					<li>To exchange professional knowledge, organize technical conferences, seminars workshops, training courses, etc.</li>
+					<li>To accept/receive donations for fulfillment of the objectives.</li>
+         </ul>
+            
