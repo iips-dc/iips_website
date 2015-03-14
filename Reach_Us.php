@@ -1,70 +1,73 @@
 <?php include 'base_template_2_column.php' ?>
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    
-    <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDY0kkJiTPVd2U7aTOAwhc9ySH6oHxOIYM&sensor=false">
-	</script>
-
-	<script>
-	var myCenter=new google.maps.LatLng(22.68849,75.87669);
-	var marker;
-
-	function initialize()
-	{
-	var mapProp = {
-	center:myCenter,
-	zoom: 15,
-	mapTypeId:google.maps.MapTypeId.ROADMAP
-	};
-
-	var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
-
-	marker=new google.maps.Marker({
-	position:myCenter,
-	animation:google.maps.Animation.BOUNCE
-	});
-
-	marker.setMap(map);
-	}
-
-	google.maps.event.addDomListener(window, 'load', initialize);
+<?php startblock('page_title'); ?>
+	Reach Us | IIPS
+<?php endblock(); ?>
 
 
-    </script>
-       
-        <title>Reach Us | IIPS</title>
+	<?php startblock('page_heading'); ?>
+        Reach Us
+	<?php endblock(); ?>
 
-       
-</head>
+<?php startblock('style') ; ?>
+	    <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDY0kkJiTPVd2U7aTOAwhc9ySH6oHxOIYM&sensor=false">
+		</script>
 
-<body>
-	 <?php startblock('content'); ?>
-	 <div id="wrap">
-	  <div class="container" style="background-color:#FFFFFF;">
-	   	  <h4>Reach Us</h4><br><br>
+		<script>
+		var myCenter=new google.maps.LatLng(22.68849,75.87669);
+		var marker;
+
+		function initialize()
+		{
+		var mapProp = {
+		center:myCenter,
+		zoom: 15,
+		mapTypeId:google.maps.MapTypeId.ROADMAP
+		};
+
+		var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+
+		marker=new google.maps.Marker({
+		position:myCenter,
+		animation:google.maps.Animation.BOUNCE
+		});
+
+		marker.setMap(map);
+		}
+
+		google.maps.event.addDomListener(window, 'load', initialize);
+
+
+	    </script>
+
+<?php endblock() ?>
+	
+	<?php startblock('sidemenu'); ?>
+				     <div class="" style="background-color:#333333; color:#FFFFFF;">
+			 
+						<b>&nbsp;&nbsp;IIPS Address : </b><br><br>
+						&nbsp;&nbsp;Devi Ahilya University<br>
+							&nbsp;&nbsp;Takshashila Campus,<br>
+							&nbsp;&nbsp;Khandwa Road<br>
+							&nbsp;&nbsp;Indore - 452001, INDIA<br>
+							&nbsp;&nbsp;Phone: 91-731-2461888, 
+							&nbsp;&nbsp;2462087, 2461332, 2760101<br>
+							&nbsp;&nbsp;Fax - 91-731-2467888<br>
+							&nbsp;&nbsp;Email- admin@iips.edu.in<br>
+							&nbsp;&nbsp;*For more details go through
+							&nbsp;&nbsp;our virtual tour.<br>
+		             </div>
 		  
- 		  <div class="row">
-		     <div class="col-md-4" style="background-color:#333333; color:#FFFFFF">
-	 
-				<b>IIPS Address : </b><br><br>
-				Devi Ahilya University<br>
-					Takshashila Campus, Khandwa Road<br>
-					Indore - 452001, INDIA<br>
-					Phone: 91-731-2461888, 2462087, 2461332, 2760101<br>
-					Fax - 91-731-2467888<br>
-					admin@iips.edu.in<br>
-					*for more details go through our virtual tour.<br>
-             </div>
+	<?php endblock() ; ?>
 
-             <div class="col-md-8">
+
+    
+	 <?php startblock('content'); ?>
+	  		  <div class="row">		     		     
+
+             <div class="col-md-12">
                    <b>Virtual Tour</b><br><br>
 					<!-- Google Maps iframe link -->
-					<div id="googleMap" style="width:500px;height:380px;"></div>
+					<div id="googleMap" style="width:100%;height:380px;"></div>
 					<center>
 					<input type="button" value="Guide Me" onClick=""></input>
 					<input type="button" value="Pause" onClick=""></input>
@@ -75,9 +78,6 @@
 					</center>
              </div>
 		  </div><!--row class Ended -->
-       </div><!--container class Ended -->
-	</div><!-- End of wrap class -->
+
 	<?php endblock(); ?>		
-		
-</body>
-</html>
+

@@ -1,6 +1,7 @@
-<li>Dr. B.K. Tripathi, Director 98270-48326</li>
+<li>Dr. A.K. Sapre, <b>Director</b> 94250-78013</li>
 
-    					<li>Dr. A.K. Sapre, Professor 94250-78013</li>
+    					<li>Dr. B.K. Tripathi, Professor 98270-48326
+    					</li>
 
    					    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
 

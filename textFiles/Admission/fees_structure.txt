@@ -1,0 +1,48 @@
+<table align="center" border="1px" class="table" >
+	
+	<tbody><tr style="color:#FFFFFF; background-color:#333333 "> 
+		<th>School of Studies</th>
+		<th>Group</th>
+		<th>Courses</th>
+		<th>Fees Excluding Student<br>Services Fee<br>(PA in Rs.)</th>
+		<th>Caution<br>Money<br>(Refundable)</th>
+	</tr>
+	
+	<tr>
+		<td rowspan="6" > <br><br><br><br>International Institute of Professional Studies<b>(IIPS)</b></td>
+		<td rowspan="2" align="center"><b>A</b></td>
+		<td>MBA(Tourism)</td>
+		<td align="center"><b>44100</b></td>
+		<td align="center"><b>3000</b></td>
+	</tr>
+	<tr>	
+		<td>MBA(Advertising &amp; Public Relations)</td>
+		<td align="center"><b>44100</b></td>
+		<td align="center"><b>3000</b></td>
+	</tr>
+	<tr>
+		<td rowspan="2" align="center"><b>B</b></td>
+		<td>MBA(Management Science)-5 Yrs</td>
+		<td align="center"><b>56845</b></td>
+		<td align="center"><b>3000</b></td>
+	</tr>
+	<tr>
+		<td>B.Com(Hons)-3Yrs</td>
+		<td align="center"><b>38850</b></td>
+		<td align="center"><b>3000</b></td>
+	</tr>
+	<tr>
+		<td rowspan="2" align="center"><b>C</b></td>
+		<td>MCA-6Yrs</td>
+		<td align="center"><b>56845</b></td>
+		<td align="center"><b>3000</b></td>
+	</tr>
+	<tr>
+		<td>MTech(IT)-5� Yrs</td>
+		<td align="center"><b>56845</b></td>
+		<td align="center"><b>3000</b></td>
+	</tr>
+	
+</tbody></table>
+
+<p> For complete fees structure to all the courses avaialable from CET  <a href="http://davvcet.in/fee_struct.php"> Click here </a> </p>

@@ -63,7 +63,7 @@
 
         <div  id="tab5" class="tab-content hide text-justify">
 			<?php 
-				$feesStructure ="textFiles/Admission/";  
+				$feesStructure ="textFiles/Admission/fees_structure.txt";  
 				readTextFiles($feesStructure); 
 		    ?>
             

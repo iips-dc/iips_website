@@ -2,10 +2,11 @@
 
 <center > <h3 style="margin-top: -24px;"> Welcome to Development Center - IIPS  </h3> </center>
 
-<p> 
+
 	<center ><i> Dive in to the world of developers ! 
 	 </i></center>
 	<br>
+<p style = "text-align:justify;"> 
 	We being development center-IIPS have been continuously trying to enhance students technical skills and provide and understanding of software development .
 	We are Constantly providing guidance to our students to inculcate internationalized open source standards and values.
 
@@ -13,9 +14,24 @@
 
 <br>
 
+<p style = "text-align:justify;"> 
+	To be a part of our community , just fill up the below form and reach us in person at development center during working days. In case you are stuck somewhere feel free to reach us . We would love to help you out . That's what we are here for . <br>
 
-<p> Before you ask us to join , you have to complete atleast any one course from the below recommended course listing and you have to complete the following suggested readings  </p>
+	<b>Note: If you are interested to be a part of Development Center, Forms are available from 17th-May-14 to 26-May-14 . Hurry up. Late forms will not be accepted</b>
 
+</p>
+
+<ul>
+	<li> <a href = "downloads/DC/Complete DC form with annexures and sample filled form.pdf"> Form in pdf </a></li> 
+	<li> <a href = "downloads/DC/Complete DC form with annexures and sample filled form.zip"> Form in zip  </a></li> 
+</ul>
+
+
+
+
+<p style = "text-align:justify;"> Prerequisites for filling up the form: Below recommended Codeacademy Track  or Any one of the online course listed below. </p>
+
+<h4>Recommended Readings</h4>
 <ul>
 <li><a href="http://www.catb.org/~esr/faqs/smart-questions.html" > How to ask question the smart way </a> </li>
 
@@ -24,12 +40,19 @@
 
 </ul>
 
+ 
+<h4>Recommended Codecademy track</h4> 
+<ul>
+	<li> <a href="http://www.codecademy.com/tracks/web"> Web fundamentals(HTML/CSS) </a> (Need 5-6 hours to complete)
+</ul>
+
 <h4>Recommended Courses</h4> 
 
 <ul>
 
-	<li><a href="https://www.udacity.com/course/cs101">Intro to Computer Science CS101 | Udactiy </a></li>
-
+	<li><a href="https://www.udacity.com/course/cs101">Intro to Computer Science - Build a Search Engine & a Social Network | Udactiy </a></li>
+	<li><a href="https://www.udacity.com/course/ud036">Intro to Object Oriented Programming- Beyond Hello World | Udactiy </a></li>
+	<li><a href="https://www.udacity.com/course/cs253">How to build a web blog | Udacity  </a></li>
 	<li> <a href="https://www.coursera.org/course/programming1"> Learn to Program | Coursera </a> </li>
 
 	<li> <a href="https://www.coursera.org/course/proglang‎"> Programming Languages | Coursera </a> </li>

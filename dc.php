@@ -1,7 +1,7 @@
 
 <?php include 'base_template_2_column.php' ?>
 	<?php startblock('page_title'); ?>
-	Developer Center | IIPS
+	Development Center | IIPS
 	<?php endblock(); ?>
 
       
@@ -35,7 +35,7 @@
 			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab4"> Past Projects</a></li>
 			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab5"> Members</a></li>
 			                <li class="btn-block"><a class="icon-chevron-sign-right" href="#tab6"> Entrance</a></li>
-			                 <li class="btn-block"><a class="icon-chevron-sign-right" href="https://www.akshayv.comlu.com"> Know Us More</a></li>
+			                
 						</ul>
 
 	                <?php endblock() ; ?>				
@@ -43,8 +43,9 @@
 	
 
 					<?php startblock('content'); ?>
+					<div>
 
-						<div id="tab1"  class="tab-content active" style="text-align:justify;">
+						<div id="tab1"  class="tab-content active">
 	                      <?php 
 							$aboutDC ="textFiles/DC/about_dc.txt";  
 							readTextFiles($aboutDC);

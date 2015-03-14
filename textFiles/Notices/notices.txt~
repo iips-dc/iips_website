@@ -1,0 +1,15 @@
+﻿			<h3 class="text-center"><b class="label label-primary icon-bullhorn"> Notices & Annoucement Board</b></h3>
+
+
+			
+			<!-- Notice Section --><br><br>
+
+			<div class="row notice" id ="youth_festival" >
+				  <h5><b>&raquo; UTD Level Selections for Youth Festival 2014-2015 </b>  </h5>
+				  
+				  <div class="content">
+					<p>The UTD level selections for Youth Festival are scheduled from 23rd to 25th September.We encourage our students to participate in these events.Interested Students may Contact at department level.Final names to be sent to Dr.Chandan Gupta, EMRC through Head of the Department before 20th September 2014. For more details <a href="downloads/notices/youthFest_Poster.pdf"> Click on this Poster </a>  
+					</p><br>
+				  </div>
+				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
+			</div><br>

@@ -27,7 +27,7 @@
 
 	<?php startblock('content') ?>			  	  
 
-		<div id="tab1"  class="tab-content active">
+		<div id="tab1"  class="tab-content active text-justify">
 			<img class="pull-right" src="images/iipslogo.jpg" style="margin-left:10px;">
 			<?php 
 				$aboutIIPS = "textFiles/About_IIPS/about_IIPS.txt";  
@@ -35,7 +35,7 @@
 		  ?>
 		</div>
 
-		<div id="tab2" class="tab-content hide" style="text-align:justify; padding:0px 20px 0px 20px; margin-top:0px; line-height:1.5;">
+		<div id="tab2" class="tab-content hide text-justify" style="text-align:justify; padding:0px 20px 0px 20px; margin-top:0px; line-height:1.5;">
 			<b>Meet the Director</b>
 		   <table style="background-color:#eeeeee; border:1px solid gray;" > <tr>  <td> <i>
 
@@ -46,7 +46,7 @@
 
 		</div>
 
-		<div id="tab3" class="tab-content hide">
+		<div id="tab3" class="tab-content hide text-justify">
 		   <b> What we Think</b><br><br>
 
 			<div style="background-color:#eeeeee;"><b>Objectives</b></div>
@@ -57,7 +57,7 @@
 					  ?>
 		</div>
 		
-		<div id="tab4" class="tab-content hide">
+		<div id="tab4" class="tab-content hide text-justify">
 			<b>Academic calender</b>
 			<?php 
 				$academic_calender = "textFiles/Academic_Calender/academic_calender.txt" ;
@@ -65,7 +65,7 @@
 			?>
 		</div>
 		
-		<div id="tab5" class="tab-content hide">
+		<div id="tab5" class="tab-content hide text-justify">
 			<?php 
 				$iipsWiki = "textFiles/About_IIPS/iips_wikipedia.txt";  
 				 readTextFiles($iipsWiki);
@@ -73,7 +73,7 @@
 			Read More @ <a href="http://en.wikipedia.org/wiki/International_Institute_of_Professional_Studies">IIPS WikiPage</a>
 		</div>
 		
-		<div id="tab6" class="tab-content hide">
+		<div id="tab6" class="tab-content hide text-justify">
 			<b>IIPS Anti-Ragging Committee</b><br><br>
 			
 			<ul type="disc" style="margin-left:50px;">

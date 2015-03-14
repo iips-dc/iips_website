@@ -41,6 +41,8 @@
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Academics<b class="caret"></b></a>
 							<ul class="dropdown-menu">
+								  <!--<li><a href="feedback_system/index">Registraion & Feedback</a></li>-->
+								  <li><a href="pbas/index">PBAS</a></li>
 								  <li><a href="academic_calender">Academic Calender</a></li>
 								  <li> <a href="time_table"> Time Table</a></li>
 								  <li><a href="syllabus">Syllabus</a></li>
@@ -65,9 +67,9 @@
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<b class="caret"></b></a>
 							<ul class="dropdown-menu">
-								<li><a href="Xpressions">Xpression</a></li>
+								<li><a href="xpressions/index.html">Xpression</a></li>
 								<li><a href="synergy">Synergy</a></li>
-								<li><a href="Tourista">Tourista</a></li> 
+								<li><a href="./tourista-14/index.html">Tourista</a></li> 
 				   			</ul>
 						</li>
 						 

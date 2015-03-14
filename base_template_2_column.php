@@ -27,8 +27,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="International Institute of Professional Studies(IIPS)-DAVV, Indore">
+    <meta name="author" content="Development Center - IIPS, Indore">
+    <link rel="shortcut icon" href="images/favicon.png">
         <title>
         
         <?php startblock('page_title'); ?>
@@ -47,6 +48,15 @@
 			<?php
 			 include('cssLinks.php');
 			?>
+		<style type="text/css">
+			.navbar-default .navbar-collapse,
+			.navbar-default .navbar-form {
+			  background-color: #2a3451;
+			}
+			.navbar-toggle {
+			  margin-top: 2px;
+			}
+		</style>
 		
 		<!-- Style block End -->
 </head>
@@ -120,13 +130,12 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-46860115-2', 'redirectme.net');
+  ga('create', 'UA-46860115-1', 'auto');
   ga('send', 'pageview');
 
-</script>		
-	
-
+	</script>
 
 </body>
 
 </html>
+
