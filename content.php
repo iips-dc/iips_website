@@ -14,8 +14,8 @@ and testimonial section -->
 				<div id="slider" class="nivoSlider">
 					<img src="images/slider/1.jpg" title="Our culture is to involve everyone"/>
 					<img src="images/slider/2.jpg" title="We believe in presenting our best to the world" /></a>
-					<img src="images/slider/3.jpg" title="Multimedia Lecture Theater" data-transition="slideInLeft" />
-					<img src="images/slider/4.jpg" title="We are highly focused on the quality of education" />
+					<img src="images/slider/3.jpg" title="Shareable Moments" data-transition="slideInLeft" />
+					<img src="images/slider/4.jpg" title="Winning is habit" />
 					<img src="images/slider/5.jpg" title="Quiz @IIPS"/>
 					<img src="images/slider/6.jpg" title="Dedication is the key to success" />
 				</div>
