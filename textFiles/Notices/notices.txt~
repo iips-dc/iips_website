@@ -1,0 +1,125 @@
+﻿			<h3 class="text-center"><b class="label label-primary icon-bullhorn"> Notices & Annoucement Board</b></h3>
+
+
+			
+			<!-- Notice Section --><br><br>
+<<<<<<< HEAD
+
+			<div class="row notice" id ="youth_festival" >
+				  <h5><b>&raquo; UTD Level Selections for Youth Festival 2014-2015 </b>  </h5>
+				  
+				  <div class="content">
+					<p>The UTD level selections for Youth Festival are scheduled from 23rd to 25th September.We encourage our students to participate in these events.Interested Students may Contact at department level.Final names to be sent to Dr.Chandan Gupta, EMRC through Head of the Department before 20th September 2014. For more details <a href="downloads/notices/youthFest_Poster.pdf"> Click on this Poster </a>  
+					</p><br>
+				  </div>
+				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
+			</div><br>
+
+			<div class="row notice" id ="entrepreneurship_awareness" >
+				  <h5><b>&raquo; Entrepreneurship Awareness Drive 2014 </b>  </h5>
+				  
+				  <div class="content">
+					<p>International Institute of Professional Studies is hosting an IIT,Kharagpur event called Entrepreneurship Awareness Drive 2014.
+					Entrepreneurship Awareness Drive, one of the most massive flagship events undertaken by the Entrepreneurship Cell, IIT Kharagpur is a one of its kind initiative held in 23 cities across the nation in order to stimulate the spirit of entrepreneurship and encourage students to embrace the idea of starting their own venture. Consisting of a series of guest lectures by eminent entrepreneurs,and workshops, EAD has been successful in kindling the vigour of creating one’s enterprise among the youth of the nation, ever since its inception in 2009. To register please <a href="http://www.ead.ecell-iitkgp.org/index.php?page=about"> click here </a> 
+					</p><br>
+				  </div>
+				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
+			</div><br>
+
+			<div class="row notice" id ="CET_2014" >
+				  <h5><b>&raquo; CET 2014 results announced . </b>  </h5>
+				  
+				  <div class="content">
+					<p>To have a look to your cet results <a href="http://davvcet.in/"> click here </a> 
+					</p><br>
+				  </div>
+				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
+			</div><br>
+
+
+
+			<div class="row notice" id ="exam_postpone" >
+				  <h5><b>&raquo; MBA MS 5years II semester paper on 15/05/2014 postponed </b>  </h5>
+				  
+				  <div class="content">
+					<p>This is to inform you that paper of MBA MS 5 years scheduled on 15/05/2014 is to postponed. The next date will be announced near 15th may.
+					</p><br>
+				  </div>
+				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
+			</div><br>
+
+
+			<div class="row notice" id ="mca_mtech_tt" >
+				  <h5><b>&raquo; MCA M.Tech II Internal TT(Jan-May 2014) </b>  </h5>
+				  
+				  <div class="content">
+					<p>Here is the II internal(2014) time-table for MCA-M.Tech.
+					<a href="downloads/time_table/final_mca_m.tech_test_II_tt_2014.pdf" target="blank"> this(download pdf) </a> notice.
+					</p><br>
+
+				  </div>
+				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
+			</div><br>
+
+			
+			<div class="row notice" id ="fees_notice" >
+				  <h5><b>&raquo; Urgent - Fees Submission Notice(Jan-May 2014) </b>  </h5>
+				  
+				  <div class="content">
+					<p>All Students are here by informed that they have to deposit their semester fee online using mponline portal. Please follow
+					<a href="downloads/notices/Fees_Notice Jan-May_2014.pdf" target="blank"> this(download pdf) </a> notice.
+					</p><br>
+
+				  </div>
+				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
+			</div><br>
+
+
+
+
+
+<div class="row notice" id ="new_workshop" >
+				  <h5><b>&raquo;New workshop by Ms Shikha chaturvedi </b>  </h5>
+				  
+				  <div class="content">
+					<p> 
+					Ph. D. Viva-voce of Ms. Sikha Chaturvedi on the topic “A Study of Perception of Tourists about Tourist Destinations in Madhya Pradesh” under faculty of Management is scheduled to be held on 30.01.2014 at LT-1, IIPS, DAVV at 11.30AM. Interested persons/Faculties/Students are invited to attend the Viva-voce presentation.  				<a href="downloads/notices/notice-A Study of Perception of Tourists about Tourist Destinations in Madhya Pradesh.pdf" target="blank">Download pdf </a>
+					</p><br>
+
+				  </div>
+				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
+			</div><br>
+
+
+			<div class="row notice" id ="utd_employees" >
+				  <h5><b>&raquo;Notice for all UTD employees </b>  </h5>
+				  
+				  <div class="content">
+					<p> 
+					This is the notice for all UTD employees from University . <a href="downloads/notices/UDTEmployeeNotice16012014.pdf" target="blank">Download pdf </a>
+					</p><br>
+
+				  </div>
+				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
+			</div><br>
+			
+
+			<div  class="row notice" id="utd_academic_calendar">
+				  <h5><b>&raquo;Naac Notice regarding academic calendar </b></h5>
+				  
+				  <div class="content">
+					<p> 
+					This is the notice regarding the academic calendar 2014 for all the departments. <a href="downloads/notices/NAACNoticeregardingAcademicCalendertif.pdf" target="blank">Download pdf </a>
+					</p><br>
+=======
+>>>>>>> testing
+
+			<!--<div class="row notice" id ="youth_festival" >
+				  <h5><b>&raquo; UTD Level Selections for Youth Festival 2014-2015 </b>  </h5>
+				  
+				  <div class="content">
+					<p>The UTD level selections for Youth Festival are scheduled from 23rd to 25th September.We encourage our students to participate in these events.Interested Students may Contact at department level.Final names to be sent to Dr.Chandan Gupta, EMRC through Head of the Department before 20th September 2014. For more details <a href="downloads/notices/youthFest_Poster.pdf"> Click on this Poster </a>  
+					</p><br>
+				  </div>
+				  <button class="btn btn-primary toggleContent" role="button">View Details &raquo;</button>
+			</div><br>-->

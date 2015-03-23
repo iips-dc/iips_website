@@ -1,12 +1,6 @@
 <!--This page serves the content for Home page. It includes
 slider, notice, news_events box, Link to quicklink file
 and testimonial section -->
-<center style="color: Blue">Astra</center>
-<center style="color:red;">This is the Beta Version of IIPS Website . Kindly <!--  
-	<a href="https://docs.google.com/a/iips.edu.in/forms/d/1l3vtqwVc3oYDmqSayiJ-Txoc4wUP4DLfeZmfp8fwhtM/viewform" target="blank">
-	feedback</a><br> -->
-	<a href="https://www.surveymonkey.com/s/QNTYQ3F">Click here to take survey for services</a>
-</center>
 
 <div class="container" style=" background-color:#FFFFFF; ">
 	<br><br>
@@ -20,8 +14,8 @@ and testimonial section -->
 				<div id="slider" class="nivoSlider">
 					<img src="images/slider/1.jpg" title="Our culture is to involve everyone"/>
 					<img src="images/slider/2.jpg" title="We believe in presenting our best to the world" /></a>
-					<img src="images/slider/3.jpg" title="Multimedia Lecture Theater" data-transition="slideInLeft" />
-					<img src="images/slider/4.jpg" title="We are highly focused on the quality of education" />
+					<img src="images/slider/3.jpg" title="Shareable Moments" data-transition="slideInLeft" />
+					<img src="images/slider/4.jpg" title="Winning is habit" />
 					<img src="images/slider/5.jpg" title="Quiz @IIPS"/>
 					<img src="images/slider/6.jpg" title="Dedication is the key to success" />
 				</div>
@@ -38,11 +32,12 @@ and testimonial section -->
 					<h3 class="panel-title">Notice & Announcements</h3>
 				</div>
 				<div class="panel-body " align="left">
-				  <a href="http://reboot-iips.in/" style="color: green" target="blank"> <i class="icon-pushpin"></i> Reboot - The annual Tech fest on 21-22 september</a><img src="images/new.gif" > <br> 
-				  <a href="https://docs.google.com/forms/d/1N5kgaALukvJV-MtioL6snflhB0AUw3CpDPGvnv-KXsg/viewform?c=0&w=1&usp=mail_form_link" style="color: green"> <i class="icon-pushpin"></i> Information for the University Industry partnership Cell</a><img src="images/new.gif" > <br> 
-				  
-				  <a href="notice_announcement#youth_festival" style="color: green"> <i class="icon-pushpin"></i> UTD Level Selections for Youth Festival 2014-2015 </a><img src="images/new.gif" > <br> 
-				  <a href="notice_announcement#entrepreneurship_awareness" style="color: green"> <i class="icon-pushpin"></i> Entrepreneurship Awareness Drive 2014</a><img src="images/new.gif" > <br> 
+				<a href="http://goo.gl/forms/JldOAgmT6Q" target="blank"> <i class="icon-pushpin"></i> IIPS Alumni form</a><br>
+				<a href="./downloads/notices/Final Time-Table Dec 2014.pdf" target="blank"> <i class="icon-pushpin"></i>End semester examination Time table</a><br>
+				<a href="./downloads/notices/End sem exam form (jul-dec 2014).pdf" target="blank"> <i class="icon-pushpin"></i>End semester examination details(mp online)</a><br>
+				<a href="https://docs.google.com/forms/d/1nJ93ElmnCmksbCpHRc2s77VKVwajsYMxJPwRIj8gbhQ/viewform?c=0&w=1" target="blank"><i class="icon-pushpin"></i> National Service Scheme (NSS) Registration Form (Year 2014-15)</a><br>
+				 <!-- <a href="https://docs.google.com/forms/d/1N5kgaALukvJV-MtioL6snflhB0AUw3CpDPGvnv-KXsg/viewform?c=0&w=1&usp=mail_form_link" 	> <i class="icon-pushpin"></i> Information for the University Industry partnership Cell</a><br> 
+				  -->
 				  
 				</div>
 				<div class="panel-footer">
@@ -64,14 +59,6 @@ and testimonial section -->
 
 			  </div>
 			  <div class="panel-body">
-				 <ul class="nav nav-tabs" id="myTab">
-					<li class="active">
-					   <a href="#news">News</a>
-					</li>
-					<!-- <li class="disabled">
-						<a href="#">Events</a> insert '#events' in href to enable event tab
-					</li> -->
-				  </ul>
 				  <div class="tab-content">
 					 <div class="tab-pane active" id="news" >
 						<ul class="media-list">
@@ -83,13 +70,12 @@ and testimonial section -->
 										  <img class="featurette-image img-responsive" src="data:image/png;base64," data-src="holder.js/60x60/auto" alt="Generic placeholder image">
 										</div> -->
 										<div class="col-md-7">
-											<!-- <h5><a href="news#">IIPS Naac Visit complete on 15-Jan-2014  </a>  <span class="pull-right">Posted - 31st Dec 2013 </span></h5>-->
-											
-											<h5><a href="http://www.dauniv.ac.in/notices/OnlineMPUGPGAdmissionProcess2014.pdf"><i class="icon-info-sign"></i> Online MP UG and PG Admission process</a><img src="images/new.gif" ></h5>
-											<h5><a href="http://www.dauniv.ac.in/notices/updated_counseling%20_schedule_2014.pdf"><i class="icon-info-sign"></i>Counselling shedule for CET 2014</a><img src="images/new.gif" ></h5>
-											<h5><a href="http://www.dauniv.ac.in/admissions.php"><i class="icon-info-sign"></i>General Rules for Admission CET-2014</a><img src="images/new.gif" ></h5>
-											<h5><a href="http://www.dauniv.ac.in/notices/ADMISSION_2014-15.pdf"><i class="icon-info-sign"></i>General Rules for Admission for NON-CET</a><img src="images/new.gif" ></h5>
-											<h5><a href="http://www.dauniv.ac.in/notices/NRI%20Counselling.pdf"><i class="icon-info-sign"></i>Admissions to NRI seats in courses under cet 2014 </a><img src="images/new.gif" ></h5>
+											<h5>News</h5>
+											<h5><a href="http://www.dauniv.ac.in/notices/OnlineMPUGPGAdmissionProcess2014.pdf"><i class="icon-info-sign"></i> Online MP UG and PG Admission process</a></h5>
+											<h5><a href="http://www.dauniv.ac.in/notices/updated_counseling%20_schedule_2014.pdf"><i class="icon-info-sign"></i>Counselling shedule for CET 2014</a></h5>
+											<h5><a href="http://www.dauniv.ac.in/admissions.php"><i class="icon-info-sign"></i>General Rules for Admission CET-2014</a></h5>
+											<h5><a href="http://www.dauniv.ac.in/notices/ADMISSION_2014-15.pdf"><i class="icon-info-sign"></i>General Rules for Admission for NON-CET</a></h5>
+											<h5><a href="http://www.dauniv.ac.in/notices/NRI%20Counselling.pdf"><i class="icon-info-sign"></i>Admissions to NRI seats in courses under cet 2014 </a></h5>
 											
 											
 										</div>

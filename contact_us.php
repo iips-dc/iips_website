@@ -20,7 +20,7 @@
 		  
 		  <b>Virtual Tour</b><br><br>
 					<!-- Google Maps iframe link -->
-					<div id="googleMap" style="width:960px;height:380px;"></div>
+					<div id="googleMap" style="height:380px;"></div>
 
 					<!--<button class="btn btn-lg btn-primary" onClick="">Guide Me</button>
 					<button class="btn btn-lg btn-primary" onClick="">Pause</button>
