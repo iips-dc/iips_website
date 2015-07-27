@@ -18,6 +18,8 @@ and testimonial section -->
 					<img src="images/slider/4.jpg" title="Winning is habit" />
 					<img src="images/slider/5.jpg" title="Quiz @IIPS"/>
 					<img src="images/slider/6.jpg" title="Dedication is the key to success" />
+					<img src="images/slider/8.JPG" title="Journey that ends to start a new adventure" />
+                                        <img src="images/slider/9.JPG" title="Teachers who inspire hope" />
 				</div>
 				<div id="htmlcaption" class="nivo-html-caption">
 					<!-- <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>.  -->
@@ -33,12 +35,10 @@ and testimonial section -->
 				</div>
 				<div class="panel-body " align="left">
 				<a href="http://goo.gl/forms/JldOAgmT6Q" target="blank"> <i class="icon-pushpin"></i> IIPS Alumni form</a><br>
-				<a href="./downloads/notices/Final Time-Table Dec 2014.pdf" target="blank"> <i class="icon-pushpin"></i>End semester examination Time table</a><br>
-				<a href="./downloads/notices/End sem exam form (jul-dec 2014).pdf" target="blank"> <i class="icon-pushpin"></i>End semester examination details(mp online)</a><br>
+				<a href="./downloads/notices/ExamNotice.pdf" target="blank"> <i class="icon-pushpin"></i>Exam Form Submission Jan-May2015 </a><br>
 				<a href="https://docs.google.com/forms/d/1nJ93ElmnCmksbCpHRc2s77VKVwajsYMxJPwRIj8gbhQ/viewform?c=0&w=1" target="blank"><i class="icon-pushpin"></i> National Service Scheme (NSS) Registration Form (Year 2014-15)</a><br>
-				 <!-- <a href="https://docs.google.com/forms/d/1N5kgaALukvJV-MtioL6snflhB0AUw3CpDPGvnv-KXsg/viewform?c=0&w=1&usp=mail_form_link" 	> <i class="icon-pushpin"></i> Information for the University Industry partnership Cell</a><br> 
-				  -->
-				  
+				 <a href="downloads/notices/TimeTable.pdf">	 <i class="icon-pushpin"></i>Exam Time Table Jan-April 2015</a><br> 
+				  				  
 				</div>
 				<div class="panel-footer">
 					<a href="notice_announcement"><b>View All &raquo;</b></a>
@@ -164,3 +164,4 @@ and testimonial section -->
   </div><!--row Class ended -->
 </div>
 <!-- container class ended -->
+
